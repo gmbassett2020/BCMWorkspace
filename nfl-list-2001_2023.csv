@@ -1,0 +1,736 @@
+Team,Year,Division,Conference
+Arizona,2001,NFC,East
+Atlanta,2001,NFC,West
+Baltimore,2001,AFC,Central
+Buffalo,2001,AFC,East
+Carolina,2001,NFC,West
+Chicago,2001,NFC,Central
+Cleveland,2001,AFC,Central
+Cincinnati,2001,AFC,Central
+Dallas,2001,NFC,East
+Denver,2001,AFC,West
+Detroit,2001,NFC,Central
+Green Bay,2001,NFC,Central
+Indianapolis,2001,AFC,East
+Jacksonville,2001,AFC,Central
+Kansas City,2001,AFC,West
+Miami,2001,AFC,East
+Minnesota,2001,NFC,Central
+New England,2001,AFC,East
+New Orleans,2001,NFC,West
+New York Giants,2001,NFC,East
+New York Jets,2001,AFC,East
+Oakland,2001,AFC,West
+Philadelphia,2001,NFC,East
+Pittsburgh,2001,AFC,Central
+Los Angeles Chargers,2001,AFC,West
+San Francisco,2001,NFC,West
+Seattle,2001,AFC,West
+Los Angeles Rams,2001,NFC,West
+Tampa Bay,2001,NFC,Central
+Tennessee,2001,AFC,Central
+Washington,2001,NFC,East
+Arizona,2002,NFC,West
+Atlanta,2002,NFC,South
+Baltimore,2002,AFC,North
+Buffalo,2002,AFC,East
+Carolina,2002,NFC,South
+Chicago,2002,NFC,North
+Cleveland,2002,AFC,North
+Cincinnati,2002,AFC,North
+Dallas,2002,NFC,East
+Denver,2002,AFC,West
+Detroit,2002,NFC,North
+Green Bay,2002,NFC,North
+Houston,2002,AFC,South
+Indianapolis,2002,AFC,South
+Jacksonville,2002,AFC,South
+Kansas City,2002,AFC,West
+Miami,2002,AFC,East
+Minnesota,2002,NFC,North
+New England,2002,AFC,East
+New Orleans,2002,NFC,South
+New York Giants,2002,NFC,East
+New York Jets,2002,AFC,East
+Oakland,2002,AFC,West
+Philadelphia,2002,NFC,East
+Pittsburgh,2002,AFC,North
+Los Angeles Chargers,2002,AFC,West
+San Francisco,2002,NFC,West
+Seattle,2002,NFC,West
+Los Angeles Rams,2002,NFC,West
+Tampa Bay,2002,NFC,South
+Tennessee,2002,AFC,South
+Washington,2002,NFC,East
+Arizona,2003,NFC,West
+Atlanta,2003,NFC,South
+Baltimore,2003,AFC,North
+Buffalo,2003,AFC,East
+Carolina,2003,NFC,South
+Chicago,2003,NFC,North
+Cleveland,2003,AFC,North
+Cincinnati,2003,AFC,North
+Dallas,2003,NFC,East
+Denver,2003,AFC,West
+Detroit,2003,NFC,North
+Green Bay,2003,NFC,North
+Houston,2003,AFC,South
+Indianapolis,2003,AFC,South
+Jacksonville,2003,AFC,South
+Kansas City,2003,AFC,West
+Miami,2003,AFC,East
+Minnesota,2003,NFC,North
+New England,2003,AFC,East
+New Orleans,2003,NFC,South
+New York Giants,2003,NFC,East
+New York Jets,2003,AFC,East
+Oakland,2003,AFC,West
+Philadelphia,2003,NFC,East
+Pittsburgh,2003,AFC,North
+Los Angeles Chargers,2003,AFC,West
+San Francisco,2003,NFC,West
+Seattle,2003,NFC,West
+Los Angeles Rams,2003,NFC,West
+Tampa Bay,2003,NFC,South
+Tennessee,2003,AFC,South
+Washington,2003,NFC,East
+Arizona,2004,NFC,West
+Atlanta,2004,NFC,South
+Baltimore,2004,AFC,North
+Buffalo,2004,AFC,East
+Carolina,2004,NFC,South
+Chicago,2004,NFC,North
+Cleveland,2004,AFC,North
+Cincinnati,2004,AFC,North
+Dallas,2004,NFC,East
+Denver,2004,AFC,West
+Detroit,2004,NFC,North
+Green Bay,2004,NFC,North
+Houston,2004,AFC,South
+Indianapolis,2004,AFC,South
+Jacksonville,2004,AFC,South
+Kansas City,2004,AFC,West
+Miami,2004,AFC,East
+Minnesota,2004,NFC,North
+New England,2004,AFC,East
+New Orleans,2004,NFC,South
+New York Giants,2004,NFC,East
+New York Jets,2004,AFC,East
+Oakland,2004,AFC,West
+Philadelphia,2004,NFC,East
+Pittsburgh,2004,AFC,North
+Los Angeles Chargers,2004,AFC,West
+San Francisco,2004,NFC,West
+Seattle,2004,NFC,West
+Los Angeles Rams,2004,NFC,West
+Tampa Bay,2004,NFC,South
+Tennessee,2004,AFC,South
+Washington,2004,NFC,East
+Arizona,2005,NFC,West
+Atlanta,2005,NFC,South
+Baltimore,2005,AFC,North
+Buffalo,2005,AFC,East
+Carolina,2005,NFC,South
+Chicago,2005,NFC,North
+Cleveland,2005,AFC,North
+Cincinnati,2005,AFC,North
+Dallas,2005,NFC,East
+Denver,2005,AFC,West
+Detroit,2005,NFC,North
+Green Bay,2005,NFC,North
+Houston,2005,AFC,South
+Indianapolis,2005,AFC,South
+Jacksonville,2005,AFC,South
+Kansas City,2005,AFC,West
+Miami,2005,AFC,East
+Minnesota,2005,NFC,North
+New England,2005,AFC,East
+New Orleans,2005,NFC,South
+New York Giants,2005,NFC,East
+New York Jets,2005,AFC,East
+Oakland,2005,AFC,West
+Philadelphia,2005,NFC,East
+Pittsburgh,2005,AFC,North
+Los Angeles Chargers,2005,AFC,West
+San Francisco,2005,NFC,West
+Seattle,2005,NFC,West
+Los Angeles Rams,2005,NFC,West
+Tampa Bay,2005,NFC,South
+Tennessee,2005,AFC,South
+Washington,2005,NFC,East
+Arizona,2006,NFC,West
+Atlanta,2006,NFC,South
+Baltimore,2006,AFC,North
+Buffalo,2006,AFC,East
+Carolina,2006,NFC,South
+Chicago,2006,NFC,North
+Cleveland,2006,AFC,North
+Cincinnati,2006,AFC,North
+Dallas,2006,NFC,East
+Denver,2006,AFC,West
+Detroit,2006,NFC,North
+Green Bay,2006,NFC,North
+Houston,2006,AFC,South
+Indianapolis,2006,AFC,South
+Jacksonville,2006,AFC,South
+Kansas City,2006,AFC,West
+Miami,2006,AFC,East
+Minnesota,2006,NFC,North
+New England,2006,AFC,East
+New Orleans,2006,NFC,South
+New York Giants,2006,NFC,East
+New York Jets,2006,AFC,East
+Oakland,2006,AFC,West
+Philadelphia,2006,NFC,East
+Pittsburgh,2006,AFC,North
+Los Angeles Chargers,2006,AFC,West
+San Francisco,2006,NFC,West
+Seattle,2006,NFC,West
+Los Angeles Rams,2006,NFC,West
+Tampa Bay,2006,NFC,South
+Tennessee,2006,AFC,South
+Washington,2006,NFC,East
+Arizona,2007,NFC,West
+Atlanta,2007,NFC,South
+Baltimore,2007,AFC,North
+Buffalo,2007,AFC,East
+Carolina,2007,NFC,South
+Chicago,2007,NFC,North
+Cleveland,2007,AFC,North
+Cincinnati,2007,AFC,North
+Dallas,2007,NFC,East
+Denver,2007,AFC,West
+Detroit,2007,NFC,North
+Green Bay,2007,NFC,North
+Houston,2007,AFC,South
+Indianapolis,2007,AFC,South
+Jacksonville,2007,AFC,South
+Kansas City,2007,AFC,West
+Miami,2007,AFC,East
+Minnesota,2007,NFC,North
+New England,2007,AFC,East
+New Orleans,2007,NFC,South
+New York Giants,2007,NFC,East
+New York Jets,2007,AFC,East
+Oakland,2007,AFC,West
+Philadelphia,2007,NFC,East
+Pittsburgh,2007,AFC,North
+Los Angeles Chargers,2007,AFC,West
+San Francisco,2007,NFC,West
+Seattle,2007,NFC,West
+Los Angeles Rams,2007,NFC,West
+Tampa Bay,2007,NFC,South
+Tennessee,2007,AFC,South
+Washington,2007,NFC,East
+Arizona,2008,NFC,West
+Atlanta,2008,NFC,South
+Baltimore,2008,AFC,North
+Buffalo,2008,AFC,East
+Carolina,2008,NFC,South
+Chicago,2008,NFC,North
+Cleveland,2008,AFC,North
+Cincinnati,2008,AFC,North
+Dallas,2008,NFC,East
+Denver,2008,AFC,West
+Detroit,2008,NFC,North
+Green Bay,2008,NFC,North
+Houston,2008,AFC,South
+Indianapolis,2008,AFC,South
+Jacksonville,2008,AFC,South
+Kansas City,2008,AFC,West
+Miami,2008,AFC,East
+Minnesota,2008,NFC,North
+New England,2008,AFC,East
+New Orleans,2008,NFC,South
+New York Giants,2008,NFC,East
+New York Jets,2008,AFC,East
+Oakland,2008,AFC,West
+Philadelphia,2008,NFC,East
+Pittsburgh,2008,AFC,North
+Los Angeles Chargers,2008,AFC,West
+San Francisco,2008,NFC,West
+Seattle,2008,NFC,West
+Los Angeles Rams,2008,NFC,West
+Tampa Bay,2008,NFC,South
+Tennessee,2008,AFC,South
+Washington,2008,NFC,East
+Arizona,2009,NFC,West
+Atlanta,2009,NFC,South
+Baltimore,2009,AFC,North
+Buffalo,2009,AFC,East
+Carolina,2009,NFC,South
+Chicago,2009,NFC,North
+Cleveland,2009,AFC,North
+Cincinnati,2009,AFC,North
+Dallas,2009,NFC,East
+Denver,2009,AFC,West
+Detroit,2009,NFC,North
+Green Bay,2009,NFC,North
+Houston,2009,AFC,South
+Indianapolis,2009,AFC,South
+Jacksonville,2009,AFC,South
+Kansas City,2009,AFC,West
+Miami,2009,AFC,East
+Minnesota,2009,NFC,North
+New England,2009,AFC,East
+New Orleans,2009,NFC,South
+New York Giants,2009,NFC,East
+New York Jets,2009,AFC,East
+Oakland,2009,AFC,West
+Philadelphia,2009,NFC,East
+Pittsburgh,2009,AFC,North
+Los Angeles Chargers,2009,AFC,West
+San Francisco,2009,NFC,West
+Seattle,2009,NFC,West
+Los Angeles Rams,2009,NFC,West
+Tampa Bay,2009,NFC,South
+Tennessee,2009,AFC,South
+Washington,2009,NFC,East
+Arizona,2010,NFC,West
+Atlanta,2010,NFC,South
+Baltimore,2010,AFC,North
+Buffalo,2010,AFC,East
+Carolina,2010,NFC,South
+Chicago,2010,NFC,North
+Cleveland,2010,AFC,North
+Cincinnati,2010,AFC,North
+Dallas,2010,NFC,East
+Denver,2010,AFC,West
+Detroit,2010,NFC,North
+Green Bay,2010,NFC,North
+Houston,2010,AFC,South
+Indianapolis,2010,AFC,South
+Jacksonville,2010,AFC,South
+Kansas City,2010,AFC,West
+Miami,2010,AFC,East
+Minnesota,2010,NFC,North
+New England,2010,AFC,East
+New Orleans,2010,NFC,South
+New York Giants,2010,NFC,East
+New York Jets,2010,AFC,East
+Oakland,2010,AFC,West
+Philadelphia,2010,NFC,East
+Pittsburgh,2010,AFC,North
+Los Angeles Chargers,2010,AFC,West
+San Francisco,2010,NFC,West
+Seattle,2010,NFC,West
+Los Angeles Rams,2010,NFC,West
+Tampa Bay,2010,NFC,South
+Tennessee,2010,AFC,South
+Washington,2010,NFC,East
+Arizona,2011,NFC,West
+Atlanta,2011,NFC,South
+Baltimore,2011,AFC,North
+Buffalo,2011,AFC,East
+Carolina,2011,NFC,South
+Chicago,2011,NFC,North
+Cleveland,2011,AFC,North
+Cincinnati,2011,AFC,North
+Dallas,2011,NFC,East
+Denver,2011,AFC,West
+Detroit,2011,NFC,North
+Green Bay,2011,NFC,North
+Houston,2011,AFC,South
+Indianapolis,2011,AFC,South
+Jacksonville,2011,AFC,South
+Kansas City,2011,AFC,West
+Miami,2011,AFC,East
+Minnesota,2011,NFC,North
+New England,2011,AFC,East
+New Orleans,2011,NFC,South
+New York Giants,2011,NFC,East
+New York Jets,2011,AFC,East
+Oakland,2011,AFC,West
+Philadelphia,2011,NFC,East
+Pittsburgh,2011,AFC,North
+Los Angeles Chargers,2011,AFC,West
+San Francisco,2011,NFC,West
+Seattle,2011,NFC,West
+Los Angeles Rams,2011,NFC,West
+Tampa Bay,2011,NFC,South
+Tennessee,2011,AFC,South
+Washington,2011,NFC,East
+Arizona,2012,NFC,West
+Atlanta,2012,NFC,South
+Baltimore,2012,AFC,North
+Buffalo,2012,AFC,East
+Carolina,2012,NFC,South
+Chicago,2012,NFC,North
+Cincinnati,2012,AFC,North
+Cleveland,2012,AFC,North
+Dallas,2012,NFC,East
+Denver,2012,AFC,West
+Detroit,2012,NFC,North
+Green Bay,2012,NFC,North
+Houston,2012,AFC,South
+Indianapolis,2012,AFC,South
+Jacksonville,2012,AFC,South
+Kansas City,2012,AFC,West
+Miami,2012,AFC,East
+Minnesota,2012,NFC,North
+New England,2012,AFC,East
+New Orleans,2012,NFC,South
+New York Giants,2012,NFC,East
+New York Jets,2012,AFC,East
+Oakland,2012,AFC,West
+Philadelphia,2012,NFC,East
+Pittsburgh,2012,AFC,North
+Los Angeles Chargers,2012,AFC,West
+San Francisco,2012,NFC,West
+Seattle,2012,NFC,West
+Los Angeles Rams,2012,NFC,West
+Tampa Bay,2012,NFC,South
+Tennessee,2012,AFC,South
+Washington,2012,NFC,East
+Arizona,2013,NFC,West
+Atlanta,2013,NFC,South
+Baltimore,2013,AFC,North
+Buffalo,2013,AFC,East
+Carolina,2013,NFC,South
+Chicago,2013,NFC,North
+Cincinnati,2013,AFC,North
+Cleveland,2013,AFC,North
+Dallas,2013,NFC,East
+Denver,2013,AFC,West
+Detroit,2013,NFC,North
+Green Bay,2013,NFC,North
+Houston,2013,AFC,South
+Indianapolis,2013,AFC,South
+Jacksonville,2013,AFC,South
+Kansas City,2013,AFC,West
+Miami,2013,AFC,East
+Minnesota,2013,NFC,North
+New England,2013,AFC,East
+New Orleans,2013,NFC,South
+New York Giants,2013,NFC,East
+New York Jets,2013,AFC,East
+Oakland,2013,AFC,West
+Philadelphia,2013,NFC,East
+Pittsburgh,2013,AFC,North
+Los Angeles Chargers,2013,AFC,West
+San Francisco,2013,NFC,West
+Seattle,2013,NFC,West
+Los Angeles Rams,2013,NFC,West
+Tampa Bay,2013,NFC,South
+Tennessee,2013,AFC,South
+Washington,2013,NFC,East
+Arizona,2014,NFC,West
+Atlanta,2014,NFC,South
+Baltimore,2014,AFC,North
+Buffalo,2014,AFC,East
+Carolina,2014,NFC,South
+Chicago,2014,NFC,North
+Cincinnati,2014,AFC,North
+Cleveland,2014,AFC,North
+Dallas,2014,NFC,East
+Denver,2014,AFC,West
+Detroit,2014,NFC,North
+Green Bay,2014,NFC,North
+Houston,2014,AFC,South
+Indianapolis,2014,AFC,South
+Jacksonville,2014,AFC,South
+Kansas City,2014,AFC,West
+Miami,2014,AFC,East
+Minnesota,2014,NFC,North
+New England,2014,AFC,East
+New Orleans,2014,NFC,South
+New York Giants,2014,NFC,East
+New York Jets,2014,AFC,East
+Oakland,2014,AFC,West
+Philadelphia,2014,NFC,East
+Pittsburgh,2014,AFC,North
+Los Angeles Chargers,2014,AFC,West
+San Francisco,2014,NFC,West
+Seattle,2014,NFC,West
+Los Angeles Rams,2014,NFC,West
+Tampa Bay,2014,NFC,South
+Tennessee,2014,AFC,South
+Washington,2014,NFC,East
+Arizona,2015,NFC,West
+Atlanta,2015,NFC,South
+Baltimore,2015,AFC,North
+Buffalo,2015,AFC,East
+Carolina,2015,NFC,South
+Chicago,2015,NFC,North
+Cincinnati,2015,AFC,North
+Cleveland,2015,AFC,North
+Dallas,2015,NFC,East
+Denver,2015,AFC,West
+Detroit,2015,NFC,North
+Green Bay,2015,NFC,North
+Houston,2015,AFC,South
+Indianapolis,2015,AFC,South
+Jacksonville,2015,AFC,South
+Kansas City,2015,AFC,West
+Miami,2015,AFC,East
+Minnesota,2015,NFC,North
+New England,2015,AFC,East
+New Orleans,2015,NFC,South
+New York Giants,2015,NFC,East
+New York Jets,2015,AFC,East
+Oakland,2015,AFC,West
+Philadelphia,2015,NFC,East
+Pittsburgh,2015,AFC,North
+Los Angeles Chargers,2015,AFC,West
+San Francisco,2015,NFC,West
+Seattle,2015,NFC,West
+Los Angeles Rams,2015,NFC,West
+Tampa Bay,2015,NFC,South
+Tennessee,2015,AFC,South
+Washington,2015,NFC,East
+Arizona,2016,NFC,West
+Atlanta,2016,NFC,South
+Baltimore,2016,AFC,North
+Buffalo,2016,AFC,East
+Carolina,2016,NFC,South
+Chicago,2016,NFC,North
+Cincinnati,2016,AFC,North
+Cleveland,2016,AFC,North
+Dallas,2016,NFC,East
+Denver,2016,AFC,West
+Detroit,2016,NFC,North
+Green Bay,2016,NFC,North
+Houston,2016,AFC,South
+Indianapolis,2016,AFC,South
+Jacksonville,2016,AFC,South
+Kansas City,2016,AFC,West
+Los Angeles Rams,2016,NFC,West
+Miami,2016,AFC,East
+Minnesota,2016,NFC,North
+New England,2016,AFC,East
+New Orleans,2016,NFC,South
+New York Giants,2016,NFC,East
+New York Jets,2016,AFC,East
+Oakland,2016,AFC,West
+Philadelphia,2016,NFC,East
+Pittsburgh,2016,AFC,North
+Los Angeles Chargers,2016,AFC,West
+San Francisco,2016,NFC,West
+Seattle,2016,NFC,West
+Tampa Bay,2016,NFC,South
+Tennessee,2016,AFC,South
+Washington,2016,NFC,East
+Arizona,2017,NFC,West
+Atlanta,2017,NFC,South
+Baltimore,2017,AFC,North
+Buffalo,2017,AFC,East
+Carolina,2017,NFC,South
+Chicago,2017,NFC,North
+Cincinnati,2017,AFC,North
+Cleveland,2017,AFC,North
+Dallas,2017,NFC,East
+Denver,2017,AFC,West
+Detroit,2017,NFC,North
+Green Bay,2017,NFC,North
+Houston,2017,AFC,South
+Indianapolis,2017,AFC,South
+Jacksonville,2017,AFC,South
+Kansas City,2017,AFC,West
+Los Angeles,2017,NFC,West
+Miami,2017,AFC,East
+Minnesota,2017,NFC,North
+New England,2017,AFC,East
+New Orleans,2017,NFC,South
+New York Giants,2017,NFC,East
+New York Jets,2017,AFC,East
+Oakland,2017,AFC,West
+Philadelphia,2017,NFC,East
+Pittsburgh,2017,AFC,North
+Los Angeles Chargers,2017,AFC,West
+San Francisco,2017,NFC,West
+Seattle,2017,NFC,West
+Tampa Bay,2017,NFC,South
+Tennessee,2017,AFC,South
+Washington,2017,NFC,East
+Arizona,2018,NFC,West
+Atlanta,2018,NFC,South
+Baltimore,2018,AFC,North
+Buffalo,2018,AFC,East
+Carolina,2018,NFC,South
+Chicago,2018,NFC,North
+Cincinnati,2018,AFC,North
+Cleveland,2018,AFC,North
+Dallas,2018,NFC,East
+Denver,2018,AFC,West
+Detroit,2018,NFC,North
+Green Bay,2018,NFC,North
+Houston,2018,AFC,South
+Indianapolis,2018,AFC,South
+Jacksonville,2018,AFC,South
+Kansas City,2018,AFC,West
+Los Angeles Rams,2018,NFC,West
+Miami,2018,AFC,East
+Minnesota,2018,NFC,North
+New England,2018,AFC,East
+New Orleans,2018,NFC,South
+New York Giants,2018,NFC,East
+New York Jets,2018,AFC,East
+Oakland,2018,AFC,West
+Philadelphia,2018,NFC,East
+Pittsburgh,2018,AFC,North
+Los Angeles Chargers,2018,AFC,West
+San Francisco,2018,NFC,West
+Seattle,2018,NFC,West
+Tampa Bay,2018,NFC,South
+Tennessee,2018,AFC,South
+Washington,2018,NFC,East
+Arizona,2019,NFC,West
+Atlanta,2019,NFC,South
+Baltimore,2019,AFC,North
+Buffalo,2019,AFC,East
+Carolina,2019,NFC,South
+Chicago,2019,NFC,North
+Cincinnati,2019,AFC,North
+Cleveland,2019,AFC,North
+Dallas,2019,NFC,East
+Denver,2019,AFC,West
+Detroit,2019,NFC,North
+Green Bay,2019,NFC,North
+Houston,2019,AFC,South
+Indianapolis,2019,AFC,South
+Jacksonville,2019,AFC,South
+Kansas City,2019,AFC,West
+Los Angeles Rams,2019,NFC,West
+Miami,2019,AFC,East
+Minnesota,2019,NFC,North
+New England,2019,AFC,East
+New Orleans,2019,NFC,South
+New York Giants,2019,NFC,East
+New York Jets,2019,AFC,East
+Oakland,2019,AFC,West
+Philadelphia,2019,NFC,East
+Pittsburgh,2019,AFC,North
+Los Angeles Chargers,2019,AFC,West
+San Francisco,2019,NFC,West
+Seattle,2019,NFC,West
+Tampa Bay,2019,NFC,South
+Tennessee,2019,AFC,South
+Washington,2019,NFC,East
+Arizona,2020,NFC,West
+Atlanta,2020,NFC,South
+Baltimore,2020,AFC,North
+Buffalo,2020,AFC,East
+Carolina,2020,NFC,South
+Chicago,2020,NFC,North
+Cincinnati,2020,AFC,North
+Cleveland,2020,AFC,North
+Dallas,2020,NFC,East
+Denver,2020,AFC,West
+Detroit,2020,NFC,North
+Green Bay,2020,NFC,North
+Houston,2020,AFC,South
+Indianapolis,2020,AFC,South
+Jacksonville,2020,AFC,South
+Kansas City,2020,AFC,West
+Los Angeles Rams,2020,NFC,West
+Miami,2020,AFC,East
+Minnesota,2020,NFC,North
+New England,2020,AFC,East
+New Orleans,2020,NFC,South
+New York Giants,2020,NFC,East
+New York Jets,2020,AFC,East
+Las Vegas,2020,AFC,West
+Philadelphia,2020,NFC,East
+Pittsburgh,2020,AFC,North
+Los Angeles Chargers,2020,AFC,West
+San Francisco,2020,NFC,West
+Seattle,2020,NFC,West
+Tampa Bay,2020,NFC,South
+Tennessee,2020,AFC,South
+Washington,2020,NFC,East
+Arizona,2021,NFC,West
+Atlanta,2021,NFC,South
+Baltimore,2021,AFC,North
+Buffalo,2021,AFC,East
+Carolina,2021,NFC,South
+Chicago,2021,NFC,North
+Cincinnati,2021,AFC,North
+Cleveland,2021,AFC,North
+Dallas,2021,NFC,East
+Denver,2021,AFC,West
+Detroit,2021,NFC,North
+Green Bay,2021,NFC,North
+Houston,2021,AFC,South
+Indianapolis,2021,AFC,South
+Jacksonville,2021,AFC,South
+Kansas City,2021,AFC,West
+Los Angeles Rams,2021,NFC,West
+Miami,2021,AFC,East
+Minnesota,2021,NFC,North
+New England,2021,AFC,East
+New Orleans,2021,NFC,South
+New York Giants,2021,NFC,East
+New York Jets,2021,AFC,East
+Las Vegas,2021,AFC,West
+Philadelphia,2021,NFC,East
+Pittsburgh,2021,AFC,North
+Los Angeles Chargers,2021,AFC,West
+San Francisco,2021,NFC,West
+Seattle,2021,NFC,West
+Tampa Bay,2021,NFC,South
+Tennessee,2021,AFC,South
+Washington,2021,NFC,East
+Arizona,2022,NFC,West
+Atlanta,2022,NFC,South
+Baltimore,2022,AFC,North
+Buffalo,2022,AFC,East
+Carolina,2022,NFC,South
+Chicago,2022,NFC,North
+Cincinnati,2022,AFC,North
+Cleveland,2022,AFC,North
+Dallas,2022,NFC,East
+Denver,2022,AFC,West
+Detroit,2022,NFC,North
+Green Bay,2022,NFC,North
+Houston,2022,AFC,South
+Indianapolis,2022,AFC,South
+Jacksonville,2022,AFC,South
+Kansas City,2022,AFC,West
+Los Angeles Rams,2022,NFC,West
+Miami,2022,AFC,East
+Minnesota,2022,NFC,North
+New England,2022,AFC,East
+New Orleans,2022,NFC,South
+New York Giants,2022,NFC,East
+New York Jets,2022,AFC,East
+Las Vegas,2022,AFC,West
+Philadelphia,2022,NFC,East
+Pittsburgh,2022,AFC,North
+Los Angeles Chargers,2022,AFC,West
+San Francisco,2022,NFC,West
+Seattle,2022,NFC,West
+Tampa Bay,2022,NFC,South
+Tennessee,2022,AFC,South
+Washington,2022,NFC,East
+Arizona,2023,NFC,West
+Atlanta,2023,NFC,South
+Baltimore,2023,AFC,North
+Buffalo,2023,AFC,East
+Carolina,2023,NFC,South
+Chicago,2023,NFC,North
+Cincinnati,2023,AFC,North
+Cleveland,2023,AFC,North
+Dallas,2023,NFC,East
+Denver,2023,AFC,West
+Detroit,2023,NFC,North
+Green Bay,2023,NFC,North
+Houston,2023,AFC,South
+Indianapolis,2023,AFC,South
+Jacksonville,2023,AFC,South
+Kansas City,2023,AFC,West
+Los Angeles Rams,2023,NFC,West
+Miami,2023,AFC,East
+Minnesota,2023,NFC,North
+New England,2023,AFC,East
+New Orleans,2023,NFC,South
+New York Giants,2023,NFC,East
+New York Jets,2023,AFC,East
+Las Vegas,2023,AFC,West
+Philadelphia,2023,NFC,East
+Pittsburgh,2023,AFC,North
+Los Angeles Chargers,2023,AFC,West
+San Francisco,2023,NFC,West
+Seattle,2023,NFC,West
+Tampa Bay,2023,NFC,South
+Tennessee,2023,AFC,South
+Washington,2023,NFC,East
