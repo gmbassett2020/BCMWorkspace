@@ -1,0 +1,2 @@
+./convscores01.pl 2023 weekb1 ../colI-seasons-2020_2023.csv tmp-score-2023-in.txt | & tee tmp-score-2023-out.txt
+

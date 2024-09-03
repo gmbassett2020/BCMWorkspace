@@ -1,0 +1,154 @@
+Retire prediction and rankings:
+   scp index.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/index.html
+   scp football.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/football.html
+
+update scores
+in sched-col
+  doScores.csh
+
+update colI-seasons*.csv
+
+maxRound is the round (1 based) on which to do predictions.
+
+######
+# col
+######
+
+python forecastAndRank.py currentSeason=2023 maxRound=1 useTeamListFile=colI-list-2020_2023.csv useTeamSeasonsFile=colI-seasons-2020_2023.csv saveTeamPowersToFile=colI-curPower-2023.csv |& tee col-23wkb0.out
+python forecastAndRank.py currentSeason=2023 maxRound=2 useTeamListFile=colI-list-2020_2023.csv useTeamSeasonsFile=colI-seasons-2020_2023.csv saveTeamPowersToFile=colI-curPower-2023.csv |& tee col-23wkb1.out
+python forecastAndRank.py currentSeason=2023 maxRound=3 useTeamListFile=colI-list-2020_2023.csv useTeamSeasonsFile=colI-seasons-2020_2023.csv saveTeamPowersToFile=colI-curPower-2023.csv |& tee col-23wk02.out
+...
+python forecastAndRank.py currentSeason=2023 maxRound=16 useTeamListFile=colI-list-2020_2023.csv useTeamSeasonsFile=colI-seasons-2020_2023.csv saveTeamPowersToFile=colI-curPower-2023.csv |& tee col-23wk15.out
+python forecastAndRank.py currentSeason=2023 maxRound=17 useTeamListFile=colI-list-2020_2023.csv useTeamSeasonsFile=colI-seasons-2020_2023.csv saveTeamPowersToFile=colI-curPower-2023.csv |& tee col-23wke1.out
+python forecastAndRank.py currentSeason=2023 maxRound=18 useTeamListFile=colI-list-2020_2023.csv useTeamSeasonsFile=colI-seasons-2020_2023.csv saveTeamPowersToFile=colI-curPower-2023.csv |& tee col-23wke2.out
+python forecastAndRank.py currentSeason=2023 maxRound=19 useTeamListFile=colI-list-2020_2023.csv useTeamSeasonsFile=colI-seasons-2020_2023.csv saveTeamPowersToFile=colI-curPower-2023.csv |& tee col-23wkfnl.out
+
+makeweb.pl
+update spotlight.html
+
+scp football.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/index.html
+scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html col_23wke3pred.html  gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
+scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
+
+cfpool
+   update cfpool.txt & findpool.pl, findpool.pl->$pred_file
+
+
+
+
+######
+# nfl
+######
+
+...
+./convscores01.pl 2023 week16 ../nfl-seasons-2001_2023.csv scores-in.txt >  scores-out.txt
+./convscores01.pl 2023 week17 ../nfl-seasons-2001_2023.csv scores-in.txt >  scores-out.txt
+./convscores01.pl 2023 week18 ../nfl-seasons-2001_2023.csv scores-in.txt >  scores-out.txt
+
+update nfl-seasons*.csv with scores-out.txt content
+
+python forecastAndRank.py currentSeason=2023 maxRound=2 useTeamListFile=nfl-list-2001_2023.csv useTeamSeasonsFile=nfl-seasons-2001_2023.csv saveTeamPowersToFile=nfl-curPower-2023.csv |& tee nfl-23wk02.out
+...
+python forecastAndRank.py currentSeason=2023 maxRound=18 useTeamListFile=nfl-list-2001_2023.csv useTeamSeasonsFile=nfl-seasons-2001_2023.csv saveTeamPowersToFile=nfl-curPower-2023.csv |& tee nfl-23wk18.out
+python forecastAndRank.py currentSeason=2023 maxRound=19 useTeamListFile=nfl-list-2001_2023.csv useTeamSeasonsFile=nfl-seasons-2001_2023.csv saveTeamPowersToFile=nfl-curPower-2023.csv |& tee nfl-23wke1.out
+python forecastAndRank.py currentSeason=2023 maxRound=20 useTeamListFile=nfl-list-2001_2023.csv useTeamSeasonsFile=nfl-seasons-2001_2023.csv saveTeamPowersToFile=nfl-curPower-2023.csv |& tee nfl-23wke2.out
+python forecastAndRank.py currentSeason=2023 maxRound=21 useTeamListFile=nfl-list-2001_2023.csv useTeamSeasonsFile=nfl-seasons-2001_2023.csv saveTeamPowersToFile=nfl-curPower-2023.csv |& tee nfl-23wke3.out
+python forecastAndRank.py currentSeason=2023 maxRound=22 useTeamListFile=nfl-list-2001_2023.csv useTeamSeasonsFile=nfl-seasons-2001_2023.csv saveTeamPowersToFile=nfl-curPower-2023.csv |& tee nfl-23wke4.out
+
+makeweb.pl
+
+scp football.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/index.html
+scp football.html nfl_23averank.html nfl_23wke3result.html nfl_23wke4pred.html  gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
+
+
+What is the connection information to upload files to my web site?
+   The username for SFTP and ssh access is not the same as your member login; it is based on both your member login and the site name. The password, however, is the same as your member password. The specifics are listed in the "SSH/SFTP Information" box on each site's information panel in our member interface.
+
+   To find this information:
+
+   Visit the Sites panel to display your list of sites.
+   Select the site's "short name" in the "Sites" table to display the details about the site you want to access.
+   Find the box titled "SSH/SFTP Information."
+   Locate the username row and the appropriate hostname row for the protocol you wish to use.
+
+   ssh.nyc1.nearlyfreespeech.net
+
+
+bfm2001 < colIYYin | tee colI_YYYYwkXXrawout | grep NN > temresultinnn
+run NN on !$ > colI_YYYYwkXXout
+update colIYYin with udpate_in.pl
+../bin/bfm2003 < colI18in | tee temout | grep NN > teminnn
+run NN on !$ > temout_nn
+
+update web makeweb.pl
+
+findteams.pl > temteams  (follows makeweb.pl as rank files from makeweb.pl)
+	no more: fixpcfile.pl temteams
+
+        clean up pred & result files
+        cp football.html index.html (ln -s'ed)
+        col_rank.html (ln -s'ed)
+        	no more: ftp members.cox.net  user gbassett  dir football
+        	no more: ftp upload.comcast.net user genembassett p2lm3rzz
+current web site base:http://gmbassett.nfshost.com/
+        scp * gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+
+#scp football.html gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/index.html
+#scp football.html col_23averank.html col_23wkb1result.html col_23wk02pred.html  gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+#scp football.html col_22*rank.html col_earnedrank.html col_powerrank.html col_22wke2result.html col_22wke3pred.html  gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+#
+#scp football.html gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/index.html
+#scp football.html nfl_23*rank.html nfl_rank.html nfl_23wke3result.html nfl_23wke4pred.html  gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+
+cougarnet email
+   in col folder after findteams.pl:
+   egrep "(Brig|Wisc)" temaverank
+   egrep "(Brig|Wisc)" temearnedrank
+Alan's contest
+   allen@
+   BYU Prediction 
+   Gene Bassett
+   Gene@BassettFootball.net
+   BYU 33
+   Other 11
+Ralph Smith contest
+   Full results of this week’s contest may be found at <http://ralphsmith.org/byu/index.php/2019-results/2019-week-1-utah/>, and all aspects of the contest may be seen at <http://ralphsmith.org/byu/>.
+
+   It is never too early to submit predictions for next week’s contest against Tennessee, at <http://ralphsmith.org/byu/index.php/contest-rules/>. I will make my prediction public next week when I post an early-week contest reminder.
+
+   As always, Go Cougars!
+   Ralph Smith
+   Oak Hill, VA
+
+football email
+
+no more: update palm
+  bfm_colrnk.txt     bfm colrnk 02wk## (wk-1)
+  bfm_colpred.txt    bfm colpred 02wk## (wk)
+  bfm_colresult.txt  bfm colresult 02wk## (wk-1)
+
+massey rankings from web page (he loads them automatically)
+   email rankings to kemassey@vt.edu (cfrank)
+   subject:  25 Aug 97 - Bassett Football Model rankings
+
+no more: email performanZ contest (bfm_todd)
+
+---
+cougarfan 
+   gmbassett moldy1
+
+ESPN pickem/pigskin contests
+   bfm2001 moldy1
+
+fbpred
+   subject: BYU Prediction
+
+cfpool
+  save email to cfpool.txt
+  findpool.pl > tempool
+  web: "*Bassett Model*" Gene@BassettFootball.net moldy1
+  gmb gmb@bassettfootball.net moldy1
+
+ssh -l gmbassett_gmbassett ssh.phx.nearlyfreespeech.net
+scp *.html gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+

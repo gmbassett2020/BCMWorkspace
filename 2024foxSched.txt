@@ -1,0 +1,307 @@
+Note: only have one line before/after week label. More can lead to skipping the week tag.
+perl convschednfl.pl < 24foxSched.txt > 2024Sched.out
+
+Adding the following line to feed in the year:
+2024 nfl schedule
+
+week 1
+
+THU, SEP 5
+Ravens
+Ravens
+0-0
+Chiefs
+Chiefs
+0-0
+5:20PM
+NBC
+KC -3.0
+TOTAL 46.5
+FRI, SEP 6
+Packers
+Packers
+0-0
+Eagles
+Eagles
+0-0
+5:15PM
+PCOCK
+PHI -2.5
+TOTAL 48.5
+SUN, SEP 8
+Steelers
+Steelers
+0-0
+Falcons
+Falcons
+0-0
+10:00AM
+FOX
+ATL -3.0
+TOTAL 41.5
+Titans
+Titans
+0-0
+Bears
+Bears
+0-0
+10:00AM
+FOX
+CHI -4.5
+TOTAL 43.5
+Panthers
+Panthers
+0-0
+Saints
+Saints
+0-0
+10:00AM
+FOX
+NO -4.0
+TOTAL 40.5
+Vikings
+Vikings
+0-0
+Giants
+Giants
+0-0
+10:00AM
+FOX
+MIN -1.0
+TOTAL 41.5
+Cardinals
+Cardinals
+0-0
+Bills
+Bills
+0-0
+10:00AM
+CBS
+BUF -6.0
+TOTAL 48
+Patriots
+Patriots
+0-0
+Bengals
+Bengals
+0-0
+10:00AM
+CBS
+CIN -8.5
+TOTAL 42.5
+Texans
+Texans
+0-0
+Colts
+Colts
+0-0
+10:00AM
+CBS
+HOU -2.5
+TOTAL 47.5
+Jaguars
+Jaguars
+0-0
+Dolphins
+Dolphins
+0-0
+10:00AM
+CBS
+MIA -3.0
+TOTAL 49.5
+Broncos
+Broncos
+0-0
+Seahawks
+Seahawks
+0-0
+1:05PM
+CBS
+SEA -6.0
+TOTAL 42.5
+Raiders
+Raiders
+0-0
+Chargers
+Chargers
+0-0
+1:05PM
+CBS
+LAC -3.0
+TOTAL 43.5
+Cowboys
+Cowboys
+0-0
+Browns
+Browns
+0-0
+1:25PM
+FOX
+CLE -2.5
+TOTAL 45
+Commanders
+Commanders
+0-0
+Buccaneers
+Buccaneers
+0-0
+1:25PM
+FOX
+TB -3.5
+TOTAL 40.5
+Rams
+Rams
+0-0
+Lions
+Lions
+0-0
+5:20PM
+NBC
+DET -3.5
+TOTAL 51
+MON, SEP 9
+Jets
+Jets
+0-0
+49ers
+49ers
+0-0
+5:15PM
+ABC
+SF -3.5
+TOTAL 45.5
+
+week 2
+
+THU, SEP 12
+Bills
+Bills
+0-0
+Dolphins
+Dolphins
+0-0
+5:15PM
+AMZN
+SUN, SEP 15
+Buccaneers
+Buccaneers
+0-0
+Lions
+Lions
+0-0
+10:00AM
+FOX
+Saints
+Saints
+0-0
+Cowboys
+Cowboys
+0-0
+10:00AM
+FOX
+Colts
+Colts
+0-0
+Packers
+Packers
+0-0
+10:00AM
+FOX
+Giants
+Giants
+0-0
+Commanders
+Commanders
+0-0
+10:00AM
+FOX
+Seahawks
+Seahawks
+0-0
+Patriots
+Patriots
+0-0
+10:00AM
+FOX
+Raiders
+Raiders
+0-0
+Ravens
+Ravens
+0-0
+10:00AM
+CBS
+49ers
+49ers
+0-0
+Vikings
+Vikings
+0-0
+10:00AM
+CBS
+Browns
+Browns
+0-0
+Jaguars
+Jaguars
+0-0
+10:00AM
+CBS
+Jets
+Jets
+0-0
+Titans
+Titans
+0-0
+10:00AM
+CBS
+Chargers
+Chargers
+0-0
+Panthers
+Panthers
+0-0
+10:00AM
+CBS
+Rams
+Rams
+0-0
+Cardinals
+Cardinals
+0-0
+1:05PM
+FOX
+Bengals
+Bengals
+0-0
+Chiefs
+Chiefs
+0-0
+1:25PM
+CBS
+Steelers
+Steelers
+0-0
+Broncos
+Broncos
+0-0
+1:25PM
+CBS
+Bears
+Bears
+0-0
+Texans
+Texans
+0-0
+5:20PM
+NBC
+MON, SEP 16
+Falcons
+Falcons
+0-0
+Eagles
+Eagles
+0-0
+5:15PM
+ESPN
+
