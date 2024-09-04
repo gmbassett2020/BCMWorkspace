@@ -21,10 +21,10 @@ my $html_base = "./html";
 #my $html_base = "tmp-html";
 
 #FIXME
-my $year = "2023";
+my $year = "2024";
 my $league = "nfl";
-my $week = "weeke4"; # this is the current week, the result week is one less
-my $today = "30 Jan 2024";
+my $week = "weekb1"; # this is the current week, the result week is one less
+my $today = "3 Sep 2024";
 #my $year = "2023";
 #my $league = "col";
 #my $week = "wke3"; # this is the current week, the result week is one less, wkb#,wk##,wke#
@@ -43,7 +43,7 @@ if (($league =~ /col/ && ($week ne "wk00" && $week ne "wkb0")) || ($league =~ /n
 {
    $first_week = 0;
 }
-my $modelOutputFile = "$league-${yr}$week.out";
+my $modelOutputFile = "$league-${yr}$week.txt";
 
 #print "XXX last week $last_week\n";
 
@@ -749,6 +749,7 @@ $info{nfl}{league_str} = "the National Football League";
 $info{nfl}{league_str_sm} = "NFL";
 $info{nfl}{rank_str} = "NFL";
 $info{nfl}{league_id} = "nfl";
+
 # NFL dates
 
 # 2024 season:
@@ -1673,7 +1674,7 @@ print "::: post @post\n";
 #my @first_pass = sort, grep s/^\s*predictions: prob=0\.(\d)\d+\s(.*?)-(.*?)\s+predicted=(.*)-(.*)/$1:$2:$3:$4:$5/, @post;
 #my @first_pass = sort, grep s/^\s*predictions: prob=0\.(\d)\d+\s+(.*?)-(.*?)\s+predicted=(.*)-(.*)/$1:$2:$3:$4:$5/, @post;
 #my @first_pass = sort, grep s/^\s*predictions: prob=0\.(\d)\d+\s+(.*?)(.*?)\s+predicted(.*)-(.*)/$1:$2:$3:$4:$5/, @post;
-my @first_pass = grep /.*predictions/, @post;
+my @first_pass = grep /predictions/, @post;
 
 print "::: firstPass @first_pass\n";
 my @p;
@@ -1989,7 +1990,7 @@ KEY:
 
 sub makewebfootball {
 
-print "$cmd: reading football.html file $football_html\n";
+print "$cmd: reading football html file $football_html\n";
 open FB, "<$football_html" or 
    die "ERROR opening file $football_html ($?)";
 my @fbhtml = <FB>;
@@ -2012,6 +2013,8 @@ grep s/^(\s*)(.*?):(.*<!-- $league rank -->.*)$/${1}${today}:$3/, @fbhtml;
 # find location of tags
 
 my ($week_end,$hist_beg,$hist_end,$quick_beg,$quick_end);
+$quick_beg = 0;
+$quick_end = 0;
 
 for (my $i=0; $i<=$#fbhtml; $i++) {
    $week_end = $i  if ($fbhtml[$i] =~ /<!-- $league weeks -->/);
@@ -2027,6 +2030,7 @@ for (my $i=0; $i<=$#fbhtml; $i++) {
 die "ERRROR week $week for $league $year not defined"
    unless (exists $info{$league}{$year}{$week}{date_str});
 
+print "::: first_week $first_week week_end $week_end\n";
 unless ($fbhtml[$week_end-1] =~ /${week}pred.html/) {
    #if ($week ne "wk01")
    if (!$first_week)
@@ -2044,16 +2048,19 @@ unless ($fbhtml[$week_end-1] =~ /${week}pred.html/) {
 # update quick summary
 
 my @quick_lines;
-#if ($week ne "wk01")
-if (!$first_week)
+if ($quick_beg > 0)
 {
-   push @quick_lines, "<LI> ".$info{$league}{$year}{$last_week}{date_str}.
-                      " <A HREF=\"".$league."_".$yr.${last_week}.
-                      "result.html\"> Results </A>\n";
+   #if ($week ne "wk01")
+   if (!$first_week)
+   {
+      push @quick_lines, "<LI> ".$info{$league}{$year}{$last_week}{date_str}.
+                         " <A HREF=\"".$league."_".$yr.${last_week}.
+                         "result.html\"> Results </A>\n";
+   }
+      push @quick_lines, "<LI> ".$info{$league}{$year}{$week}{date_str}.
+                         " <A HREF=\"".$league."_".$yr.${week}.
+                         "pred.html\"> Forecast </A>\n";
 }
-   push @quick_lines, "<LI> ".$info{$league}{$year}{$week}{date_str}.
-                      " <A HREF=\"".$league."_".$yr.${week}.
-                      "pred.html\"> Forecast </A>\n";
 
 foreach my $line (@quick_lines)
 {
@@ -2089,7 +2096,7 @@ if ($make_result)
    }
 }
 
-print "$cmd: re-writing football.html file $football_html\n";
+print "$cmd: re-writing football html file $football_html\n";
 open FB, ">$football_html" or 
    die "ERROR opening file for writing $football_html ($?)";
 binmode (FB);
