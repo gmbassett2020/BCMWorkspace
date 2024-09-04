@@ -1,4 +1,10 @@
 
+Location of the model and scripts:
+
+   https://github.com/gmbassett2020/BassettCompetativeModel
+   https://github.com/gmbassett2020/BCMWorkspace
+
+
 maxRound is the round (1 based) on which to do predictions.
 
 ######
@@ -97,7 +103,7 @@ Run:
 C:\Strawberry\perl\bin\perl.exe makeweb.pl
 
 # Update the web site:
-scp *.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
+scp *.html <userAndSiteWithPath>/.
 
 
 ######
@@ -122,9 +128,9 @@ python forecastAndRank.py currentSeason=2023 maxRound=19 useTeamListFile=colI-li
 makeweb.pl
 update spotlight.html
 
-scp football.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/index.html
-scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html col_23wke3pred.html  gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
-scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
+scp football.html <userAndSiteWithPath>/index.html
+scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html col_23wke3pred.html  <userAndSiteWithPath>/.
+scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html <userAndSiteWithPath>/.
 
 cfpool
    update cfpool.txt & findpool.pl, findpool.pl->$pred_file

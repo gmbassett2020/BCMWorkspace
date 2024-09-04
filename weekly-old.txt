@@ -1,6 +1,6 @@
 Retire prediction and rankings:
-   scp index.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/index.html
-   scp football.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/football.html
+   scp index.html <userAndSiteWithPath>/index.html
+   scp football.html <userAndSiteWithPath>/football.html
 
 update scores
 in sched-col
@@ -26,9 +26,9 @@ python forecastAndRank.py currentSeason=2023 maxRound=19 useTeamListFile=colI-li
 makeweb.pl
 update spotlight.html
 
-scp football.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/index.html
-scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html col_23wke3pred.html  gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
-scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
+scp football.html <userAndSiteWithPath>/index.html
+scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html col_23wke3pred.html  <userAndSiteWithPath>/.
+scp football.html spotlight.html col_23earnedrank.html col_23averank.html col_23wke2result.html <userAndSiteWithPath>/.
 
 cfpool
    update cfpool.txt & findpool.pl, findpool.pl->$pred_file
@@ -57,8 +57,8 @@ python forecastAndRank.py currentSeason=2023 maxRound=22 useTeamListFile=nfl-lis
 
 makeweb.pl
 
-scp football.html gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/index.html
-scp football.html nfl_23averank.html nfl_23wke3result.html nfl_23wke4pred.html  gmbassett_gmbassett@ssh.nyc1.nearlyfreespeech.net:football/.
+scp football.html <userAndSiteWithPath>/index.html
+scp football.html nfl_23averank.html nfl_23wke3result.html nfl_23wke4pred.html  <userAndSiteWithPath>/.
 
 
 What is the connection information to upload files to my web site?
@@ -91,14 +91,14 @@ findteams.pl > temteams  (follows makeweb.pl as rank files from makeweb.pl)
         	no more: ftp members.cox.net  user gbassett  dir football
         	no more: ftp upload.comcast.net user genembassett p2lm3rzz
 current web site base:http://gmbassett.nfshost.com/
-        scp * gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+        scp * <userAndSiteWithPath>/.
 
-#scp football.html gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/index.html
-#scp football.html col_23averank.html col_23wkb1result.html col_23wk02pred.html  gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
-#scp football.html col_22*rank.html col_earnedrank.html col_powerrank.html col_22wke2result.html col_22wke3pred.html  gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+#scp football.html <userAndSiteWithPath>/index.html
+#scp football.html col_23averank.html col_23wkb1result.html col_23wk02pred.html  <userAndSiteWithPath>/.
+#scp football.html col_22*rank.html col_earnedrank.html col_powerrank.html col_22wke2result.html col_22wke3pred.html  <userAndSiteWithPath>/.
 #
-#scp football.html gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/index.html
-#scp football.html nfl_23*rank.html nfl_rank.html nfl_23wke3result.html nfl_23wke4pred.html  gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+#scp football.html <userAndSiteWithPath>/index.html
+#scp football.html nfl_23*rank.html nfl_rank.html nfl_23wke3result.html nfl_23wke4pred.html  <userAndSiteWithPath>/.
 
 cougarnet email
    in col folder after findteams.pl:
@@ -149,6 +149,6 @@ cfpool
   web: "*Bassett Model*" Gene@BassettFootball.net moldy1
   gmb gmb@bassettfootball.net moldy1
 
-ssh -l gmbassett_gmbassett ssh.phx.nearlyfreespeech.net
-scp *.html gmbassett_gmbassett@ssh.phx.nearlyfreespeech.net:football/.
+ssh -l <userAndSite>
+scp *.html <userAndSiteWithPath>/.
 
