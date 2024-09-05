@@ -1,6 +1,6 @@
 #! /usr/bin/perl -w
 
-use lib "/home/gbassett/bfm/perl";
+use lib "../";
 use fbDivI;
 
 # Create the games results from InfoBeat, Massey or Wolfe scores

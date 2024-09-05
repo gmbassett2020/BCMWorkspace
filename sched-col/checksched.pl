@@ -1,6 +1,6 @@
 #! /usr/bin/perl -w
 
-use lib "/home/gbassett/bfm/perl";
+use lib "../";
 use fbDivI;
 
 # count the number of games listed for each team in the season
