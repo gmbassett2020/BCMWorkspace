@@ -1,2 +1,6 @@
 ./convscores01.pl 2023 weekb1 ../colI-seasons-2020_2023.csv tmp-score-2023-in.txt | & tee tmp-score-2023-out.txt
 
+
+https://masseyratings.com/scores.php?s=cf2024&sub=ncaa-i&all=1&sch=on
+http://prwolfe.bol.ucla.edu/cfootball/home.htm
+
