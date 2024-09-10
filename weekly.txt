@@ -5,6 +5,12 @@ Location of the model and scripts:
    https://github.com/gmbassett2020/BCMWorkspace
 
 
+Tools needed:
+
+   AnacondaPython
+   Strawberry Perl
+   NotePad++ (or another text editor)
+
 maxRound is the round (1 based) on which to do predictions.
 
 ######
@@ -133,6 +139,8 @@ python forecastAndRank.py currentSeason=2024 maxRound=18 useTeamListFile=workspa
 # also needed to add a dummy game for the following week for the final results:
 python forecastAndRank.py currentSeason=2024 maxRound=19 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkfnl.txt |& tee tmp.txt
 
+python forecastAndRank.py currentSeason=2023 maxRound=18 useTeamListFile=workspace/colI-list-2020_2023.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2023.csv saveTeamPowersToFile=workspace/colI-curPower-2023.csv outputFile=workspace/col-23wke2.txt |& tee tmp.txt
+
 makeweb.pl
 update spotlight.html
 
@@ -144,4 +152,8 @@ cfpool
    update cfpool.txt & findpool.pl, findpool.pl->$pred_file
 
 
-python forecastAndRank.py currentSeason=2024 maxRound=1 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv saveTeamPowersToFile=workspace/nfl-curPower-2024.csv |& tee nfl-24wk01.txt
+tmp work:
+
+python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv saveTeamPowersToFile=workspace/nfl-curPower-2024.csv outputFile=workspace/nfl-24wk02-3.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkb1-uncert.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk02-uncert.txt usePowerUncertainty=True |& tee tmp.txt

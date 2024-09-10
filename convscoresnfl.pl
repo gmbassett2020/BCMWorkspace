@@ -17,9 +17,13 @@ my $thisRoundName = shift @ARGV;
 my $sched_file = shift @ARGV;
 my $score_file = shift @ARGV;
 
+my $score_out_file = shift @ARGV;
+
 open SCORE, "$score_file" or die "ERROR opening score file, $score_file ($!)";
 my @score = <SCORE>;
-close SCORE or die "ERROR reading schore file, $score_file ($!)";
+close SCORE or die "ERROR reading score file, $score_file ($!)";
+
+open OUT, ">$score_out_file" or die "ERROR opening score out file, $score_out_file ($!)";
 
 #my $foxSports = grep /FOX/, @score;
 #FIXME:
@@ -269,10 +273,12 @@ foreach my $game (@sched) {
      } else {
        print "ERROR: missing game $game\n";
      }
-     print "$season,$roundNumber,$roundName,$date_str,$homeFlag,$score1,$team1,$score2,$team2\n";
+     print OUT "$season,$roundNumber,$roundName,$date_str,$homeFlag,$score1,$team1,$score2,$team2\n";
   }
 }
 
 foreach my $unused (sort keys %scores) {
-  print "WARNING: unused $unused scores ".$scores{"$unused"}."\n";
+  print OUT "WARNING: unused $unused scores ".$scores{"$unused"}."\n";
 }
+
+close OUT;

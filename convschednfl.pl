@@ -10,7 +10,14 @@ $| = 1; #OUTPUT_AUTOFLUSH
 
 # try?: http://www.foxsports.com/nfl/schedule?season=2015
 
-my @sched = <>;
+my ($schedFileIn, $schedFileOut) = @ARGV;
+
+open IN, "<$schedFileIn" or die "ERROR opening input file $schedFileIn ($!)";
+my @sched = <IN>;
+close IN;
+
+open OUT, ">$schedFileOut" or die "ERROR opening output file $schedFileOut ($!)";
+
 my ($team1, $team2, $score1, $score2);
 my ($month, $day);
 my $neutral = "team1Home";
@@ -31,7 +38,7 @@ my $week_num = 0;
 
 my @week_names = ("weekb1", "week02", "week03", "week04", "week05", "week06", "week07", "week08", "week09", "week10", "week11", "week12", "week13", "week14", "week15", "week16", "week17", "week18");
 
-print "Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2\n";
+print OUT "Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2\n";
 
 #foreach my $game (@sched) {
 while (@sched) {
@@ -201,7 +208,7 @@ while (@sched) {
 
 #print "::: team1=$team1 team2=$team2\n";
     if ($team1 && $team2 ) {
-      printf "%d,%d,%s,%4s-%2.2s-%2.2d,%s,-1,%s,-1,%s\n",
+      printf OUT "%d,%d,%s,%4s-%2.2s-%2.2d,%s,-1,%s,-1,%s\n",
          $year,$week_num-1,$week_names[$week_num-1],$year,$month,$day,$neutral,$team2,$team1; # always reverse
     }
 
@@ -225,7 +232,7 @@ while (@sched) {
     ($team1, $team2) = std_name_nfl($team1,$team2);
 
     if ($team1 && $team2 ) {
-      printf "%d,%d,%s,%4s-%2.2s-%2.2d,%s,-1,%s,-1,%s\n",
+      printf OUT "%d,%d,%s,%4s-%2.2s-%2.2d,%s,-1,%s,-1,%s\n",
          $year,$week_num-1,$week_names[$week_num-1],$year,$month,$day,$neutral,$team2,$team1; # always reverse
     }
 
@@ -236,4 +243,6 @@ while (@sched) {
   }
 
 }
+
+close OUT;
 
