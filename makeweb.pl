@@ -23,8 +23,8 @@ my $html_base = "./html";
 #FIXME
 my $year = "2024";
 my $league = "nfl";
-my $week = "weekb1"; # this is the current week, the result week is one less
-my $today = "3 Sep 2024";
+my $week = "week02"; # this is the current week, the result week is one less
+my $today = "11 Sep 2024";
 #my $year = "2023";
 #my $league = "col";
 #my $week = "wke3"; # this is the current week, the result week is one less, wkb#,wk##,wke#
@@ -750,13 +750,21 @@ $info{nfl}{league_str_sm} = "NFL";
 $info{nfl}{rank_str} = "NFL";
 $info{nfl}{league_id} = "nfl";
 
+sub addWeek
+{
+   my ($league, $season, $weekName, $weekDescription, $weekCount) = @_;
+   $info{$league}{$season}{$weekName}{date_str} = $weekDescription;
+   $info{$league}{$season}{wkName}{$weekCount} = "$weekName";
+   $info{$league}{$season}{$weekName}{wk_num} = $weekCount;
+   print "::: added info for league=$league season=$season weekName=$weekName weekDescription=$info{$league}{$season}{$weekName}{date_str} weekNum=$info{$league}{$season}{$weekName}{wk_num}\n";
+}
+
 # NFL dates
 
 # 2024 season:
 $wk_count = 1;
-$info{nfl}{2024}{wkb1}{date_str} = "Week 1 (5-9 Sep)";
-$info{nfl}{2024}{wkName}{$wk_count} = "wkb1";
-$info{nfl}{2024}{wkb1}{wk_num} = $wk_count++;
+addWeek($league, $year, "wkb1", "Week 1 (5-9 Sep)", $wk_count++);
+addWeek($league, $year, "wk02", "Week 2 (12-16 Sep)", $wk_count++);
 
 # 2023 season:
 $wk_count = 1;

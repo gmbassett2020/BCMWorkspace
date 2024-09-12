@@ -1,0 +1,17 @@
+predictions: prob=0.5798297113045897 Baltimore--Kansas City  predicted=16.374323261540216--13.553913233431636 spread=2.8204100281085793
+predictions: prob=0.5510059057071336 Green Bay--Philadelphia  predicted=26.877826270348223--25.08298183920925 spread=1.7948444311389729
+predictions: prob=0.5707403399759726 Pittsburgh--Atlanta  predicted=17.449643575914653--14.954013007300833 spread=2.4956305686138194
+predictions: prob=0.6197299098802382 Chicago--Tennessee predicted=17.974626507835612--13.707825343256488 spread=4.266801164579125
+predictions: prob=0.8593942722519101 New Orleans--Carolina predicted=27.070475264251655--11.984048712797222 spread=15.086426551454434
+predictions: prob=0.6211256842313256 Minnesota--New York Giants  predicted=18.656744389482792--14.338604309536763 spread=4.31814007994603
+predictions: prob=0.8536790502059111 Buffalo--Arizona predicted=32.84179288969656--18.10898141394258 spread=14.732811475753984
+predictions: prob=0.8139554362288179 Cincinnati--New England predicted=24.111611450172198--11.61567422399553 spread=12.495937226176668
+predictions: prob=0.5057841358082102 Houston--Indianapolis  predicted=22.05085985024162--21.847871241148646 spread=0.2029886090929729
+predictions: prob=0.6435672903353478 Miami--Jacksonville predicted=21.17078531816186--16.018638588812767 spread=5.152146729349095
+predictions: prob=0.6632276385226685 Seattle--Denver predicted=23.39066526295755--17.492631943539234 spread=5.898033319418317
+predictions: prob=0.5473292652021833 Los Angeles Chargers--Las Vegas predicted=17.106179588646892--15.44134788507855 spread=1.6648317035683426
+predictions: prob=0.57811978016742 Dallas--Cleveland  predicted=19.942367412457298--17.183167003455285 spread=2.7592004090020126
+predictions: prob=0.8821534564323876 Tampa Bay--Washington predicted=31.19540164052825--14.593910853449394 spread=16.601490787078856
+predictions: prob=0.6467121287309477 Detroit--Los Angeles Rams predicted=25.902386544939656--20.631961522119646 spread=5.27042502282001
+predictions: prob=0.9158035305408635 San Francisco--New York Jets predicted=29.204263743226008--9.920859741247181 spread=19.283404001978827
+::: forecastStatistics {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}::: detailedStatistics {'weekb1': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}}}
