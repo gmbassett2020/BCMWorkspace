@@ -1268,6 +1268,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 1998,15,weeke1,1999-01-01,neutral,14,Texas A&M,24,Ohio State
 1998,15,weeke1,1999-01-02,neutral,10,Syracuse,31,Florida
 1998,15,weeke1,1999-01-04,neutral,23,Tennessee,16,Florida State
+1998,16,weekx2,1999-01-04,neutral,-1,WORKAROUND,-1,WORKAROUND
 1999,0,weekb0,1999-08-28,team1Home,41,Florida State,7,Louisiana Tech
 1999,0,weekb0,1999-08-28,team1Home,48,Notre Dame,13,Kansas
 1999,0,weekb0,1999-08-28,team1Home,41,Penn State,7,Arizona
@@ -2544,6 +2545,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 1999,16,weeke1,2000-01-01,neutral,34,Alabama,35,Michigan
 1999,16,weeke1,2000-01-02,neutral,21,Tennessee,31,Nebraska
 1999,16,weeke1,2000-01-04,neutral,29,Virginia Tech,46,Florida State
+1999,17,weekx2,2000-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2000,0,weekb0,2000-08-26,neutral,7,Iowa,27,Kansas State
 2000,0,weekb0,2000-08-26,team1Home,63,Louisiana Tech,10,Mississippi Valley State
 2000,0,weekb0,2000-08-26,neutral,29,Florida State,3,Brigham Young
@@ -3825,6 +3827,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2000,16,weeke1,2001-01-01,neutral,34,Washington,24,Purdue
 2000,16,weeke1,2001-01-02,neutral,20,Florida,37,Miami - Florida
 2000,16,weeke1,2001-01-03,neutral,2,Florida State,13,Oklahoma
+2000,17,weekx2,2001-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2001,0,weekb0,2001-08-23,team1Home,45,Louisville,24,New Mexico State
 2001,0,weekb0,2001-08-25,team1Home,70,Brigham Young,35,Tulane
 2001,0,weekb0,2001-08-25,team1Home,21,Nebraska,7,Texas Christian
@@ -5079,6 +5082,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2001,16,weeke1,2002-01-01,neutral,45,Tennessee,17,Michigan
 2001,16,weeke1,2002-01-02,neutral,56,Florida,23,Maryland
 2001,16,weeke1,2002-01-03,neutral,14,Nebraska,37,Miami - Florida
+2001,17,weekx2,2002-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2002,0,weekb0,2002-08-22,team1Home,29,Virginia,35,Colorado State
 2002,0,weekb0,2002-08-23,team1Home,23,Wisconsin,21,Fresno State
 2002,0,weekb0,2002-08-24,team1Home,48,Nebraska,10,Arizona State
@@ -6470,6 +6474,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2002,17,weeke1,2003-01-01,neutral,14,Washington State,34,Oklahoma
 2002,17,weeke1,2003-01-02,neutral,17,Iowa,38,Southern California
 2002,17,weeke1,2003-01-03,neutral,31,Ohio State,24,Miami - Florida
+2002,18,weekx2,2003-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2003,0,weekb0,2003-08-23,team1Home,29,San Jose State,0,Grambling
 2003,0,weekb0,2003-08-23,team1Home,42,Kansas State,28,California
 2003,1,weekb1,2003-08-28,team1Home,38,Akron,41,Kent State
@@ -7858,6 +7863,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2003,17,weeke1,2004-01-02,neutral,28,Oklahoma State,31,Mississippi
 2003,17,weeke1,2004-01-03,neutral,10,Tulsa,52,Georgia Tech
 2003,17,weeke1,2004-01-04,neutral,21,Louisiana State,14,Oklahoma
+2003,18,weekx2,2004-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2004,0,weekb0,2004-08-28,team1Home,49,Miami - Ohio,0,Indiana State
 2004,0,weekb0,2004-08-28,team1Home,52,North Dakota State,0,Valparaiso
 2004,0,weekb0,2004-08-28,team1Home,24,Southern California,13,Virginia Tech
@@ -9164,6 +9170,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2004,16,weeke1,2005-01-01,neutral,35,Utah,7,Pittsburgh
 2004,16,weeke1,2005-01-03,neutral,16,Auburn,13,Virginia Tech
 2004,16,weeke1,2005-01-04,neutral,19,Oklahoma,55,Southern California
+2004,17,weekx2,2005-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2005,0,weekb1,2005-09-01,team1Home,63,Arizona State,16,Temple
 2005,0,weekb1,2005-09-01,team1Home,28,Cincinnati,26,Eastern Michigan
 2005,0,weekb1,2005-09-01,team1Home,38,Connecticut,0,Buffalo
@@ -10468,6 +10475,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2005,15,weeke1,2006-01-02,neutral,35,Virginia Tech,24,Louisville
 2005,15,weeke1,2006-01-03,neutral,23,Florida State,26,Penn State
 2005,15,weeke1,2006-01-04,neutral,38,Southern California,41,Texas
+2005,16,weekx2,2006-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2006,0,weekb1,2006-08-31,team1Home,35,Arizona State,14,Northern Arizona
 2006,0,weekb1,2006-08-31,team1Home,38,Ball State,20,Eastern Michigan
 2006,0,weekb1,2006-08-31,team1Home,45,Boise State,0,Sacramento State
@@ -11836,6 +11844,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2006,15,weeke1,2007-01-06,neutral,24,Western Michigan,27,Cincinnati
 2006,15,weeke1,2007-01-07,neutral,28,Southern Mississippi,7,Ohio
 2006,15,weeke1,2007-01-08,neutral,14,Ohio State,41,Florida
+2006,16,weekx2,2007-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2007,0,weekb1,2007-08-30,team1Home,13,Ball State,14,Miami - Ohio
 2007,0,weekb1,2007-08-30,team1Home,56,Boise State,7,Weber State
 2007,0,weekb1,2007-08-30,team1Home,59,Cincinnati,3,Southeast Missouri State
@@ -13194,6 +13203,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2007,15,weeke1,2008-01-05,neutral,52,Rutgers,30,Ball State
 2007,15,weeke1,2008-01-06,neutral,63,Tulsa,7,Bowling Green
 2007,15,weeke1,2008-01-07,neutral,38,Louisiana State,24,Ohio State
+2007,16,weekx2,2008-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2008,0,weekb1,2008-08-28,team1Home,48,Ball State,14,Northeastern
 2008,0,weekb1,2008-08-28,team1Home,13,Baylor,41,Wake Forest
 2008,0,weekb1,2008-08-28,team1Home,42,Buffalo,17,Texas - El Paso
@@ -14622,6 +14632,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2008,16,weeke1,2009-01-05,neutral,24,Texas,21,Ohio State
 2008,16,weeke1,2009-01-06,neutral,45,Tulsa,13,Ball State
 2008,16,weeke1,2009-01-08,neutral,24,Florida,14,Oklahoma
+2008,17,weekx2,2009-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2009,0,weekb1,2009-09-03,team1Home,10,Ball State,20,North Texas
 2009,0,weekb1,2009-09-03,team1Home,19,Boise State,8,Oregon
 2009,0,weekb1,2009-09-03,team1Home,31,Bowling Green,14,Troy State
@@ -16041,6 +16052,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2009,15,weeke1,2010-01-05,neutral,14,Georgia Tech,24,Iowa
 2009,15,weeke1,2010-01-06,neutral,41,Troy State,44,Central Michigan
 2009,15,weeke1,2010-01-07,neutral,21,Texas,37,Alabama
+2009,16,weekx2,2010-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2010,0,weekb1,2010-09-02,team1Home,31,Alabama - Birmingham,32,Florida Atlantic
 2010,0,weekb1,2010-09-02,team1Home,27,Ball State,10,Southeast Missouri State
 2010,0,weekb1,2010-09-02,team1Home,31,Buffalo,0,Rhode Island
@@ -17464,6 +17476,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2010,15,weeke1,2011-01-08,neutral,10,Kentucky,27,Pittsburgh
 2010,15,weeke1,2011-01-09,neutral,20,Nevada - Reno,13,Boston College
 2010,15,weeke1,2011-01-10,neutral,19,Oregon,22,Auburn
+2010,16,weekx2,2011-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2011,0,weekb1,2011-09-01,team1Home,48,Arizona State,14,California - Davis
 2011,0,weekb1,2011-09-01,team1Home,21,Central Michigan,6,South Carolina State
 2011,0,weekb1,2011-09-01,team1Home,33,Eastern Illinois,26,Illinois State
@@ -18894,6 +18907,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2011,15,weeke1,2012-01-07,neutral,28,Southern Methodist,6,Pittsburgh
 2011,15,weeke1,2012-01-08,neutral,20,Arkansas State,38,Northern Illinois
 2011,15,weeke1,2012-01-09,neutral,0,Louisiana State,21,Alabama
+2011,16,weekx2,2012-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2012,0,weekb1,2012-08-30,team1Home,14,Akron,56,Central Florida
 2012,0,weekb1,2012-08-30,team1Home,63,Arizona State,6,Northern Arizona
 2012,0,weekb1,2012-08-30,team1Home,37,Ball State,26,Eastern Michigan
@@ -20340,6 +20354,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2012,15,weeke1,2013-01-05,neutral,13,Sam Houston State,39,North Dakota State
 2012,15,weeke1,2013-01-06,neutral,17,Arkansas State,13,Kent State
 2012,15,weeke1,2013-01-07,neutral,42,Alabama,14,Notre Dame
+2012,16,weekx2,2013-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2013,0,weekb1,2013-08-29,team1Home,13,Hawaii,30,Southern California
 2013,0,weekb1,2013-08-29,team1Home,17,Kent State,10,Liberty
 2013,0,weekb1,2013-08-29,team1Home,17,Missouri State,23,Northwestern State
@@ -21845,6 +21860,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2013,16,weeke1,2014-01-04,neutral,41,Vanderbilt,24,Houston
 2013,16,weeke1,2014-01-05,neutral,23,Arkansas State,20,Ball State
 2013,16,weeke1,2014-01-06,neutral,31,Auburn,34,Florida State
+2013,17,weekx2,2014-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2014,0,weekb1,2014-08-23,team1Home,56,Eastern Washington,35,Sam Houston State
 2014,1,weekb2,2014-08-27,team1Home,38,Georgia State,37,Abilene Christian
 2014,1,weekb2,2014-08-28,team1Home,41,Akron,0,Howard
@@ -23364,6 +23380,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2014,17,weeke1,2015-01-04,neutral,44,Arkansas State,63,Toledo
 2014,18,weeke2,2015-01-10,neutral,29,North Dakota State,27,Illinois State
 2014,18,weeke2,2015-01-12,neutral,20,Oregon,42,Ohio State
+2014,19,weekx2,2015-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2015,0,weekb1,2015-08-29,team1Home,38,Montana,35,North Dakota State
 2015,1,weekb2,2015-09-03,team1Home,42,Arizona,32,Texas - San Antonio
 2015,1,weekb2,2015-09-03,team1Home,48,Ball State,36,Virginia Military
@@ -24858,6 +24875,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2015,16,weeke1,2016-01-02,neutral,47,Texas Christian,41,Oregon
 2015,17,weeke2,2016-01-09,neutral,10,Jacksonville State,37,North Dakota State
 2015,17,weeke2,2016-01-12,neutral,40,Clemson,45,Alabama
+2015,18,weekx2,2016-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2016,0,weekb1,2016-08-27,neutral,31,Hawaii,51,California
 2016,0,weekb1,2016-08-27,team1Home,24,North Dakota State,17,Charleston Southern
 2016,0,weekb1,2016-09-01,team1Home,56,Central Arkansas,13,Houston Baptist
@@ -26350,6 +26368,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2016,15,weeke1,2017-01-02,neutral,24,Wisconsin,16,Western Michigan
 2016,16,weeke2,2017-01-07,neutral,28,James Madison,14,Youngstown State
 2016,16,weeke2,2017-01-09,neutral,35,Clemson,31,Alabama
+2016,17,weekx2,2017-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2017,0,weekb0,2017-08-26,team1Home,20,Brigham Young,6,Portland State
 2017,0,weekb0,2017-08-26,team1Home,14,California Poly,20,Colgate
 2017,0,weekb0,2017-08-26,team1Home,58,Colorado State,27,Oregon State
@@ -27854,6 +27873,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2017,16,weeke1,2018-01-01,neutral,26,South Carolina,19,Michigan
 2017,17,weeke2,2018-01-06,neutral,17,North Dakota State,13,James Madison
 2017,17,weeke2,2018-01-08,neutral,26,Alabama,23,Georgia
+2017,18,weekx2,2018-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2018,0,weekb0,2018-08-25,team1Home,34,Colorado State,43,Hawaii
 2018,0,weekb0,2018-08-25,neutral,17,Jacksonville State,20,North Carolina A&T
 2018,0,weekb0,2018-08-25,team1Home,63,Massachusetts,15,Duquesne
@@ -29353,6 +29373,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2018,16,weeke1,2019-01-01,neutral,23,Washington,28,Ohio State
 2018,17,weeke2,2019-01-05,neutral,38,North Dakota State,24,Eastern Washington
 2018,17,weeke2,2019-01-07,neutral,16,Alabama,44,Clemson
+2018,18,weekx2,2019-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
 2019,0,weekb0,2019-08-24,team1Home,14,Colgate,34,Villanova
 2019,0,weekb0,2019-08-24,team1Home,45,Hawaii,38,Arizona
 2019,0,weekb0,2019-08-24,neutral,20,Miami - Florida,24,Florida
@@ -30908,3 +30929,4 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2019,17,weeke1,2020-01-06,neutral,27,Louisiana - Lafayette,17,Miami - Ohio
 2019,18,weeke2,2020-01-11,neutral,28,North Dakota State,20,James Madison
 2019,18,weeke2,2020-01-13,neutral,42,Louisiana State,25,Clemson
+2019,19,weekx3,2020-01-11,neutral,-1,WORKAROUND,-1,WORKAROUND
