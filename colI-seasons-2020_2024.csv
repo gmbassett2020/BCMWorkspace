@@ -5302,226 +5302,225 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,1,weekb1,2024-09-01,neutral,24,Alabama State,31,North Carolina Central
 2024,1,weekb1,2024-09-01,neutral,20,Louisiana State,27,Southern California
 2024,1,weekb1,2024-09-02,team1Home,13,Florida State,28,Boston College
-2024,2,week02,2024-09-06,team1Home,-1,Northwestern,-1,Duke
-2024,2,week02,2024-09-06,team1Home,-1,Southern Methodist,-1,Brigham Young
-2024,2,week02,2024-09-06,team1Home,-1,Indiana,-1,Western Illinois
-2024,2,week02,2024-09-07,team1Home,-1,Fresno State,-1,Sacramento State
-2024,2,week02,2024-09-07,team1Home,-1,Auburn,-1,California
-2024,2,week02,2024-09-07,team1Home,-1,Western Carolina,-1,Campbell
-2024,2,week02,2024-09-07,team1Home,-1,West Virginia,-1,Albany
-2024,2,week02,2024-09-07,team1Home,-1,Lindenwood,-1,Central Arkansas
-2024,2,week02,2024-09-07,team1Home,-1,Furman,-1,Charleston Southern
-2024,2,week02,2024-09-07,team1Home,-1,Cincinnati,-1,Pittsburgh
-2024,2,week02,2024-09-07,team1Home,-1,Vanderbilt,-1,Alcorn State
-2024,2,week02,2024-09-07,team1Home,-1,Coastal Carolina,-1,William & Mary
-2024,2,week02,2024-09-07,team1Home,-1,Connecticut,-1,Merrimack
-2024,2,week02,2024-09-07,team1Home,-1,Nevada - Las Vegas,-1,Utah Tech
-2024,2,week02,2024-09-07,team1Home,-1,Eastern Washington,-1,Drake
-2024,2,week02,2024-09-07,team1Home,-1,Boston College,-1,Duquesne
-2024,2,week02,2024-09-07,team1Home,-1,Old Dominion,-1,East Carolina
-2024,2,week02,2024-09-07,team1Home,-1,Washington,-1,Eastern Michigan
-2024,2,week02,2024-09-07,team1Home,-1,North Carolina Central,-1,Elon
-2024,2,week02,2024-09-07,team1Home,-1,Florida,-1,Samford
-2024,2,week02,2024-09-07,team1Home,-1,Miami - Florida,-1,Florida A&M
-2024,2,week02,2024-09-07,team1Home,-1,Florida Atlantic,-1,Army
-2024,2,week02,2024-09-07,team1Home,-1,Florida International,-1,Central Michigan
-2024,2,week02,2024-09-07,team1Home,-1,Clemson,-1,Appalachian State
-2024,2,week02,2024-09-07,team1Home,-1,Nevada - Reno,-1,Georgia Southern
-2024,2,week02,2024-09-07,team1Home,-1,Georgia State,-1,Tennessee - Chattanooga
-2024,2,week02,2024-09-07,team1Home,-1,Arizona,-1,Northern Arizona
-2024,2,week02,2024-09-07,team1Home,-1,Arizona State,-1,Mississippi State
-2024,2,week02,2024-09-07,team1Home,-1,Arkansas State,-1,Tulsa
-2024,2,week02,2024-09-07,team1Home,-1,Houston Christian,-1,Tarleton State
-2024,2,week02,2024-09-07,team1Home,-1,Wyoming,-1,Idaho
-2024,2,week02,2024-09-07,team1Home,-1,Illinois,-1,Kansas
-2024,2,week02,2024-09-07,team1Home,-1,North Alabama,-1,Illinois State
-2024,2,week02,2024-09-07,team1Home,-1,South Dakota State,-1,Incarnate Word
-2024,2,week02,2024-09-07,team1Home,-1,Eastern Illinois,-1,Indiana State
-2024,2,week02,2024-09-07,team1Home,-1,Iowa,-1,Iowa State
-2024,2,week02,2024-09-07,team1Home,-1,Louisville,-1,Jacksonville State
-2024,2,week02,2024-09-07,team1Home,-1,Kennesaw State,-1,Louisiana - Lafayette
-2024,2,week02,2024-09-07,team1Home,-1,Lamar,-1,Mississippi Valley State
-2024,2,week02,2024-09-07,team1Home,-1,Northeast Louisiana,-1,Alabama - Birmingham
-2024,2,week02,2024-09-07,team1Home,-1,Montana State,-1,Maine
-2024,2,week02,2024-09-07,team1Home,-1,Marist,-1,Georgetown
-2024,2,week02,2024-09-07,team1Home,-1,Austin Peay,-1,Southern Illinois
-2024,2,week02,2024-09-07,team1Home,-1,Bethune - Cookman,-1,Mercer
-2024,2,week02,2024-09-07,team1Home,-1,Maryland,-1,Michigan State
-2024,2,week02,2024-09-07,team1Home,-1,Mississippi,-1,Middle Tennessee State
-2024,2,week02,2024-09-07,team1Home,-1,Missouri,-1,Buffalo
-2024,2,week02,2024-09-07,team1Home,-1,Ball State,-1,Missouri State
-2024,2,week02,2024-09-07,team1Home,-1,Monmouth,-1,Lafayette
-2024,2,week02,2024-09-07,team1Home,-1,Towson,-1,Morgan State
-2024,2,week02,2024-09-07,team1Home,-1,New Mexico State,-1,Liberty
-2024,2,week02,2024-09-07,team1Home,-1,Louisiana State,-1,Nicholls State
-2024,2,week02,2024-09-07,team1Home,-1,North Carolina A&T,-1,Winston-Salem
-2024,2,week02,2024-09-07,team1Home,-1,North Dakota State,-1,Tennessee State
-2024,2,week02,2024-09-07,team1Home,-1,Utah,-1,Baylor
-2024,2,week02,2024-09-07,team1Home,-1,Colorado State,-1,Northern Colorado
-2024,2,week02,2024-09-07,team1Home,-1,Notre Dame,-1,Northern Illinois
-2024,2,week02,2024-09-07,team1Home,-1,Northwestern State,-1,Prairie View
-2024,2,week02,2024-09-07,team1Home,-1,Ohio,-1,South Alabama
-2024,2,week02,2024-09-07,team1Home,-1,Penn State,-1,Bowling Green
-2024,2,week02,2024-09-07,team1Home,-1,Weber State,-1,Portland State
-2024,2,week02,2024-09-07,team1Home,-1,Minnesota,-1,Rhode Island
-2024,2,week02,2024-09-07,team1Home,-1,Richmond,-1,Wofford
-2024,2,week02,2024-09-07,team1Home,-1,Rutgers,-1,Akron
-2024,2,week02,2024-09-07,team1Home,-1,Kent State,-1,Saint Francis - Pennsylvania
-2024,2,week02,2024-09-07,team1Home,-1,Saint Thomas - Minnesota,-1,Northern Iowa
-2024,2,week02,2024-09-07,team1Home,-1,Central Florida,-1,Sam Houston State
-2024,2,week02,2024-09-07,team1Home,-1,San Diego State,-1,Oregon State
-2024,2,week02,2024-09-07,team1Home,-1,Southern,-1,Savannah State
-2024,2,week02,2024-09-07,team1Home,-1,The Citadel,-1,South Carolina State
-2024,2,week02,2024-09-07,team1Home,-1,Wisconsin,-1,South Dakota
-2024,2,week02,2024-09-07,team1Home,-1,Alabama,-1,South Florida
-2024,2,week02,2024-09-07,team1Home,-1,Southeast Missouri State,-1,Tennessee - Martin
-2024,2,week02,2024-09-07,team1Home,-1,Southern Mississippi,-1,Southeast Louisiana
-2024,2,week02,2024-09-07,team1Home,-1,Texas - El Paso,-1,Southern Utah
-2024,2,week02,2024-09-07,team1Home,-1,Stanford,-1,California Poly
-2024,2,week02,2024-09-07,team1Home,-1,Stony Brook,-1,Stonehill
-2024,2,week02,2024-09-07,neutral,-1,Tennessee,-1,North Carolina State
-2024,2,week02,2024-09-07,team1Home,-1,Georgia,-1,Tennessee Tech
-2024,2,week02,2024-09-07,team1Home,-1,Michigan,-1,Texas
-2024,2,week02,2024-09-07,team1Home,-1,California - Davis,-1,Texas A&M-Commerce
-2024,2,week02,2024-09-07,team1Home,-1,Texas Christian,-1,Long Island
-2024,2,week02,2024-09-07,team1Home,-1,Rice,-1,Texas Southern
-2024,2,week02,2024-09-07,team1Home,-1,Texas State - San Marcos,-1,Texas - San Antonio
-2024,2,week02,2024-09-07,team1Home,-1,Toledo,-1,Massachusetts
-2024,2,week02,2024-09-07,team1Home,-1,Tulane,-1,Kansas State
-2024,2,week02,2024-09-07,team1Home,-1,North Carolina,-1,North Carolina - Charlotte
-2024,2,week02,2024-09-07,team1Home,-1,Southern California,-1,Utah State
-2024,2,week02,2024-09-07,team1Home,-1,Youngstown State,-1,Valparaiso
-2024,2,week02,2024-09-07,team1Home,-1,Colgate,-1,Villanova
-2024,2,week02,2024-09-07,team1Home,-1,Virginia Military,-1,Bucknell
-2024,2,week02,2024-09-07,team1Home,-1,Virginia Tech,-1,Marshall
-2024,2,week02,2024-09-07,team1Home,-1,Lehigh,-1,Wagner
-2024,2,week02,2024-09-07,team1Home,-1,Washington State,-1,Texas Tech
-2024,2,week02,2024-09-07,team1Home,-1,Ohio State,-1,Western Michigan
-2024,2,week02,2024-09-07,team1Home,-1,Oklahoma State,-1,Arkansas
-2024,2,week02,2024-09-07,team1Home,-1,Kentucky,-1,South Carolina
-2024,2,week02,2024-09-07,team1Home,-1,Oklahoma,-1,Houston
-2024,2,week02,2024-09-07,team1Home,-1,Texas A&M,-1,McNeese State
-2024,2,week02,2024-09-07,team1Home,-1,Nebraska,-1,Colorado
-2024,2,week02,2024-09-07,team1Home,-1,Oregon,-1,Boise State
-2024,2,week02,2024-09-07,team1Home,-1,Western Kentucky,-1,Eastern Kentucky
-2024,2,week02,2024-09-07,team1Home,-1,Syracuse,-1,Georgia Tech
-2024,2,week02,2024-09-07,team1Home,-1,Wake Forest,-1,Virginia
-2024,2,week02,2024-09-07,team1Home,-1,Air Force,-1,San Jose State
-2024,2,week02,2024-09-07,team1Home,-1,James Madison,-1,Gardner - Webb
-2024,2,week02,2024-09-07,team1Home,-1,Memphis,-1,Troy State
-2024,2,week02,2024-09-07,team1Home,-1,Navy,-1,Temple
-2024,2,week02,2024-09-07,team1Home,-1,North Texas,-1,Stephen F. Austin
-2024,2,week02,2024-09-07,team1Home,-1,Holy Cross,-1,New Hampshire
-2024,2,week02,2024-09-07,team1Home,-1,Murray State,-1,Butler
-2024,2,week02,2024-09-07,team1Home,-1,North Dakota,-1,Montana
-2024,2,week02,2024-09-07,team1Home,-1,Central Connecticut,-1,Fordham
-2024,3,week03,2024-09-12,team1Home,-1,Texas State - San Marcos,-1,Arizona State
-2024,3,week03,2024-09-12,team1Home,-1,South Alabama,-1,Northwestern State
-2024,3,week03,2024-09-13,team1Home,-1,Kansas State,-1,Arizona
-2024,3,week03,2024-09-13,team1Home,-1,Kansas,-1,Nevada - Las Vegas
-2024,3,week03,2024-09-14,team1Home,-1,Samford,-1,Alabama State
-2024,3,week03,2024-09-14,team1Home,-1,Sacramento State,-1,Nicholls State
-2024,3,week03,2024-09-14,team1Home,-1,California,-1,San Diego State
-2024,3,week03,2024-09-14,team1Home,-1,Presbyterian,-1,Houston Christian
-2024,3,week03,2024-09-14,team1Home,-1,Rhode Island,-1,Campbell
-2024,3,week03,2024-09-14,team1Home,-1,Idaho,-1,Albany
-2024,3,week03,2024-09-14,team1Home,-1,Central Arkansas,-1,Austin Peay
-2024,3,week03,2024-09-14,team1Home,-1,Richmond,-1,Charleston Southern
-2024,3,week03,2024-09-14,team1Home,-1,Miami - Ohio,-1,Cincinnati
-2024,3,week03,2024-09-14,team1Home,-1,Temple,-1,Coastal Carolina
-2024,3,week03,2024-09-14,team1Home,-1,Duke,-1,Connecticut
-2024,3,week03,2024-09-14,team1Home,-1,Northern Colorado,-1,Abilene Christian
-2024,3,week03,2024-09-14,team1Home,-1,Delaware State,-1,Wagner
-2024,3,week03,2024-09-14,team1Home,-1,Utah Tech,-1,Northern Arizona
-2024,3,week03,2024-09-14,team1Home,-1,Youngstown State,-1,Duquesne
-2024,3,week03,2024-09-14,team1Home,-1,East Carolina,-1,Appalachian State
-2024,3,week03,2024-09-14,team1Home,-1,East Tennessee State,-1,North Dakota State
-2024,3,week03,2024-09-14,team1Home,-1,Northwestern,-1,Eastern Illinois
-2024,3,week03,2024-09-14,team1Home,-1,Eastern Michigan,-1,Jacksonville State
-2024,3,week03,2024-09-14,team1Home,-1,Southeast Louisiana,-1,Eastern Washington
-2024,3,week03,2024-09-14,team1Home,-1,Elon,-1,Western Carolina
-2024,3,week03,2024-09-14,team1Home,-1,Florida,-1,Texas A&M
-2024,3,week03,2024-09-14,team1Home,-1,Florida Atlantic,-1,Florida International
-2024,3,week03,2024-09-14,team1Home,-1,Furman,-1,Stetson
-2024,3,week03,2024-09-14,team1Home,-1,Georgia Southern,-1,South Carolina State
-2024,3,week03,2024-09-14,team1Home,-1,Georgia State,-1,Vanderbilt
-2024,3,week03,2024-09-14,team1Home,-1,Norfolk State,-1,Hampton
-2024,3,week03,2024-09-14,team1Home,-1,Sam Houston State,-1,Hawaii
-2024,3,week03,2024-09-14,team1Home,-1,Bryant,-1,Holy Cross
-2024,3,week03,2024-09-14,team1Home,-1,Michigan,-1,Arkansas State
-2024,3,week03,2024-09-14,team1Home,-1,North Dakota,-1,Idaho State
-2024,3,week03,2024-09-14,team1Home,-1,Illinois,-1,Central Michigan
-2024,3,week03,2024-09-14,neutral,-1,Tennessee State,-1,Arkansas - Pine Bluff
-2024,3,week03,2024-09-14,team1Home,-1,Illinois State,-1,Western Illinois
-2024,3,week03,2024-09-14,team1Home,-1,Southern Illinois,-1,Incarnate Word
-2024,3,week03,2024-09-14,team1Home,-1,Indiana State,-1,Dayton
-2024,3,week03,2024-09-14,team1Home,-1,Jackson State,-1,Southern
-2024,3,week03,2024-09-14,team1Home,-1,San Jose State,-1,Kennesaw State
-2024,3,week03,2024-09-14,team1Home,-1,Tennessee,-1,Kent State
-2024,3,week03,2024-09-14,team1Home,-1,Lamar,-1,Weber State
-2024,3,week03,2024-09-14,team1Home,-1,Auburn,-1,New Mexico
-2024,3,week03,2024-09-14,team1Home,-1,Missouri State,-1,Lindenwood
-2024,3,week03,2024-09-14,team1Home,-1,North Carolina State,-1,Louisiana Tech
-2024,3,week03,2024-09-14,team1Home,-1,Maine,-1,Monmouth
-2024,3,week03,2024-09-14,team1Home,-1,Lafayette,-1,Marist
-2024,3,week03,2024-09-14,team1Home,-1,Tennessee - Chattanooga,-1,Mercer
-2024,3,week03,2024-09-14,team1Home,-1,Bucknell,-1,Merrimack
-2024,3,week03,2024-09-14,team1Home,-1,Middle Tennessee State,-1,Western Kentucky
-2024,3,week03,2024-09-14,team1Home,-1,Murray State,-1,Mississippi Valley State
-2024,3,week03,2024-09-14,team1Home,-1,Missouri,-1,Boston College
-2024,3,week03,2024-09-14,team1Home,-1,Miami - Florida,-1,Ball State
-2024,3,week03,2024-09-14,team1Home,-1,Ohio,-1,Morgan State
-2024,3,week03,2024-09-14,team1Home,-1,Minnesota,-1,Nevada - Reno
-2024,3,week03,2024-09-14,team1Home,-1,Fresno State,-1,New Mexico State
-2024,3,week03,2024-09-14,team1Home,-1,Tennessee - Martin,-1,North Alabama
-2024,3,week03,2024-09-14,team1Home,-1,North Carolina A&T,-1,Delaware
-2024,3,week03,2024-09-14,team1Home,-1,North Carolina,-1,North Carolina Central
-2024,3,week03,2024-09-14,team1Home,-1,Baylor,-1,Air Force
-2024,3,week03,2024-09-14,team1Home,-1,Old Dominion,-1,Virginia Tech
-2024,3,week03,2024-09-14,team1Home,-1,Pittsburgh,-1,West Virginia
-2024,3,week03,2024-09-14,team1Home,-1,Portland State,-1,South Dakota
-2024,3,week03,2024-09-14,team1Home,-1,Michigan State,-1,Prairie View
-2024,3,week03,2024-09-14,team1Home,-1,Sacred Heart,-1,Georgetown
-2024,3,week03,2024-09-14,team1Home,-1,Saint Francis - Pennsylvania,-1,Central Connecticut
-2024,3,week03,2024-09-14,team1Home,-1,Western Michigan,-1,Bethune - Cookman
-2024,3,week03,2024-09-14,team1Home,-1,Southern Mississippi,-1,South Florida
-2024,3,week03,2024-09-14,team1Home,-1,Southern Utah,-1,California - Davis
-2024,3,week03,2024-09-14,team1Home,-1,Fordham,-1,Stony Brook
-2024,3,week03,2024-09-14,team1Home,-1,Texas,-1,Texas - San Antonio
-2024,3,week03,2024-09-14,team1Home,-1,Texas A&M-Commerce,-1,Grambling
-2024,3,week03,2024-09-14,team1Home,-1,Liberty,-1,Texas - El Paso
-2024,3,week03,2024-09-14,team1Home,-1,Mississippi State,-1,Toledo
-2024,3,week03,2024-09-14,team1Home,-1,Villanova,-1,Towson
-2024,3,week03,2024-09-14,team1Home,-1,Oklahoma,-1,Tulane
-2024,3,week03,2024-09-14,team1Home,-1,North Carolina - Charlotte,-1,Gardner - Webb
-2024,3,week03,2024-09-14,team1Home,-1,Utah State,-1,Utah
-2024,3,week03,2024-09-14,team1Home,-1,Georgia Tech,-1,Virginia Military
-2024,3,week03,2024-09-14,team1Home,-1,Washington,-1,Washington State
-2024,3,week03,2024-09-14,team1Home,-1,Wofford,-1,William & Mary
-2024,3,week03,2024-09-14,team1Home,-1,Wisconsin,-1,Alabama
-2024,3,week03,2024-09-14,team1Home,-1,Wyoming,-1,Brigham Young
-2024,3,week03,2024-09-14,team1Home,-1,Buffalo,-1,Massachusetts
-2024,3,week03,2024-09-14,team1Home,-1,Arkansas,-1,Alabama - Birmingham
-2024,3,week03,2024-09-14,team1Home,-1,Kentucky,-1,Georgia
-2024,3,week03,2024-09-14,team1Home,-1,Wake Forest,-1,Mississippi
-2024,3,week03,2024-09-14,team1Home,-1,South Carolina,-1,Louisiana State
-2024,3,week03,2024-09-14,team1Home,-1,California - Los Angeles,-1,Indiana
-2024,3,week03,2024-09-14,team1Home,-1,Iowa,-1,Troy State
-2024,3,week03,2024-09-14,team1Home,-1,Virginia,-1,Maryland
-2024,3,week03,2024-09-14,team1Home,-1,Nebraska,-1,Northern Iowa
-2024,3,week03,2024-09-14,team1Home,-1,Oregon State,-1,Oregon
-2024,3,week03,2024-09-14,team1Home,-1,Purdue,-1,Notre Dame
-2024,3,week03,2024-09-14,team1Home,-1,Florida State,-1,Memphis
-2024,3,week03,2024-09-14,team1Home,-1,Colorado State,-1,Colorado
-2024,3,week03,2024-09-14,team1Home,-1,Houston,-1,Rice
-2024,3,week03,2024-09-14,team1Home,-1,Texas Christian,-1,Central Florida
-2024,3,week03,2024-09-14,team1Home,-1,Texas Tech,-1,North Texas
-2024,3,week03,2024-09-14,team1Home,-1,Tulsa,-1,Oklahoma State
-2024,3,week03,2024-09-14,team1Home,-1,Akron,-1,Colgate
-2024,3,week03,2024-09-14,team1Home,-1,New Hampshire,-1,Stonehill
-2024,3,week03,2024-09-14,team1Home,-1,Montana,-1,Morehead State
-2024,3,week03,2024-09-14,team1Home,-1,Long Island,-1,Lehigh
-2024,3,week03,2024-09-14,team1Home,-1,McNeese State,-1,Stephen F. Austin
+2024,2,week02,2024-09-06,team1Home,20,Northwestern,26,Duke
+2024,2,week02,2024-09-06,team1Home,15,Southern Methodist,18,Brigham Young
+2024,2,week02,2024-09-06,team1Home,77,Indiana,3,Western Illinois
+2024,2,week02,2024-09-07,team1Home,46,Fresno State,30,Sacramento State
+2024,2,week02,2024-09-07,team1Home,14,Auburn,21,California
+2024,2,week02,2024-09-07,team1Home,16,Western Carolina,24,Campbell
+2024,2,week02,2024-09-07,team1Home,49,West Virginia,14,Albany
+2024,2,week02,2024-09-07,team1Home,13,Lindenwood,34,Central Arkansas
+2024,2,week02,2024-09-07,team1Home,20,Furman,24,Charleston Southern
+2024,2,week02,2024-09-07,team1Home,27,Cincinnati,28,Pittsburgh
+2024,2,week02,2024-09-07,team1Home,55,Vanderbilt,0,Alcorn State
+2024,2,week02,2024-09-07,team1Home,40,Coastal Carolina,21,William & Mary
+2024,2,week02,2024-09-07,team1Home,63,Connecticut,17,Merrimack
+2024,2,week02,2024-09-07,team1Home,72,Nevada - Las Vegas,14,Utah Tech
+2024,2,week02,2024-09-07,team1Home,32,Eastern Washington,35,Drake
+2024,2,week02,2024-09-07,team1Home,56,Boston College,0,Duquesne
+2024,2,week02,2024-09-07,team1Home,14,Old Dominion,20,East Carolina
+2024,2,week02,2024-09-07,team1Home,30,Washington,9,Eastern Michigan
+2024,2,week02,2024-09-07,team1Home,19,North Carolina Central,41,Elon
+2024,2,week02,2024-09-07,team1Home,45,Florida,7,Samford
+2024,2,week02,2024-09-07,team1Home,56,Miami - Florida,9,Florida A&M
+2024,2,week02,2024-09-07,team1Home,7,Florida Atlantic,24,Army
+2024,2,week02,2024-09-07,team1Home,52,Florida International,16,Central Michigan
+2024,2,week02,2024-09-07,team1Home,66,Clemson,20,Appalachian State
+2024,2,week02,2024-09-07,team1Home,17,Nevada - Reno,20,Georgia Southern
+2024,2,week02,2024-09-07,team1Home,24,Georgia State,21,Tennessee - Chattanooga
+2024,2,week02,2024-09-07,team1Home,22,Arizona,10,Northern Arizona
+2024,2,week02,2024-09-07,team1Home,30,Arizona State,23,Mississippi State
+2024,2,week02,2024-09-07,team1Home,28,Arkansas State,24,Tulsa
+2024,2,week02,2024-09-07,team1Home,18,Houston Christian,35,Tarleton State
+2024,2,week02,2024-09-07,team1Home,13,Wyoming,17,Idaho
+2024,2,week02,2024-09-07,team1Home,23,Illinois,17,Kansas
+2024,2,week02,2024-09-07,team1Home,17,North Alabama,24,Illinois State
+2024,2,week02,2024-09-07,team1Home,45,South Dakota State,24,Incarnate Word
+2024,2,week02,2024-09-07,team1Home,27,Eastern Illinois,20,Indiana State
+2024,2,week02,2024-09-07,team1Home,19,Iowa,20,Iowa State
+2024,2,week02,2024-09-07,team1Home,49,Louisville,14,Jacksonville State
+2024,2,week02,2024-09-07,team1Home,10,Kennesaw State,34,Louisiana - Lafayette
+2024,2,week02,2024-09-07,team1Home,28,Lamar,14,Mississippi Valley State
+2024,2,week02,2024-09-07,team1Home,32,Northeast Louisiana,6,Alabama - Birmingham
+2024,2,week02,2024-09-07,team1Home,41,Montana State,24,Maine
+2024,2,week02,2024-09-07,team1Home,10,Marist,31,Georgetown
+2024,2,week02,2024-09-07,team1Home,17,Austin Peay,31,Southern Illinois
+2024,2,week02,2024-09-07,team1Home,2,Bethune - Cookman,31,Mercer
+2024,2,week02,2024-09-07,team1Home,24,Maryland,27,Michigan State
+2024,2,week02,2024-09-07,team1Home,52,Mississippi,3,Middle Tennessee State
+2024,2,week02,2024-09-07,team1Home,38,Missouri,0,Buffalo
+2024,2,week02,2024-09-07,team1Home,42,Ball State,34,Missouri State
+2024,2,week02,2024-09-07,team1Home,35,Monmouth,40,Lafayette
+2024,2,week02,2024-09-07,team1Home,14,Towson,9,Morgan State
+2024,2,week02,2024-09-07,team1Home,24,New Mexico State,30,Liberty
+2024,2,week02,2024-09-07,team1Home,44,Louisiana State,21,Nicholls State
+2024,2,week02,2024-09-07,team1Home,27,North Carolina A&T,20,Winston-Salem
+2024,2,week02,2024-09-07,team1Home,52,North Dakota State,3,Tennessee State
+2024,2,week02,2024-09-07,team1Home,23,Utah,12,Baylor
+2024,2,week02,2024-09-07,team1Home,38,Colorado State,17,Northern Colorado
+2024,2,week02,2024-09-07,team1Home,14,Notre Dame,16,Northern Illinois
+2024,2,week02,2024-09-07,team1Home,31,Northwestern State,37,Prairie View
+2024,2,week02,2024-09-07,team1Home,27,Ohio,20,South Alabama
+2024,2,week02,2024-09-07,team1Home,34,Penn State,27,Bowling Green
+2024,2,week02,2024-09-07,team1Home,43,Weber State,16,Portland State
+2024,2,week02,2024-09-07,team1Home,48,Minnesota,0,Rhode Island
+2024,2,week02,2024-09-07,team1Home,19,Richmond,26,Wofford
+2024,2,week02,2024-09-07,team1Home,49,Rutgers,17,Akron
+2024,2,week02,2024-09-07,team1Home,17,Kent State,23,Saint Francis - Pennsylvania
+2024,2,week02,2024-09-07,team1Home,10,Saint Thomas - Minnesota,17,Northern Iowa
+2024,2,week02,2024-09-07,team1Home,45,Central Florida,14,Sam Houston State
+2024,2,week02,2024-09-07,team1Home,0,San Diego State,21,Oregon State
+2024,2,week02,2024-09-07,team1Home,42,Southern,10,Savannah State
+2024,2,week02,2024-09-07,team1Home,20,The Citadel,23,South Carolina State
+2024,2,week02,2024-09-07,team1Home,27,Wisconsin,13,South Dakota
+2024,2,week02,2024-09-07,team1Home,42,Alabama,16,South Florida
+2024,2,week02,2024-09-07,team1Home,45,Southeast Missouri State,42,Tennessee - Martin
+2024,2,week02,2024-09-07,team1Home,35,Southern Mississippi,10,Southeast Louisiana
+2024,2,week02,2024-09-07,team1Home,24,Texas - El Paso,27,Southern Utah
+2024,2,week02,2024-09-07,team1Home,41,Stanford,7,California Poly
+2024,2,week02,2024-09-07,team1Home,37,Stony Brook,10,Stonehill
+2024,2,week02,2024-09-07,neutral,51,Tennessee,10,North Carolina State
+2024,2,week02,2024-09-07,team1Home,48,Georgia,3,Tennessee Tech
+2024,2,week02,2024-09-07,team1Home,12,Michigan,31,Texas
+2024,2,week02,2024-09-07,team1Home,36,California - Davis,22,Texas A&M-Commerce
+2024,2,week02,2024-09-07,team1Home,45,Texas Christian,0,Long Island
+2024,2,week02,2024-09-07,team1Home,69,Rice,7,Texas Southern
+2024,2,week02,2024-09-07,team1Home,49,Texas State - San Marcos,10,Texas - San Antonio
+2024,2,week02,2024-09-07,team1Home,38,Toledo,23,Massachusetts
+2024,2,week02,2024-09-07,team1Home,27,Tulane,34,Kansas State
+2024,2,week02,2024-09-07,team1Home,38,North Carolina,20,North Carolina - Charlotte
+2024,2,week02,2024-09-07,team1Home,48,Southern California,0,Utah State
+2024,2,week02,2024-09-07,team1Home,59,Youngstown State,25,Valparaiso
+2024,2,week02,2024-09-07,team1Home,3,Colgate,28,Villanova
+2024,2,week02,2024-09-07,team1Home,28,Virginia Military,35,Bucknell
+2024,2,week02,2024-09-07,team1Home,31,Virginia Tech,14,Marshall
+2024,2,week02,2024-09-07,team1Home,49,Lehigh,13,Wagner
+2024,2,week02,2024-09-07,team1Home,37,Washington State,16,Texas Tech
+2024,2,week02,2024-09-07,team1Home,56,Ohio State,0,Western Michigan
+2024,2,week02,2024-09-07,team1Home,39,Oklahoma State,31,Arkansas
+2024,2,week02,2024-09-07,team1Home,6,Kentucky,31,South Carolina
+2024,2,week02,2024-09-07,team1Home,16,Oklahoma,12,Houston
+2024,2,week02,2024-09-07,team1Home,52,Texas A&M,10,McNeese State
+2024,2,week02,2024-09-07,team1Home,28,Nebraska,10,Colorado
+2024,2,week02,2024-09-07,team1Home,37,Oregon,34,Boise State
+2024,2,week02,2024-09-07,team1Home,31,Western Kentucky,0,Eastern Kentucky
+2024,2,week02,2024-09-07,team1Home,31,Syracuse,28,Georgia Tech
+2024,2,week02,2024-09-07,team1Home,30,Wake Forest,31,Virginia
+2024,2,week02,2024-09-07,team1Home,7,Air Force,17,San Jose State
+2024,2,week02,2024-09-07,team1Home,13,James Madison,6,Gardner - Webb
+2024,2,week02,2024-09-07,team1Home,38,Memphis,17,Troy State
+2024,2,week02,2024-09-07,team1Home,38,Navy,11,Temple
+2024,2,week02,2024-09-07,team1Home,35,North Texas,20,Stephen F. Austin
+2024,2,week02,2024-09-07,team1Home,20,Holy Cross,21,New Hampshire
+2024,2,week02,2024-09-07,team1Home,17,Murray State,19,Butler
+2024,2,week02,2024-09-07,team1Home,27,North Dakota,24,Montana
+2024,2,week02,2024-09-07,team1Home,33,Central Connecticut,3,Fordham
+2024,3,week03,2024-09-12,team1Home,28,Texas State - San Marcos,31,Arizona State
+2024,3,week03,2024-09-12,team1Home,87,South Alabama,10,Northwestern State
+2024,3,week03,2024-09-13,team1Home,31,Kansas State,7,Arizona
+2024,3,week03,2024-09-13,team1Home,20,Kansas,23,Nevada - Las Vegas
+2024,3,week03,2024-09-14,team1Home,12,Samford,7,Alabama State
+2024,3,week03,2024-09-14,team1Home,34,Sacramento State,7,Nicholls State
+2024,3,week03,2024-09-14,team1Home,31,California,10,San Diego State
+2024,3,week03,2024-09-14,team1Home,52,Presbyterian,0,Houston Christian
+2024,3,week03,2024-09-14,team1Home,21,Rhode Island,9,Campbell
+2024,3,week03,2024-09-14,team1Home,41,Idaho,13,Albany
+2024,3,week03,2024-09-14,team1Home,45,Central Arkansas,17,Austin Peay
+2024,3,week03,2024-09-14,team1Home,38,Richmond,0,Charleston Southern
+2024,3,week03,2024-09-14,team1Home,16,Miami - Ohio,27,Cincinnati
+2024,3,week03,2024-09-14,team1Home,20,Temple,28,Coastal Carolina
+2024,3,week03,2024-09-14,team1Home,26,Duke,21,Connecticut
+2024,3,week03,2024-09-14,team1Home,22,Northern Colorado,24,Abilene Christian
+2024,3,week03,2024-09-14,team1Home,7,Delaware State,30,Wagner
+2024,3,week03,2024-09-14,team1Home,17,Utah Tech,45,Northern Arizona
+2024,3,week03,2024-09-14,team1Home,25,Youngstown State,28,Duquesne
+2024,3,week03,2024-09-14,team1Home,19,East Carolina,21,Appalachian State
+2024,3,week03,2024-09-14,team1Home,35,East Tennessee State,38,North Dakota State
+2024,3,week03,2024-09-14,team1Home,31,Northwestern,7,Eastern Illinois
+2024,3,week03,2024-09-14,team1Home,37,Eastern Michigan,34,Jacksonville State
+2024,3,week03,2024-09-14,team1Home,28,Southeast Louisiana,24,Eastern Washington
+2024,3,week03,2024-09-14,team1Home,17,Elon,24,Western Carolina
+2024,3,week03,2024-09-14,team1Home,20,Florida,33,Texas A&M
+2024,3,week03,2024-09-14,team1Home,38,Florida Atlantic,20,Florida International
+2024,3,week03,2024-09-14,team1Home,48,Furman,7,Stetson
+2024,3,week03,2024-09-14,team1Home,42,Georgia Southern,14,South Carolina State
+2024,3,week03,2024-09-14,team1Home,36,Georgia State,32,Vanderbilt
+2024,3,week03,2024-09-14,team1Home,7,Norfolk State,37,Hampton
+2024,3,week03,2024-09-14,team1Home,31,Sam Houston State,13,Hawaii
+2024,3,week03,2024-09-14,team1Home,22,Bryant,43,Holy Cross
+2024,3,week03,2024-09-14,team1Home,28,Michigan,18,Arkansas State
+2024,3,week03,2024-09-14,team1Home,52,North Dakota,28,Idaho State
+2024,3,week03,2024-09-14,team1Home,30,Illinois,9,Central Michigan
+2024,3,week03,2024-09-14,neutral,41,Tennessee State,28,Arkansas - Pine Bluff
+2024,3,week03,2024-09-14,team1Home,51,Illinois State,34,Western Illinois
+2024,3,week03,2024-09-14,team1Home,35,Southern Illinois,28,Incarnate Word
+2024,3,week03,2024-09-14,team1Home,24,Indiana State,13,Dayton
+2024,3,week03,2024-09-14,team1Home,33,Jackson State,15,Southern
+2024,3,week03,2024-09-14,team1Home,31,San Jose State,10,Kennesaw State
+2024,3,week03,2024-09-14,team1Home,71,Tennessee,0,Kent State
+2024,3,week03,2024-09-14,team1Home,17,Lamar,16,Weber State
+2024,3,week03,2024-09-14,team1Home,45,Auburn,19,New Mexico
+2024,3,week03,2024-09-14,team1Home,28,Missouri State,14,Lindenwood
+2024,3,week03,2024-09-14,team1Home,30,North Carolina State,20,Louisiana Tech
+2024,3,week03,2024-09-14,team1Home,22,Maine,51,Monmouth
+2024,3,week03,2024-09-14,team1Home,56,Lafayette,14,Marist
+2024,3,week03,2024-09-14,team1Home,3,Tennessee - Chattanooga,10,Mercer
+2024,3,week03,2024-09-14,team1Home,21,Bucknell,31,Merrimack
+2024,3,week03,2024-09-14,team1Home,21,Middle Tennessee State,49,Western Kentucky
+2024,3,week03,2024-09-14,team1Home,59,Murray State,8,Mississippi Valley State
+2024,3,week03,2024-09-14,team1Home,27,Missouri,21,Boston College
+2024,3,week03,2024-09-14,team1Home,62,Miami - Florida,0,Ball State
+2024,3,week03,2024-09-14,team1Home,21,Ohio,6,Morgan State
+2024,3,week03,2024-09-14,team1Home,27,Minnesota,0,Nevada - Reno
+2024,3,week03,2024-09-14,team1Home,48,Fresno State,0,New Mexico State
+2024,3,week03,2024-09-14,team1Home,43,Tennessee - Martin,28,North Alabama
+2024,3,week03,2024-09-14,team1Home,13,North Carolina A&T,42,Delaware
+2024,3,week03,2024-09-14,team1Home,45,North Carolina,10,North Carolina Central
+2024,3,week03,2024-09-14,team1Home,31,Baylor,3,Air Force
+2024,3,week03,2024-09-14,team1Home,17,Old Dominion,37,Virginia Tech
+2024,3,week03,2024-09-14,team1Home,38,Pittsburgh,34,West Virginia
+2024,3,week03,2024-09-14,team1Home,40,Michigan State,0,Prairie View
+2024,3,week03,2024-09-14,team1Home,40,Sacred Heart,14,Georgetown
+2024,3,week03,2024-09-14,team1Home,20,Saint Francis - Pennsylvania,27,Central Connecticut
+2024,3,week03,2024-09-14,team1Home,59,Western Michigan,31,Bethune - Cookman
+2024,3,week03,2024-09-14,team1Home,24,Southern Mississippi,49,South Florida
+2024,3,week03,2024-09-14,team1Home,21,Southern Utah,24,California - Davis
+2024,3,week03,2024-09-14,team1Home,21,Fordham,27,Stony Brook
+2024,3,week03,2024-09-14,team1Home,56,Texas,7,Texas - San Antonio
+2024,3,week03,2024-09-14,team1Home,28,Texas A&M-Commerce,35,Grambling
+2024,3,week03,2024-09-14,team1Home,28,Liberty,10,Texas - El Paso
+2024,3,week03,2024-09-14,team1Home,17,Mississippi State,41,Toledo
+2024,3,week03,2024-09-14,team1Home,14,Villanova,13,Towson
+2024,3,week03,2024-09-14,team1Home,34,Oklahoma,19,Tulane
+2024,3,week03,2024-09-14,team1Home,27,North Carolina - Charlotte,26,Gardner - Webb
+2024,3,week03,2024-09-14,team1Home,21,Utah State,38,Utah
+2024,3,week03,2024-09-14,team1Home,59,Georgia Tech,7,Virginia Military
+2024,3,week03,2024-09-14,team1Home,19,Washington,24,Washington State
+2024,3,week03,2024-09-14,team1Home,21,Wofford,28,William & Mary
+2024,3,week03,2024-09-14,team1Home,10,Wisconsin,42,Alabama
+2024,3,week03,2024-09-14,team1Home,14,Wyoming,34,Brigham Young
+2024,3,week03,2024-09-14,team1Home,34,Buffalo,3,Massachusetts
+2024,3,week03,2024-09-14,team1Home,37,Arkansas,27,Alabama - Birmingham
+2024,3,week03,2024-09-14,team1Home,12,Kentucky,13,Georgia
+2024,3,week03,2024-09-14,team1Home,6,Wake Forest,40,Mississippi
+2024,3,week03,2024-09-14,team1Home,33,South Carolina,36,Louisiana State
+2024,3,week03,2024-09-14,team1Home,13,California - Los Angeles,42,Indiana
+2024,3,week03,2024-09-14,team1Home,38,Iowa,21,Troy State
+2024,3,week03,2024-09-14,team1Home,13,Virginia,27,Maryland
+2024,3,week03,2024-09-14,team1Home,34,Nebraska,3,Northern Iowa
+2024,3,week03,2024-09-14,team1Home,14,Oregon State,49,Oregon
+2024,3,week03,2024-09-14,team1Home,7,Purdue,66,Notre Dame
+2024,3,week03,2024-09-14,team1Home,12,Florida State,20,Memphis
+2024,3,week03,2024-09-14,team1Home,9,Colorado State,28,Colorado
+2024,3,week03,2024-09-14,team1Home,33,Houston,7,Rice
+2024,3,week03,2024-09-14,team1Home,34,Texas Christian,35,Central Florida
+2024,3,week03,2024-09-14,team1Home,66,Texas Tech,21,North Texas
+2024,3,week03,2024-09-14,team1Home,10,Tulsa,45,Oklahoma State
+2024,3,week03,2024-09-14,team1Home,31,Akron,20,Colgate
+2024,3,week03,2024-09-14,team1Home,45,New Hampshire,6,Stonehill
+2024,3,week03,2024-09-14,team1Home,59,Montana,2,Morehead State
+2024,3,week03,2024-09-14,team1Home,17,Long Island,20,Lehigh
+2024,3,week03,2024-09-14,team1Home,28,McNeese State,24,Stephen F. Austin
 2024,4,week04,2024-09-19,team1Home,-1,Appalachian State,-1,South Alabama
 2024,4,week04,2024-09-20,team1Home,-1,Nebraska,-1,Illinois
 2024,4,week04,2024-09-20,team1Home,-1,Syracuse,-1,Stanford

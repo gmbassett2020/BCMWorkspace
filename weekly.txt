@@ -129,17 +129,15 @@ in sched-col
   doScores.csh
 
 
-python forecastAndRank.py currentSeason=2024 maxRound=1 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkb0.txt |& tee tmp.txt
-python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkb1.txt |& tee tmp.txt
-python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk02.txt |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=1 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkb0.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkb1.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk02.txt usePowerUncertainty=True |& tee tmp.txt
 ...
-python forecastAndRank.py currentSeason=2024 maxRound=16 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk15.txt |& tee tmp.txt
-python forecastAndRank.py currentSeason=2024 maxRound=17 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wke1.txt |& tee tmp.txt
-python forecastAndRank.py currentSeason=2024 maxRound=18 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wke2.txt |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=16 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk15.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=17 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wke1.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=18 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wke2.txt usePowerUncertainty=True |& tee tmp.txt
 # also needed to add a dummy game for the following week for the final results:
-python forecastAndRank.py currentSeason=2024 maxRound=19 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkfnl.txt |& tee tmp.txt
-
-python forecastAndRank.py currentSeason=2023 maxRound=18 useTeamListFile=workspace/colI-list-2020_2023.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2023.csv saveTeamPowersToFile=workspace/colI-curPower-2023.csv outputFile=workspace/col-23wke2.txt |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=19 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkfnl.txt usePowerUncertainty=True |& tee tmp.txt
 
 makeweb.pl
 update spotlight.html
@@ -157,3 +155,6 @@ tmp work:
 python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv saveTeamPowersToFile=workspace/nfl-curPower-2024.csv outputFile=workspace/nfl-24wk02-3.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wkb1-uncert.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk02-uncert.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=4 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk03.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=5 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv saveTeamPowersToFile=workspace/colI-curPower-2024.csv outputFile=workspace/col-24wk04.txt usePowerUncertainty=True |& tee tmp.txt
+
