@@ -23,8 +23,8 @@ my $html_base = "./html";
 #FIXME
 my $year = "2024";
 my $league = "nfl";
-my $week = "week02"; # this is the current week, the result week is one less
-my $today = "11 Sep 2024";
+my $week = "week03"; # this is the current week, the result week is one less
+my $today = "17 Sep 2024";
 #my $year = "2023";
 #my $league = "col";
 #my $week = "wke3"; # this is the current week, the result week is one less, wkb#,wk##,wke#
@@ -765,6 +765,26 @@ sub addWeek
 $wk_count = 1;
 addWeek($league, $year, "wkb1", "Week 1 (5-9 Sep)", $wk_count++);
 addWeek($league, $year, "wk02", "Week 2 (12-16 Sep)", $wk_count++);
+addWeek($league, $year, "wk03", "Week 3 (19-23 Sep)", $wk_count++);
+addWeek($league, $year, "wk04", "Week 4 (26-30 Sep)", $wk_count++);
+addWeek($league, $year, "wk05", "Week 5 (3-7 Oct)", $wk_count++);
+addWeek($league, $year, "wk06", "Week 6 (10-14 Oct)", $wk_count++);
+addWeek($league, $year, "wk07", "Week 7 (17-21 Oct)", $wk_count++);
+addWeek($league, $year, "wk08", "Week 8 (24-28 Oct)", $wk_count++);
+addWeek($league, $year, "wk09", "Week 9 (31 Oct - 4 Nov)", $wk_count++);
+addWeek($league, $year, "wk10", "Week 10 (7-11 Nov)", $wk_count++);
+addWeek($league, $year, "wk11", "Week 11 (14-18 Nov)", $wk_count++);
+addWeek($league, $year, "wk12", "Week 12 (21-25 Nov)", $wk_count++);
+addWeek($league, $year, "wk13", "Week 13 (28 Nov - 2 Dec)", $wk_count++);
+addWeek($league, $year, "wk14", "Week 14 (5-9 Dec)", $wk_count++);
+addWeek($league, $year, "wk15", "Week 15 (12-16 Dec)", $wk_count++);
+addWeek($league, $year, "wk16", "Week 16 (19-21 Dec)", $wk_count++);
+addWeek($league, $year, "wk17", "Week 17 (25-29 Dec)", $wk_count++);
+addWeek($league, $year, "wk18", "Week 18 (5 Jan)", $wk_count++);
+addWeek($league, $year, "wke1", "Postseason: Wild Card (11-13 Jan)", $wk_count++);
+addWeek($league, $year, "wke2", "Postseason: Divisional (18-19 Jan)", $wk_count++);
+addWeek($league, $year, "wke3", "Postseason: Conference (26 Jan)", $wk_count++);
+addWeek($league, $year, "wke4", "Super Bowl (9 Feb)", $wk_count++);
 
 # 2023 season:
 $wk_count = 1;
