@@ -14,239 +14,239 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2001,0,weekb1,2001-09-09,team1Home,30,Los Angeles Chargers,3,Washington
 2001,0,weekb1,2001-09-09,team1Home,23,Tennessee,31,Miami
 2001,0,weekb1,2001-09-10,team1Home,31,Denver,20,New York Giants
-2001,1,week03,2001-09-23,team1Home,21,Cincinnati,10,Baltimore
-2001,1,week03,2001-09-23,team1Home,42,Indianapolis,26,Buffalo
-2001,1,week03,2001-09-23,team1Home,24,Atlanta,16,Carolina
-2001,1,week03,2001-09-23,team1Home,24,Cleveland,14,Detroit
-2001,1,week03,2001-09-23,team1Home,17,Chicago,10,Minnesota
-2001,1,week03,2001-09-23,team1Home,3,Kansas City,13,New York Giants
-2001,1,week03,2001-09-23,team1Home,3,New England,10,New York Jets
-2001,1,week03,2001-09-23,team1Home,18,Miami,15,Oakland
-2001,1,week03,2001-09-23,team1Home,3,Seattle,27,Philadelphia
-2001,1,week03,2001-09-23,team1Home,26,San Francisco,30,Los Angeles Rams
-2001,1,week03,2001-09-23,team1Home,21,Dallas,32,Los Angeles Chargers
-2001,1,week03,2001-09-23,team1Home,13,Jacksonville,6,Tennessee
-2001,1,week03,2001-09-23,team1Home,17,Arizona,38,Denver
-2001,1,week03,2001-09-24,team1Home,37,Green Bay,0,Washington
-2001,2,week04,2001-09-30,team1Home,14,Arizona,34,Atlanta
-2001,2,week04,2001-09-30,team1Home,13,Denver,20,Baltimore
-2001,2,week04,2001-09-30,team1Home,28,Los Angeles Chargers,14,Cincinnati
-2001,2,week04,2001-09-30,team1Home,14,Jacksonville,23,Cleveland
-2001,2,week04,2001-09-30,team1Home,7,Carolina,28,Green Bay
-2001,2,week04,2001-09-30,team1Home,44,New England,13,Indianapolis
-2001,2,week04,2001-09-30,team1Home,13,Washington,45,Kansas City
-2001,2,week04,2001-09-30,team1Home,42,Los Angeles Rams,10,Miami
-2001,2,week04,2001-09-30,team1Home,21,New York Giants,13,New Orleans
-2001,2,week04,2001-09-30,team1Home,3,Buffalo,20,Pittsburgh
-2001,2,week04,2001-09-30,team1Home,38,Oakland,14,Seattle
-2001,2,week04,2001-09-30,team1Home,20,Minnesota,16,Tampa Bay
-2001,2,week04,2001-09-30,team1Home,40,Philadelphia,18,Dallas
-2001,2,week04,2001-10-01,team1Home,17,New York Jets,19,San Francisco
-2001,3,week05,2001-10-07,team1Home,20,Philadelphia,21,Arizona
-2001,3,week05,2001-10-07,team1Home,3,Atlanta,31,Chicago
-2001,3,week05,2001-10-07,team1Home,16,Pittsburgh,7,Cincinnati
-2001,3,week05,2001-10-07,team1Home,14,Tampa Bay,10,Green Bay
-2001,3,week05,2001-10-07,team1Home,24,Seattle,15,Jacksonville
-2001,3,week05,2001-10-07,team1Home,20,Denver,6,Kansas City
-2001,3,week05,2001-10-07,team1Home,28,New Orleans,15,Minnesota
-2001,3,week05,2001-10-07,team1Home,28,Oakland,21,Dallas
-2001,3,week05,2001-10-07,team1Home,30,Miami,10,New England
-2001,3,week05,2001-10-07,team1Home,36,Buffalo,42,New York Jets
-2001,3,week05,2001-10-07,team1Home,20,Cleveland,16,Los Angeles Chargers
-2001,3,week05,2001-10-07,team1Home,26,Baltimore,7,Tennessee
-2001,3,week05,2001-10-07,team1Home,23,New York Giants,9,Washington
-2001,3,week05,2001-10-07,team1Home,24,San Francisco,14,Carolina
-2001,3,week05,2001-10-08,team1Home,0,Detroit,35,Los Angeles Rams
-2001,4,week06,2001-10-14,team1Home,20,Chicago,13,Arizona
-2001,4,week06,2001-10-14,team1Home,31,Green Bay,23,Baltimore
-2001,4,week06,2001-10-14,team1Home,24,Cincinnati,14,Cleveland
-2001,4,week06,2001-10-14,team1Home,34,Seattle,21,Denver
-2001,4,week06,2001-10-14,team1Home,31,Minnesota,26,Detroit
-2001,4,week06,2001-10-14,team1Home,21,New York Jets,17,Miami
-2001,4,week06,2001-10-14,team1Home,25,Carolina,27,New Orleans
-2001,4,week06,2001-10-14,team1Home,15,Los Angeles Rams,14,New York Giants
-2001,4,week06,2001-10-14,team1Home,17,Kansas City,20,Pittsburgh
-2001,4,week06,2001-10-14,team1Home,29,New England,26,Los Angeles Chargers
-2001,4,week06,2001-10-14,team1Home,31,Atlanta,37,San Francisco
-2001,4,week06,2001-10-14,team1Home,31,Tennessee,28,Tampa Bay
-2001,4,week06,2001-10-14,team1Home,18,Indianapolis,23,Oakland
-2001,4,week06,2001-10-15,team1Home,9,Dallas,7,Washington
-2001,5,week07,2001-10-18,team1Home,10,Jacksonville,13,Buffalo
-2001,5,week07,2001-10-21,team1Home,13,New Orleans,20,Atlanta
-2001,5,week07,2001-10-21,team1Home,24,Cleveland,14,Baltimore
-2001,5,week07,2001-10-21,team1Home,17,Washington,14,Carolina
-2001,5,week07,2001-10-21,team1Home,0,Cincinnati,24,Chicago
-2001,5,week07,2001-10-21,team1Home,27,Los Angeles Chargers,10,Denver
-2001,5,week07,2001-10-21,team1Home,35,Minnesota,13,Green Bay
-2001,5,week07,2001-10-21,team1Home,24,Arizona,16,Kansas City
-2001,5,week07,2001-10-21,team1Home,17,Indianapolis,38,New England
-2001,5,week07,2001-10-21,team1Home,10,Tampa Bay,17,Pittsburgh
-2001,5,week07,2001-10-21,team1Home,14,New York Jets,34,Los Angeles Rams
-2001,5,week07,2001-10-21,team1Home,24,Detroit,27,Tennessee
-2001,5,week07,2001-10-22,team1Home,9,New York Giants,10,Philadelphia
-2001,6,week08,2001-10-28,team1Home,17,Dallas,3,Arizona
-2001,6,week08,2001-10-28,team1Home,27,Los Angeles Chargers,24,Buffalo
-2001,6,week08,2001-10-28,team1Home,27,Detroit,31,Cincinnati
-2001,6,week08,2001-10-28,team1Home,28,Kansas City,35,Indianapolis
-2001,6,week08,2001-10-28,team1Home,18,Baltimore,17,Jacksonville
-2001,6,week08,2001-10-28,team1Home,20,Seattle,24,Miami
-2001,6,week08,2001-10-28,team1Home,41,Tampa Bay,14,Minnesota
-2001,6,week08,2001-10-28,team1Home,31,Denver,20,New England
-2001,6,week08,2001-10-28,team1Home,31,Los Angeles Rams,34,New Orleans
-2001,6,week08,2001-10-28,team1Home,12,Carolina,13,New York Jets
-2001,6,week08,2001-10-28,team1Home,10,Philadelphia,20,Oakland
-2001,6,week08,2001-10-28,team1Home,37,Chicago,31,San Francisco
-2001,6,week08,2001-10-28,team1Home,35,Washington,21,New York Giants
-2001,6,week08,2001-10-29,team1Home,34,Pittsburgh,7,Tennessee
-2001,7,week09,2001-11-04,team1Home,10,Pittsburgh,13,Baltimore
-2001,7,week09,2001-11-04,team1Home,23,Miami,6,Carolina
-2001,7,week09,2001-11-04,team1Home,27,Chicago,21,Cleveland
-2001,7,week09,2001-11-04,team1Home,27,New York Giants,24,Dallas
-2001,7,week09,2001-11-04,team1Home,21,San Francisco,13,Detroit
-2001,7,week09,2001-11-04,team1Home,14,Buffalo,30,Indianapolis
-2001,7,week09,2001-11-04,team1Home,28,Tennessee,24,Jacksonville
-2001,7,week09,2001-11-04,team1Home,20,Los Angeles Chargers,25,Kansas City
-2001,7,week09,2001-11-04,team1Home,10,Atlanta,24,New England
-2001,7,week09,2001-11-04,team1Home,7,Arizona,21,Philadelphia
-2001,7,week09,2001-11-04,team1Home,27,Washington,14,Seattle
-2001,7,week09,2001-11-04,team1Home,21,Green Bay,20,Tampa Bay
-2001,7,week09,2001-11-04,team1Home,9,New Orleans,16,New York Jets
-2001,7,week09,2001-11-05,team1Home,38,Oakland,28,Denver
-2001,8,week10,2001-11-11,team1Home,21,New England,11,Buffalo
-2001,8,week10,2001-11-11,team1Home,48,Los Angeles Rams,14,Carolina
-2001,8,week10,2001-11-11,team1Home,30,Jacksonville,13,Cincinnati
-2001,8,week10,2001-11-11,team1Home,20,Atlanta,13,Dallas
-2001,8,week10,2001-11-11,team1Home,12,Chicago,20,Green Bay
-2001,8,week10,2001-11-11,team1Home,27,New York Jets,7,Kansas City
-2001,8,week10,2001-11-11,team1Home,24,Indianapolis,27,Miami
-2001,8,week10,2001-11-11,team1Home,48,Philadelphia,17,Minnesota
-2001,8,week10,2001-11-11,team1Home,28,San Francisco,27,New Orleans
-2001,8,week10,2001-11-11,team1Home,10,Arizona,17,New York Giants
-2001,8,week10,2001-11-11,team1Home,12,Cleveland,15,Pittsburgh
-2001,8,week10,2001-11-11,team1Home,26,Denver,16,Los Angeles Chargers
-2001,8,week10,2001-11-11,team1Home,17,Detroit,20,Tampa Bay
-2001,8,week10,2001-11-11,team1Home,34,Seattle,27,Oakland
-2001,8,week10,2001-11-12,team1Home,10,Tennessee,16,Baltimore
-2001,9,week11,2001-11-18,team1Home,20,Green Bay,23,Atlanta
-2001,9,week11,2001-11-18,team1Home,24,Tampa Bay,27,Chicago
-2001,9,week11,2001-11-18,team1Home,17,Baltimore,27,Cleveland
-2001,9,week11,2001-11-18,team1Home,45,Arizona,38,Detroit
-2001,9,week11,2001-11-18,team1Home,34,New Orleans,20,Indianapolis
-2001,9,week11,2001-11-18,team1Home,20,Pittsburgh,7,Jacksonville
-2001,9,week11,2001-11-18,team1Home,0,Miami,24,New York Jets
-2001,9,week11,2001-11-18,team1Home,3,Dallas,36,Philadelphia
-2001,9,week11,2001-11-18,team1Home,34,Oakland,24,Los Angeles Chargers
-2001,9,week11,2001-11-18,team1Home,22,Carolina,25,San Francisco
-2001,9,week11,2001-11-18,team1Home,20,Buffalo,23,Seattle
-2001,9,week11,2001-11-18,team1Home,7,Cincinnati,20,Tennessee
-2001,9,week11,2001-11-18,team1Home,10,Denver,17,Washington
-2001,9,week11,2001-11-18,team1Home,17,New England,24,Los Angeles Rams
-2001,9,week11,2001-11-19,team1Home,28,Minnesota,16,New York Giants
-2001,10,week12,2001-11-22,team1Home,27,Detroit,29,Green Bay
-2001,10,week12,2001-11-22,team1Home,24,Dallas,26,Denver
-2001,10,week12,2001-11-25,team1Home,17,Los Angeles Chargers,20,Arizona
-2001,10,week12,2001-11-25,team1Home,7,Carolina,10,Atlanta
-2001,10,week12,2001-11-25,team1Home,21,Jacksonville,24,Baltimore
-2001,10,week12,2001-11-25,team1Home,18,Cleveland,0,Cincinnati
-2001,10,week12,2001-11-25,team1Home,27,Buffalo,34,Miami
-2001,10,week12,2001-11-25,team1Home,34,New England,17,New Orleans
-2001,10,week12,2001-11-25,team1Home,10,New York Giants,28,Oakland
-2001,10,week12,2001-11-25,team1Home,24,Tennessee,34,Pittsburgh
-2001,10,week12,2001-11-25,team1Home,21,Indianapolis,40,San Francisco
-2001,10,week12,2001-11-25,team1Home,19,Kansas City,7,Seattle
-2001,10,week12,2001-11-25,team1Home,3,Philadelphia,13,Washington
-2001,10,week12,2001-11-25,team1Home,6,Minnesota,13,Chicago
-2001,10,week12,2001-11-26,team1Home,17,Los Angeles Rams,24,Tampa Bay
-2001,11,week13,2001-11-29,team1Home,10,Kansas City,23,Philadelphia
-2001,11,week13,2001-12-02,team1Home,31,Oakland,34,Arizona
-2001,11,week13,2001-12-02,team1Home,27,New Orleans,23,Carolina
-2001,11,week13,2001-12-02,team1Home,14,Washington,20,Dallas
-2001,11,week13,2001-12-02,team1Home,21,Miami,10,Denver
-2001,11,week13,2001-12-02,team1Home,13,Chicago,10,Detroit
-2001,11,week13,2001-12-02,team1Home,39,Baltimore,27,Indianapolis
-2001,11,week13,2001-12-02,team1Home,21,Pittsburgh,16,Minnesota
-2001,11,week13,2001-12-02,team1Home,16,New York Jets,17,New England
-2001,11,week13,2001-12-02,team1Home,6,Atlanta,35,Los Angeles Rams
-2001,11,week13,2001-12-02,team1Home,13,Seattle,10,Los Angeles Chargers
-2001,11,week13,2001-12-02,team1Home,13,Cincinnati,16,Tampa Bay
-2001,11,week13,2001-12-02,team1Home,15,Cleveland,31,Tennessee
-2001,11,week13,2001-12-02,team1Home,35,San Francisco,0,Buffalo
-2001,11,week13,2001-12-03,team1Home,21,Jacksonville,28,Green Bay
-2001,12,week14,2001-12-09,team1Home,25,Buffalo,24,Carolina
-2001,12,week14,2001-12-09,team1Home,17,Green Bay,7,Chicago
-2001,12,week14,2001-12-09,team1Home,27,New England,16,Cleveland
-2001,12,week14,2001-12-09,team1Home,15,Tampa Bay,12,Detroit
-2001,12,week14,2001-12-09,team1Home,10,Cincinnati,14,Jacksonville
-2001,12,week14,2001-12-09,team1Home,28,Oakland,26,Kansas City
-2001,12,week14,2001-12-09,team1Home,10,Atlanta,28,New Orleans
-2001,12,week14,2001-12-09,team1Home,20,Dallas,13,New York Giants
-2001,12,week14,2001-12-09,team1Home,18,Pittsburgh,7,New York Jets
-2001,12,week14,2001-12-09,team1Home,24,Philadelphia,14,Los Angeles Chargers
-2001,12,week14,2001-12-09,team1Home,27,Los Angeles Rams,14,San Francisco
-2001,12,week14,2001-12-09,team1Home,42,Minnesota,24,Tennessee
-2001,12,week14,2001-12-09,team1Home,10,Arizona,20,Washington
-2001,12,week14,2001-12-09,team1Home,20,Denver,7,Seattle
-2001,12,week14,2001-12-10,team1Home,41,Miami,6,Indianapolis
-2001,13,week15,2001-12-15,team1Home,17,New York Giants,13,Arizona
-2001,13,week15,2001-12-15,team1Home,6,Los Angeles Chargers,13,Oakland
-2001,13,week15,2001-12-16,team1Home,41,Indianapolis,27,Atlanta
-2001,13,week15,2001-12-16,team1Home,15,New York Jets,14,Cincinnati
-2001,13,week15,2001-12-16,team1Home,29,Seattle,3,Dallas
-2001,13,week15,2001-12-16,team1Home,26,Kansas City,23,Denver
-2001,13,week15,2001-12-16,team1Home,26,Tennessee,20,Green Bay
-2001,13,week15,2001-12-16,team1Home,10,Cleveland,15,Jacksonville
-2001,13,week15,2001-12-16,team1Home,21,San Francisco,0,Miami
-2001,13,week15,2001-12-16,team1Home,27,Detroit,24,Minnesota
-2001,13,week15,2001-12-16,team1Home,9,Buffalo,12,New England
-2001,13,week15,2001-12-16,team1Home,6,Washington,20,Philadelphia
-2001,13,week15,2001-12-16,team1Home,27,Chicago,3,Tampa Bay
-2001,13,week15,2001-12-16,team1Home,21,Baltimore,26,Pittsburgh
-2001,13,week15,2001-12-17,team1Home,21,New Orleans,34,Los Angeles Rams
-2001,14,week16,2001-12-22,team1Home,20,New England,13,Miami
-2001,14,week16,2001-12-22,team1Home,13,San Francisco,3,Philadelphia
-2001,14,week16,2001-12-22,team1Home,10,Oakland,13,Tennessee
-2001,14,week16,2001-12-23,team1Home,33,Atlanta,30,Buffalo
-2001,14,week16,2001-12-23,team1Home,15,Washington,20,Chicago
-2001,14,week16,2001-12-23,team1Home,16,Baltimore,0,Cincinnati
-2001,14,week16,2001-12-23,team1Home,30,Green Bay,7,Cleveland
-2001,14,week16,2001-12-23,team1Home,17,Arizona,10,Dallas
-2001,14,week16,2001-12-23,team1Home,47,Pittsburgh,14,Detroit
-2001,14,week16,2001-12-23,team1Home,3,Minnesota,33,Jacksonville
-2001,14,week16,2001-12-23,team1Home,48,Tampa Bay,21,New Orleans
-2001,14,week16,2001-12-23,team1Home,32,Carolina,38,Los Angeles Rams
-2001,14,week16,2001-12-23,team1Home,20,Kansas City,17,Los Angeles Chargers
-2001,14,week16,2001-12-23,team1Home,27,New York Giants,24,Seattle
-2001,14,week16,2001-12-23,team1Home,28,Indianapolis,29,New York Jets
-2001,15,week17,2001-12-29,team1Home,22,Tampa Bay,10,Baltimore
-2001,15,week17,2001-12-30,team1Home,7,Carolina,30,Arizona
-2001,15,week17,2001-12-30,team1Home,21,Miami,14,Atlanta
-2001,15,week17,2001-12-30,team1Home,9,New York Jets,14,Buffalo
-2001,15,week17,2001-12-30,team1Home,0,Detroit,24,Chicago
-2001,15,week17,2001-12-30,team1Home,38,Tennessee,41,Cleveland
-2001,15,week17,2001-12-30,team1Home,42,Los Angeles Rams,17,Indianapolis
-2001,15,week17,2001-12-30,team1Home,26,Jacksonville,30,Kansas City
-2001,15,week17,2001-12-30,team1Home,24,Green Bay,13,Minnesota
-2001,15,week17,2001-12-30,team1Home,24,Philadelphia,21,New York Giants
-2001,15,week17,2001-12-30,team1Home,23,Denver,17,Oakland
-2001,15,week17,2001-12-30,team1Home,26,Cincinnati,23,Pittsburgh
-2001,15,week17,2001-12-30,team1Home,27,Dallas,21,San Francisco
-2001,15,week17,2001-12-30,team1Home,22,Los Angeles Chargers,25,Seattle
-2001,15,week17,2001-12-30,team1Home,10,New Orleans,40,Washington
-2001,16,week18,2001-01-06,team1Home,28,Pittsburgh,7,Cleveland
-2001,16,week18,2001-01-06,team1Home,33,Chicago,13,Jacksonville
-2001,16,week18,2001-01-06,team1Home,20,Washington,17,Arizona
-2001,16,week18,2001-01-06,team1Home,21,Tennessee,23,Cincinnati
-2001,16,week18,2001-01-06,team1Home,25,New York Giants,34,Green Bay
-2001,16,week18,2001-01-06,team1Home,0,New Orleans,38,San Francisco
-2001,16,week18,2001-01-06,team1Home,29,Indianapolis,10,Denver
-2001,16,week18,2001-01-06,team1Home,15,Detroit,10,Dallas
-2001,16,week18,2001-01-06,team1Home,6,Carolina,38,New England
-2001,16,week18,2001-01-06,team1Home,31,Los Angeles Rams,13,Atlanta
-2001,16,week18,2001-01-06,team1Home,21,Seattle,18,Kansas City
-2001,16,week18,2001-01-06,team1Home,22,Oakland,24,New York Jets
-2001,16,week18,2001-01-06,team1Home,34,Miami,7,Buffalo
-2001,16,week18,2001-01-06,team1Home,13,Tampa Bay,17,Philadelphia
-2001,16,week18,2001-01-07,team1Home,19,Baltimore,3,Minnesota
+2001,1,week02,2001-09-23,team1Home,21,Cincinnati,10,Baltimore
+2001,1,week02,2001-09-23,team1Home,42,Indianapolis,26,Buffalo
+2001,1,week02,2001-09-23,team1Home,24,Atlanta,16,Carolina
+2001,1,week02,2001-09-23,team1Home,24,Cleveland,14,Detroit
+2001,1,week02,2001-09-23,team1Home,17,Chicago,10,Minnesota
+2001,1,week02,2001-09-23,team1Home,3,Kansas City,13,New York Giants
+2001,1,week02,2001-09-23,team1Home,3,New England,10,New York Jets
+2001,1,week02,2001-09-23,team1Home,18,Miami,15,Oakland
+2001,1,week02,2001-09-23,team1Home,3,Seattle,27,Philadelphia
+2001,1,week02,2001-09-23,team1Home,26,San Francisco,30,Los Angeles Rams
+2001,1,week02,2001-09-23,team1Home,21,Dallas,32,Los Angeles Chargers
+2001,1,week02,2001-09-23,team1Home,13,Jacksonville,6,Tennessee
+2001,1,week02,2001-09-23,team1Home,17,Arizona,38,Denver
+2001,1,week02,2001-09-24,team1Home,37,Green Bay,0,Washington
+2001,2,week03,2001-09-30,team1Home,14,Arizona,34,Atlanta
+2001,2,week03,2001-09-30,team1Home,13,Denver,20,Baltimore
+2001,2,week03,2001-09-30,team1Home,28,Los Angeles Chargers,14,Cincinnati
+2001,2,week03,2001-09-30,team1Home,14,Jacksonville,23,Cleveland
+2001,2,week03,2001-09-30,team1Home,7,Carolina,28,Green Bay
+2001,2,week03,2001-09-30,team1Home,44,New England,13,Indianapolis
+2001,2,week03,2001-09-30,team1Home,13,Washington,45,Kansas City
+2001,2,week03,2001-09-30,team1Home,42,Los Angeles Rams,10,Miami
+2001,2,week03,2001-09-30,team1Home,21,New York Giants,13,New Orleans
+2001,2,week03,2001-09-30,team1Home,3,Buffalo,20,Pittsburgh
+2001,2,week03,2001-09-30,team1Home,38,Oakland,14,Seattle
+2001,2,week03,2001-09-30,team1Home,20,Minnesota,16,Tampa Bay
+2001,2,week03,2001-09-30,team1Home,40,Philadelphia,18,Dallas
+2001,2,week03,2001-10-01,team1Home,17,New York Jets,19,San Francisco
+2001,3,week04,2001-10-07,team1Home,20,Philadelphia,21,Arizona
+2001,3,week04,2001-10-07,team1Home,3,Atlanta,31,Chicago
+2001,3,week04,2001-10-07,team1Home,16,Pittsburgh,7,Cincinnati
+2001,3,week04,2001-10-07,team1Home,14,Tampa Bay,10,Green Bay
+2001,3,week04,2001-10-07,team1Home,24,Seattle,15,Jacksonville
+2001,3,week04,2001-10-07,team1Home,20,Denver,6,Kansas City
+2001,3,week04,2001-10-07,team1Home,28,New Orleans,15,Minnesota
+2001,3,week04,2001-10-07,team1Home,28,Oakland,21,Dallas
+2001,3,week04,2001-10-07,team1Home,30,Miami,10,New England
+2001,3,week04,2001-10-07,team1Home,36,Buffalo,42,New York Jets
+2001,3,week04,2001-10-07,team1Home,20,Cleveland,16,Los Angeles Chargers
+2001,3,week04,2001-10-07,team1Home,26,Baltimore,7,Tennessee
+2001,3,week04,2001-10-07,team1Home,23,New York Giants,9,Washington
+2001,3,week04,2001-10-07,team1Home,24,San Francisco,14,Carolina
+2001,3,week04,2001-10-08,team1Home,0,Detroit,35,Los Angeles Rams
+2001,4,week05,2001-10-14,team1Home,20,Chicago,13,Arizona
+2001,4,week05,2001-10-14,team1Home,31,Green Bay,23,Baltimore
+2001,4,week05,2001-10-14,team1Home,24,Cincinnati,14,Cleveland
+2001,4,week05,2001-10-14,team1Home,34,Seattle,21,Denver
+2001,4,week05,2001-10-14,team1Home,31,Minnesota,26,Detroit
+2001,4,week05,2001-10-14,team1Home,21,New York Jets,17,Miami
+2001,4,week05,2001-10-14,team1Home,25,Carolina,27,New Orleans
+2001,4,week05,2001-10-14,team1Home,15,Los Angeles Rams,14,New York Giants
+2001,4,week05,2001-10-14,team1Home,17,Kansas City,20,Pittsburgh
+2001,4,week05,2001-10-14,team1Home,29,New England,26,Los Angeles Chargers
+2001,4,week05,2001-10-14,team1Home,31,Atlanta,37,San Francisco
+2001,4,week05,2001-10-14,team1Home,31,Tennessee,28,Tampa Bay
+2001,4,week05,2001-10-14,team1Home,18,Indianapolis,23,Oakland
+2001,4,week05,2001-10-15,team1Home,9,Dallas,7,Washington
+2001,5,week06,2001-10-18,team1Home,10,Jacksonville,13,Buffalo
+2001,5,week06,2001-10-21,team1Home,13,New Orleans,20,Atlanta
+2001,5,week06,2001-10-21,team1Home,24,Cleveland,14,Baltimore
+2001,5,week06,2001-10-21,team1Home,17,Washington,14,Carolina
+2001,5,week06,2001-10-21,team1Home,0,Cincinnati,24,Chicago
+2001,5,week06,2001-10-21,team1Home,27,Los Angeles Chargers,10,Denver
+2001,5,week06,2001-10-21,team1Home,35,Minnesota,13,Green Bay
+2001,5,week06,2001-10-21,team1Home,24,Arizona,16,Kansas City
+2001,5,week06,2001-10-21,team1Home,17,Indianapolis,38,New England
+2001,5,week06,2001-10-21,team1Home,10,Tampa Bay,17,Pittsburgh
+2001,5,week06,2001-10-21,team1Home,14,New York Jets,34,Los Angeles Rams
+2001,5,week06,2001-10-21,team1Home,24,Detroit,27,Tennessee
+2001,5,week06,2001-10-22,team1Home,9,New York Giants,10,Philadelphia
+2001,6,week07,2001-10-28,team1Home,17,Dallas,3,Arizona
+2001,6,week07,2001-10-28,team1Home,27,Los Angeles Chargers,24,Buffalo
+2001,6,week07,2001-10-28,team1Home,27,Detroit,31,Cincinnati
+2001,6,week07,2001-10-28,team1Home,28,Kansas City,35,Indianapolis
+2001,6,week07,2001-10-28,team1Home,18,Baltimore,17,Jacksonville
+2001,6,week07,2001-10-28,team1Home,20,Seattle,24,Miami
+2001,6,week07,2001-10-28,team1Home,41,Tampa Bay,14,Minnesota
+2001,6,week07,2001-10-28,team1Home,31,Denver,20,New England
+2001,6,week07,2001-10-28,team1Home,31,Los Angeles Rams,34,New Orleans
+2001,6,week07,2001-10-28,team1Home,12,Carolina,13,New York Jets
+2001,6,week07,2001-10-28,team1Home,10,Philadelphia,20,Oakland
+2001,6,week07,2001-10-28,team1Home,37,Chicago,31,San Francisco
+2001,6,week07,2001-10-28,team1Home,35,Washington,21,New York Giants
+2001,6,week07,2001-10-29,team1Home,34,Pittsburgh,7,Tennessee
+2001,7,week08,2001-11-04,team1Home,10,Pittsburgh,13,Baltimore
+2001,7,week08,2001-11-04,team1Home,23,Miami,6,Carolina
+2001,7,week08,2001-11-04,team1Home,27,Chicago,21,Cleveland
+2001,7,week08,2001-11-04,team1Home,27,New York Giants,24,Dallas
+2001,7,week08,2001-11-04,team1Home,21,San Francisco,13,Detroit
+2001,7,week08,2001-11-04,team1Home,14,Buffalo,30,Indianapolis
+2001,7,week08,2001-11-04,team1Home,28,Tennessee,24,Jacksonville
+2001,7,week08,2001-11-04,team1Home,20,Los Angeles Chargers,25,Kansas City
+2001,7,week08,2001-11-04,team1Home,10,Atlanta,24,New England
+2001,7,week08,2001-11-04,team1Home,7,Arizona,21,Philadelphia
+2001,7,week08,2001-11-04,team1Home,27,Washington,14,Seattle
+2001,7,week08,2001-11-04,team1Home,21,Green Bay,20,Tampa Bay
+2001,7,week08,2001-11-04,team1Home,9,New Orleans,16,New York Jets
+2001,7,week08,2001-11-05,team1Home,38,Oakland,28,Denver
+2001,8,week09,2001-11-11,team1Home,21,New England,11,Buffalo
+2001,8,week09,2001-11-11,team1Home,48,Los Angeles Rams,14,Carolina
+2001,8,week09,2001-11-11,team1Home,30,Jacksonville,13,Cincinnati
+2001,8,week09,2001-11-11,team1Home,20,Atlanta,13,Dallas
+2001,8,week09,2001-11-11,team1Home,12,Chicago,20,Green Bay
+2001,8,week09,2001-11-11,team1Home,27,New York Jets,7,Kansas City
+2001,8,week09,2001-11-11,team1Home,24,Indianapolis,27,Miami
+2001,8,week09,2001-11-11,team1Home,48,Philadelphia,17,Minnesota
+2001,8,week09,2001-11-11,team1Home,28,San Francisco,27,New Orleans
+2001,8,week09,2001-11-11,team1Home,10,Arizona,17,New York Giants
+2001,8,week09,2001-11-11,team1Home,12,Cleveland,15,Pittsburgh
+2001,8,week09,2001-11-11,team1Home,26,Denver,16,Los Angeles Chargers
+2001,8,week09,2001-11-11,team1Home,17,Detroit,20,Tampa Bay
+2001,8,week09,2001-11-11,team1Home,34,Seattle,27,Oakland
+2001,8,week09,2001-11-12,team1Home,10,Tennessee,16,Baltimore
+2001,9,week10,2001-11-18,team1Home,20,Green Bay,23,Atlanta
+2001,9,week10,2001-11-18,team1Home,24,Tampa Bay,27,Chicago
+2001,9,week10,2001-11-18,team1Home,17,Baltimore,27,Cleveland
+2001,9,week10,2001-11-18,team1Home,45,Arizona,38,Detroit
+2001,9,week10,2001-11-18,team1Home,34,New Orleans,20,Indianapolis
+2001,9,week10,2001-11-18,team1Home,20,Pittsburgh,7,Jacksonville
+2001,9,week10,2001-11-18,team1Home,0,Miami,24,New York Jets
+2001,9,week10,2001-11-18,team1Home,3,Dallas,36,Philadelphia
+2001,9,week10,2001-11-18,team1Home,34,Oakland,24,Los Angeles Chargers
+2001,9,week10,2001-11-18,team1Home,22,Carolina,25,San Francisco
+2001,9,week10,2001-11-18,team1Home,20,Buffalo,23,Seattle
+2001,9,week10,2001-11-18,team1Home,7,Cincinnati,20,Tennessee
+2001,9,week10,2001-11-18,team1Home,10,Denver,17,Washington
+2001,9,week10,2001-11-18,team1Home,17,New England,24,Los Angeles Rams
+2001,9,week10,2001-11-19,team1Home,28,Minnesota,16,New York Giants
+2001,10,week11,2001-11-22,team1Home,27,Detroit,29,Green Bay
+2001,10,week11,2001-11-22,team1Home,24,Dallas,26,Denver
+2001,10,week11,2001-11-25,team1Home,17,Los Angeles Chargers,20,Arizona
+2001,10,week11,2001-11-25,team1Home,7,Carolina,10,Atlanta
+2001,10,week11,2001-11-25,team1Home,21,Jacksonville,24,Baltimore
+2001,10,week11,2001-11-25,team1Home,18,Cleveland,0,Cincinnati
+2001,10,week11,2001-11-25,team1Home,27,Buffalo,34,Miami
+2001,10,week11,2001-11-25,team1Home,34,New England,17,New Orleans
+2001,10,week11,2001-11-25,team1Home,10,New York Giants,28,Oakland
+2001,10,week11,2001-11-25,team1Home,24,Tennessee,34,Pittsburgh
+2001,10,week11,2001-11-25,team1Home,21,Indianapolis,40,San Francisco
+2001,10,week11,2001-11-25,team1Home,19,Kansas City,7,Seattle
+2001,10,week11,2001-11-25,team1Home,3,Philadelphia,13,Washington
+2001,10,week11,2001-11-25,team1Home,6,Minnesota,13,Chicago
+2001,10,week11,2001-11-26,team1Home,17,Los Angeles Rams,24,Tampa Bay
+2001,11,week12,2001-11-29,team1Home,10,Kansas City,23,Philadelphia
+2001,11,week12,2001-12-02,team1Home,31,Oakland,34,Arizona
+2001,11,week12,2001-12-02,team1Home,27,New Orleans,23,Carolina
+2001,11,week12,2001-12-02,team1Home,14,Washington,20,Dallas
+2001,11,week12,2001-12-02,team1Home,21,Miami,10,Denver
+2001,11,week12,2001-12-02,team1Home,13,Chicago,10,Detroit
+2001,11,week12,2001-12-02,team1Home,39,Baltimore,27,Indianapolis
+2001,11,week12,2001-12-02,team1Home,21,Pittsburgh,16,Minnesota
+2001,11,week12,2001-12-02,team1Home,16,New York Jets,17,New England
+2001,11,week12,2001-12-02,team1Home,6,Atlanta,35,Los Angeles Rams
+2001,11,week12,2001-12-02,team1Home,13,Seattle,10,Los Angeles Chargers
+2001,11,week12,2001-12-02,team1Home,13,Cincinnati,16,Tampa Bay
+2001,11,week12,2001-12-02,team1Home,15,Cleveland,31,Tennessee
+2001,11,week12,2001-12-02,team1Home,35,San Francisco,0,Buffalo
+2001,11,week12,2001-12-03,team1Home,21,Jacksonville,28,Green Bay
+2001,12,week13,2001-12-09,team1Home,25,Buffalo,24,Carolina
+2001,12,week13,2001-12-09,team1Home,17,Green Bay,7,Chicago
+2001,12,week13,2001-12-09,team1Home,27,New England,16,Cleveland
+2001,12,week13,2001-12-09,team1Home,15,Tampa Bay,12,Detroit
+2001,12,week13,2001-12-09,team1Home,10,Cincinnati,14,Jacksonville
+2001,12,week13,2001-12-09,team1Home,28,Oakland,26,Kansas City
+2001,12,week13,2001-12-09,team1Home,10,Atlanta,28,New Orleans
+2001,12,week13,2001-12-09,team1Home,20,Dallas,13,New York Giants
+2001,12,week13,2001-12-09,team1Home,18,Pittsburgh,7,New York Jets
+2001,12,week13,2001-12-09,team1Home,24,Philadelphia,14,Los Angeles Chargers
+2001,12,week13,2001-12-09,team1Home,27,Los Angeles Rams,14,San Francisco
+2001,12,week13,2001-12-09,team1Home,42,Minnesota,24,Tennessee
+2001,12,week13,2001-12-09,team1Home,10,Arizona,20,Washington
+2001,12,week13,2001-12-09,team1Home,20,Denver,7,Seattle
+2001,12,week13,2001-12-10,team1Home,41,Miami,6,Indianapolis
+2001,13,week14,2001-12-15,team1Home,17,New York Giants,13,Arizona
+2001,13,week14,2001-12-15,team1Home,6,Los Angeles Chargers,13,Oakland
+2001,13,week14,2001-12-16,team1Home,41,Indianapolis,27,Atlanta
+2001,13,week14,2001-12-16,team1Home,15,New York Jets,14,Cincinnati
+2001,13,week14,2001-12-16,team1Home,29,Seattle,3,Dallas
+2001,13,week14,2001-12-16,team1Home,26,Kansas City,23,Denver
+2001,13,week14,2001-12-16,team1Home,26,Tennessee,20,Green Bay
+2001,13,week14,2001-12-16,team1Home,10,Cleveland,15,Jacksonville
+2001,13,week14,2001-12-16,team1Home,21,San Francisco,0,Miami
+2001,13,week14,2001-12-16,team1Home,27,Detroit,24,Minnesota
+2001,13,week14,2001-12-16,team1Home,9,Buffalo,12,New England
+2001,13,week14,2001-12-16,team1Home,6,Washington,20,Philadelphia
+2001,13,week14,2001-12-16,team1Home,27,Chicago,3,Tampa Bay
+2001,13,week14,2001-12-16,team1Home,21,Baltimore,26,Pittsburgh
+2001,13,week14,2001-12-17,team1Home,21,New Orleans,34,Los Angeles Rams
+2001,14,week15,2001-12-22,team1Home,20,New England,13,Miami
+2001,14,week15,2001-12-22,team1Home,13,San Francisco,3,Philadelphia
+2001,14,week15,2001-12-22,team1Home,10,Oakland,13,Tennessee
+2001,14,week15,2001-12-23,team1Home,33,Atlanta,30,Buffalo
+2001,14,week15,2001-12-23,team1Home,15,Washington,20,Chicago
+2001,14,week15,2001-12-23,team1Home,16,Baltimore,0,Cincinnati
+2001,14,week15,2001-12-23,team1Home,30,Green Bay,7,Cleveland
+2001,14,week15,2001-12-23,team1Home,17,Arizona,10,Dallas
+2001,14,week15,2001-12-23,team1Home,47,Pittsburgh,14,Detroit
+2001,14,week15,2001-12-23,team1Home,3,Minnesota,33,Jacksonville
+2001,14,week15,2001-12-23,team1Home,48,Tampa Bay,21,New Orleans
+2001,14,week15,2001-12-23,team1Home,32,Carolina,38,Los Angeles Rams
+2001,14,week15,2001-12-23,team1Home,20,Kansas City,17,Los Angeles Chargers
+2001,14,week15,2001-12-23,team1Home,27,New York Giants,24,Seattle
+2001,14,week15,2001-12-23,team1Home,28,Indianapolis,29,New York Jets
+2001,15,week16,2001-12-29,team1Home,22,Tampa Bay,10,Baltimore
+2001,15,week16,2001-12-30,team1Home,7,Carolina,30,Arizona
+2001,15,week16,2001-12-30,team1Home,21,Miami,14,Atlanta
+2001,15,week16,2001-12-30,team1Home,9,New York Jets,14,Buffalo
+2001,15,week16,2001-12-30,team1Home,0,Detroit,24,Chicago
+2001,15,week16,2001-12-30,team1Home,38,Tennessee,41,Cleveland
+2001,15,week16,2001-12-30,team1Home,42,Los Angeles Rams,17,Indianapolis
+2001,15,week16,2001-12-30,team1Home,26,Jacksonville,30,Kansas City
+2001,15,week16,2001-12-30,team1Home,24,Green Bay,13,Minnesota
+2001,15,week16,2001-12-30,team1Home,24,Philadelphia,21,New York Giants
+2001,15,week16,2001-12-30,team1Home,23,Denver,17,Oakland
+2001,15,week16,2001-12-30,team1Home,26,Cincinnati,23,Pittsburgh
+2001,15,week16,2001-12-30,team1Home,27,Dallas,21,San Francisco
+2001,15,week16,2001-12-30,team1Home,22,Los Angeles Chargers,25,Seattle
+2001,15,week16,2001-12-30,team1Home,10,New Orleans,40,Washington
+2001,16,week17,2001-01-06,team1Home,28,Pittsburgh,7,Cleveland
+2001,16,week17,2001-01-06,team1Home,33,Chicago,13,Jacksonville
+2001,16,week17,2001-01-06,team1Home,20,Washington,17,Arizona
+2001,16,week17,2001-01-06,team1Home,21,Tennessee,23,Cincinnati
+2001,16,week17,2001-01-06,team1Home,25,New York Giants,34,Green Bay
+2001,16,week17,2001-01-06,team1Home,0,New Orleans,38,San Francisco
+2001,16,week17,2001-01-06,team1Home,29,Indianapolis,10,Denver
+2001,16,week17,2001-01-06,team1Home,15,Detroit,10,Dallas
+2001,16,week17,2001-01-06,team1Home,6,Carolina,38,New England
+2001,16,week17,2001-01-06,team1Home,31,Los Angeles Rams,13,Atlanta
+2001,16,week17,2001-01-06,team1Home,21,Seattle,18,Kansas City
+2001,16,week17,2001-01-06,team1Home,22,Oakland,24,New York Jets
+2001,16,week17,2001-01-06,team1Home,34,Miami,7,Buffalo
+2001,16,week17,2001-01-06,team1Home,13,Tampa Bay,17,Philadelphia
+2001,16,week17,2001-01-07,team1Home,19,Baltimore,3,Minnesota
 2001,17,weeke1,2001-01-12,team1Home,31,Philadelphia,9,Tampa Bay
 2001,17,weeke1,2001-01-12,team1Home,38,Oakland,24,New York Jets
 2001,17,weeke1,2001-01-13,team1Home,25,Green Bay,15,San Francisco
@@ -6199,19 +6199,259 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,0,weekb1,2024-09-08,team1Home,-1,Tampa Bay,-1,Washington
 2024,0,weekb1,2024-09-08,team1Home,-1,Detroit,-1,Los Angeles Rams
 2024,0,weekb1,2024-09-09,team1Home,-1,San Francisco,-1,New York Jets
-2024,1,week02,2024-09-12,team1Home,-1,Miami,-1,Buffalo
-2024,1,week02,2024-09-15,team1Home,-1,Detroit,-1,Tampa Bay
-2024,1,week02,2024-09-15,team1Home,-1,Dallas,-1,New Orleans
-2024,1,week02,2024-09-15,team1Home,-1,Green Bay,-1,Indianapolis
-2024,1,week02,2024-09-15,team1Home,-1,Washington,-1,New York Giants
-2024,1,week02,2024-09-15,team1Home,-1,New England,-1,Seattle
-2024,1,week02,2024-09-15,team1Home,-1,Baltimore,-1,Las Vegas
-2024,1,week02,2024-09-15,team1Home,-1,Minnesota,-1,San Francisco
-2024,1,week02,2024-09-15,team1Home,-1,Jacksonville,-1,Cleveland
-2024,1,week02,2024-09-15,team1Home,-1,Tennessee,-1,New York Jets
-2024,1,week02,2024-09-15,team1Home,-1,Carolina,-1,Los Angeles Chargers
-2024,1,week02,2024-09-15,team1Home,-1,Arizona,-1,Los Angeles Rams
-2024,1,week02,2024-09-15,team1Home,-1,Kansas City,-1,Cincinnati
-2024,1,week02,2024-09-15,team1Home,-1,Denver,-1,Pittsburgh
-2024,1,week02,2024-09-15,team1Home,-1,Houston,-1,Chicago
-2024,1,week02,2024-09-16,team1Home,-1,Philadelphia,-1,Atlanta
+2024,1,week02,2024-09-12,team1Home,10,Miami,31,Buffalo
+2024,1,week02,2024-09-15,team1Home,16,Detroit,20,Tampa Bay
+2024,1,week02,2024-09-15,team1Home,19,Dallas,44,New Orleans
+2024,1,week02,2024-09-15,team1Home,16,Green Bay,10,Indianapolis
+2024,1,week02,2024-09-15,team1Home,21,Washington,18,New York Giants
+2024,1,week02,2024-09-15,team1Home,20,New England,23,Seattle
+2024,1,week02,2024-09-15,team1Home,23,Baltimore,26,Las Vegas
+2024,1,week02,2024-09-15,team1Home,23,Minnesota,17,San Francisco
+2024,1,week02,2024-09-15,team1Home,13,Jacksonville,18,Cleveland
+2024,1,week02,2024-09-15,team1Home,17,Tennessee,24,New York Jets
+2024,1,week02,2024-09-15,team1Home,3,Carolina,26,Los Angeles Chargers
+2024,1,week02,2024-09-15,team1Home,41,Arizona,10,Los Angeles Rams
+2024,1,week02,2024-09-15,team1Home,26,Kansas City,25,Cincinnati
+2024,1,week02,2024-09-15,team1Home,6,Denver,13,Pittsburgh
+2024,1,week02,2024-09-15,team1Home,19,Houston,13,Chicago
+2024,1,week02,2024-09-16,team1Home,21,Philadelphia,22,Atlanta
+2024,2,week03,2024-09-19,team1Home,-1,New York Jets,-1,New England
+2024,2,week03,2024-09-22,team1Home,-1,Cleveland,-1,New York Giants
+2024,2,week03,2024-09-22,team1Home,-1,New Orleans,-1,Philadelphia
+2024,2,week03,2024-09-22,team1Home,-1,Tampa Bay,-1,Denver
+2024,2,week03,2024-09-22,team1Home,-1,Tennessee,-1,Green Bay
+2024,2,week03,2024-09-22,team1Home,-1,Indianapolis,-1,Chicago
+2024,2,week03,2024-09-22,team1Home,-1,Minnesota,-1,Houston
+2024,2,week03,2024-09-22,team1Home,-1,Pittsburgh,-1,Los Angeles Chargers
+2024,2,week03,2024-09-22,team1Home,-1,Las Vegas,-1,Carolina
+2024,2,week03,2024-09-22,team1Home,-1,Seattle,-1,Miami
+2024,2,week03,2024-09-22,team1Home,-1,Arizona,-1,Detroit
+2024,2,week03,2024-09-22,team1Home,-1,Los Angeles Rams,-1,San Francisco
+2024,2,week03,2024-09-22,team1Home,-1,Dallas,-1,Baltimore
+2024,2,week03,2024-09-22,team1Home,-1,Atlanta,-1,Kansas City
+2024,2,week03,2024-09-23,team1Home,-1,Buffalo,-1,Jacksonville
+2024,2,week03,2024-09-23,team1Home,-1,Cincinnati,-1,Washington
+2024,3,week04,2024-09-26,team1Home,-1,New York Giants,-1,Dallas
+2024,3,week04,2024-09-29,team1Home,-1,Atlanta,-1,New Orleans
+2024,3,week04,2024-09-29,team1Home,-1,Chicago,-1,Los Angeles Rams
+2024,3,week04,2024-09-29,team1Home,-1,Carolina,-1,Cincinnati
+2024,3,week04,2024-09-29,team1Home,-1,Tampa Bay,-1,Philadelphia
+2024,3,week04,2024-09-29,team1Home,-1,Indianapolis,-1,Pittsburgh
+2024,3,week04,2024-09-29,team1Home,-1,Green Bay,-1,Minnesota
+2024,3,week04,2024-09-29,team1Home,-1,Houston,-1,Jacksonville
+2024,3,week04,2024-09-29,team1Home,-1,New York Jets,-1,Denver
+2024,3,week04,2024-09-29,team1Home,-1,Arizona,-1,Washington
+2024,3,week04,2024-09-29,team1Home,-1,San Francisco,-1,New England
+2024,3,week04,2024-09-29,team1Home,-1,Las Vegas,-1,Cleveland
+2024,3,week04,2024-09-29,team1Home,-1,Los Angeles Chargers,-1,Kansas City
+2024,3,week04,2024-09-29,team1Home,-1,Baltimore,-1,Buffalo
+2024,3,week04,2024-09-30,team1Home,-1,Miami,-1,Tennessee
+2024,3,week04,2024-09-30,team1Home,-1,Detroit,-1,Seattle
+2024,4,week05,2024-10-03,team1Home,-1,Atlanta,-1,Tampa Bay
+2024,4,week05,2024-10-06,team1Home,-1,Minnesota,-1,New York Jets
+2024,4,week05,2024-10-06,team1Home,-1,Chicago,-1,Carolina
+2024,4,week05,2024-10-06,team1Home,-1,Washington,-1,Cleveland
+2024,4,week05,2024-10-06,team1Home,-1,New England,-1,Miami
+2024,4,week05,2024-10-06,team1Home,-1,Cincinnati,-1,Baltimore
+2024,4,week05,2024-10-06,team1Home,-1,Houston,-1,Buffalo
+2024,4,week05,2024-10-06,team1Home,-1,Jacksonville,-1,Indianapolis
+2024,4,week05,2024-10-06,team1Home,-1,Denver,-1,Las Vegas
+2024,4,week05,2024-10-06,team1Home,-1,San Francisco,-1,Arizona
+2024,4,week05,2024-10-06,team1Home,-1,Los Angeles Rams,-1,Green Bay
+2024,4,week05,2024-10-06,team1Home,-1,Seattle,-1,New York Giants
+2024,4,week05,2024-10-06,team1Home,-1,Pittsburgh,-1,Dallas
+2024,4,week05,2024-10-07,team1Home,-1,Kansas City,-1,New Orleans
+2024,5,week06,2024-10-10,team1Home,-1,Seattle,-1,San Francisco
+2024,5,week06,2024-10-13,team1Home,-1,Chicago,-1,Jacksonville
+2024,5,week06,2024-10-13,team1Home,-1,Green Bay,-1,Arizona
+2024,5,week06,2024-10-13,team1Home,-1,New Orleans,-1,Tampa Bay
+2024,5,week06,2024-10-13,team1Home,-1,Philadelphia,-1,Cleveland
+2024,5,week06,2024-10-13,team1Home,-1,Baltimore,-1,Washington
+2024,5,week06,2024-10-13,team1Home,-1,New England,-1,Houston
+2024,5,week06,2024-10-13,team1Home,-1,Tennessee,-1,Indianapolis
+2024,5,week06,2024-10-13,team1Home,-1,Denver,-1,Los Angeles Chargers
+2024,5,week06,2024-10-13,team1Home,-1,Las Vegas,-1,Pittsburgh
+2024,5,week06,2024-10-13,team1Home,-1,Carolina,-1,Atlanta
+2024,5,week06,2024-10-13,team1Home,-1,Dallas,-1,Detroit
+2024,5,week06,2024-10-13,team1Home,-1,New York Giants,-1,Cincinnati
+2024,5,week06,2024-10-14,team1Home,-1,New York Jets,-1,Buffalo
+2024,6,week07,2024-10-17,team1Home,-1,New Orleans,-1,Denver
+2024,6,week07,2024-10-20,team1Home,-1,Jacksonville,-1,New England
+2024,6,week07,2024-10-20,team1Home,-1,Atlanta,-1,Seattle
+2024,6,week07,2024-10-20,team1Home,-1,Indianapolis,-1,Miami
+2024,6,week07,2024-10-20,team1Home,-1,Minnesota,-1,Detroit
+2024,6,week07,2024-10-20,team1Home,-1,New York Giants,-1,Philadelphia
+2024,6,week07,2024-10-20,team1Home,-1,Buffalo,-1,Tennessee
+2024,6,week07,2024-10-20,team1Home,-1,Cleveland,-1,Cincinnati
+2024,6,week07,2024-10-20,team1Home,-1,Green Bay,-1,Houston
+2024,6,week07,2024-10-20,team1Home,-1,Los Angeles Rams,-1,Las Vegas
+2024,6,week07,2024-10-20,team1Home,-1,Washington,-1,Carolina
+2024,6,week07,2024-10-20,team1Home,-1,San Francisco,-1,Kansas City
+2024,6,week07,2024-10-20,team1Home,-1,Pittsburgh,-1,New York Jets
+2024,6,week07,2024-10-21,team1Home,-1,Tampa Bay,-1,Baltimore
+2024,6,week07,2024-10-21,team1Home,-1,Arizona,-1,Los Angeles Chargers
+2024,7,week08,2024-10-24,team1Home,-1,Los Angeles Rams,-1,Minnesota
+2024,7,week08,2024-10-27,team1Home,-1,Detroit,-1,Tennessee
+2024,7,week08,2024-10-27,team1Home,-1,Jacksonville,-1,Green Bay
+2024,7,week08,2024-10-27,team1Home,-1,Miami,-1,Arizona
+2024,7,week08,2024-10-27,team1Home,-1,Tampa Bay,-1,Atlanta
+2024,7,week08,2024-10-27,team1Home,-1,Cleveland,-1,Baltimore
+2024,7,week08,2024-10-27,team1Home,-1,Houston,-1,Indianapolis
+2024,7,week08,2024-10-27,team1Home,-1,New England,-1,New York Jets
+2024,7,week08,2024-10-27,team1Home,-1,Washington,-1,Chicago
+2024,7,week08,2024-10-27,team1Home,-1,Los Angeles Chargers,-1,New Orleans
+2024,7,week08,2024-10-27,team1Home,-1,Seattle,-1,Buffalo
+2024,7,week08,2024-10-27,team1Home,-1,Denver,-1,Carolina
+2024,7,week08,2024-10-27,team1Home,-1,Cincinnati,-1,Philadelphia
+2024,7,week08,2024-10-27,team1Home,-1,Las Vegas,-1,Kansas City
+2024,7,week08,2024-10-27,team1Home,-1,San Francisco,-1,Dallas
+2024,7,week08,2024-10-28,team1Home,-1,Pittsburgh,-1,New York Giants
+2024,8,week09,2024-10-31,team1Home,-1,New York Jets,-1,Houston
+2024,8,week09,2024-11-03,team1Home,-1,Atlanta,-1,Dallas
+2024,8,week09,2024-11-03,team1Home,-1,Cincinnati,-1,Las Vegas
+2024,8,week09,2024-11-03,team1Home,-1,New York Giants,-1,Washington
+2024,8,week09,2024-11-03,team1Home,-1,Tennessee,-1,New England
+2024,8,week09,2024-11-03,team1Home,-1,Baltimore,-1,Denver
+2024,8,week09,2024-11-03,team1Home,-1,Buffalo,-1,Miami
+2024,8,week09,2024-11-03,team1Home,-1,Carolina,-1,New Orleans
+2024,8,week09,2024-11-03,team1Home,-1,Cleveland,-1,Los Angeles Chargers
+2024,8,week09,2024-11-03,team1Home,-1,Minnesota,-1,Indianapolis
+2024,8,week09,2024-11-03,team1Home,-1,Arizona,-1,Chicago
+2024,8,week09,2024-11-03,team1Home,-1,Green Bay,-1,Detroit
+2024,8,week09,2024-11-03,team1Home,-1,Seattle,-1,Los Angeles Rams
+2024,8,week09,2024-11-03,team1Home,-1,Philadelphia,-1,Jacksonville
+2024,8,week09,2024-11-04,team1Home,-1,Kansas City,-1,Tampa Bay
+2024,9,week10,2024-11-07,team1Home,-1,Baltimore,-1,Cincinnati
+2024,9,week10,2024-11-10,team1Home,-1,Carolina,-1,New York Giants
+2024,9,week10,2024-11-10,team1Home,-1,Chicago,-1,New England
+2024,9,week10,2024-11-10,team1Home,-1,Jacksonville,-1,Minnesota
+2024,9,week10,2024-11-10,team1Home,-1,New Orleans,-1,Atlanta
+2024,9,week10,2024-11-10,team1Home,-1,Tampa Bay,-1,San Francisco
+2024,9,week10,2024-11-10,team1Home,-1,Indianapolis,-1,Buffalo
+2024,9,week10,2024-11-10,team1Home,-1,Kansas City,-1,Denver
+2024,9,week10,2024-11-10,team1Home,-1,Washington,-1,Pittsburgh
+2024,9,week10,2024-11-10,team1Home,-1,Los Angeles Chargers,-1,Tennessee
+2024,9,week10,2024-11-10,team1Home,-1,Dallas,-1,Philadelphia
+2024,9,week10,2024-11-10,team1Home,-1,Arizona,-1,New York Jets
+2024,9,week10,2024-11-10,team1Home,-1,Houston,-1,Detroit
+2024,9,week10,2024-11-11,team1Home,-1,Los Angeles Rams,-1,Miami
+2024,10,week11,2024-11-14,team1Home,-1,Philadelphia,-1,Washington
+2024,10,week11,2024-11-17,team1Home,-1,Chicago,-1,Green Bay
+2024,10,week11,2024-11-17,team1Home,-1,New England,-1,Los Angeles Rams
+2024,10,week11,2024-11-17,team1Home,-1,New Orleans,-1,Cleveland
+2024,10,week11,2024-11-17,team1Home,-1,Miami,-1,Las Vegas
+2024,10,week11,2024-11-17,team1Home,-1,Detroit,-1,Jacksonville
+2024,10,week11,2024-11-17,team1Home,-1,Tennessee,-1,Minnesota
+2024,10,week11,2024-11-17,team1Home,-1,Pittsburgh,-1,Baltimore
+2024,10,week11,2024-11-17,team1Home,-1,Denver,-1,Atlanta
+2024,10,week11,2024-11-17,team1Home,-1,San Francisco,-1,Seattle
+2024,10,week11,2024-11-17,team1Home,-1,Buffalo,-1,Kansas City
+2024,10,week11,2024-11-17,team1Home,-1,Los Angeles Chargers,-1,Cincinnati
+2024,10,week11,2024-11-17,team1Home,-1,New York Jets,-1,Indianapolis
+2024,10,week11,2024-11-18,team1Home,-1,Dallas,-1,Houston
+2024,11,week12,2024-11-21,team1Home,-1,Cleveland,-1,Pittsburgh
+2024,11,week12,2024-11-24,team1Home,-1,Chicago,-1,Minnesota
+2024,11,week12,2024-11-24,team1Home,-1,Indianapolis,-1,Detroit
+2024,11,week12,2024-11-24,team1Home,-1,Washington,-1,Dallas
+2024,11,week12,2024-11-24,team1Home,-1,Carolina,-1,Kansas City
+2024,11,week12,2024-11-24,team1Home,-1,Houston,-1,Tennessee
+2024,11,week12,2024-11-24,team1Home,-1,New York Giants,-1,Tampa Bay
+2024,11,week12,2024-11-24,team1Home,-1,Miami,-1,New England
+2024,11,week12,2024-11-24,team1Home,-1,Las Vegas,-1,Denver
+2024,11,week12,2024-11-24,team1Home,-1,Green Bay,-1,San Francisco
+2024,11,week12,2024-11-24,team1Home,-1,Seattle,-1,Arizona
+2024,11,week12,2024-11-24,team1Home,-1,Los Angeles Rams,-1,Philadelphia
+2024,11,week12,2024-11-25,team1Home,-1,Los Angeles Chargers,-1,Baltimore
+2024,12,week13,2024-11-28,team1Home,-1,Detroit,-1,Chicago
+2024,12,week13,2024-11-28,team1Home,-1,Dallas,-1,New York Giants
+2024,12,week13,2024-11-28,team1Home,-1,Green Bay,-1,Miami
+2024,12,week13,2024-11-29,team1Home,-1,Kansas City,-1,Las Vegas
+2024,12,week13,2024-12-01,team1Home,-1,Minnesota,-1,Arizona
+2024,12,week13,2024-12-01,team1Home,-1,New York Jets,-1,Seattle
+2024,12,week13,2024-12-01,team1Home,-1,Atlanta,-1,Los Angeles Chargers
+2024,12,week13,2024-12-01,team1Home,-1,Cincinnati,-1,Pittsburgh
+2024,12,week13,2024-12-01,team1Home,-1,Jacksonville,-1,Houston
+2024,12,week13,2024-12-01,team1Home,-1,New England,-1,Indianapolis
+2024,12,week13,2024-12-01,team1Home,-1,Washington,-1,Tennessee
+2024,12,week13,2024-12-01,team1Home,-1,Carolina,-1,Tampa Bay
+2024,12,week13,2024-12-01,team1Home,-1,New Orleans,-1,Los Angeles Rams
+2024,12,week13,2024-12-01,team1Home,-1,Baltimore,-1,Philadelphia
+2024,12,week13,2024-12-01,team1Home,-1,Buffalo,-1,San Francisco
+2024,12,week13,2024-12-02,team1Home,-1,Denver,-1,Cleveland
+2024,13,week14,2024-12-05,team1Home,-1,Detroit,-1,Green Bay
+2024,13,week14,2024-12-08,team1Home,-1,Minnesota,-1,Atlanta
+2024,13,week14,2024-12-08,team1Home,-1,New York Giants,-1,New Orleans
+2024,13,week14,2024-12-08,team1Home,-1,Philadelphia,-1,Carolina
+2024,13,week14,2024-12-08,team1Home,-1,Miami,-1,New York Jets
+2024,13,week14,2024-12-08,team1Home,-1,Pittsburgh,-1,Cleveland
+2024,13,week14,2024-12-08,team1Home,-1,Tampa Bay,-1,Las Vegas
+2024,13,week14,2024-12-08,team1Home,-1,Tennessee,-1,Jacksonville
+2024,13,week14,2024-12-08,team1Home,-1,Arizona,-1,Seattle
+2024,13,week14,2024-12-08,team1Home,-1,Los Angeles Rams,-1,Buffalo
+2024,13,week14,2024-12-08,team1Home,-1,San Francisco,-1,Chicago
+2024,13,week14,2024-12-08,team1Home,-1,Kansas City,-1,Los Angeles Chargers
+2024,13,week14,2024-12-09,team1Home,-1,Dallas,-1,Cincinnati
+2024,14,week15,2024-12-12,team1Home,-1,San Francisco,-1,Los Angeles Rams
+2024,14,week15,2024-12-15,team1Home,-1,Carolina,-1,Dallas
+2024,14,week15,2024-12-15,team1Home,-1,Jacksonville,-1,New York Jets
+2024,14,week15,2024-12-15,team1Home,-1,New Orleans,-1,Washington
+2024,14,week15,2024-12-15,team1Home,-1,Tennessee,-1,Cincinnati
+2024,14,week15,2024-12-15,team1Home,-1,Cleveland,-1,Kansas City
+2024,14,week15,2024-12-15,team1Home,-1,Houston,-1,Miami
+2024,14,week15,2024-12-15,team1Home,-1,New York Giants,-1,Baltimore
+2024,14,week15,2024-12-15,team1Home,-1,Los Angeles Chargers,-1,Tampa Bay
+2024,14,week15,2024-12-15,team1Home,-1,Philadelphia,-1,Pittsburgh
+2024,14,week15,2024-12-15,team1Home,-1,Arizona,-1,New England
+2024,14,week15,2024-12-15,team1Home,-1,Denver,-1,Indianapolis
+2024,14,week15,2024-12-15,team1Home,-1,Detroit,-1,Buffalo
+2024,14,week15,2024-12-15,team1Home,-1,Seattle,-1,Green Bay
+2024,14,week15,2024-12-16,team1Home,-1,Minnesota,-1,Chicago
+2024,14,week15,2024-12-16,team1Home,-1,Las Vegas,-1,Atlanta
+2024,15,week16,2024-12-19,team1Home,-1,Cincinnati,-1,Cleveland
+2024,15,week16,2024-12-21,team1Home,-1,Kansas City,-1,Houston
+2024,15,week16,2024-12-21,team1Home,-1,Baltimore,-1,Pittsburgh
+2024,15,week16,2024-12-22,team1Home,-1,Atlanta,-1,New York Giants
+2024,15,week16,2024-12-22,team1Home,-1,Carolina,-1,Arizona
+2024,15,week16,2024-12-22,team1Home,-1,Chicago,-1,Detroit
+2024,15,week16,2024-12-22,team1Home,-1,Washington,-1,Philadelphia
+2024,15,week16,2024-12-22,team1Home,-1,Buffalo,-1,New England
+2024,15,week16,2024-12-22,team1Home,-1,Indianapolis,-1,Tennessee
+2024,15,week16,2024-12-22,team1Home,-1,New York Jets,-1,Los Angeles Rams
+2024,15,week16,2024-12-22,team1Home,-1,Los Angeles Chargers,-1,Denver
+2024,15,week16,2024-12-22,team1Home,-1,Seattle,-1,Minnesota
+2024,15,week16,2024-12-22,team1Home,-1,Las Vegas,-1,Jacksonville
+2024,15,week16,2024-12-22,team1Home,-1,Miami,-1,San Francisco
+2024,15,week16,2024-12-22,team1Home,-1,Dallas,-1,Tampa Bay
+2024,15,week16,2024-12-23,team1Home,-1,Green Bay,-1,New Orleans
+2024,16,week17,2024-12-25,team1Home,-1,Pittsburgh,-1,Kansas City
+2024,16,week17,2024-12-25,team1Home,-1,Houston,-1,Baltimore
+2024,16,week17,2024-12-26,team1Home,-1,Chicago,-1,Seattle
+2024,16,week17,2024-12-29,team1Home,-1,Minnesota,-1,Green Bay
+2024,16,week17,2024-12-29,team1Home,-1,New Orleans,-1,Las Vegas
+2024,16,week17,2024-12-29,team1Home,-1,Buffalo,-1,New York Jets
+2024,16,week17,2024-12-29,team1Home,-1,Jacksonville,-1,Tennessee
+2024,16,week17,2024-12-29,team1Home,-1,Tampa Bay,-1,Carolina
+2024,16,week17,2024-12-29,team1Home,-1,Cincinnati,-1,Denver
+2024,16,week17,2024-12-29,team1Home,-1,Los Angeles Rams,-1,Arizona
+2024,16,week17,2024-12-29,team1Home,-1,New England,-1,Los Angeles Chargers
+2024,16,week17,2024-12-29,team1Home,-1,New York Giants,-1,Indianapolis
+2024,16,week17,2024-12-29,team1Home,-1,Washington,-1,Atlanta
+2024,16,week17,2024-12-29,team1Home,-1,Philadelphia,-1,Dallas
+2024,16,week17,2024-12-29,team1Home,-1,Cleveland,-1,Miami
+2024,16,week17,2024-12-30,team1Home,-1,San Francisco,-1,Detroit
+2024,17,week18,2024-01-05,team1Home,-1,Arizona,-1,San Francisco
+2024,17,week18,2024-01-05,team1Home,-1,Atlanta,-1,Carolina
+2024,17,week18,2024-01-05,team1Home,-1,Baltimore,-1,Cleveland
+2024,17,week18,2024-01-05,team1Home,-1,Dallas,-1,Washington
+2024,17,week18,2024-01-05,team1Home,-1,Denver,-1,Kansas City
+2024,17,week18,2024-01-05,team1Home,-1,Detroit,-1,Minnesota
+2024,17,week18,2024-01-05,team1Home,-1,Green Bay,-1,Chicago
+2024,17,week18,2024-01-05,team1Home,-1,Indianapolis,-1,Jacksonville
+2024,17,week18,2024-01-05,team1Home,-1,Los Angeles Rams,-1,Seattle
+2024,17,week18,2024-01-05,team1Home,-1,Las Vegas,-1,Los Angeles Chargers
+2024,17,week18,2024-01-05,team1Home,-1,New York Jets,-1,Miami
+2024,17,week18,2024-01-05,team1Home,-1,New England,-1,Buffalo
+2024,17,week18,2024-01-05,team1Home,-1,Philadelphia,-1,New York Giants
+2024,17,week18,2024-01-05,team1Home,-1,Pittsburgh,-1,Cincinnati
+2024,17,week18,2024-01-05,team1Home,-1,Tampa Bay,-1,New Orleans
+2024,17,week18,2024-01-05,team1Home,-1,Tennessee,-1,Houston
