@@ -1,0 +1,68 @@
+2024-09-16
+BFM from  ~/googleDrive/Projects/bfm/col/optim_20200829
+runAllYears for BCM with and without score uncertainty
+
+
+from cfpool-bfm1999-2019.out:
+   Average score: 684.228081563436
+      Entry 01 aveScore: 721.060330697718
+      Entry 02 aveScore: 700.327595724669
+      Entry 03 aveScore: 663.48790303911
+      Entry 04 aveScore: 649.048900251996
+      Entry 05 aveScore: 647.009470727625
+      Entry 06 aveScore: 676.617715512821
+      Entry 07 aveScore: 681.722863242042
+      Entry 08 aveScore: 712.193681078913
+      Entry 09 aveScore: 683.530411429509
+      Entry 10 aveScore: 666.129046438607
+      Entry 11 aveScore: 701.506520019184
+      Entry 12 aveScore: 682.685306870767
+      Entry 13 aveScore: 693.954184861577
+      Entry 14 aveScore: 722.954944077134
+      Entry 15 aveScore: 701.570935344566
+      Entry 16 aveScore: 605.410166640625
+      Entry 17 aveScore: 635.086987422874
+
+from cfpool-bcm1999-2019.out:
+   Average score: 671.429375927896
+      Entry 01 aveScore: 691.917423749618
+      Entry 02 aveScore: 655.249072346201
+      Entry 03 aveScore: 624.152334531109
+      Entry 04 aveScore: 625.886716185775
+      Entry 05 aveScore: 630.733602579863
+      Entry 06 aveScore: 684.166512619397
+      Entry 07 aveScore: 643.300877808691
+      Entry 08 aveScore: 707.130679850914
+      Entry 09 aveScore: 690.412552842711
+      Entry 10 aveScore: 697.676140340154
+      Entry 11 aveScore: 673.195736196807
+      Entry 12 aveScore: 671.970505573458
+      Entry 13 aveScore: 685.30375937348
+      Entry 14 aveScore: 718.467425692924
+      Entry 15 aveScore: 720.103045827148
+      Entry 16 aveScore: 586.341113733629
+      Entry 17 aveScore: 733.366176504146
+
+
+from cfpool-bcmNoUncert1999-2019.out:
+   Average score: 671.630591197396
+      Entry 01 aveScore: 689.585457706483
+      Entry 02 aveScore: 657.278688540501
+      Entry 03 aveScore: 627.257263615484
+      Entry 04 aveScore: 625.767384262952
+      Entry 05 aveScore: 630.733602579863
+      Entry 06 aveScore: 684.166512619397
+      Entry 07 aveScore: 643.300877808691
+      Entry 08 aveScore: 707.2902398011
+      Entry 09 aveScore: 690.597556301808
+      Entry 10 aveScore: 697.676140340154
+      Entry 11 aveScore: 673.195736196807
+      Entry 12 aveScore: 671.970505573458
+      Entry 13 aveScore: 685.30375937348
+      Entry 14 aveScore: 718.467425692924
+      Entry 15 aveScore: 720.103045827148
+      Entry 16 aveScore: 586.341113733629
+      Entry 17 aveScore: 733.366176504146
+
+Legacy BFM is 1.9% better than BCM.
+Do not anticipate that any score information (including power uncertainty) could give a neural net anything to improve  BCM to significaly above legacy BFM.

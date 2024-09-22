@@ -1,0 +1,504 @@
+::: rankings for IA
+1 Washington
+2 Oklahoma
+3 Alabama
+4 Clemson
+5 Oklahoma State
+6 Ohio State
+7 Mississippi State
+8 Texas Christian
+9 Michigan
+10 Penn State
+11 Southern California
+12 Wisconsin
+13 Kansas State
+14 Stanford
+15 Texas
+16 San Diego State
+17 Louisville
+18 Virginia Tech
+19 Oregon
+20 Houston
+21 Notre Dame
+22 Minnesota
+23 Central Florida
+24 Colorado
+25 Auburn
+26 Vanderbilt
+27 Navy
+28 Maryland
+29 Georgia
+30 Texas Tech
+31 Purdue
+32 Arizona
+33 Michigan State
+34 Wake Forest
+35 Louisiana State
+36 Duke
+37 Kentucky
+38 Boise State
+39 Florida
+40 Washington State
+41 North Carolina
+42 South Florida
+43 California - Los Angeles
+44 Tennessee
+45 Arkansas
+46 West Virginia
+47 Air Force
+48 Texas A&M
+49 California
+50 North Carolina State
+51 Colorado State
+52 Georgia Tech
+53 Memphis
+54 Iowa
+55 Rutgers
+56 Miami - Florida
+57 Arizona State
+58 Mississippi
+59 South Carolina
+60 Utah
+61 Southern Mississippi
+62 Tulane
+63 Troy State
+64 Nebraska
+65 Florida State
+66 Toledo
+67 Western Michigan
+68 Southern Methodist
+69 Iowa State
+70 Tulsa
+71 Army
+72 Northwestern
+73 Pittsburgh
+74 Ohio
+75 Cincinnati
+76 Florida Atlantic
+77 New Mexico
+78 Fresno State
+79 Buffalo
+80 Eastern Michigan
+81 Miami - Ohio
+82 New Mexico State
+83 Northern Illinois
+84 Appalachian State
+85 Western Kentucky
+86 Texas - San Antonio
+87 Indiana
+88 Arkansas State
+89 Louisiana Tech
+90 Middle Tennessee State
+91 Marshall
+92 Syracuse
+93 Virginia
+94 Illinois
+95 Baylor
+96 Hawaii
+97 Nevada - Las Vegas
+98 South Alabama
+99 Temple
+100 Boston College
+101 Northeast Louisiana
+102 Ball State
+103 Brigham Young
+104 Old Dominion
+105 North Texas
+106 Connecticut
+107 Central Michigan
+108 Alabama - Birmingham
+109 Wyoming
+110 Utah State
+111 Missouri
+112 North Carolina - Charlotte
+113 Georgia Southern
+114 Coastal Carolina
+115 Idaho
+116 Akron
+117 Florida International
+118 Oregon State
+119 Kent State
+120 Kansas
+121 Louisiana - Lafayette
+122 Rice
+123 Nevada - Reno
+124 Texas State - San Marcos
+125 Bowling Green
+126 Massachusetts
+127 East Carolina
+128 San Jose State
+129 Georgia State
+130 Texas - El Paso
+::: rankings for IAA
+1 James Madison
+2 South Dakota
+3 North Dakota State
+4 Stony Brook
+5 Illinois State
+6 Youngstown State
+7 Central Arkansas
+8 California - Davis
+9 Nicholls State
+10 Richmond
+11 Maine
+12 Holy Cross
+13 North Carolina A&T
+14 McNeese State
+15 Villanova
+16 South Dakota State
+17 New Hampshire
+18 Samford
+19 The Citadel
+20 Mercer
+21 Jacksonville State
+22 Wofford
+23 Western Illinois
+24 Southern Illinois
+25 Weber State
+26 Liberty
+27 Northern Colorado
+28 Sam Houston State
+29 Eastern Kentucky
+30 Tennessee - Martin
+31 Montana
+32 Charleston Southern
+33 Albany
+34 Austin Peay
+35 Kennesaw State
+36 Delaware
+37 Colgate
+38 Northern Iowa
+39 Eastern Washington
+40 North Dakota
+41 Furman
+42 William & Mary
+43 Abilene Christian
+44 Yale
+45 Princeton
+46 Grambling
+47 Tennessee State
+48 Southern Utah
+49 Montana State
+50 Rhode Island
+51 Saint Francis - Pennsylvania
+52 Indiana State
+53 Western Carolina
+54 Alcorn State
+55 Bucknell
+56 Harvard
+57 Pennsylvania
+58 Portland State
+59 Towson
+60 Tennessee - Chattanooga
+61 Dartmouth
+62 Monmouth
+63 Sacred Heart
+64 Elon
+65 San Diego
+66 Eastern Illinois
+67 Southeast Louisiana
+68 Prairie View
+69 Tennessee Tech
+70 Howard
+71 Alabama State
+72 Lehigh
+73 Sacramento State
+74 Northern Arizona
+75 Houston Baptist
+76 Bethune - Cookman
+77 South Carolina State
+78 East Tennessee State
+79 Florida A&M
+80 Jackson State
+81 California Poly
+82 Southern
+83 Idaho State
+84 Southeast Missouri State
+85 Robert Morris
+86 Northwestern State
+87 North Carolina Central
+88 Duquesne
+89 Wagner
+90 Dayton
+91 Murray State
+92 Cornell
+93 Gardner - Webb
+94 Columbia
+95 Bryant
+96 Presbyterian
+97 Texas Southern
+98 Missouri State
+99 Brown
+100 Hampton
+101 Alabama A&M
+102 Georgetown
+103 Lamar
+104 Delaware State
+105 Marist
+106 Virginia Military
+107 Jacksonville
+108 Morgan State
+109 Fordham
+110 Lafayette
+111 Butler
+112 Norfolk State
+113 Stephen F. Austin
+114 Valparaiso
+115 Campbell
+116 Davidson
+117 Central Connecticut
+118 Incarnate Word
+119 Morehead State
+120 Stetson
+121 Savannah State
+122 Drake
+123 Arkansas - Pine Bluff
+124 Mississippi Valley State
+::: rankings for overall
+1 Washington
+2 Oklahoma
+3 Alabama
+4 Clemson
+5 Oklahoma State
+6 Ohio State
+7 Mississippi State
+8 Texas Christian
+9 Michigan
+10 Penn State
+11 Southern California
+12 Wisconsin
+13 Kansas State
+14 Stanford
+15 Texas
+16 San Diego State
+17 Louisville
+18 Virginia Tech
+19 Oregon
+20 Houston
+21 Notre Dame
+22 Minnesota
+23 Central Florida
+24 Colorado
+25 Auburn
+26 Vanderbilt
+27 Navy
+28 Maryland
+29 Georgia
+30 Texas Tech
+31 Purdue
+32 Arizona
+33 Michigan State
+34 Wake Forest
+35 Louisiana State
+36 Duke
+37 Kentucky
+38 Boise State
+39 Florida
+40 Washington State
+41 North Carolina
+42 South Florida
+43 California - Los Angeles
+44 Tennessee
+45 Arkansas
+46 West Virginia
+47 Air Force
+48 Texas A&M
+49 California
+50 North Carolina State
+51 Colorado State
+52 Georgia Tech
+53 Memphis
+54 Iowa
+55 Rutgers
+56 Miami - Florida
+57 Arizona State
+58 Mississippi
+59 South Carolina
+60 Utah
+61 Southern Mississippi
+62 Tulane
+63 Troy State
+64 James Madison
+65 Nebraska
+66 Florida State
+67 Toledo
+68 Western Michigan
+69 Southern Methodist
+70 Iowa State
+71 Tulsa
+72 Army
+73 Northwestern
+74 Pittsburgh
+75 Ohio
+76 Cincinnati
+77 South Dakota
+78 Florida Atlantic
+79 New Mexico
+80 Fresno State
+81 Buffalo
+82 Eastern Michigan
+83 North Dakota State
+84 Miami - Ohio
+85 Stony Brook
+86 New Mexico State
+87 Northern Illinois
+88 Appalachian State
+89 Western Kentucky
+90 Texas - San Antonio
+91 Illinois State
+92 Indiana
+93 Arkansas State
+94 Youngstown State
+95 Louisiana Tech
+96 Middle Tennessee State
+97 Central Arkansas
+98 Marshall
+99 California - Davis
+100 Nicholls State
+101 Syracuse
+102 Richmond
+103 Virginia
+104 Illinois
+105 Baylor
+106 Hawaii
+107 Maine
+108 Nevada - Las Vegas
+109 Holy Cross
+110 South Alabama
+111 Temple
+112 Boston College
+113 North Carolina A&T
+114 Northeast Louisiana
+115 Ball State
+116 McNeese State
+117 Brigham Young
+118 Villanova
+119 Old Dominion
+120 North Texas
+121 Connecticut
+122 South Dakota State
+123 New Hampshire
+124 Samford
+125 The Citadel
+126 Mercer
+127 Central Michigan
+128 Alabama - Birmingham
+129 Jacksonville State
+130 Wofford
+131 Wyoming
+132 Western Illinois
+133 Southern Illinois
+134 Utah State
+135 Weber State
+136 Missouri
+137 Liberty
+138 North Carolina - Charlotte
+139 Northern Colorado
+140 Georgia Southern
+141 Sam Houston State
+142 Eastern Kentucky
+143 Coastal Carolina
+144 Idaho
+145 Tennessee - Martin
+146 Montana
+147 Akron
+148 Charleston Southern
+149 Albany
+150 Austin Peay
+151 Kennesaw State
+152 Delaware
+153 Florida International
+154 Oregon State
+155 Colgate
+156 Kent State
+157 Northern Iowa
+158 Kansas
+159 Louisiana - Lafayette
+160 Eastern Washington
+161 Rice
+162 North Dakota
+163 Nevada - Reno
+164 Texas State - San Marcos
+165 Furman
+166 William & Mary
+167 Bowling Green
+168 Abilene Christian
+169 Massachusetts
+170 Yale
+171 Princeton
+172 Grambling
+173 Tennessee State
+174 Southern Utah
+175 Montana State
+176 Rhode Island
+177 East Carolina
+178 Saint Francis - Pennsylvania
+179 San Jose State
+180 Indiana State
+181 Western Carolina
+182 Alcorn State
+183 Bucknell
+184 Harvard
+185 Georgia State
+186 Pennsylvania
+187 Portland State
+188 Towson
+189 Tennessee - Chattanooga
+190 Dartmouth
+191 Monmouth
+192 Sacred Heart
+193 Elon
+194 San Diego
+195 Eastern Illinois
+196 Texas - El Paso
+197 Southeast Louisiana
+198 Prairie View
+199 Tennessee Tech
+200 Howard
+201 Alabama State
+202 Lehigh
+203 Sacramento State
+204 Northern Arizona
+205 Houston Baptist
+206 Bethune - Cookman
+207 South Carolina State
+208 East Tennessee State
+209 Florida A&M
+210 Jackson State
+211 California Poly
+212 Southern
+213 Idaho State
+214 Southeast Missouri State
+215 Robert Morris
+216 Northwestern State
+217 North Carolina Central
+218 Duquesne
+219 Wagner
+220 Dayton
+221 Murray State
+222 Cornell
+223 Gardner - Webb
+224 Columbia
+225 Bryant
+226 Presbyterian
+227 Texas Southern
+228 Missouri State
+229 Brown
+230 Hampton
+231 Alabama A&M
+232 Georgetown
+233 Lamar
+234 Delaware State
+235 Marist
+236 Virginia Military
+237 Jacksonville
+238 Morgan State
+239 Fordham
+240 Lafayette
+241 Butler
+242 Norfolk State
+243 Stephen F. Austin
+244 Valparaiso
+245 Campbell
+246 Davidson
+247 Central Connecticut

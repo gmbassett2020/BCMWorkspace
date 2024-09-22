@@ -1,0 +1,1276 @@
+opt_22157_1999_01.out:pred2:66% 12.7   3 Florida State            59.5,    46 Louisiana Tech           46.8
+opt_22157_1999_01.out:pred2:66% 12.2  39 Notre Dame               59.4,   101 Kansas                   47.2
+opt_22157_1999_01.out:pred2:55%  2.7  21 Penn State               49.8,    22 Arizona                  47.1
+opt_22157_1999_01.out:pred2:66%  9.4  23 Texas                    64.2,    74 North Carolina State     54.8
+opt_22157_1999_01.out:pred2:66% 11.4   2 Ohio State               61.5,    28 Miami - Florida          50.1
+opt_22157_1999_02.out:pred2:53%  1.4 180 Central Michigan         50.7,   177 Eastern Illinois         49.3
+opt_22157_1999_02.out:pred2:62%  5.5  47 Delaware                 56.1,    67 William & Mary           50.6
+opt_22157_1999_02.out:pred2:51%  0.4  30 Oregon                   51.6,    45 Michigan State           51.2
+opt_22157_1999_02.out:pred2:64%  8.5  98 Davidson                 70.9,   127 Morehead State           62.5
+opt_22157_1999_02.out:pred2:60%  5.5 201 North Texas              48.3,   208 Nevada - Las Vegas       42.8
+opt_22157_1999_02.out:pred2:66% 16.0  27 Western Illinois         49.1,   210 Northern Illinois        33.1
+opt_22157_1999_02.out:pred2:51%  0.5 135 Chattanooga              42.1,   187 Samford                  41.6
+opt_22157_1999_02.out:pred2:52%  1.1 175 Southern Illinois        43.9,   214 Southeast Missouri State 42.8
+opt_22157_1999_02.out:pred2:51%  0.4 159 Maryland                 44.5,   193 Temple                   44.1
+opt_22157_1999_02.out:pred2:68% 20.7  72 Western Kentucky         69.3,   227 Tennessee - Martin       48.6
+opt_22157_1999_02.out:pred2:64%  8.9  16 Syracuse                 51.2,   120 Toledo                   42.3
+opt_22157_1999_02.out:pred2:51%  0.6 128 The Citadel              47.2,   124 East Tennessee State     46.5
+opt_22157_1999_02.out:pred2:52%  0.8 101 Idaho                    52.0,   155 Eastern Washington       51.2
+opt_22157_1999_02.out:pred2:59%  4.9 116 Indiana State            49.7,   143 Iowa State               44.8
+opt_22157_1999_02.out:pred2:67% 16.0  15 Air Force                60.1,    58 Villanova                44.0
+opt_22157_1999_02.out:pred2:59%  5.1  41 Appalachian State        42.8,    97 Auburn                   37.7
+opt_22157_1999_02.out:pred2:60%  5.1 111 Boston College           48.4,   136 Baylor                   43.3
+opt_22157_1999_02.out:pred2:67% 18.7  78 Bucknell                 54.5,   221 Morgan State             35.8
+opt_22157_1999_02.out:pred2:64% 10.2 140 California               50.4,   191 Rutgers                  40.2
+opt_22157_1999_02.out:pred2:68% 19.8  19 California - Los Angeles 67.9,   178 Boise State              48.1
+opt_22157_1999_02.out:pred2:65% 15.6 211 Central Connecticut      68.5,   232 Albany                   52.8
+opt_22157_1999_02.out:pred2:51%  0.5  12 Purdue                   51.0,    46 Central Florida          50.5
+opt_22157_1999_02.out:pred2:65% 10.6 212 Cincinnati               55.5,   231 Kent State               44.9
+opt_22157_1999_02.out:pred2:60%  5.3  59 Marshall                 48.8,   139 Clemson                  43.5
+opt_22157_1999_02.out:pred2:64%  8.2  39 Colgate                  57.1,    61 Maine                    48.8
+opt_22157_1999_02.out:pred2:56%  3.3  43 Colorado                 44.2,    57 Colorado State           40.8
+opt_22157_1999_02.out:pred2:68% 20.3  11 Florida                  59.8,   148 Western Michigan         39.5
+opt_22157_1999_02.out:pred2:62%  5.8 105 Fresno State             53.4,   144 Portland State           47.6
+opt_22157_1999_02.out:pred2:65% 15.0  65 Georgia                  50.0,   199 Utah State               34.9
+opt_22157_1999_02.out:pred2:69% 30.8  38 Hampton                  63.0,   224 Delaware State           32.2
+opt_22157_1999_02.out:pred2:68% 24.9  31 Southern California      57.5,   226 Hawaii                   32.6
+opt_22157_1999_02.out:pred2:51%  0.3  96 Rice                     46.1,   147 Houston                  45.8
+opt_22157_1999_02.out:pred2:64%  8.6 202 Illinois                 47.1,   223 Arkansas State           38.6
+opt_22157_1999_02.out:pred2:66% 14.8 108 Indiana                  54.1,   220 Ball State               39.3
+opt_22157_1999_02.out:pred2:66% 16.7   8 Nebraska                 48.7,   169 Iowa                     32.0
+opt_22157_1999_02.out:pred2:57%  3.5 123 Jacksonville State       46.9,   126 Alabama A&M              43.4
+opt_22157_1999_02.out:pred2:63%  5.4  54 Kentucky                 62.7,    82 Louisville               57.4
+opt_22157_1999_02.out:pred2:64%  9.6 229 La Salle                 44.5,   235 Saint Francis - Pennsylv 34.9
+opt_22157_1999_02.out:pred2:66% 15.5  52 Louisiana State          59.5,   192 San Jose State           44.0
+opt_22157_1999_02.out:pred2:64%  9.3  42 McNeese State            46.8,    88 Northern Iowa            37.5
+opt_22157_1999_02.out:pred2:54%  2.2 103 Mississippi              48.2,   185 Memphis State            46.0
+opt_22157_1999_02.out:pred2:51%  0.3   4 Miami - Florida          47.1,     7 Florida A&M              46.8
+opt_22157_1999_02.out:pred2:55%  2.6  25 Michigan                 41.6,    13 Notre Dame               39.0
+opt_22157_1999_02.out:pred2:64%  9.0  79 Minnesota                51.6,   168 Ohio                     42.6
+opt_22157_1999_02.out:pred2:64% 10.7  50 Mississippi State        50.0,   160 Middle Tennessee State   39.3
+opt_22157_1999_02.out:pred2:66% 14.3  32 Georgia Tech             60.3,   196 Navy                     46.0
+opt_22157_1999_02.out:pred2:56%  3.0  95 Nevada - Reno            53.8,    86 Oregon State             50.8
+opt_22157_1999_02.out:pred2:55%  2.6  34 Virginia                 49.6,    83 North Carolina           47.0
+opt_22157_1999_02.out:pred2:65% 12.7  51 North Carolina State     47.1,   171 South Carolina           34.4
+opt_22157_1999_02.out:pred2:52%  1.3 145 Nicholls State           49.4,   190 Northeast Louisiana      48.1
+opt_22157_1999_02.out:pred2:64% 10.9  56 Miami - Ohio             49.8,   170 Northwestern             38.9
+opt_22157_1999_02.out:pred2:68% 21.0  60 Oklahoma State           62.1,   218 Louisiana - Lafayette    41.2
+opt_22157_1999_02.out:pred2:69% 28.0   3 Penn State               57.0,   188 Akron                    29.0
+opt_22157_1999_02.out:pred2:54%  2.0 110 Bowling Green            50.7,   158 Pittsburgh               48.7
+opt_22157_1999_02.out:pred2:56%  3.6  84 Rhode Island             45.1,    80 New Hampshire            41.6
+opt_22157_1999_02.out:pred2:70% 36.9  14 Richmond                 68.7,   230 Virginia Military        31.9
+opt_22157_1999_02.out:pred2:64% 11.1 157 Sacramento State         49.0,   207 Saint Mary's             38.0
+opt_22157_1999_02.out:pred2:64%  8.7  22 South Florida            50.3,   109 San Diego State          41.6
+opt_22157_1999_02.out:pred2:64%  8.8 146 South Carolina State     45.8,   195 Charleston Southern      37.0
+opt_22157_1999_02.out:pred2:50%  0.1  53 Southern                 47.2,    28 Northwestern State       47.1
+opt_22157_1999_02.out:pred2:63%  7.8  26 Arkansas                 47.8,   131 Southern Methodist       40.0
+opt_22157_1999_02.out:pred2:66% 16.6   6 Tennessee                55.4,    99 Wyoming                  38.8
+opt_22157_1999_02.out:pred2:58%  4.5  92 Texas                    41.7,   141 Stanford                 37.2
+opt_22157_1999_02.out:pred2:68% 19.8  89 Texas Southern           60.6,   216 Prairie View             40.8
+opt_22157_1999_02.out:pred2:63%  6.8 189 Texas - El Paso          52.3,   204 New Mexico               45.5
+opt_22157_1999_02.out:pred2:63%  6.8 113 Monmouth                 54.7,   182 Towson                   47.9
+opt_22157_1999_02.out:pred2:52%  1.0 125 Tulsa                    50.3,   114 Southwest Missouri State 49.3
+opt_22157_1999_02.out:pred2:65% 16.3 153 Valparaiso               42.1,   235 Saint Francis - Pennsylv 25.8
+opt_22157_1999_02.out:pred2:65% 11.3  87 Alabama                  51.0,   215 Vanderbilt               39.7
+opt_22157_1999_02.out:pred2:66% 16.7  17 Virginia Tech            51.5,    91 James Madison            34.8
+opt_22157_1999_02.out:pred2:64%  7.8  75 Utah                     50.8,   186 Washington State         43.0
+opt_22157_1999_02.out:pred2:68% 21.0   9 Wisconsin                57.7,   154 Murray State             36.7
+opt_22157_1999_02.out:pred2:56%  2.8 133 Grambling                52.4,   173 Alcorn State             49.7
+opt_22157_1999_02.out:pred2:66% 15.2  64 Arkansas - Pine Bluff    52.8,   200 Mississippi Valley State 37.6
+opt_22157_1999_02.out:pred2:66% 13.3  23 West Virginia            57.5,   152 East Carolina            44.2
+opt_22157_1999_02.out:pred2:64%  8.4  44 Elon                     49.4,   122 Furman                   41.0
+opt_22157_1999_02.out:pred2:51%  0.4  36 Hofstra                  57.8,    33 Connecticut              57.4
+opt_22157_1999_02.out:pred2:58%  3.5  48 Jackson State            56.4,    76 Howard                   53.0
+opt_22157_1999_02.out:pred2:67% 19.5  10 Texas A&M                50.5,   119 Louisiana Tech           31.0
+opt_22157_1999_02.out:pred2:67% 17.6  20 Missouri                 57.5,   181 Alabama - Birmingham     39.9
+opt_22157_1999_02.out:pred2:68% 19.8  29 Tennessee State          60.2,   156 Alabama State            40.4
+opt_22157_1999_02.out:pred2:64% 10.1  94 Texas Christian          43.9,   129 Arizona                  33.8
+opt_22157_1999_02.out:pred2:52%  1.1  81 Arizona State            50.7,    66 Texas Tech               49.7
+opt_22157_1999_02.out:pred2:51%  0.5  35 Southern Mississippi     54.9,    21 Tulane                   54.4
+opt_22157_1999_03.out:pred2:59%  4.9  70 Brigham Young            48.4,    71 Washington               43.5
+opt_22157_1999_03.out:pred2:63%  8.6 154 Northern Arizona         46.6,   191 California Poly          38.0
+opt_22157_1999_03.out:pred2:63%  7.6  91 Alabama                  38.8,   147 Houston                  31.2
+opt_22157_1999_03.out:pred2:56%  2.7 169 Alabama State            40.7,   172 Alcorn State             38.1
+opt_22157_1999_03.out:pred2:64% 11.9  46 Appalachian State        46.4,   160 Eastern Kentucky         34.5
+opt_22157_1999_03.out:pred2:65% 10.6  76 Arizona                  37.0,   176 Middle Tennessee State   26.4
+opt_22157_1999_03.out:pred2:58%  4.1 138 Army                     48.6,   133 Wake Forest              44.4
+opt_22157_1999_03.out:pred2:54%  1.7 100 Auburn                   37.0,    95 Idaho                    35.3
+opt_22157_1999_03.out:pred2:55%  2.5 183 Samford                  39.2,   215 Austin Peay              36.7
+opt_22157_1999_03.out:pred2:65% 12.7 129 Baylor                   44.9,   208 Nevada - Las Vegas       32.2
+opt_22157_1999_03.out:pred2:67% 20.3 104 Bethune - Cookman        53.3,   222 Morgan State             33.0
+opt_22157_1999_03.out:pred2:54%  1.8 155 Southern Utah            50.3,   186 Boise State              48.6
+opt_22157_1999_03.out:pred2:64%  9.0 109 Buffalo                  54.6,   187 Akron                    45.6
+opt_22157_1999_03.out:pred2:63%  5.6 113 Morehead State           50.1,   207 Butler                   44.6
+opt_22157_1999_03.out:pred2:65% 15.8  77 Troy State               47.3,   209 Cincinnati               31.5
+opt_22157_1999_03.out:pred2:64%  9.3  39 Virginia                 41.0,   152 Clemson                  31.7
+opt_22157_1999_03.out:pred2:64%  8.1  40 Colgate                  46.0,    79 Bucknell                 38.0
+opt_22157_1999_03.out:pred2:66% 15.2  53 Colorado                 47.1,   188 San Jose State           31.8
+opt_22157_1999_03.out:pred2:64% 11.0  54 Colorado State           45.5,   105 Nevada - Reno            34.5
+opt_22157_1999_03.out:pred2:64%  9.1 131 Davidson                 67.0,   175 Jacksonville             57.9
+opt_22157_1999_03.out:pred2:68% 26.8  44 Elon                     50.7,   224 Delaware State           23.9
+opt_22157_1999_03.out:pred2:68% 27.4  57 Duquesne                 65.6,   227 La Salle                 38.2
+opt_22157_1999_03.out:pred2:60%  4.8 146 East Carolina            45.9,   159 Duke                     41.1
+opt_22157_1999_03.out:pred2:65% 12.3  13 Florida                  47.8,    55 Central Florida          35.5
+opt_22157_1999_03.out:pred2:78% 37.6   7 Florida A&M              76.3,   218 Norfolk State            38.7
+opt_22157_1999_03.out:pred2:67% 18.0   4 Florida State            45.7,    27 Georgia Tech             27.8
+opt_22157_1999_03.out:pred2:65% 13.5  19 Lehigh                   53.9,   119 Fordham                  40.4
+opt_22157_1999_03.out:pred2:66% 15.9  64 Georgia                  44.4,   178 South Carolina           28.5
+opt_22157_1999_03.out:pred2:56%  2.5 120 Grambling                44.1,   118 Alabama A&M              41.6
+opt_22157_1999_03.out:pred2:66% 15.2 180 Eastern Illinois         49.9,   231 Hawaii                   34.8
+opt_22157_1999_03.out:pred2:63%  7.4  67 Georgetown               45.0,   139 Holy Cross               37.5
+opt_22157_1999_03.out:pred2:64%  8.6  99 San Diego State          39.1,   199 Illinois                 30.5
+opt_22157_1999_03.out:pred2:67% 17.3  75 Illinois State           56.5,   212 Southeast Missouri State 39.1
+opt_22157_1999_03.out:pred2:51%  0.4 117 Indiana                  39.4,    89 North Carolina           39.0
+opt_22157_1999_03.out:pred2:66% 18.4  38 Fairfield                53.8,   203 Iona                     35.3
+opt_22157_1999_03.out:pred2:63%  7.0 140 Iowa State               39.1,   182 Iowa                     32.1
+opt_22157_1999_03.out:pred2:59%  4.8  59 Northeastern             39.9,   111 James Madison            35.1
+opt_22157_1999_03.out:pred2:65%  9.7  97 California State - North 49.7,   193 Kansas                   40.0
+opt_22157_1999_03.out:pred2:76% 40.9   5 Kansas State             64.0,   201 Temple                   23.2
+opt_22157_1999_03.out:pred2:64% 10.2 202 Navy                     44.8,   234 Kent State               34.6
+opt_22157_1999_03.out:pred2:58%  2.9  58 Kentucky                 52.0,    42 Connecticut              49.1
+opt_22157_1999_03.out:pred2:67% 21.7  51 Louisiana State          49.7,   211 North Texas              28.0
+opt_22157_1999_03.out:pred2:66% 10.5  93 Louisiana Tech           53.1,   197 Sam Houston State        42.7
+opt_22157_1999_03.out:pred2:63%  7.3  74 Louisville               47.6,   126 Chattanooga              40.3
+opt_22157_1999_03.out:pred2:68% 34.4  62 Marist                   61.1,   235 Saint Peter's            26.7
+opt_22157_1999_03.out:pred2:63%  5.8  69 Marshall                 45.7,    98 Liberty                  39.9
+opt_22157_1999_03.out:pred2:58%  4.1 130 Western Carolina         38.2,   170 Maryland                 34.1
+opt_22157_1999_03.out:pred2:64% 11.3  26 Massachusetts            49.5,    78 New Hampshire            38.2
+opt_22157_1999_03.out:pred2:65% 14.1  37 Michigan                 44.1,   124 Rice                     29.9
+opt_22157_1999_03.out:pred2:66% 18.5  43 Michigan State           49.6,   200 Eastern Michigan         31.1
+opt_22157_1999_03.out:pred2:65% 12.3  84 Minnesota                43.9,   185 Northeast Louisiana      31.6
+opt_22157_1999_03.out:pred2:67% 19.2 123 Mississippi              44.5,   226 Arkansas State           25.3
+opt_22157_1999_03.out:pred2:67% 20.3  49 Mississippi State        45.5,   192 Memphis State            25.2
+opt_22157_1999_03.out:pred2:66% 21.4 135 Monmouth                 68.9,   229 Albany                   47.5
+opt_22157_1999_03.out:pred2:63%  7.1 107 Montana                  46.5,   156 Sacramento State         39.3
+opt_22157_1999_03.out:pred2:67% 22.1   8 Nebraska                 42.7,   145 California               20.7
+opt_22157_1999_03.out:pred2:53%  1.1 174 New Mexico State         49.6,   204 New Mexico               48.5
+opt_22157_1999_03.out:pred2:64%  8.4  14 North Carolina State     27.8,    63 William & Mary           19.4
+opt_22157_1999_03.out:pred2:62%  5.8 101 Texas Christian          40.4,   184 Northwestern             34.5
+opt_22157_1999_03.out:pred2:63%  7.9  82 Northern Iowa            38.8,   181 Ohio                     30.9
+opt_22157_1999_03.out:pred2:51%  0.4   6 Ohio State               38.8,    22 California - Los Angeles 38.5
+opt_22157_1999_03.out:pred2:60%  5.4 102 Oklahoma                 39.3,   137 Indiana State            33.9
+opt_22157_1999_03.out:pred2:59%  4.1  68 Oklahoma State           42.8,   110 Tulsa                    38.7
+opt_22157_1999_03.out:pred2:67% 20.1  35 Oregon                   55.2,   189 Texas - El Paso          35.0
+opt_22157_1999_03.out:pred2:58%  3.9  86 Oregon State             37.7,   106 Fresno State             33.8
+opt_22157_1999_03.out:pred2:85% 40.2   2 Penn State               64.6,   151 Pittsburgh               24.4
+opt_22157_1999_03.out:pred2:64%  7.3  12 Purdue                   38.3,    23 Notre Dame               31.0
+opt_22157_1999_03.out:pred2:66% 15.1  18 Richmond                 47.1,    66 Villanova                32.1
+opt_22157_1999_03.out:pred2:63%  8.3  81 Robert Morris            51.6,   103 Dayton                   43.3
+opt_22157_1999_03.out:pred2:77% 29.2   3 Texas                    61.0,   195 Rutgers                  31.9
+opt_22157_1999_03.out:pred2:56%  3.4 223 Siena                    42.4,   233 Sacred Heart             39.1
+opt_22157_1999_03.out:pred2:68% 35.0 164 Saint John's             46.6,   236 Saint Francis - Pennsylv 11.6
+opt_22157_1999_03.out:pred2:66% 18.2  31 South Florida            50.9,   171 Southwest Texas State    32.7
+opt_22157_1999_03.out:pred2:61%  5.4  56 Southern                 37.2,    73 Arkansas - Pine Bluff    31.8
+opt_22157_1999_03.out:pred2:61%  5.3 163 Southern Illinois        41.6,   167 Murray State             36.3
+opt_22157_1999_03.out:pred2:63%  6.4  32 Southern Mississippi     43.7,    36 Northwestern State       37.4
+opt_22157_1999_03.out:pred2:50%  0.1 121 Southwest Missouri State 42.3,    92 Texas Southern           42.2
+opt_22157_1999_03.out:pred2:66% 16.8  72 Texas Tech               45.6,   221 Louisiana - Lafayette    28.8
+opt_22157_1999_03.out:pred2:64%  9.0 143 Stanford                 44.9,   194 Washington State         35.8
+opt_22157_1999_03.out:pred2:64% 13.2 168 Wagner                   72.1,   228 Stony Brook              58.8
+opt_22157_1999_03.out:pred2:67% 21.0  20 Syracuse                 54.3,   177 Central Michigan         33.3
+opt_22157_1999_03.out:pred2:61%  4.9  47 Delaware                 42.0,   142 The Citadel              37.0
+opt_22157_1999_03.out:pred2:52%  1.0 128 Lafayette                40.0,   179 Towson                   39.1
+opt_22157_1999_03.out:pred2:67% 19.0  24 Tulane                   48.8,   162 Southern Methodist       29.8
+opt_22157_1999_03.out:pred2:63%  8.3 125 Stephen F. Austin        40.5,   206 Utah State               32.2
+opt_22157_1999_03.out:pred2:54%  2.0 210 Northern Illinois        36.4,   216 Vanderbilt               34.3
+opt_22157_1999_03.out:pred2:67% 22.8  16 Virginia Tech            49.9,   173 Alabama - Birmingham     27.1
+opt_22157_1999_03.out:pred2:60%  4.9  28 West Virginia            40.4,    60 Miami - Ohio             35.5
+opt_22157_1999_03.out:pred2:67% 25.4  33 Western Illinois         43.7,   205 Mississippi Valley State 18.3
+opt_22157_1999_03.out:pred2:55%  2.2 148 Western Michigan         48.8,   157 Youngstown State         46.6
+opt_22157_1999_03.out:pred2:70% 34.8  11 Wisconsin                53.1,   220 Ball State               18.3
+opt_22157_1999_03.out:pred2:66% 17.9   9 Georgia Southern         58.3,   153 Wofford                  40.4
+opt_22157_1999_03.out:pred2:56%  3.3 115 Wyoming                  38.8,   166 Weber State              35.5
+opt_22157_1999_03.out:pred2:58%  3.5 127 Bowling Green            45.0,   198 Tennessee Tech           41.5
+opt_22157_1999_03.out:pred2:64%  7.4  34 Hofstra                  49.8,    61 Maine                    42.4
+opt_22157_1999_03.out:pred2:59%  4.4  45 Hampton                  38.6,    87 Howard                   34.2
+opt_22157_1999_03.out:pred2:63%  5.9  29 Tennessee State          50.2,    48 Jackson State            44.3
+opt_22157_1999_04.out:pred2:64% 10.9  66 Brigham Young            38.1,    91 Colorado State           27.2
+opt_22157_1999_04.out:pred2:55%  1.9  98 Eastern Washington       55.2,   111 Portland State           53.3
+opt_22157_1999_04.out:pred2:65%  9.1 185 Akron                    36.0,   204 Temple                   26.9
+opt_22157_1999_04.out:pred2:62%  3.2  65 Alabama                  28.3,    50 Louisiana Tech           25.1
+opt_22157_1999_04.out:pred2:65% 13.4  64 Troy State               37.9,   181 Alabama State            24.5
+opt_22157_1999_04.out:pred2:67% 12.9  87 Arizona                  43.8,   151 Stanford                 30.9
+opt_22157_1999_04.out:pred2:66% 10.5  81 Arizona State            57.6,   167 New Mexico State         47.1
+opt_22157_1999_04.out:pred2:67% 14.5 127 Toledo                   36.4,   220 Ball State               21.9
+opt_22157_1999_04.out:pred2:64%  6.1  88 Bucknell                 36.2,   146 Towson                   30.0
+opt_22157_1999_04.out:pred2:64%  8.9  97 Montana State            53.1,   193 California Poly          44.2
+opt_22157_1999_04.out:pred2:68% 14.5  23 California - Los Angeles 49.7,   109 Fresno State             35.2
+opt_22157_1999_04.out:pred2:82% 29.8  11 Wisconsin                52.7,   197 Cincinnati               22.9
+opt_22157_1999_04.out:pred2:61%  2.8  71 Colorado                 42.9,    35 Kansas                   40.2
+opt_22157_1999_04.out:pred2:63%  4.5  73 Connecticut              50.4,   113 Buffalo                  45.9
+opt_22157_1999_04.out:pred2:63%  4.2 221 Delaware State           48.5,   219 Norfolk State            44.3
+opt_22157_1999_04.out:pred2:63%  4.6 159 Duke                     37.6,   180 Northwestern             33.0
+opt_22157_1999_04.out:pred2:64%  5.6 118 Southern Illinois        44.1,   179 Eastern Illinois         38.5
+opt_22157_1999_04.out:pred2:62%  4.5 191 Eastern Kentucky         35.2,   186 Indiana State            30.7
+opt_22157_1999_04.out:pred2:66% 19.4  36 Fairfield                51.3,   107 Duquesne                 31.9
+opt_22157_1999_04.out:pred2:64%  6.3   9 Florida                  43.5,    12 Tennessee                37.2
+opt_22157_1999_04.out:pred2:53%  1.1  25 North Carolina State     18.1,    20 Florida State            17.0
+opt_22157_1999_04.out:pred2:62%  3.9  58 Colgate                  42.5,   144 Fordham                  38.6
+opt_22157_1999_04.out:pred2:67% 27.6  59 Georgetown               50.0,   223 Siena                    22.4
+opt_22157_1999_04.out:pred2:63%  5.0  72 Central Florida          51.4,    76 Georgia Tech             46.4
+opt_22157_1999_04.out:pred2:52%  1.6 139 Harvard                  37.6,   108 Columbia                 36.0
+opt_22157_1999_04.out:pred2:66%  8.9 194 Boise State              43.5,   231 Hawaii                   34.6
+opt_22157_1999_04.out:pred2:58%  4.5 148 Holy Cross               34.2,   145 Lafayette                29.7
+opt_22157_1999_04.out:pred2:68% 16.6 149 Houston                  39.3,   216 Louisiana - Lafayette    22.7
+opt_22157_1999_04.out:pred2:64%  4.9  80 Kentucky                 43.3,   157 Indiana                  38.4
+opt_22157_1999_04.out:pred2:64%  6.5 182 Iowa                     34.8,   211 Northern Illinois        28.3
+opt_22157_1999_04.out:pred2:67% 11.8  49 Jackson State            50.2,   124 Grambling                38.4
+opt_22157_1999_04.out:pred2:63%  6.7 206 Iona                     47.5,   232 La Salle                 40.8
+opt_22157_1999_04.out:pred2:70% 25.6  17 Lehigh                   49.5,   173 Monmouth                 23.9
+opt_22157_1999_04.out:pred2:71% 22.4  32 Louisiana State          44.3,   140 Auburn                   21.9
+opt_22157_1999_04.out:pred2:67% 13.9  57 Louisville               49.5,   169 Illinois                 35.7
+opt_22157_1999_04.out:pred2:66% 11.0  19 Richmond                 36.2,    74 Maine                    25.2
+opt_22157_1999_04.out:pred2:68% 15.6  42 Marshall                 42.9,   131 Bowling Green            27.3
+opt_22157_1999_04.out:pred2:65%  7.2  34 West Virginia            37.8,   129 Maryland                 30.5
+opt_22157_1999_04.out:pred2:66% 16.2  43 McNeese State            50.7,   155 Southern Utah            34.5
+opt_22157_1999_04.out:pred2:68% 16.6 187 Memphis State            37.8,   228 Arkansas State           21.2
+opt_22157_1999_04.out:pred2:72% 26.7   1 Miami - Florida          53.2,     4 Penn State               26.5
+opt_22157_1999_04.out:pred2:67% 20.9  56 Miami - Ohio             48.0,   201 Eastern Michigan         27.2
+opt_22157_1999_04.out:pred2:57%  2.6 174 Middle Tennessee State   35.1,   158 Wofford                  32.5
+opt_22157_1999_04.out:pred2:63%  5.1  68 Minnesota                45.5,    86 Illinois State           40.4
+opt_22157_1999_04.out:pred2:68% 15.7 135 Mississippi              40.1,   214 Vanderbilt               24.5
+opt_22157_1999_04.out:pred2:63%  3.9  53 Mississippi State        35.7,    61 Oklahoma State           31.8
+opt_22157_1999_04.out:pred2:67% 11.6 106 Alabama A&M              40.8,   212 Mississippi Valley State 29.2
+opt_22157_1999_04.out:pred2:76% 27.0  99 Murray State             50.5,   222 Southeast Missouri State 23.5
+opt_22157_1999_04.out:pred2:67% 17.1 126 Boston College           45.2,   218 Navy                     28.1
+opt_22157_1999_04.out:pred2:64%  7.2   7 Nebraska                 35.1,    21 Southern Mississippi     27.9
+opt_22157_1999_04.out:pred2:55%  1.3 190 Nevada - Las Vegas       36.0,   153 Iowa State               34.7
+opt_22157_1999_04.out:pred2:67% 14.4  52 New Hampshire            35.4,   132 James Madison            21.0
+opt_22157_1999_04.out:pred2:65% 10.3 141 Northern Arizona         37.8,   205 New Mexico               27.4
+opt_22157_1999_04.out:pred2:64%  5.4   5 Notre Dame               32.2,    37 Michigan State           26.7
+opt_22157_1999_04.out:pred2:84% 41.3   2 Ohio State               44.0,   189 Ohio                      2.8
+opt_22157_1999_04.out:pred2:65% 12.4  96 Oklahoma                 40.6,   156 Baylor                   28.3
+opt_22157_1999_04.out:pred2:83% 22.7  40 Oregon                   58.3,   171 Nevada - Reno            35.6
+opt_22157_1999_04.out:pred2:68% 18.3  10 Georgia Southern         51.8,    93 Oregon State             33.4
+opt_22157_1999_04.out:pred2:65% 16.1  39 Pennsylvania             53.1,   152 Dartmouth                37.0
+opt_22157_1999_04.out:pred2:88% 36.0 116 Pittsburgh               55.3,   234 Kent State               19.4
+opt_22157_1999_04.out:pred2:64% 11.7  47 Princeton                45.2,   128 Cornell                  33.5
+opt_22157_1999_04.out:pred2:77% 25.8  13 Purdue                   47.8,   184 Central Michigan         22.0
+opt_22157_1999_04.out:pred2:64% 10.7 208 Butler                   24.7,   235 Saint Francis - Pennsylv 14.0
+opt_22157_1999_04.out:pred2:66% 26.3  27 Saint John's             61.8,    67 Marist                   35.6
+opt_22157_1999_04.out:pred2:61%  6.1 225 Canisius                 39.4,   236 Saint Peter's            33.2
+opt_22157_1999_04.out:pred2:65%  9.3 162 San Jose State           40.0,   203 Saint Mary's             30.6
+opt_22157_1999_04.out:pred2:63%  5.0 130 East Carolina            34.1,   178 South Carolina           29.1
+opt_22157_1999_04.out:pred2:75% 22.3  60 Southern                 49.3,   210 Prairie View             27.1
+opt_22157_1999_04.out:pred2:67% 19.4  31 Southern California      40.9,   147 San Diego State          21.6
+opt_22157_1999_04.out:pred2:63%  8.8 120 Stephen F. Austin        42.8,   165 Southwest Texas State    34.0
+opt_22157_1999_04.out:pred2:67% 13.5  16 Syracuse                 43.1,    38 Michigan                 29.5
+opt_22157_1999_04.out:pred2:52%  0.5  30 Tennessee State          42.2,    14 Florida A&M              41.7
+opt_22157_1999_04.out:pred2:56%  3.0 115 Liberty                  44.2,   198 Tennessee Tech           41.3
+opt_22157_1999_04.out:pred2:77% 20.0 136 Samford                  49.3,   227 Tennessee - Martin       29.3
+opt_22157_1999_04.out:pred2:92% 29.3   8 Texas                    55.4,   177 Rice                     26.1
+opt_22157_1999_04.out:pred2:77% 33.4   6 Texas A&M                54.9,   163 Tulsa                    21.5
+opt_22157_1999_04.out:pred2:67% 15.6  83 Texas Tech               34.1,   213 North Texas              18.5
+opt_22157_1999_04.out:pred2:67% 16.7  29 Tulane                   53.2,   150 Army                     36.6
+opt_22157_1999_04.out:pred2:68% 20.2  70 Utah                     46.7,   192 Utah State               26.5
+opt_22157_1999_04.out:pred2:67% 26.0  79 Robert Morris            45.0,   229 Valparaiso               18.9
+opt_22157_1999_04.out:pred2:66% 11.0  22 Massachusetts            53.2,    78 Villanova                42.2
+opt_22157_1999_04.out:pred2:65% 10.0  44 Virginia                 42.7,   125 Wake Forest              32.7
+opt_22157_1999_04.out:pred2:67% 14.6 112 East Tennessee State     54.7,   226 Virginia Military        40.1
+opt_22157_1999_04.out:pred2:67% 21.1 164 Wagner                   47.7,   233 Sacred Heart             26.6
+opt_22157_1999_04.out:pred2:55%  2.0  33 Air Force                45.1,    75 Washington               43.1
+opt_22157_1999_04.out:pred2:64% 12.0 168 Weber State              46.3,   209 Idaho State              34.3
+opt_22157_1999_04.out:pred2:53%  0.7  77 Western Kentucky         39.3,    41 South Florida            38.6
+opt_22157_1999_04.out:pred2:58%  2.1  84 William & Mary           44.0,   119 Furman                   41.9
+opt_22157_1999_04.out:pred2:50%  0.1  62 Brown                    48.5,    89 Yale                     48.4
+opt_22157_1999_04.out:pred2:78% 25.3  26 Arkansas                 51.2,   200 Northeast Louisiana      25.9
+opt_22157_1999_04.out:pred2:63%  4.4  45 Hampton                  31.1,    82 Arkansas - Pine Bluff    26.7
+opt_22157_1999_04.out:pred2:53%  0.9 105 Bethune - Cookman        43.4,    94 Howard                   42.6
+opt_22157_1999_04.out:pred2:87% 36.4   3 Kansas State             59.9,   199 Texas - El Paso          23.5
+opt_22157_1999_04.out:pred2:67% 13.0  24 Missouri                 49.2,   134 Western Michigan         36.2
+opt_22157_1999_04.out:pred2:68% 20.5  18 Western Illinois         49.4,   138 Nicholls State           28.9
+opt_22157_1999_04.out:pred2:67% 14.5  28 Hofstra                  45.1,   103 Rhode Island             30.6
+opt_22157_1999_04.out:pred2:68% 18.7  63 Idaho                    40.8,   196 Washington State         22.1
+opt_22157_1999_04.out:pred2:65% 14.4 122 Dayton                   43.8,   215 Austin Peay              29.4
+opt_22157_1999_05.out:pred2:83% 31.7   6 Virginia Tech            51.7,   127 Clemson                  20.0
+opt_22157_1999_05.out:pred2:67% 16.4  25 Air Force                44.5,   100 Wyoming                  28.1
+opt_22157_1999_05.out:pred2:63%  5.7  28 Arkansas                 38.9,    67 Alabama                  33.3
+opt_22157_1999_05.out:pred2:76% 22.7 110 Alabama A&M              47.5,   219 Prairie View             24.8
+opt_22157_1999_05.out:pred2:64%  7.8  95 Alabama - Birmingham     29.7,    90 Houston                  22.0
+opt_22157_1999_05.out:pred2:76% 18.7 112 Texas Christian          41.4,   226 Arkansas State           22.7
+opt_22157_1999_05.out:pred2:66%  9.8 108 Arkansas - Pine Bluff    39.1,   174 Alcorn State             29.3
+opt_22157_1999_05.out:pred2:67% 12.6 165 Army                     37.8,   216 Ball State               25.3
+opt_22157_1999_05.out:pred2:67% 14.5  49 Auburn                   33.4,   144 Mississippi              18.8
+opt_22157_1999_05.out:pred2:68% 14.5  26 Texas                    40.9,   157 Baylor                   26.4
+opt_22157_1999_05.out:pred2:66%  8.5 203 Boise State              37.9,   202 New Mexico               29.4
+opt_22157_1999_05.out:pred2:63%  4.1  68 Brigham Young            31.8,    55 Virginia                 27.7
+opt_22157_1999_05.out:pred2:66% 16.8  66 Brown                    43.9,   177 Lafayette                27.1
+opt_22157_1999_05.out:pred2:80% 22.8  76 Bucknell                 43.0,   215 Delaware State           20.3
+opt_22157_1999_05.out:pred2:50%  0.1 113 Arizona State            34.1,   159 California               34.0
+opt_22157_1999_05.out:pred2:68% 26.3  34 Fairfield                48.1,   225 Canisius                 21.8
+opt_22157_1999_05.out:pred2:66% 11.3  80 Robert Morris            43.6,   205 Central Connecticut      32.3
+opt_22157_1999_05.out:pred2:68% 15.5  60 Miami - Ohio             41.1,   189 Central Michigan         25.6
+opt_22157_1999_05.out:pred2:56%  2.4 118 Columbia                 32.4,   105 Towson                   30.0
+opt_22157_1999_05.out:pred2:65% 12.4 122 Cornell                  40.1,   170 Fordham                  27.6
+opt_22157_1999_05.out:pred2:64%  8.5  35 Colgate                  38.8,   153 Dartmouth                30.3
+opt_22157_1999_05.out:pred2:65%  7.8 176 Duke                     38.0,   198 Vanderbilt               30.1
+opt_22157_1999_05.out:pred2:68% 21.6   1 Miami - Florida          42.9,    93 East Carolina            21.3
+opt_22157_1999_05.out:pred2:58%  2.7 120 East Tennessee State     35.7,   140 Western Carolina         33.0
+opt_22157_1999_05.out:pred2:72% 16.7 206 Eastern Illinois         49.1,   231 Tennessee - Martin       32.5
+opt_22157_1999_05.out:pred2:56%  1.5 175 Akron                    39.1,   204 Eastern Michigan         37.6
+opt_22157_1999_05.out:pred2:63%  5.8  97 California State - North 46.6,   166 Eastern Washington       40.8
+opt_22157_1999_05.out:pred2:63%  7.9  44 Elon                     40.7,   102 North Carolina A&T       32.8
+opt_22157_1999_05.out:pred2:81% 31.8  83 Furman                   56.7,   232 Virginia Military        24.9
+opt_22157_1999_05.out:pred2:64% 12.0  63 Georgetown               35.7,   151 Saint John's             23.7
+opt_22157_1999_05.out:pred2:67% 15.1  65 Georgia                  45.3,   143 Central Florida          30.2
+opt_22157_1999_05.out:pred2:86% 27.0   7 Georgia Southern         55.7,   139 Chattanooga              28.6
+opt_22157_1999_05.out:pred2:67% 14.0  50 Hampton                  38.1,   115 Grambling                24.1
+opt_22157_1999_05.out:pred2:86% 26.7  23 Hofstra                  53.4,   195 California Poly          26.7
+opt_22157_1999_05.out:pred2:53%  1.4 132 Harvard                  29.2,   158 Holy Cross               27.8
+opt_22157_1999_05.out:pred2:63%  3.3  84 Howard                   34.7,    91 Texas Southern           31.4
+opt_22157_1999_05.out:pred2:64%  8.1 142 Portland State           50.3,   211 Idaho State              42.1
+opt_22157_1999_05.out:pred2:65% 10.6  24 Michigan State           33.1,    98 Illinois                 22.5
+opt_22157_1999_05.out:pred2:66% 13.0 209 Iona                     35.9,   234 Sacred Heart             22.9
+opt_22157_1999_05.out:pred2:78% 23.2   2 Kansas State             45.7,   104 Iowa State               22.5
+opt_22157_1999_05.out:pred2:63%  6.6 111 Jacksonville State       40.3,   130 Nicholls State           33.7
+opt_22157_1999_05.out:pred2:66%  8.5  58 Delaware                 39.0,   135 James Madison            30.4
+opt_22157_1999_05.out:pred2:62%  2.5 103 San Diego State          38.9,   152 Kansas                   36.3
+opt_22157_1999_05.out:pred2:67% 17.8 137 Bowling Green            42.6,   230 Kent State               24.9
+opt_22157_1999_05.out:pred2:65%  8.8  14 Florida                  45.7,    73 Kentucky                 37.0
+opt_22157_1999_05.out:pred2:63%  5.1  40 Louisville               43.2,    74 Oklahoma                 38.1
+opt_22157_1999_05.out:pred2:66%  9.7  48 Maine                    38.1,    99 Connecticut              28.4
+opt_22157_1999_05.out:pred2:51%  0.2  72 Duquesne                 32.2,   101 Marist                   32.0
+opt_22157_1999_05.out:pred2:81% 24.4  38 Marshall                 36.4,   208 Temple                   12.1
+opt_22157_1999_05.out:pred2:78% 22.2  45 Mississippi State        34.0,   192 South Carolina           11.8
+opt_22157_1999_05.out:pred2:82% 23.2  36 Jackson State            48.9,   213 Mississippi Valley State 25.7
+opt_22157_1999_05.out:pred2:55%  1.8  15 Missouri                 34.4,     5 Nebraska                 32.6
+opt_22157_1999_05.out:pred2:64% 10.0 107 Montana                  38.3,   186 Weber State              28.3
+opt_22157_1999_05.out:pred2:63%  5.1  92 Morehead State           39.7,   121 Dayton                   34.6
+opt_22157_1999_05.out:pred2:66% 12.4  69 Utah                     37.9,   193 Nevada - Las Vegas       25.5
+opt_22157_1999_05.out:pred2:63%  4.2 106 Fresno State             38.3,   161 Nevada - Reno            34.1
+opt_22157_1999_05.out:pred2:73% 18.1  47 Northwestern State       39.8,   207 Northeast Louisiana      21.7
+opt_22157_1999_05.out:pred2:65% 12.4  75 Northeastern             40.5,   162 William & Mary           28.1
+opt_22157_1999_05.out:pred2:65%  7.1 128 Western Michigan         41.0,   212 Northern Illinois        33.9
+opt_22157_1999_05.out:pred2:63%  4.9  70 Northern Iowa            35.7,   109 Southern Illinois        30.8
+opt_22157_1999_05.out:pred2:59%  2.4 154 Buffalo                  38.0,   181 Ohio                     35.6
+opt_22157_1999_05.out:pred2:70% 22.8  11 Ohio State               40.3,   138 Cincinnati               17.5
+opt_22157_1999_05.out:pred2:62%  3.7  21 Oregon                   41.1,    29 Southern California      37.4
+opt_22157_1999_05.out:pred2:90% 28.7   4 Penn State               49.0,   147 Indiana                  20.3
+opt_22157_1999_05.out:pred2:65%  9.1  37 Pennsylvania             46.0,    57 Villanova                36.9
+opt_22157_1999_05.out:pred2:64%  8.2  17 Lehigh                   40.3,    61 Princeton                32.1
+opt_22157_1999_05.out:pred2:77% 24.8  10 Purdue                   40.6,   184 Northwestern             15.8
+opt_22157_1999_05.out:pred2:67% 13.6 116 Rhode Island             38.0,   217 Morgan State             24.4
+opt_22157_1999_05.out:pred2:66% 12.3 141 Rice                     36.8,   199 Navy                     24.6
+opt_22157_1999_05.out:pred2:67% 13.4  33 Richmond                 35.1,    89 New Hampshire            21.7
+opt_22157_1999_05.out:pred2:63%  5.1 124 Boston College           36.4,   191 Rutgers                  31.3
+opt_22157_1999_05.out:pred2:52%  0.6  96 Montana State            46.5,   125 Sacramento State         45.9
+opt_22157_1999_05.out:pred2:65%  9.7 119 Samford                  36.8,   171 Eastern Kentucky         27.1
+opt_22157_1999_05.out:pred2:64%  4.7 156 San Jose State           38.1,   167 Tulsa                    33.4
+opt_22157_1999_05.out:pred2:65% 10.1 227 Siena                    32.5,   235 Saint Peter's            22.5
+opt_22157_1999_05.out:pred2:68% 16.7 173 Southern Methodist       37.2,   221 Hawaii                   20.5
+opt_22157_1999_05.out:pred2:64%  5.6  78 Southwest Missouri State 49.3,    77 Illinois State           43.8
+opt_22157_1999_05.out:pred2:50%  0.0 172 Southwest Texas State    31.5,   146 Northern Arizona         31.5
+opt_22157_1999_05.out:pred2:65%  7.2 180 Middle Tennessee State   35.2,   223 Louisiana - Lafayette    28.1
+opt_22157_1999_05.out:pred2:66%  9.3  32 California - Los Angeles 50.4,   114 Stanford                 41.0
+opt_22157_1999_05.out:pred2:58%  4.3 200 Monmouth                 52.6,   233 Stony Brook              48.3
+opt_22157_1999_05.out:pred2:70% 14.7  16 Syracuse                 45.7,    56 West Virginia            31.0
+opt_22157_1999_05.out:pred2:86% 30.4   9 Tennessee                46.6,   194 Memphis State            16.2
+opt_22157_1999_05.out:pred2:62%  4.7   8 Texas A&M                37.4,    12 Southern Mississippi     32.7
+opt_22157_1999_05.out:pred2:52%  0.4 164 New Mexico State         36.5,   188 Texas - El Paso          36.1
+opt_22157_1999_05.out:pred2:64%  8.5  51 Appalachian State        33.5,   149 The Citadel              25.0
+opt_22157_1999_05.out:pred2:54%  1.5  46 Massachusetts            33.4,   126 Toledo                   31.8
+opt_22157_1999_05.out:pred2:55%  1.8  54 South Florida            23.9,    87 Troy State               22.1
+opt_22157_1999_05.out:pred2:88% 32.1 168 Wagner                   41.4,   236 Saint Francis - Pennsylv  9.3
+opt_22157_1999_05.out:pred2:63%  4.3  59 North Carolina State     30.0,   134 Wake Forest              25.8
+opt_22157_1999_05.out:pred2:58%  2.2  42 Colorado                 41.3,    82 Washington               39.2
+opt_22157_1999_05.out:pred2:64%  6.0 148 Arizona                  34.5,   196 Washington State         28.4
+opt_22157_1999_05.out:pred2:85% 23.6  94 Western Kentucky         48.9,   229 Southeast Missouri State 25.3
+opt_22157_1999_05.out:pred2:63%  4.7  18 Wisconsin                31.4,    13 Michigan                 26.8
+opt_22157_1999_05.out:pred2:56%  1.8 178 Wofford                  34.3,   187 Charleston Southern      32.6
+opt_22157_1999_05.out:pred2:63%  6.2  88 Yale                     36.3,   155 Valparaiso               30.1
+opt_22157_1999_05.out:pred2:66% 19.2  22 Western Illinois         45.7,   163 Youngstown State         26.5
+opt_22157_1999_05.out:pred2:68% 15.2  53 Southern                 35.2,   182 Alabama State            19.9
+opt_22157_1999_05.out:pred2:67% 14.3   3 Florida State            44.7,    79 North Carolina           30.4
+opt_22157_1999_05.out:pred2:67% 12.9  27 Florida A&M              42.2,   131 South Carolina State     29.3
+opt_22157_1999_06.out:pred2:68% 14.3  24 Georgia Tech             41.3,    88 Maryland                 27.0
+opt_22157_1999_06.out:pred2:66% 11.8  61 Brigham Young            39.3,   178 Utah State               27.4
+opt_22157_1999_06.out:pred2:71% 16.3  13 Tennessee State          45.7,   123 Alabama A&M              29.4
+opt_22157_1999_06.out:pred2:66% 10.8 125 Alabama - Birmingham     34.5,   182 Northeast Louisiana      23.7
+opt_22157_1999_06.out:pred2:57%  5.5 227 Albany                   70.3,   231 Stony Brook              64.8
+opt_22157_1999_06.out:pred2:70% 17.4  27 Appalachian State        41.4,   109 East Tennessee State     24.0
+opt_22157_1999_06.out:pred2:65%  6.4  49 California - Los Angeles 43.3,   131 Arizona State            36.9
+opt_22157_1999_06.out:pred2:63%  5.4 190 Sam Houston State        45.4,   215 Arkansas State           39.9
+opt_22157_1999_06.out:pred2:63%  4.3  67 East Carolina            35.2,   154 Army                     30.9
+opt_22157_1999_06.out:pred2:66% 12.7 165 Jacksonville             48.0,   223 Austin Peay              35.3
+opt_22157_1999_06.out:pred2:58%  1.5 189 Akron                    33.7,   214 Ball State               32.2
+opt_22157_1999_06.out:pred2:63%  4.5 188 Baylor                   31.7,   219 North Texas              27.2
+opt_22157_1999_06.out:pred2:68% 16.2  55 Utah                     38.8,   198 Boise State              22.7
+opt_22157_1999_06.out:pred2:54%  1.5  82 Northeastern             31.9,   136 Boston College           30.4
+opt_22157_1999_06.out:pred2:62%  3.6 113 Toledo                   27.1,   173 Bowling Green            23.5
+opt_22157_1999_06.out:pred2:63%  4.2  89 Brown                    35.3,   112 Cornell                  31.1
+opt_22157_1999_06.out:pred2:62%  3.1 207 Buffalo                  33.7,   203 Northern Illinois        30.5
+opt_22157_1999_06.out:pred2:64%  4.4 144 Southern Utah            42.9,   192 California Poly          38.5
+opt_22157_1999_06.out:pred2:67% 20.2 128 California State - North 53.1,   216 Idaho State              32.9
+opt_22157_1999_06.out:pred2:67% 17.7 169 Marist                   38.9,   232 Canisius                 21.2
+opt_22157_1999_06.out:pred2:66% 11.3 107 Central Florida          42.7,   205 Eastern Illinois         31.4
+opt_22157_1999_06.out:pred2:54%  1.2 150 Chattanooga              32.3,   147 Wofford                  31.2
+opt_22157_1999_06.out:pred2:52%  0.5 102 Clemson                  32.9,    96 North Carolina           32.3
+opt_22157_1999_06.out:pred2:70% 16.5  59 Colorado State           45.0,   157 New Mexico State         28.5
+opt_22157_1999_06.out:pred2:66%  9.7  76 Connecticut              35.7,   134 Rhode Island             26.0
+opt_22157_1999_06.out:pred2:68% 15.9 121 Dayton                   46.9,   208 Butler                   31.0
+opt_22157_1999_06.out:pred2:52%  0.5  45 Richmond                 32.1,    86 Delaware                 31.6
+opt_22157_1999_06.out:pred2:66%  9.2 122 Bethune - Cookman        42.6,   186 Delaware State           33.3
+opt_22157_1999_06.out:pred2:92% 39.1  51 Duquesne                 49.7,   234 Saint Peter's            10.5
+opt_22157_1999_06.out:pred2:86% 31.9  30 Fairfield                46.1,   212 Central Connecticut      14.1
+opt_22157_1999_06.out:pred2:68% 18.1   7 Florida                  42.5,    50 Alabama                  24.4
+opt_22157_1999_06.out:pred2:92% 32.9  11 Florida A&M              52.2,   202 Morgan State             19.3
+opt_22157_1999_06.out:pred2:66%  9.0  94 Fresno State             35.9,   149 Texas Christian          26.9
+opt_22157_1999_06.out:pred2:50%  0.1  57 Louisiana State          32.7,    79 Georgia                  32.7
+opt_22157_1999_06.out:pred2:66% 10.2  34 Colgate                  35.2,   141 Harvard                  25.0
+opt_22157_1999_06.out:pred2:65%  7.2 140 Texas - El Paso          36.3,   209 Hawaii                   29.1
+opt_22157_1999_06.out:pred2:53%  0.6  43 Northern Iowa            39.1,    62 Illinois State           38.5
+opt_22157_1999_06.out:pred2:63%  3.3  66 Illinois                 35.8,   156 Indiana                  32.4
+opt_22157_1999_06.out:pred2:56%  1.9 142 Youngstown State         36.3,   162 Indiana State            34.5
+opt_22157_1999_06.out:pred2:75% 18.6  48 Georgetown               42.8,   204 Iona                     24.2
+opt_22157_1999_06.out:pred2:54%  1.2 211 Southern Methodist       28.7,   194 Kansas                   27.5
+opt_22157_1999_06.out:pred2:66% 10.5  23 Arkansas                 44.9,   105 Kentucky                 34.4
+opt_22157_1999_06.out:pred2:54%  1.0 180 Lafayette                27.0,   176 Dartmouth                26.0
+opt_22157_1999_06.out:pred2:75% 23.8  12 Lehigh                   43.2,   120 Columbia                 19.5
+opt_22157_1999_06.out:pred2:78% 15.9  54 Louisville               52.3,   185 Eastern Michigan         36.4
+opt_22157_1999_06.out:pred2:56%  1.5  83 Maine                    31.9,    73 McNeese State            30.4
+opt_22157_1999_06.out:pred2:64%  5.8  22 Hofstra                  38.7,    47 Massachusetts            32.8
+opt_22157_1999_06.out:pred2:64%  7.9  44 Missouri                 33.5,   152 Memphis State            25.7
+opt_22157_1999_06.out:pred2:50%  0.1  64 Miami - Ohio             28.6,    33 Marshall                 28.5
+opt_22157_1999_06.out:pred2:52%  0.4  10 Purdue                   30.1,    18 Michigan                 29.6
+opt_22157_1999_06.out:pred2:78% 23.9  17 Michigan State           35.7,   163 Iowa                     11.8
+opt_22157_1999_06.out:pred2:66% 10.7  78 Troy State               38.4,   191 Middle Tennessee State   27.7
+opt_22157_1999_06.out:pred2:66%  9.9 167 Alabama State            35.9,   229 Mississippi Valley State 26.0
+opt_22157_1999_06.out:pred2:84% 23.6   2 Nebraska                 42.4,    71 Oklahoma State           18.8
+opt_22157_1999_06.out:pred2:63%  4.8 177 Nevada - Reno            36.9,   200 Nevada - Las Vegas       32.1
+opt_22157_1999_06.out:pred2:64%  5.6  84 New Hampshire            34.5,   139 Stephen F. Austin        28.9
+opt_22157_1999_06.out:pred2:67% 20.0 116 North Carolina A&T       55.4,   226 Norfolk State            35.4
+opt_22157_1999_06.out:pred2:63%  5.3 106 Northern Arizona         39.9,   153 Eastern Washington       34.5
+opt_22157_1999_06.out:pred2:67% 11.6  37 Minnesota                32.5,   172 Northwestern             20.9
+opt_22157_1999_06.out:pred2:63%  4.8  81 Northwestern State       37.3,   126 Nicholls State           32.4
+opt_22157_1999_06.out:pred2:63%  5.4  32 Notre Dame               31.7,    46 Oklahoma                 26.3
+opt_22157_1999_06.out:pred2:80% 21.1 143 Ohio                     43.0,   221 Kent State               21.9
+opt_22157_1999_06.out:pred2:59%  2.7  19 Ohio State               27.8,    31 Wisconsin                25.1
+opt_22157_1999_06.out:pred2:63%  3.3  68 Pennsylvania             35.8,    69 Bucknell                 32.5
+opt_22157_1999_06.out:pred2:67% 14.6 127 Pittsburgh               32.8,   218 Temple                   18.3
+opt_22157_1999_06.out:pred2:59%  2.7  65 Montana                  45.6,   108 Portland State           42.9
+opt_22157_1999_06.out:pred2:68% 13.2 117 Grambling                41.3,   225 Prairie View             28.0
+opt_22157_1999_06.out:pred2:67% 11.7  97 Robert Morris            39.7,   164 Wagner                   28.1
+opt_22157_1999_06.out:pred2:64%  8.9 111 Samford                  31.3,   146 Jacksonville State       22.4
+opt_22157_1999_06.out:pred2:61%  4.1  74 Yale                     45.4,   175 San Diego                41.4
+opt_22157_1999_06.out:pred2:65%  8.5  26 Air Force                33.7,    80 San Diego State          25.3
+opt_22157_1999_06.out:pred2:54%  0.9 224 Siena                    35.6,   220 La Salle                 34.7
+opt_22157_1999_06.out:pred2:64%  6.8 110 Mississippi              26.9,   206 South Carolina           20.1
+opt_22157_1999_06.out:pred2:64%  6.1  75 South Florida            34.8,   104 Southern Illinois        28.7
+opt_22157_1999_06.out:pred2:67% 13.4 135 Eastern Kentucky         37.9,   228 Southeast Missouri State 24.5
+opt_22157_1999_06.out:pred2:65%  9.8  28 Southern California      35.4,    56 Oregon State             25.6
+opt_22157_1999_06.out:pred2:74% 17.0  58 Louisiana Tech           43.4,   217 Louisiana - Lafayette    26.4
+opt_22157_1999_06.out:pred2:65%  7.8  90 Stanford                 45.0,   145 San Jose State           37.2
+opt_22157_1999_06.out:pred2:66%  7.5  14 Syracuse                 47.6,    38 Tulane                   40.1
+opt_22157_1999_06.out:pred2:66% 11.7  20 Tennessee                32.8,    52 Auburn                   21.1
+opt_22157_1999_06.out:pred2:66%  8.5 201 Tennessee Tech           39.1,   230 Tennessee - Martin       30.6
+opt_22157_1999_06.out:pred2:64%  4.6   3 Kansas State             40.3,    21 Texas                    35.7
+opt_22157_1999_06.out:pred2:67% 17.1   4 Texas A&M                38.4,   118 Texas Tech               21.3
+opt_22157_1999_06.out:pred2:56%  1.8 171 South Carolina State     27.0,   195 The Citadel              25.2
+opt_22157_1999_06.out:pred2:65%  8.1 114 Towson                   33.2,   161 Holy Cross               25.1
+opt_22157_1999_06.out:pred2:59%  2.1 159 Rice                     29.6,   184 Tulsa                    27.5
+opt_22157_1999_06.out:pred2:64%  8.7  87 Drake                    43.0,   179 Valparaiso               34.3
+opt_22157_1999_06.out:pred2:66% 12.4  53 Mississippi State        34.1,   168 Vanderbilt               21.7
+opt_22157_1999_06.out:pred2:75% 17.2  35 Villanova                40.9,   115 James Madison            23.7
+opt_22157_1999_06.out:pred2:63%  6.7   9 Virginia Tech            31.5,    41 Virginia                 24.8
+opt_22157_1999_06.out:pred2:96% 46.0   5 Georgia Southern         65.8,   233 Virginia Military        19.9
+opt_22157_1999_06.out:pred2:68% 15.3 101 Wake Forest              38.8,   199 Rutgers                  23.5
+opt_22157_1999_06.out:pred2:66%  7.0  15 Oregon                   47.0,    70 Washington               40.0
+opt_22157_1999_06.out:pred2:62%  2.9 160 California               27.8,   187 Washington State         24.9
+opt_22157_1999_06.out:pred2:68% 13.3  85 Sacramento State         40.3,   210 Weber State              27.0
+opt_22157_1999_06.out:pred2:70% 16.6  72 West Virginia            40.3,   183 Navy                     23.7
+opt_22157_1999_06.out:pred2:66% 12.2  39 Furman                   38.1,   170 Western Carolina         25.9
+opt_22157_1999_06.out:pred2:67% 14.1  36 Western Illinois         41.6,    91 Southwest Missouri State 27.5
+opt_22157_1999_06.out:pred2:64%  5.1 130 Western Kentucky         44.0,   124 Murray State             39.0
+opt_22157_1999_06.out:pred2:66%  8.8 129 Western Michigan         43.0,   181 Central Michigan         34.2
+opt_22157_1999_06.out:pred2:63%  4.7 100 Wyoming                  36.7,    95 Idaho                    32.0
+opt_22157_1999_06.out:pred2:66% 12.6  99 Princeton                38.4,   174 Fordham                  25.8
+opt_22157_1999_06.out:pred2:64%  7.3 235 Sacred Heart             20.5,   236 Saint Francis - Pennsylv 13.2
+opt_22157_1999_06.out:pred2:90% 36.3   1 Florida State            48.8,   196 Duke                     12.6
+opt_22157_1999_06.out:pred2:51%  0.4  42 Hampton                  21.5,    40 Southern                 21.1
+opt_22157_1999_07.out:pred2:66% 10.0  47 Louisville               46.6,   166 Army                     36.6
+opt_22157_1999_07.out:pred2:70% 16.6  14 Syracuse                 41.5,   107 Pittsburgh               24.9
+opt_22157_1999_07.out:pred2:89% 27.8  16 Hofstra                  48.1,   158 Delaware State           20.3
+opt_22157_1999_07.out:pred2:65%  9.2 208 Iona                     30.4,   234 Saint Peter's            21.2
+opt_22157_1999_07.out:pred2:53%  0.7 148 Ohio                     32.3,   179 Akron                    31.6
+opt_22157_1999_07.out:pred2:65%  7.6  75 Alabama - Birmingham     31.4,   133 Memphis State            23.8
+opt_22157_1999_07.out:pred2:78% 17.6 168 Alcorn State             43.1,   229 Prairie View             25.5
+opt_22157_1999_07.out:pred2:66% 11.5  22 Southern California      37.7,   145 Arizona                  26.2
+opt_22157_1999_07.out:pred2:89% 27.1  36 Arkansas                 50.9,   199 Middle Tennessee State   23.8
+opt_22157_1999_07.out:pred2:51%  0.2  51 Mississippi State        20.5,    71 Auburn                   20.3
+opt_22157_1999_07.out:pred2:61%  2.7 140 Eastern Washington       35.0,   176 Boise State              32.3
+opt_22157_1999_07.out:pred2:66%  8.2  85 Miami - Ohio             36.6,   156 Bowling Green            28.4
+opt_22157_1999_07.out:pred2:69% 16.2  60 Brigham Young            40.1,   184 California               23.9
+opt_22157_1999_07.out:pred2:63%  4.4  88 Brown                    33.9,   100 Princeton                29.5
+opt_22157_1999_07.out:pred2:51%  0.2 215 Buffalo                  33.1,   198 Central Michigan         32.9
+opt_22157_1999_07.out:pred2:62%  3.6 181 Valparaiso               33.9,   212 Butler                   30.3
+opt_22157_1999_07.out:pred2:63%  3.6  18 Oregon                   44.6,    69 California - Los Angeles 41.0
+opt_22157_1999_07.out:pred2:62%  3.2  53 Colorado                 39.4,    46 Missouri                 36.2
+opt_22157_1999_07.out:pred2:63%  5.7  65 Bucknell                 30.9,   131 Columbia                 25.2
+opt_22157_1999_07.out:pred2:64%  6.9  93 Cornell                  30.4,   117 Harvard                  23.5
+opt_22157_1999_07.out:pred2:91% 29.8   4 Lehigh                   46.6,   193 Dartmouth                16.8
+opt_22157_1999_07.out:pred2:65% 12.6 114 Dayton                   45.8,   188 San Diego                33.2
+opt_22157_1999_07.out:pred2:68% 23.0  91 Drake                    50.0,   209 Saint Mary's             27.0
+opt_22157_1999_07.out:pred2:67% 16.4  43 Duquesne                 34.3,   136 Saint John's             17.9
+opt_22157_1999_07.out:pred2:64%  6.4  21 Southern Mississippi     32.1,    58 East Carolina            25.7
+opt_22157_1999_07.out:pred2:61%  2.6 126 Eastern Kentucky         34.0,   142 Western Kentucky         31.4
+opt_22157_1999_07.out:pred2:65%  7.3 112 Western Michigan         42.9,   194 Eastern Michigan         35.6
+opt_22157_1999_07.out:pred2:89% 35.1  38 Fairfield                46.4,   226 Siena                    11.3
+opt_22157_1999_07.out:pred2:66% 10.9   1 Florida State            36.5,    17 Miami - Florida          25.6
+opt_22157_1999_07.out:pred2:63%  6.3  39 Colorado State           32.6,    99 Fresno State             26.3
+opt_22157_1999_07.out:pred2:58%  2.1  32 Furman                   32.0,    29 Appalachian State        30.0
+opt_22157_1999_07.out:pred2:93% 35.8   3 Georgia Southern         54.0,   172 Western Carolina         18.2
+opt_22157_1999_07.out:pred2:83% 20.0  15 Georgia Tech             49.9,    94 North Carolina           29.9
+opt_22157_1999_07.out:pred2:85% 23.3 111 Grambling                44.9,   228 Mississippi Valley State 21.6
+opt_22157_1999_07.out:pred2:58%  1.9 162 Rice                     28.2,   186 Hawaii                   26.4
+opt_22157_1999_07.out:pred2:65%  9.0  63 Yale                     29.8,   152 Holy Cross               20.8
+opt_22157_1999_07.out:pred2:64%  7.2  97 Houston                  33.9,   134 Cincinnati               26.7
+opt_22157_1999_07.out:pred2:71% 12.8   8 Florida A&M              46.2,    82 Howard                   33.4
+opt_22157_1999_07.out:pred2:72% 18.8 102 Idaho                    38.9,   219 North Texas              20.0
+opt_22157_1999_07.out:pred2:67% 14.3 104 Northern Arizona         40.9,   222 Idaho State              26.6
+opt_22157_1999_07.out:pred2:87% 20.3  42 Illinois State           49.4,   175 Indiana State            29.1
+opt_22157_1999_07.out:pred2:63%  3.1 138 Indiana                  29.8,   161 Northwestern             26.7
+opt_22157_1999_07.out:pred2:88% 25.1  13 Penn State               40.9,   182 Iowa                     15.7
+opt_22157_1999_07.out:pred2:89% 24.7  26 Jackson State            50.1,   173 Alabama State            25.4
+opt_22157_1999_07.out:pred2:93% 35.1   6 Kansas State             54.8,   180 Kansas                   19.6
+opt_22157_1999_07.out:pred2:68% 15.9 206 La Salle                 46.0,   231 Canisius                 30.1
+opt_22157_1999_07.out:pred2:67% 13.5  40 Colgate                  37.2,   171 Lafayette                23.7
+opt_22157_1999_07.out:pred2:65%  8.4  12 Florida                  41.6,    57 Louisiana State          33.2
+opt_22157_1999_07.out:pred2:66%  9.5  33 Georgetown               30.7,   154 Marist                   21.1
+opt_22157_1999_07.out:pred2:66% 11.7  55 Massachusetts            37.1,   118 Northeastern             25.4
+opt_22157_1999_07.out:pred2:53%  0.7  11 Michigan State           23.5,    10 Michigan                 22.8
+opt_22157_1999_07.out:pred2:55%  1.1  41 Minnesota                29.2,    24 Wisconsin                28.1
+opt_22157_1999_07.out:pred2:65%  6.5  49 Tulane                   42.2,   103 Mississippi              35.7
+opt_22157_1999_07.out:pred2:67% 16.2  54 Montana                  52.5,   163 California State - North 36.3
+opt_22157_1999_07.out:pred2:68% 13.8 119 Montana State            50.3,   196 Weber State              36.5
+opt_22157_1999_07.out:pred2:66% 10.5 113 Towson                   34.5,   202 Morgan State             24.0
+opt_22157_1999_07.out:pred2:86% 24.3 129 Murray State             51.3,   230 Tennessee - Martin       27.0
+opt_22157_1999_07.out:pred2:71% 17.7  27 Air Force                38.7,   170 Navy                     20.9
+opt_22157_1999_07.out:pred2:86% 26.8   2 Nebraska                 39.1,   109 Iowa State               12.3
+opt_22157_1999_07.out:pred2:64%  5.3 174 New Mexico State         43.6,   177 Nevada - Reno            38.4
+opt_22157_1999_07.out:pred2:64%  4.7 147 Nicholls State           36.1,   150 Southwest Texas State    31.4
+opt_22157_1999_07.out:pred2:63%  7.5  50 Hampton                  30.1,   135 North Carolina A&T       22.6
+opt_22157_1999_07.out:pred2:60%  2.8 105 North Carolina State     23.2,    78 Clemson                  20.4
+opt_22157_1999_07.out:pred2:66% 10.7 191 Northern Illinois        32.0,   223 Ball State               21.3
+opt_22157_1999_07.out:pred2:74% 18.2  52 Northern Iowa            41.9,   160 California Poly          23.6
+opt_22157_1999_07.out:pred2:70% 14.6  28 Notre Dame               40.5,   139 Arizona State            25.9
+opt_22157_1999_07.out:pred2:55%  1.4  19 Purdue                   32.7,    34 Ohio State               31.3
+opt_22157_1999_07.out:pred2:64%  6.0  80 Oklahoma State           34.5,   123 Texas Tech               28.6
+opt_22157_1999_07.out:pred2:65%  7.2  45 Oregon State             39.1,    68 Washington               31.9
+opt_22157_1999_07.out:pred2:78% 18.3  96 Pennsylvania             41.8,   200 Fordham                  23.4
+opt_22157_1999_07.out:pred2:67% 14.6  66 Richmond                 32.6,   159 Rhode Island             18.1
+opt_22157_1999_07.out:pred2:85% 25.8   5 Virginia Tech            39.3,   187 Rutgers                  13.6
+opt_22157_1999_07.out:pred2:65%  5.4  83 Sacramento State         44.9,    87 Portland State           39.4
+opt_22157_1999_07.out:pred2:50%  0.2 232 Stony Brook              34.0,   235 Sacred Heart             33.8
+opt_22157_1999_07.out:pred2:68% 15.6 211 Central Connecticut      31.7,   236 Saint Francis - Pennsylv 16.1
+opt_22157_1999_07.out:pred2:64%  6.2 153 Jacksonville State       44.4,   203 Sam Houston State        38.3
+opt_22157_1999_07.out:pred2:77% 18.1  70 San Diego State          39.2,   197 New Mexico               21.2
+opt_22157_1999_07.out:pred2:66% 12.6  84 Kentucky                 34.8,   214 South Carolina           22.2
+opt_22157_1999_07.out:pred2:69% 18.4 178 South Carolina State     41.5,   225 Norfolk State            23.2
+opt_22157_1999_07.out:pred2:67% 12.1  77 South Florida            35.9,   132 Liberty                  23.9
+opt_22157_1999_07.out:pred2:65%  8.3 185 Tennessee Tech           32.1,   220 Southeast Missouri State 23.7
+opt_22157_1999_07.out:pred2:66%  8.9  98 Southern Illinois        41.9,   137 Youngstown State         33.0
+opt_22157_1999_07.out:pred2:51%  0.3 125 McNeese State            30.3,   141 Stephen F. Austin        30.0
+opt_22157_1999_07.out:pred2:66% 10.8 115 Boston College           28.0,   217 Temple                   17.3
+opt_22157_1999_07.out:pred2:67% 13.1  20 Tennessee                33.7,    86 Georgia                  20.7
+opt_22157_1999_07.out:pred2:92% 37.1   7 Tennessee State          54.9,   207 Eastern Illinois         17.8
+opt_22157_1999_07.out:pred2:91% 35.9   9 Texas A&M                48.5,   192 Baylor                   12.6
+opt_22157_1999_07.out:pred2:50%  0.1 151 Texas Christian          35.6,   116 San Jose State           35.5
+opt_22157_1999_07.out:pred2:65% 10.2 157 Texas - El Paso          27.6,   221 Southern Methodist       17.5
+opt_22157_1999_07.out:pred2:79% 24.5 130 Toledo                   38.9,   224 Kent State               14.4
+opt_22157_1999_07.out:pred2:64%  6.4  64 Troy State               34.1,    73 Northwestern State       27.6
+opt_22157_1999_07.out:pred2:87% 30.9  59 Utah                     42.4,   218 Northeast Louisiana      11.6
+opt_22157_1999_07.out:pred2:67% 12.6 164 Utah State               38.0,   205 Arkansas State           25.4
+opt_22157_1999_07.out:pred2:55%  1.3 167 Vanderbilt               29.7,   190 The Citadel              28.4
+opt_22157_1999_07.out:pred2:80% 19.8  61 Virginia                 41.0,   195 Duke                     21.2
+opt_22157_1999_07.out:pred2:65% 14.8 155 Wagner                   47.3,   213 Albany                   32.5
+opt_22157_1999_07.out:pred2:50%  0.1 108 Wake Forest              26.6,    81 Maryland                 26.5
+opt_22157_1999_07.out:pred2:66% 11.4 183 Washington State         35.2,   210 Louisiana - Lafayette    23.8
+opt_22157_1999_07.out:pred2:60%  2.6  48 Western Illinois         28.5,    30 Elon                     25.9
+opt_22157_1999_07.out:pred2:68% 12.3  37 Villanova                42.5,   146 William & Mary           30.2
+opt_22157_1999_07.out:pred2:90% 29.7 127 Wofford                  47.6,   233 Virginia Military        17.9
+opt_22157_1999_07.out:pred2:76% 20.6  74 Wyoming                  37.0,   204 Nevada - Las Vegas       16.3
+opt_22157_1999_07.out:pred2:62%  3.2  95 Arkansas - Pine Bluff    30.1,   124 Texas Southern           26.9
+opt_22157_1999_07.out:pred2:67% 13.1  31 Southern                 32.0,   120 Alabama A&M              19.0
+opt_22157_1999_07.out:pred2:63%  5.0  23 Texas                    35.9,    35 Oklahoma                 30.9
+opt_22157_1999_08.out:pred2:72% 19.9  53 Fresno State             36.3,   218 Southern Methodist       16.4
+opt_22157_1999_08.out:pred2:60%  2.7  40 Air Force                29.2,    44 Utah                     26.5
+opt_22157_1999_08.out:pred2:63%  3.2 155 Akron                    39.3,   157 Bowling Green            36.1
+opt_22157_1999_08.out:pred2:66% 16.1 190 Albany                   46.6,   227 Mississippi Valley State 30.5
+opt_22157_1999_08.out:pred2:67% 11.6   1 Georgia Southern         43.0,    32 Appalachian State        31.5
+opt_22157_1999_08.out:pred2:66%  7.7 120 Arizona                  37.0,   152 Texas - El Paso          29.3
+opt_22157_1999_08.out:pred2:89% 32.4  30 Arkansas                 41.2,   217 South Carolina            8.8
+opt_22157_1999_08.out:pred2:67% 13.8 104 Idaho                    38.3,   200 Arkansas State           24.5
+opt_22157_1999_08.out:pred2:66% 11.6 131 Arkansas - Pine Bluff    32.5,   176 Alabama State            20.8
+opt_22157_1999_08.out:pred2:66% 12.4  10 Florida                  34.2,    65 Auburn                   21.8
+opt_22157_1999_08.out:pred2:52%  0.4  95 Pittsburgh               30.2,   139 Boston College           29.8
+opt_22157_1999_08.out:pred2:67% 10.8  74 Brown                    40.4,   144 Rhode Island             29.6
+opt_22157_1999_08.out:pred2:63%  5.4  49 Duquesne                 27.7,    71 Bucknell                 22.4
+opt_22157_1999_08.out:pred2:68% 11.7  54 Sacramento State         46.4,   178 California State - North 34.7
+opt_22157_1999_08.out:pred2:74% 17.3  52 California - Los Angeles 41.5,   169 California               24.2
+opt_22157_1999_08.out:pred2:65%  6.8 130 Central Florida          37.9,   172 Nicholls State           31.1
+opt_22157_1999_08.out:pred2:58%  1.7 194 Central Michigan         31.0,   175 Northern Illinois        29.3
+opt_22157_1999_08.out:pred2:66% 13.5 185 Charleston Southern      39.4,   219 Austin Peay              25.9
+opt_22157_1999_08.out:pred2:52%  0.5 118 Cincinnati               33.7,    87 Alabama - Birmingham     33.2
+opt_22157_1999_08.out:pred2:66% 11.3  25 Colgate                  36.4,    78 Cornell                  25.1
+opt_22157_1999_08.out:pred2:65%  8.0  64 Colorado State           32.8,    97 San Diego State          24.7
+opt_22157_1999_08.out:pred2:59%  2.2 126 Columbia                 30.3,   127 Pennsylvania             28.1
+opt_22157_1999_08.out:pred2:52%  0.4  61 Villanova                33.7,    77 Connecticut              33.3
+opt_22157_1999_08.out:pred2:78% 15.9   4 Lehigh                   46.5,    83 Delaware                 30.6
+opt_22157_1999_08.out:pred2:62%  4.0  99 Drake                    39.7,   100 Dayton                   35.7
+opt_22157_1999_08.out:pred2:86% 23.9  17 Georgia Tech             47.3,   189 Duke                     23.4
+opt_22157_1999_08.out:pred2:66%  8.9 112 East Tennessee State     36.3,   167 Liberty                  27.4
+opt_22157_1999_08.out:pred2:63%  4.0 161 Ohio                     32.8,   198 Eastern Michigan         28.8
+opt_22157_1999_08.out:pred2:73% 15.2 153 Eastern Washington       46.8,   211 Idaho State              31.6
+opt_22157_1999_08.out:pred2:87% 26.1   3 Florida State            42.3,   117 Wake Forest              16.2
+opt_22157_1999_08.out:pred2:67% 12.0  92 Harvard                  35.5,   205 Fordham                  23.5
+opt_22157_1999_08.out:pred2:65% 12.6  37 Georgetown               54.1,   146 Davidson                 41.5
+opt_22157_1999_08.out:pred2:77% 19.3   8 Hofstra                  41.7,    89 Richmond                 22.4
+opt_22157_1999_08.out:pred2:69% 18.7  36 Fairfield                36.8,   158 Holy Cross               18.1
+opt_22157_1999_08.out:pred2:66%  9.0  70 Howard                   34.9,   121 Towson                   25.9
+opt_22157_1999_08.out:pred2:62%  3.6  46 Minnesota                31.5,    72 Illinois                 27.9
+opt_22157_1999_08.out:pred2:67% 13.3 165 Indiana State            32.7,   225 Southeast Missouri State 19.4
+opt_22157_1999_08.out:pred2:64%  6.0  24 Jackson State            32.8,    35 Southern                 26.8
+opt_22157_1999_08.out:pred2:55%  1.1 160 McNeese State            31.3,   191 Jacksonville State       30.2
+opt_22157_1999_08.out:pred2:90% 34.1   5 Kansas State             51.4,   164 Utah State               17.3
+opt_22157_1999_08.out:pred2:85% 23.2  79 Miami - Ohio             44.3,   223 Kent State               21.1
+opt_22157_1999_08.out:pred2:54%  0.8  80 Kentucky                 37.7,    76 Louisiana State          37.0
+opt_22157_1999_08.out:pred2:84% 20.0  86 Louisiana Tech           49.9,   207 Middle Tennessee State   29.8
+opt_22157_1999_08.out:pred2:63%  4.0  26 Massachusetts            33.0,    82 Maine                    29.0
+opt_22157_1999_08.out:pred2:68% 15.3 140 Marist                   36.9,   209 La Salle                 21.6
+opt_22157_1999_08.out:pred2:67% 16.5  27 Marshall                 32.4,   106 Toledo                   15.9
+opt_22157_1999_08.out:pred2:64%  5.8  63 Maryland                 28.2,    68 Clemson                  22.4
+opt_22157_1999_08.out:pred2:63%  3.8  50 Louisville               35.6,   115 Memphis State            31.7
+opt_22157_1999_08.out:pred2:60%  2.4  41 Alabama                  29.8,    98 Mississippi              27.4
+opt_22157_1999_08.out:pred2:66%  8.2  55 Missouri                 37.3,    94 Iowa State               29.1
+opt_22157_1999_08.out:pred2:67% 15.6  62 Morehead State           38.6,   170 Valparaiso               23.0
+opt_22157_1999_08.out:pred2:64%  6.2 128 North Carolina A&T       34.3,   179 Morgan State             28.1
+opt_22157_1999_08.out:pred2:72% 14.3 101 Murray State             46.1,   195 Eastern Illinois         31.8
+opt_22157_1999_08.out:pred2:65%  8.5  67 Brigham Young            38.5,   173 New Mexico               30.0
+opt_22157_1999_08.out:pred2:80% 22.1  69 Hampton                  40.5,   221 Norfolk State            18.4
+opt_22157_1999_08.out:pred2:63%  5.3  90 North Carolina           29.9,   109 Houston                  24.6
+opt_22157_1999_08.out:pred2:54%  0.9  96 North Carolina State     26.6,    88 Virginia                 25.6
+opt_22157_1999_08.out:pred2:65%  9.6 148 Boise State              27.3,   220 North Texas              17.7
+opt_22157_1999_08.out:pred2:78% 20.2  81 Wyoming                  36.1,   224 Northeast Louisiana      15.9
+opt_22157_1999_08.out:pred2:66% 10.9  84 New Hampshire            38.9,   184 Northeastern             28.0
+opt_22157_1999_08.out:pred2:63%  5.2  43 Montana                  42.2,   102 Northern Arizona         37.0
+opt_22157_1999_08.out:pred2:63%  4.0 177 Northwestern             22.7,   171 Iowa                     18.7
+opt_22157_1999_08.out:pred2:63%  4.4  29 Notre Dame               33.5,    39 Southern California      29.1
+opt_22157_1999_08.out:pred2:66% 10.4  14 Penn State               35.3,    34 Ohio State               24.9
+opt_22157_1999_08.out:pred2:65%  8.0  91 Portland State           48.8,   137 Montana State            40.8
+opt_22157_1999_08.out:pred2:67% 13.6 133 Princeton                32.4,   182 Lafayette                18.8
+opt_22157_1999_08.out:pred2:51%  0.2  23 Purdue                   29.9,     9 Michigan State           29.7
+opt_22157_1999_08.out:pred2:59%  2.2 154 Rice                     30.2,   145 San Jose State           28.0
+opt_22157_1999_08.out:pred2:93% 38.0 110 Robert Morris            46.8,   235 Sacred Heart              8.8
+opt_22157_1999_08.out:pred2:66% 13.6 210 Monmouth                 30.1,   236 Saint Francis - Pennsylv 16.5
+opt_22157_1999_08.out:pred2:79% 25.0 147 Saint John's             34.1,   231 Saint Peter's             9.1
+opt_22157_1999_08.out:pred2:66% 10.1 107 Stephen F. Austin        47.7,   196 Sam Houston State        37.5
+opt_22157_1999_08.out:pred2:64%  5.7  33 Elon                     30.6,   124 Samford                  24.9
+opt_22157_1999_08.out:pred2:64%  7.1 201 San Diego                42.3,   213 Butler                   35.1
+opt_22157_1999_08.out:pred2:54%  1.0 212 Iona                     23.7,   228 Siena                    22.7
+opt_22157_1999_08.out:pred2:62%  3.2  73 South Florida            34.0,    56 Illinois State           30.8
+opt_22157_1999_08.out:pred2:89% 27.2  16 Southern Mississippi     48.7,   149 Army                     21.5
+opt_22157_1999_08.out:pred2:52%  0.4  58 Southwest Missouri State 37.2,    45 Northern Iowa            36.8
+opt_22157_1999_08.out:pred2:61%  2.9  66 Troy State               31.5,   122 Southwest Texas State    28.5
+opt_22157_1999_08.out:pred2:61%  2.4  57 Oregon State             41.7,   105 Stanford                 39.2
+opt_22157_1999_08.out:pred2:51%  0.3 183 Tennessee Tech           27.3,   168 Western Kentucky         27.0
+opt_22157_1999_08.out:pred2:95% 45.2  11 Tennessee State          59.9,   233 Tennessee - Martin       14.7
+opt_22157_1999_08.out:pred2:92% 34.6  13 Texas A&M                49.7,   188 Kansas                   15.2
+opt_22157_1999_08.out:pred2:67% 13.4 135 Texas Christian          37.0,   204 Tulsa                    23.6
+opt_22157_1999_08.out:pred2:62%  2.9 125 Texas Southern           34.0,   116 Alcorn State             31.1
+opt_22157_1999_08.out:pred2:64%  5.4  60 Colorado                 36.7,   150 Texas Tech               31.3
+opt_22157_1999_08.out:pred2:84% 25.9  18 Furman                   43.0,   214 The Citadel              17.1
+opt_22157_1999_08.out:pred2:92% 29.2  59 Tulane                   54.0,   222 Louisiana - Lafayette    24.8
+opt_22157_1999_08.out:pred2:62%  3.2 103 Georgia                  31.5,   123 Vanderbilt               28.2
+opt_22157_1999_08.out:pred2:83% 23.2 143 Chattanooga              44.4,   232 Virginia Military        21.2
+opt_22157_1999_08.out:pred2:63%  4.8   6 Virginia Tech            29.5,    15 Syracuse                 24.8
+opt_22157_1999_08.out:pred2:63%  7.2 186 Wagner                   27.9,   208 Central Connecticut      20.7
+opt_22157_1999_08.out:pred2:74% 17.1  42 Washington               42.3,   166 Arizona State            25.2
+opt_22157_1999_08.out:pred2:58%  1.7 159 Southern Utah            38.0,   206 Weber State              36.3
+opt_22157_1999_08.out:pred2:67% 14.2 119 West Virginia            37.2,   187 Rutgers                  23.0
+opt_22157_1999_08.out:pred2:66%  9.6 108 Wofford                  35.5,   192 Western Carolina         25.9
+opt_22157_1999_08.out:pred2:66% 10.7  38 Western Illinois         36.0,    93 Southern Illinois        25.3
+opt_22157_1999_08.out:pred2:82% 19.1 114 Western Michigan         48.4,   226 Buffalo                  29.3
+opt_22157_1999_08.out:pred2:63%  3.1 129 William & Mary           34.1,   134 James Madison            30.9
+opt_22157_1999_08.out:pred2:85% 21.9  28 Wisconsin                43.3,   136 Indiana                  21.4
+opt_22157_1999_08.out:pred2:77% 20.0  48 Yale                     35.2,   181 Dartmouth                15.2
+opt_22157_1999_08.out:pred2:66%  9.0 113 Youngstown State         42.4,   151 California Poly          33.4
+opt_22157_1999_09.out:pred2:64%  6.5 148 Bethune - Cookman        38.7,   185 South Carolina State     32.2
+opt_22157_1999_09.out:pred2:88% 28.4  45 Georgetown               43.2,   232 Saint Peter's            14.8
+opt_22157_1999_09.out:pred2:63%  3.2  19 Tennessee                34.8,    41 Alabama                  31.6
+opt_22157_1999_09.out:pred2:67% 11.3  35 Jackson State            41.6,   139 Alabama A&M              30.3
+opt_22157_1999_09.out:pred2:67%  9.0  30 Oregon                   44.7,   113 Arizona                  35.7
+opt_22157_1999_09.out:pred2:61%  2.9 145 Arizona State            29.7,   146 Washington State         26.8
+opt_22157_1999_09.out:pred2:63%  4.6 155 Army                     39.9,   191 New Mexico State         35.3
+opt_22157_1999_09.out:pred2:64%  6.5 140 Texas Tech               32.1,   195 Baylor                   25.5
+opt_22157_1999_09.out:pred2:64%  5.4 158 Boise State              32.9,   170 Nevada - Reno            27.5
+opt_22157_1999_09.out:pred2:67% 15.2  18 Miami - Florida          37.5,   141 Boston College           22.4
+opt_22157_1999_09.out:pred2:89% 30.3  22 Marshall                 46.7,   227 Buffalo                  16.4
+opt_22157_1999_09.out:pred2:71% 16.6 122 Drake                    47.8,   221 Butler                   31.2
+opt_22157_1999_09.out:pred2:64%  6.4  69 Washington               31.0,   157 California               24.6
+opt_22157_1999_09.out:pred2:70% 20.2 210 Central Connecticut      33.6,   235 Sacred Heart             13.4
+opt_22157_1999_09.out:pred2:52%  0.4  86 Louisiana Tech           37.1,   123 Central Florida          36.7
+opt_22157_1999_09.out:pred2:61%  2.8 194 Charleston Southern      32.2,   178 Liberty                  29.4
+opt_22157_1999_09.out:pred2:66% 12.7 143 Chattanooga              36.6,   203 Western Carolina         23.9
+opt_22157_1999_09.out:pred2:67% 13.0   4 Florida State            37.6,    44 Clemson                  24.6
+opt_22157_1999_09.out:pred2:66% 12.2  33 Yale                     32.6,   138 Columbia                 20.5
+opt_22157_1999_09.out:pred2:64%  6.6  97 Cornell                  28.1,   187 Dartmouth                21.4
+opt_22157_1999_09.out:pred2:63%  3.5  24 Massachusetts            39.1,    52 Delaware                 35.5
+opt_22157_1999_09.out:pred2:58%  1.6 173 Delaware State           33.2,   174 Morgan State             31.6
+opt_22157_1999_09.out:pred2:60%  2.5 121 North Carolina State     28.5,   169 Duke                     26.1
+opt_22157_1999_09.out:pred2:64%  4.5  51 East Carolina            39.7,    75 Tulane                   35.2
+opt_22157_1999_09.out:pred2:58%  2.0 168 Tennessee Tech           29.1,   192 Eastern Illinois         27.1
+opt_22157_1999_09.out:pred2:90% 29.2 119 Eastern Kentucky         47.5,   231 Tennessee - Martin       18.4
+opt_22157_1999_09.out:pred2:50%  0.1  36 Elon                     31.1,    16 Hofstra                  31.0
+opt_22157_1999_09.out:pred2:65% 10.3  53 Fairfield                28.1,   135 Saint John's             17.8
+opt_22157_1999_09.out:pred2:73% 15.1  63 Fresno State             39.7,   156 Texas - El Paso          24.6
+opt_22157_1999_09.out:pred2:71% 16.6  26 Furman                   39.7,   110 East Tennessee State     23.1
+opt_22157_1999_09.out:pred2:58%  2.0  87 Georgia                  30.8,    65 Kentucky                 28.7
+opt_22157_1999_09.out:pred2:94% 43.5   3 Georgia Southern         55.2,   204 The Citadel              11.6
+opt_22157_1999_09.out:pred2:67% 13.6  12 Florida A&M              40.5,    92 Hampton                  26.9
+opt_22157_1999_09.out:pred2:64%  7.5  82 Harvard                  28.4,   151 Princeton                20.9
+opt_22157_1999_09.out:pred2:66% 11.2 118 Idaho                    37.3,   171 Utah State               26.2
+opt_22157_1999_09.out:pred2:75% 16.9  37 Western Illinois         36.3,   177 Indiana State            19.4
+opt_22157_1999_09.out:pred2:78% 18.6  60 Duquesne                 36.8,   223 Iona                     18.2
+opt_22157_1999_09.out:pred2:64%  5.3 167 Iowa                     33.4,   162 Indiana                  28.1
+opt_22157_1999_09.out:pred2:63%  3.3  78 Iowa State               36.4,   103 Colorado                 33.1
+opt_22157_1999_09.out:pred2:64%  6.2 134 Southwest Texas State    34.0,   202 Jacksonville State       27.8
+opt_22157_1999_09.out:pred2:61%  2.3  83 Connecticut              32.7,   131 James Madison            30.3
+opt_22157_1999_09.out:pred2:66%  7.1  62 Missouri                 40.6,   161 Kansas                   33.5
+opt_22157_1999_09.out:pred2:67% 14.4  46 Bucknell                 34.3,   184 Lafayette                19.9
+opt_22157_1999_09.out:pred2:92% 30.0   5 Lehigh                   47.4,   149 Holy Cross               17.5
+opt_22157_1999_09.out:pred2:65%  6.4  54 Louisville               38.4,    81 Houston                  32.0
+opt_22157_1999_09.out:pred2:66% 12.0 128 Marist                   30.4,   179 Wagner                   18.4
+opt_22157_1999_09.out:pred2:65%  8.5  64 Maryland                 32.0,   109 North Carolina           23.5
+opt_22157_1999_09.out:pred2:66%  8.0  76 Northwestern State       37.0,   180 McNeese State            29.0
+opt_22157_1999_09.out:pred2:78% 20.8   8 Michigan                 40.1,    91 Illinois                 19.3
+opt_22157_1999_09.out:pred2:64%  6.5  21 Minnesota                30.6,    39 Ohio State               24.0
+opt_22157_1999_09.out:pred2:66% 10.7  47 Mississippi State        31.6,   115 Louisiana State          20.9
+opt_22157_1999_09.out:pred2:73% 21.3 142 Texas Southern           36.5,   229 Mississippi Valley State 15.2
+opt_22157_1999_09.out:pred2:67% 19.3  96 Robert Morris            35.2,   224 Monmouth                 15.9
+opt_22157_1999_09.out:pred2:87% 22.2  34 Montana                  55.9,   165 Eastern Washington       33.7
+opt_22157_1999_09.out:pred2:62%  2.8 150 Montana State            43.4,   147 California State - North 40.6
+opt_22157_1999_09.out:pred2:51%  0.2 116 Murray State             37.5,   100 Samford                  37.3
+opt_22157_1999_09.out:pred2:50%  0.0 159 Navy                     34.7,   130 Akron                    34.7
+opt_22157_1999_09.out:pred2:67% 12.5  61 Brigham Young            39.4,   199 Nevada - Las Vegas       26.8
+opt_22157_1999_09.out:pred2:63%  2.9 106 North Carolina A&T       37.0,    95 Howard                   34.1
+opt_22157_1999_09.out:pred2:51%  0.3 215 North Texas              23.9,   186 Arkansas State           23.7
+opt_22157_1999_09.out:pred2:73% 16.0 172 Northern Illinois        38.8,   218 Kent State               22.7
+opt_22157_1999_09.out:pred2:67% 14.3  43 Northern Iowa            39.2,   129 Youngstown State         24.9
+opt_22157_1999_09.out:pred2:66%  8.4 153 Ohio                     38.7,   189 Bowling Green            30.3
+opt_22157_1999_09.out:pred2:64%  7.0  17 Texas A&M                33.1,    42 Oklahoma                 26.1
+opt_22157_1999_09.out:pred2:69% 14.9   7 Kansas State             41.3,    70 Oklahoma State           26.5
+opt_22157_1999_09.out:pred2:63%  4.4  68 Oregon State             35.9,    80 California - Los Angeles 31.4
+opt_22157_1999_09.out:pred2:59%  1.8 126 Pennsylvania             36.3,    98 Brown                    34.5
+opt_22157_1999_09.out:pred2:58%  1.7  15 Purdue                   35.6,    13 Penn State               33.8
+opt_22157_1999_09.out:pred2:62%  3.5  94 Maine                    28.0,   154 Rhode Island             24.5
+opt_22157_1999_09.out:pred2:53%  0.9 120 Rice                     25.2,   107 Texas Christian          24.4
+opt_22157_1999_09.out:pred2:67% 12.6  99 Pittsburgh               35.8,   206 Rutgers                  23.2
+opt_22157_1999_09.out:pred2:66%  9.7  73 Sacramento State         38.8,   124 Northern Arizona         29.1
+opt_22157_1999_09.out:pred2:71% 23.7 163 Albany                   44.2,   236 Saint Francis - Pennsylv 20.6
+opt_22157_1999_09.out:pred2:87% 29.5  10 Colgate                  44.8,   219 Saint Mary's             15.3
+opt_22157_1999_09.out:pred2:66% 10.7 222 Siena                    33.1,   230 Canisius                 22.4
+opt_22157_1999_09.out:pred2:65%  8.6 125 Vanderbilt               30.2,   213 South Carolina           21.7
+opt_22157_1999_09.out:pred2:63%  5.7  85 South Florida            28.9,    72 New Hampshire            23.2
+opt_22157_1999_09.out:pred2:87% 24.0  56 Southwest Missouri State 46.4,   228 Southeast Missouri State 22.3
+opt_22157_1999_09.out:pred2:68% 16.8  32 Southern                 36.2,   111 Alcorn State             19.4
+opt_22157_1999_09.out:pred2:67% 13.5  40 Southern California      43.5,   104 Stanford                 30.0
+opt_22157_1999_09.out:pred2:62%  2.1  58 Illinois State           41.9,   117 Southern Illinois        39.7
+opt_22157_1999_09.out:pred2:76% 20.2  20 Southern Mississippi     38.4,    79 Cincinnati               18.2
+opt_22157_1999_09.out:pred2:72% 15.8 144 Southern Utah            47.9,   209 Idaho State              32.1
+opt_22157_1999_09.out:pred2:61%  2.8 214 Louisiana - Lafayette    30.0,   212 Northeast Louisiana      27.2
+opt_22157_1999_09.out:pred2:66% 12.0 105 Stephen F. Austin        34.4,   201 Nicholls State           22.4
+opt_22157_1999_09.out:pred2:65%  7.8   2 Nebraska                 34.5,    25 Texas                    26.6
+opt_22157_1999_09.out:pred2:67% 14.0 112 Toledo                   35.2,   196 Eastern Michigan         21.2
+opt_22157_1999_09.out:pred2:83% 19.9  84 Towson                   42.5,   198 Fordham                  22.6
+opt_22157_1999_09.out:pred2:79% 19.1  59 Troy State               50.8,   188 Sam Houston State        31.7
+opt_22157_1999_09.out:pred2:66%  9.9  38 Utah                     33.3,    67 San Diego State          23.4
+opt_22157_1999_09.out:pred2:66% 11.1 132 Valparaiso               32.2,   190 San Diego                21.2
+opt_22157_1999_09.out:pred2:81% 20.4  50 Villanova                46.7,   175 Northeastern             26.3
+opt_22157_1999_09.out:pred2:84% 22.4 133 William & Mary           43.3,   234 Virginia Military        20.9
+opt_22157_1999_09.out:pred2:51%  0.3 127 Wake Forest              28.9,    57 Alabama - Birmingham     28.6
+opt_22157_1999_09.out:pred2:75% 17.9  71 Portland State           45.4,   220 Weber State              27.5
+opt_22157_1999_09.out:pred2:67% 13.6 114 West Virginia            34.4,   200 Temple                   20.8
+opt_22157_1999_09.out:pred2:79% 22.3  14 Tennessee State          40.8,   183 Western Kentucky         18.5
+opt_22157_1999_09.out:pred2:86% 20.4 108 Western Michigan         46.1,   216 Ball State               25.7
+opt_22157_1999_09.out:pred2:63%  3.9   9 Wisconsin                29.3,    11 Michigan State           25.4
+opt_22157_1999_09.out:pred2:65%  7.7  31 Appalachian State        35.7,    90 Wofford                  28.1
+opt_22157_1999_09.out:pred2:61%  2.7  74 Wyoming                  30.8,    88 Colorado State           28.1
+opt_22157_1999_09.out:pred2:57%  1.5 136 Arkansas - Pine Bluff    31.5,   137 Grambling                30.0
+opt_22157_1999_09.out:pred2:64%  6.0 181 Hawaii                   37.1,   211 Tulsa                    31.1
+opt_22157_1999_10.out:pred2:63%  4.2  29 Utah                     31.0,    73 Colorado State           26.8
+opt_22157_1999_10.out:pred2:53%  0.5  99 Western Michigan         41.3,   117 Akron                    40.8
+opt_22157_1999_10.out:pred2:63%  3.5  20 Southern Mississippi     29.8,    45 Alabama                  26.4
+opt_22157_1999_10.out:pred2:63%  5.3 112 Robert Morris            38.4,   150 Albany                   33.0
+opt_22157_1999_10.out:pred2:70% 17.0  36 Appalachian State        38.8,   131 Chattanooga              21.8
+opt_22157_1999_10.out:pred2:70% 15.7  26 Arkansas                 36.8,    77 Auburn                   21.1
+opt_22157_1999_10.out:pred2:66% 11.2 195 Arkansas State           36.0,   223 Louisiana - Lafayette    24.8
+opt_22157_1999_10.out:pred2:65%  8.9 170 Ohio                     30.3,   219 Ball State               21.3
+opt_22157_1999_10.out:pred2:64%  7.3  58 North Carolina A&T       42.3,   159 Bethune - Cookman        35.0
+opt_22157_1999_10.out:pred2:63%  3.5 187 Bowling Green            36.8,   191 Central Michigan         33.3
+opt_22157_1999_10.out:pred2:53%  0.7  47 Brigham Young            31.7,    54 Air Force                31.0
+opt_22157_1999_10.out:pred2:66% 10.3  42 Southern California      32.7,   148 California               22.4
+opt_22157_1999_10.out:pred2:65%  7.3  84 Portland State           39.5,   149 California Poly          32.2
+opt_22157_1999_10.out:pred2:75% 19.1 135 California State - North 41.9,   220 Weber State              22.8
+opt_22157_1999_10.out:pred2:67% 12.7 203 Iona                     37.8,   233 Canisius                 25.2
+opt_22157_1999_10.out:pred2:66%  9.6 140 Central Florida          38.6,   179 Eastern Michigan         29.1
+opt_22157_1999_10.out:pred2:65%  8.2  15 Oklahoma                 40.1,    92 Colorado                 32.0
+opt_22157_1999_10.out:pred2:62%  2.5  53 Richmond                 35.9,   100 Connecticut              33.4
+opt_22157_1999_10.out:pred2:63%  6.3 102 Cornell                  28.6,   176 Wagner                   22.2
+opt_22157_1999_10.out:pred2:64%  7.8  93 Dayton                   27.6,   132 Valparaiso               19.7
+opt_22157_1999_10.out:pred2:81% 20.6  89 Duquesne                 37.1,   216 Siena                    16.5
+opt_22157_1999_10.out:pred2:83% 20.1   6 Georgia Southern         45.5,   113 East Tennessee State     25.4
+opt_22157_1999_10.out:pred2:63%  4.0 160 Western Kentucky         27.1,   197 Eastern Illinois         23.1
+opt_22157_1999_10.out:pred2:65%  5.9  79 Sacramento State         41.4,   163 Eastern Washington       35.5
+opt_22157_1999_10.out:pred2:85% 24.2  35 Elon                     42.4,   200 Charleston Southern      18.2
+opt_22157_1999_10.out:pred2:95% 33.9   9 Florida A&M              58.8,   158 Delaware State           24.8
+opt_22157_1999_10.out:pred2:67%  9.9  96 Brown                    44.2,   192 Fordham                  34.4
+opt_22157_1999_10.out:pred2:62%  3.3  59 Georgetown               30.5,    56 Fairfield                27.2
+opt_22157_1999_10.out:pred2:83% 19.9  22 Georgia Tech             46.3,   116 North Carolina State     26.4
+opt_22157_1999_10.out:pred2:65%  7.3 134 Grambling                32.6,   189 Texas Southern           25.3
+opt_22157_1999_10.out:pred2:66% 13.2 118 Hampton                  30.2,   183 South Carolina State     17.0
+opt_22157_1999_10.out:pred2:66% 13.7  87 Harvard                  29.3,   175 Dartmouth                15.5
+opt_22157_1999_10.out:pred2:62%  2.8 126 Texas Christian          34.3,   164 Hawaii                   31.5
+opt_22157_1999_10.out:pred2:64%  6.2  32 East Carolina            27.1,    75 Houston                  21.0
+opt_22157_1999_10.out:pred2:90% 23.7  40 Montana                  57.7,   202 Idaho State              34.0
+opt_22157_1999_10.out:pred2:67% 11.8  12 Penn State               36.9,    63 Illinois                 25.1
+opt_22157_1999_10.out:pred2:86% 21.3  10 Michigan                 45.3,   152 Indiana                  24.0
+opt_22157_1999_10.out:pred2:66%  9.9  16 Texas                    35.8,   108 Iowa State               25.9
+opt_22157_1999_10.out:pred2:71% 17.7  37 Jackson State            38.9,   157 Arkansas - Pine Bluff    21.2
+opt_22157_1999_10.out:pred2:63%  4.5  68 South Florida            27.0,    86 James Madison            22.5
+opt_22157_1999_10.out:pred2:86% 26.0   2 Nebraska                 43.3,   162 Kansas                   17.3
+opt_22157_1999_10.out:pred2:96% 44.0   3 Kansas State             55.0,   208 Baylor                   11.0
+opt_22157_1999_10.out:pred2:63%  4.3 222 Kent State               34.0,   231 Buffalo                  29.7
+opt_22157_1999_10.out:pred2:66% 10.2 124 Saint John's             30.5,   210 La Salle                 20.3
+opt_22157_1999_10.out:pred2:64%  6.9 153 Marist                   32.6,   173 Lafayette                25.7
+opt_22157_1999_10.out:pred2:91% 25.8   4 Lehigh                   48.6,   109 Towson                   22.7
+opt_22157_1999_10.out:pred2:62%  3.2 110 Louisiana State          28.9,   114 Mississippi              25.7
+opt_22157_1999_10.out:pred2:71% 11.2  48 Louisville               47.7,   106 Alabama - Birmingham     36.5
+opt_22157_1999_10.out:pred2:89% 26.9  13 Marshall                 43.8,   147 Northern Illinois        16.9
+opt_22157_1999_10.out:pred2:75% 19.7  33 Maryland                 36.7,   166 Duke                     17.0
+opt_22157_1999_10.out:pred2:77% 20.0  27 Massachusetts            39.0,   154 Rhode Island             18.9
+opt_22157_1999_10.out:pred2:64%  5.1 188 McNeese State            43.3,   190 Sam Houston State        38.2
+opt_22157_1999_10.out:pred2:77% 18.1  23 Miami - Florida          43.5,   122 West Virginia            25.5
+opt_22157_1999_10.out:pred2:64%  6.6  94 Miami - Ohio             32.7,    64 Cincinnati               26.1
+opt_22157_1999_10.out:pred2:62%  2.7  21 Minnesota                32.9,    19 Purdue                   30.2
+opt_22157_1999_10.out:pred2:63%  4.6  95 Missouri                 31.9,   136 Texas Tech               27.3
+opt_22157_1999_10.out:pred2:85% 25.1  74 Morehead State           50.3,   224 Austin Peay              25.2
+opt_22157_1999_10.out:pred2:65%  9.2 194 Nevada - Reno            31.6,   218 North Texas              22.5
+opt_22157_1999_10.out:pred2:53%  0.6  66 New Hampshire            39.1,    60 Villanova                38.6
+opt_22157_1999_10.out:pred2:65%  8.9 184 New Mexico               29.5,   215 Nevada - Las Vegas       20.5
+opt_22157_1999_10.out:pred2:66%  8.7 107 Idaho                    38.3,   198 New Mexico State         29.6
+opt_22157_1999_10.out:pred2:67% 14.4  62 Troy State               34.5,   205 Nicholls State           20.1
+opt_22157_1999_10.out:pred2:66%  8.4 143 Howard                   41.2,   204 Norfolk State            32.8
+opt_22157_1999_10.out:pred2:75% 16.8  18 Furman                   41.9,   127 North Carolina           25.1
+opt_22157_1999_10.out:pred2:59%  2.1 214 Northeast Louisiana      31.7,   207 Middle Tennessee State   29.7
+opt_22157_1999_10.out:pred2:68% 14.6  55 Delaware                 45.9,   185 Northeastern             31.3
+opt_22157_1999_10.out:pred2:66%  8.8  98 Northern Arizona         40.8,   171 Montana State            32.1
+opt_22157_1999_10.out:pred2:67% 14.4  50 Northern Iowa            35.7,   141 Indiana State            21.3
+opt_22157_1999_10.out:pred2:83% 23.9   5 Wisconsin                38.6,   174 Northwestern             14.6
+opt_22157_1999_10.out:pred2:65%  8.7 105 Northwestern State       31.4,   161 Southwest Texas State    22.6
+opt_22157_1999_10.out:pred2:84% 20.3  31 Notre Dame               41.8,   168 Navy                     21.5
+opt_22157_1999_10.out:pred2:83% 22.4  38 Ohio State               37.9,   181 Iowa                     15.6
+opt_22157_1999_10.out:pred2:83% 19.3  39 Oregon                   46.4,   145 Arizona State            27.2
+opt_22157_1999_10.out:pred2:74% 18.8   1 Virginia Tech            39.1,    70 Pittsburgh               20.3
+opt_22157_1999_10.out:pred2:63%  3.9 230 Prairie View             31.7,   228 Mississippi Valley State 27.7
+opt_22157_1999_10.out:pred2:64%  6.2 151 Princeton                25.1,   144 Columbia                 18.9
+opt_22157_1999_10.out:pred2:63%  6.7 225 Monmouth                 21.2,   236 Sacred Heart             14.6
+opt_22157_1999_10.out:pred2:66% 11.8 229 Saint Peter's            29.3,   235 Saint Francis - Pennsylv 17.5
+opt_22157_1999_10.out:pred2:64%  7.8 169 Holy Cross               28.1,   217 Saint Mary's             20.3
+opt_22157_1999_10.out:pred2:66% 11.4  97 Samford                  32.6,   172 Liberty                  21.2
+opt_22157_1999_10.out:pred2:66% 11.0  85 Drake                    40.1,   199 San Diego                29.2
+opt_22157_1999_10.out:pred2:63%  2.5 101 Southern Illinois        42.1,   111 Southwest Missouri State 39.6
+opt_22157_1999_10.out:pred2:65%  9.4  90 Rice                     25.8,   206 Southern Methodist       16.4
+opt_22157_1999_10.out:pred2:71% 17.6  82 Stephen F. Austin        40.9,   196 Jacksonville State       23.4
+opt_22157_1999_10.out:pred2:62%  5.2 212 Central Connecticut      44.1,   226 Stony Brook              39.0
+opt_22157_1999_10.out:pred2:74% 18.0  30 Syracuse                 38.0,   120 Boston College           20.0
+opt_22157_1999_10.out:pred2:65%  8.6 193 Temple                   28.5,   201 Rutgers                  19.9
+opt_22157_1999_10.out:pred2:86% 28.1  24 Tennessee                36.3,   213 South Carolina            8.2
+opt_22157_1999_10.out:pred2:78% 18.2  17 Tennessee State          43.9,    71 Eastern Kentucky         25.6
+opt_22157_1999_10.out:pred2:51%  0.1  78 Murray State             34.1,   146 Tennessee Tech           33.9
+opt_22157_1999_10.out:pred2:65%  8.2 211 Southeast Missouri State 33.3,   232 Tennessee - Martin       25.1
+opt_22157_1999_10.out:pred2:67% 12.2  41 Texas A&M                37.9,    81 Oklahoma State           25.8
+opt_22157_1999_10.out:pred2:66%  9.2 155 Texas - El Paso          40.1,   180 San Jose State           30.9
+opt_22157_1999_10.out:pred2:66%  9.8  91 Wofford                  33.5,   186 The Citadel              23.7
+opt_22157_1999_10.out:pred2:57%  1.5  88 Louisiana Tech           32.5,   138 Toledo                   31.0
+opt_22157_1999_10.out:pred2:63%  4.3 119 Tulane                   36.2,   121 Memphis State            31.9
+opt_22157_1999_10.out:pred2:87% 22.0  76 Fresno State             44.7,   221 Tulsa                    22.7
+opt_22157_1999_10.out:pred2:63%  4.9 125 Boise State              29.4,   182 Utah State               24.5
+opt_22157_1999_10.out:pred2:58%  1.8  51 Wake Forest              27.9,    46 Clemson                  26.1
+opt_22157_1999_10.out:pred2:65%  6.3  67 Washington               41.1,    83 Stanford                 34.8
+opt_22157_1999_10.out:pred2:66% 10.3  43 Oregon State             35.7,   156 Washington State         25.5
+opt_22157_1999_10.out:pred2:72% 18.2 209 Western Carolina         38.4,   234 Virginia Military        20.2
+opt_22157_1999_10.out:pred2:60%  2.3 115 Maine                    30.5,   139 William & Mary           28.2
+opt_22157_1999_10.out:pred2:74% 17.1  28 Yale                     39.0,   130 Pennsylvania             21.9
+opt_22157_1999_10.out:pred2:63%  4.1  49 Illinois State           39.6,   104 Youngstown State         35.5
+opt_22157_1999_10.out:pred2:62%  2.6 103 Arizona                  36.1,   129 California - Los Angeles 33.5
+opt_22157_1999_10.out:pred2:71% 14.5   7 Florida State            39.8,    57 Virginia                 25.3
+opt_22157_1999_10.out:pred2:65%  6.6 142 Alabama A&M              35.4,   178 Alabama State            28.9
+opt_22157_1999_10.out:pred2:74% 16.9   8 Florida                  40.1,    72 Georgia                  23.2
+opt_22157_1999_11.out:pred2:65%  8.8  53 Mississippi State        34.9,    84 Kentucky                 26.1
+opt_22157_1999_11.out:pred2:69% 16.2  61 Air Force                37.3,   138 Army                     21.1
+opt_22157_1999_11.out:pred2:75% 16.6  26 Alabama                  39.0,   124 Louisiana State          22.4
+opt_22157_1999_11.out:pred2:62%  2.8 149 Grambling                35.1,   185 Alabama State            32.3
+opt_22157_1999_11.out:pred2:66% 10.3  27 East Carolina            33.5,   111 Alabama - Birmingham     23.2
+opt_22157_1999_11.out:pred2:76% 29.5 142 Albany                   43.1,   236 Sacred Heart             13.6
+opt_22157_1999_11.out:pred2:88% 24.8 122 Alcorn State             45.6,   228 Mississippi Valley State 20.8
+opt_22157_1999_11.out:pred2:63%  4.0  75 Arizona                  36.3,    66 Washington               32.3
+opt_22157_1999_11.out:pred2:64%  7.1 102 Auburn                   31.3,   126 Central Florida          24.2
+opt_22157_1999_11.out:pred2:62%  2.7 128 Hampton                  34.1,   165 Bethune - Cookman        31.4
+opt_22157_1999_11.out:pred2:69% 15.4 115 Boise State              36.0,   193 Arkansas State           20.6
+opt_22157_1999_11.out:pred2:56%  1.1  96 Brown                    37.4,    60 Harvard                  36.3
+opt_22157_1999_11.out:pred2:68% 15.2  69 Bucknell                 35.6,   174 Holy Cross               20.4
+opt_22157_1999_11.out:pred2:92% 37.8  13 Hofstra                  54.3,   229 Buffalo                  16.4
+opt_22157_1999_11.out:pred2:83% 18.9  20 Montana                  47.7,   153 California Poly          28.7
+opt_22157_1999_11.out:pred2:63%  5.4 147 Toledo                   29.3,   204 Central Michigan         23.9
+opt_22157_1999_11.out:pred2:66% 10.2 155 Chattanooga              34.8,   196 The Citadel              24.5
+opt_22157_1999_11.out:pred2:62%  2.3  50 Cincinnati               43.9,    44 Louisville               41.6
+opt_22157_1999_11.out:pred2:68% 15.1  42 Clemson                  36.5,   134 Duke                     21.4
+opt_22157_1999_11.out:pred2:63%  3.5   4 Lehigh                   41.8,    14 Colgate                  38.3
+opt_22157_1999_11.out:pred2:64%  5.9 173 Columbia                 27.5,   188 Dartmouth                21.6
+opt_22157_1999_11.out:pred2:67% 13.2 123 Connecticut              43.8,   181 Northeastern             30.6
+opt_22157_1999_11.out:pred2:65%  7.1  38 Yale                     34.8,   101 Cornell                  27.7
+opt_22157_1999_11.out:pred2:66%  9.8 192 Eastern Michigan         31.8,   218 Ball State               22.0
+opt_22157_1999_11.out:pred2:79% 17.2  57 Fairfield                40.8,   170 Marist                   23.6
+opt_22157_1999_11.out:pred2:90% 27.1   8 Florida                  49.9,   131 Vanderbilt               22.9
+opt_22157_1999_11.out:pred2:66% 11.1   9 Florida A&M              37.9,    35 Southern                 26.8
+opt_22157_1999_11.out:pred2:66% 10.1  85 Fresno State             32.7,   140 Rice                     22.6
+opt_22157_1999_11.out:pred2:65%  8.2  59 Georgetown               36.2,    88 Duquesne                 27.9
+opt_22157_1999_11.out:pred2:67% 11.5   2 Georgia Southern         41.8,    11 Furman                   30.3
+opt_22157_1999_11.out:pred2:66%  9.4 106 Houston                  37.2,   160 Tulane                   27.8
+opt_22157_1999_11.out:pred2:66%  9.2 141 Howard                   37.4,   189 South Carolina State     28.2
+opt_22157_1999_11.out:pred2:51%  0.2  49 Illinois State           36.2,    41 Western Illinois         36.0
+opt_22157_1999_11.out:pred2:53%  0.5  95 Southern Illinois        39.2,   137 Indiana State            38.8
+opt_22157_1999_11.out:pred2:66%  9.8  68 Illinois                 32.7,   184 Iowa                     22.9
+opt_22157_1999_11.out:pred2:63%  3.2  73 Drake                    41.1,   166 Jacksonville             37.9
+opt_22157_1999_11.out:pred2:78% 16.9 119 Kansas                   41.1,   211 Baylor                   24.2
+opt_22157_1999_11.out:pred2:88% 25.3   3 Kansas State             47.2,    83 Colorado                 21.9
+opt_22157_1999_11.out:pred2:93% 35.7  12 Marshall                 50.5,   223 Kent State               14.8
+opt_22157_1999_11.out:pred2:67% 14.9 202 La Salle                 33.4,   230 Saint Peter's            18.5
+opt_22157_1999_11.out:pred2:66% 11.6 161 Lafayette                35.7,   198 Fordham                  24.1
+opt_22157_1999_11.out:pred2:66% 11.8  36 Elon                     33.6,   164 Liberty                  21.7
+opt_22157_1999_11.out:pred2:80% 22.2  67 Louisiana Tech           42.2,   207 Northeast Louisiana      20.1
+opt_22157_1999_11.out:pred2:55%  1.1 144 Maine                    26.3,    98 James Madison            25.2
+opt_22157_1999_11.out:pred2:62%  3.7  33 Southern Mississippi     25.4,    62 Memphis State            21.7
+opt_22157_1999_11.out:pred2:65%  7.8  87 Miami - Ohio             39.4,   121 Akron                    31.7
+opt_22157_1999_11.out:pred2:85% 24.7  23 Michigan                 37.5,   169 Northwestern             12.7
+opt_22157_1999_11.out:pred2:63%  4.1  28 Michigan State           31.2,    34 Ohio State               27.1
+opt_22157_1999_11.out:pred2:67% 15.5 215 Middle Tennessee State   39.3,   233 Tennessee - Martin       23.8
+opt_22157_1999_11.out:pred2:66% 10.2  16 Arkansas                 35.7,    86 Mississippi              25.5
+opt_22157_1999_11.out:pred2:63%  5.9 175 Wagner                   24.2,   221 Monmouth                 18.3
+opt_22157_1999_11.out:pred2:55%  1.1 154 Eastern Washington       35.1,   183 Montana State            34.0
+opt_22157_1999_11.out:pred2:54%  0.9  56 Eastern Kentucky         38.1,    92 Murray State             37.3
+opt_22157_1999_11.out:pred2:66% 12.0   7 Nebraska                 31.7,    37 Texas A&M                19.7
+opt_22157_1999_11.out:pred2:65%  7.2 129 Idaho                    38.3,   190 Nevada - Reno            31.1
+opt_22157_1999_11.out:pred2:63%  2.6  65 New Hampshire            42.3,    71 Delaware                 39.7
+opt_22157_1999_11.out:pred2:64%  8.0  63 Colorado State           30.3,   171 New Mexico               22.2
+opt_22157_1999_11.out:pred2:52%  0.5 201 Norfolk State            31.4,   178 Morgan State             30.9
+opt_22157_1999_11.out:pred2:63%  5.7  52 Wake Forest              28.3,   130 North Carolina           22.6
+opt_22157_1999_11.out:pred2:75% 18.0  70 North Carolina A&T       40.9,   150 Delaware State           22.9
+opt_22157_1999_11.out:pred2:64%  5.5  39 Maryland                 31.9,   114 North Carolina State     26.4
+opt_22157_1999_11.out:pred2:75% 17.3 105 Northwestern State       40.9,   197 Jacksonville State       23.6
+opt_22157_1999_11.out:pred2:68% 14.3  19 Oklahoma                 40.5,    94 Missouri                 26.1
+opt_22157_1999_11.out:pred2:65%  6.5  21 Texas                    39.4,    93 Oklahoma State           33.0
+opt_22157_1999_11.out:pred2:73% 16.2  51 Oregon                   42.1,   148 Washington State         25.9
+opt_22157_1999_11.out:pred2:67% 14.6  43 Oregon State             35.0,   133 California               20.4
+opt_22157_1999_11.out:pred2:65%  8.1  10 Penn State               31.3,    25 Minnesota                23.2
+opt_22157_1999_11.out:pred2:55%  1.3 127 Pennsylvania             25.1,   116 Princeton                23.8
+opt_22157_1999_11.out:pred2:64%  5.1  29 Miami - Florida          34.4,    64 Pittsburgh               29.2
+opt_22157_1999_11.out:pred2:67% 10.9  78 Portland State           43.8,   163 California State - North 32.9
+opt_22157_1999_11.out:pred2:74% 20.0 172 Arkansas - Pine Bluff    35.5,   232 Prairie View             15.5
+opt_22157_1999_11.out:pred2:61%  2.3   6 Wisconsin                36.0,    18 Purdue                   33.7
+opt_22157_1999_11.out:pred2:51%  0.2 151 Rhode Island             30.7,   118 William & Mary           30.5
+opt_22157_1999_11.out:pred2:63%  3.7  32 Massachusetts            32.1,    58 Richmond                 28.4
+opt_22157_1999_11.out:pred2:95% 37.8 104 Robert Morris            48.0,   234 Saint Francis - Pennsylv 10.2
+opt_22157_1999_11.out:pred2:67% 11.4 136 Navy                     38.4,   206 Rutgers                  27.0
+opt_22157_1999_11.out:pred2:92% 24.1 100 Sacramento State         56.4,   210 Idaho State              32.3
+opt_22157_1999_11.out:pred2:91% 34.8 113 Saint John's             42.8,   231 Canisius                  8.0
+opt_22157_1999_11.out:pred2:66% 10.9 139 Southern Utah            38.8,   212 Saint Mary's             27.9
+opt_22157_1999_11.out:pred2:64%  7.5 180 Sam Houston State        36.7,   213 Nicholls State           29.2
+opt_22157_1999_11.out:pred2:65% 15.7 195 San Diego                38.5,   227 Stony Brook              22.8
+opt_22157_1999_11.out:pred2:52%  0.4  47 Brigham Young            34.2,    80 San Diego State          33.8
+opt_22157_1999_11.out:pred2:56%  1.1 186 San Jose State           37.4,   176 Hawaii                   36.3
+opt_22157_1999_11.out:pred2:56%  1.6 199 Southeast Missouri State 28.3,   200 Eastern Illinois         26.7
+opt_22157_1999_11.out:pred2:66% 12.6  55 Southern California      34.7,   132 Arizona State            22.1
+opt_22157_1999_11.out:pred2:67% 13.2 156 Southwest Texas State    32.1,   208 McNeese State            18.9
+opt_22157_1999_11.out:pred2:73% 19.8  48 Syracuse                 36.6,   168 Temple                   16.8
+opt_22157_1999_11.out:pred2:65%  6.7  24 Tennessee                34.6,    40 Notre Dame               27.9
+opt_22157_1999_11.out:pred2:79% 21.9  22 Tennessee State          38.6,   157 Tennessee Tech           16.6
+opt_22157_1999_11.out:pred2:69% 16.3  31 Jackson State            37.2,   182 Texas Southern           20.9
+opt_22157_1999_11.out:pred2:51%  0.1 152 Texas Tech               25.8,   103 Iowa State               25.7
+opt_22157_1999_11.out:pred2:83% 21.3 125 Texas - El Paso          42.5,   220 Tulsa                    21.3
+opt_22157_1999_11.out:pred2:54%  1.0  82 Dayton                   32.7,    89 Towson                   31.7
+opt_22157_1999_11.out:pred2:66% 10.6  45 Troy State               35.5,   110 Stephen F. Austin        24.9
+opt_22157_1999_11.out:pred2:69% 13.1  30 Utah                     38.1,    90 Wyoming                  25.0
+opt_22157_1999_11.out:pred2:63%  3.6 179 Utah State               33.5,   187 New Mexico State         29.9
+opt_22157_1999_11.out:pred2:66%  7.9  15 Georgia Tech             43.5,    72 Virginia                 35.6
+opt_22157_1999_11.out:pred2:94% 41.8  17 Appalachian State        51.0,   235 Virginia Military         9.2
+opt_22157_1999_11.out:pred2:74% 17.1  79 Northern Arizona         40.4,   219 Weber State              23.3
+opt_22157_1999_11.out:pred2:83% 23.3   1 Virginia Tech            43.3,   117 West Virginia            20.0
+opt_22157_1999_11.out:pred2:71% 14.5 109 Samford                  39.5,   205 Western Carolina         24.9
+opt_22157_1999_11.out:pred2:65%  7.5  77 Wofford                  36.6,   120 East Tennessee State     29.1
+opt_22157_1999_11.out:pred2:62%  2.8 107 Youngstown State         36.1,   108 Southwest Missouri State 33.3
+opt_22157_1999_12.out:pred2:64%  6.9  89 North Carolina State     33.3,   160 North Carolina           26.3
+opt_22157_1999_12.out:pred2:80% 24.1  48 Air Force                34.3,   213 Nevada - Las Vegas       10.2
+opt_22157_1999_12.out:pred2:80% 18.8 122 Akron                    43.9,   210 Kent State               25.1
+opt_22157_1999_12.out:pred2:65%  8.6  27 Alabama                  29.4,    68 Mississippi State        20.9
+opt_22157_1999_12.out:pred2:82% 21.8 200 Alabama State            39.0,   235 Prairie View             17.3
+opt_22157_1999_12.out:pred2:64%  4.3  51 Louisiana Tech           40.6,    76 Alabama - Birmingham     36.3
+opt_22157_1999_12.out:pred2:91% 32.1  18 Appalachian State        48.7,   198 Western Carolina         16.6
+opt_22157_1999_12.out:pred2:63%  3.6 116 Arizona State            36.2,   107 Stanford                 32.6
+opt_22157_1999_12.out:pred2:55%  1.1  30 Arkansas                 33.3,    13 Tennessee                32.3
+opt_22157_1999_12.out:pred2:57%  1.4 184 Nevada - Reno            37.4,   206 Arkansas State           36.0
+opt_22157_1999_12.out:pred2:86% 20.3  63 Colorado                 44.5,   218 Baylor                   24.1
+opt_22157_1999_12.out:pred2:69% 15.9  78 Boise State              38.5,   180 New Mexico State         22.6
+opt_22157_1999_12.out:pred2:62%  3.0 103 Boston College           31.8,    95 West Virginia            28.8
+opt_22157_1999_12.out:pred2:70% 14.9 173 Bowling Green            38.0,   216 Ball State               23.0
+opt_22157_1999_12.out:pred2:66% 10.9   7 Lehigh                   39.9,    57 Bucknell                 29.1
+opt_22157_1999_12.out:pred2:66%  9.4  38 Oregon                   36.0,   128 California               26.6
+opt_22157_1999_12.out:pred2:63%  3.8  58 Washington               35.7,   135 California - Los Angeles 31.9
+opt_22157_1999_12.out:pred2:90% 33.1  90 Georgetown               46.9,   231 Canisius                 13.8
+opt_22157_1999_12.out:pred2:64%  6.7 211 Central Connecticut      28.5,   223 Monmouth                 21.8
+opt_22157_1999_12.out:pred2:55%  1.2 208 Central Michigan         30.2,   193 Eastern Michigan         29.0
+opt_22157_1999_12.out:pred2:80% 18.4  11 Colgate                  44.9,    84 Towson                   26.5
+opt_22157_1999_12.out:pred2:63%  3.1  96 New Hampshire            39.0,   153 Connecticut              35.9
+opt_22157_1999_12.out:pred2:67% 11.3 104 Cornell                  37.2,   166 Columbia                 25.9
+opt_22157_1999_12.out:pred2:66%  9.3  98 Brown                    35.9,   190 Dartmouth                26.6
+opt_22157_1999_12.out:pred2:74% 24.7 152 Davidson                 56.7,   225 Austin Peay              32.0
+opt_22157_1999_12.out:pred2:68% 15.5  79 Delaware                 38.7,   179 Rhode Island             23.1
+opt_22157_1999_12.out:pred2:66% 11.7  37 Wake Forest              31.1,   156 Duke                     19.4
+opt_22157_1999_12.out:pred2:65%  8.9  34 East Carolina            34.2,    49 Cincinnati               25.3
+opt_22157_1999_12.out:pred2:65%  6.6 144 East Tennessee State     36.9,   155 Chattanooga              30.3
+opt_22157_1999_12.out:pred2:75% 15.7  42 Illinois State           45.1,   197 Eastern Illinois         29.4
+opt_22157_1999_12.out:pred2:79% 19.5 130 Eastern Washington       40.0,   219 Weber State              20.5
+opt_22157_1999_12.out:pred2:66%  9.0  35 Elon                     39.3,    83 Morehead State           30.3
+opt_22157_1999_12.out:pred2:87% 23.5  46 Fairfield                42.3,   192 La Salle                 18.8
+opt_22157_1999_12.out:pred2:80% 18.9   5 Florida State            38.3,    56 Maryland                 19.4
+opt_22157_1999_12.out:pred2:63%  4.6 175 Holy Cross               32.5,   207 Fordham                  27.9
+opt_22157_1999_12.out:pred2:74% 15.0   8 Furman                   43.9,    53 Wofford                  28.9
+opt_22157_1999_12.out:pred2:63%  3.9  75 Georgia                  26.0,    87 Auburn                   22.1
+opt_22157_1999_12.out:pred2:65%  5.9  24 Georgia Tech             40.5,    25 Clemson                  34.5
+opt_22157_1999_12.out:pred2:64%  5.7  80 Harvard                  32.1,   102 Pennsylvania             26.3
+opt_22157_1999_12.out:pred2:66%  8.1  69 Fresno State             39.2,   148 Hawaii                   31.1
+opt_22157_1999_12.out:pred2:63%  2.7 195 Montana State            43.8,   201 Idaho State              41.1
+opt_22157_1999_12.out:pred2:62%  3.1 117 Indiana State            32.4,   139 Western Kentucky         29.3
+opt_22157_1999_12.out:pred2:56%  1.2 178 Marist                   31.4,   199 Iona                     30.2
+opt_22157_1999_12.out:pred2:66% 10.3  16 Oklahoma                 35.4,   109 Iowa State               25.1
+opt_22157_1999_12.out:pred2:93% 36.6   3 Georgia Southern         57.0,   212 Jacksonville State       20.4
+opt_22157_1999_12.out:pred2:62%  2.8 100 James Madison            30.8,   105 Richmond                 28.0
+opt_22157_1999_12.out:pred2:66% 10.5  72 Duquesne                 37.6,   157 Lafayette                27.0
+opt_22157_1999_12.out:pred2:50%  0.1  99 Houston                  25.3,   126 Louisiana State          25.2
+opt_22157_1999_12.out:pred2:70% 17.7  50 Troy State               34.2,   205 McNeese State            16.6
+opt_22157_1999_12.out:pred2:67% 14.3  65 Memphis State            33.7,   159 Army                     19.4
+opt_22157_1999_12.out:pred2:66%  9.0 137 Central Florida          37.9,   203 Middle Tennessee State   28.9
+opt_22157_1999_12.out:pred2:89% 24.2  17 Minnesota                46.4,   142 Indiana                  22.2
+opt_22157_1999_12.out:pred2:63%  4.9  55 Texas A&M                30.8,   108 Missouri                 25.9
+opt_22157_1999_12.out:pred2:85% 20.4  20 Montana                  48.0,   127 Idaho                    27.5
+opt_22157_1999_12.out:pred2:63%  3.8 132 Howard                   34.9,   176 Morgan State             31.2
+opt_22157_1999_12.out:pred2:66%  8.0 124 Navy                     41.8,   151 Tulane                   33.9
+opt_22157_1999_12.out:pred2:63%  4.9   2 Nebraska                 28.7,     9 Kansas State             23.8
+opt_22157_1999_12.out:pred2:69% 15.8 114 Samford                  36.9,   226 Nicholls State           21.1
+opt_22157_1999_12.out:pred2:64%  5.4 140 Bethune - Cookman        38.4,   194 Norfolk State            33.0
+opt_22157_1999_12.out:pred2:75% 16.1   1 Florida A&M              45.7,    70 North Carolina A&T       29.6
+opt_22157_1999_12.out:pred2:63%  4.6 154 Maine                    33.8,   183 Northeastern             29.2
+opt_22157_1999_12.out:pred2:57%  1.3  91 Northern Arizona         39.6,    74 Portland State           38.3
+opt_22157_1999_12.out:pred2:68% 16.7  28 Michigan State           33.9,   169 Northwestern             17.2
+opt_22157_1999_12.out:pred2:62%  2.7  85 Miami - Ohio             34.3,   158 Ohio                     31.6
+opt_22157_1999_12.out:pred2:66% 10.6  36 Ohio State               36.0,    62 Illinois                 25.4
+opt_22157_1999_12.out:pred2:64%  6.2 106 Oklahoma State           35.8,   115 Kansas                   29.6
+opt_22157_1999_12.out:pred2:65%  7.8  44 Oregon State             36.0,    88 Arizona                  28.3
+opt_22157_1999_12.out:pred2:64%  6.3  10 Penn State               31.6,    15 Michigan                 25.2
+opt_22157_1999_12.out:pred2:63%  3.2  47 Notre Dame               32.8,    94 Pittsburgh               29.6
+opt_22157_1999_12.out:pred2:66% 12.0  32 Yale                     32.6,   145 Princeton                20.6
+opt_22157_1999_12.out:pred2:64%  6.1 149 Rice                     31.2,   168 Texas - El Paso          25.1
+opt_22157_1999_12.out:pred2:87% 25.2  52 Syracuse                 45.0,   215 Rutgers                  19.8
+opt_22157_1999_12.out:pred2:64%  7.0 230 Saint Peter's            25.5,   236 Sacred Heart             18.5
+opt_22157_1999_12.out:pred2:66% 11.6 146 California Poly          32.4,   221 Saint Mary's             20.8
+opt_22157_1999_12.out:pred2:51%  0.1 125 Northwestern State       38.0,   131 Sam Houston State        37.9
+opt_22157_1999_12.out:pred2:62%  4.4 172 Wagner                   23.7,   202 San Diego                19.3
+opt_22157_1999_12.out:pred2:66% 12.6 123 Saint John's             25.6,   214 Siena                    13.0
+opt_22157_1999_12.out:pred2:85% 26.2  12 Florida                  37.8,   209 South Carolina           11.7
+opt_22157_1999_12.out:pred2:63%  3.8 174 South Carolina State     36.2,   150 Delaware State           32.4
+opt_22157_1999_12.out:pred2:63%  5.8  21 Hofstra                  29.4,    82 South Florida            23.6
+opt_22157_1999_12.out:pred2:63%  3.9 162 California State - North 28.8,   188 Southern Methodist       24.8
+opt_22157_1999_12.out:pred2:92% 35.8  33 Southern Mississippi     49.7,   222 Louisiana - Lafayette    13.9
+opt_22157_1999_12.out:pred2:93% 35.4 110 Southwest Missouri State 52.2,   234 Tennessee - Martin       16.8
+opt_22157_1999_12.out:pred2:62%  2.7 112 Southern Utah            34.5,   185 Southwest Texas State    31.9
+opt_22157_1999_12.out:pred2:64% 10.5 228 Stony Brook              31.3,   233 Saint Francis - Pennsylv 20.8
+opt_22157_1999_12.out:pred2:70% 14.1  29 Tennessee State          46.1,    73 Murray State             32.0
+opt_22157_1999_12.out:pred2:55%  1.2  81 Eastern Kentucky         25.9,   138 Tennessee Tech           24.7
+opt_22157_1999_12.out:pred2:77% 18.6  22 Texas                    41.5,   133 Texas Tech               22.9
+opt_22157_1999_12.out:pred2:78% 21.2 118 Texas Christian          37.0,   220 North Texas              15.8
+opt_22157_1999_12.out:pred2:66% 11.3  66 Southern                 28.0,   182 Texas Southern           16.6
+opt_22157_1999_12.out:pred2:77% 21.6 186 The Citadel              35.9,   232 Virginia Military        14.3
+opt_22157_1999_12.out:pred2:64%  5.7 134 Toledo                   30.4,   141 Northern Illinois        24.7
+opt_22157_1999_12.out:pred2:63%  4.7 204 Tulsa                    29.6,   217 Northeast Louisiana      24.9
+opt_22157_1999_12.out:pred2:79% 18.8  40 Utah                     39.0,   165 New Mexico               20.3
+opt_22157_1999_12.out:pred2:60%  2.1  77 Kentucky                 35.8,   120 Vanderbilt               33.7
+opt_22157_1999_12.out:pred2:64%  6.2  60 Villanova                35.3,    92 Youngstown State         29.1
+opt_22157_1999_12.out:pred2:90% 31.9  59 Virginia                 50.2,   229 Buffalo                  18.2
+opt_22157_1999_12.out:pred2:67% 12.9   4 Virginia Tech            35.4,    23 Miami - Florida          22.5
+opt_22157_1999_12.out:pred2:63%  5.0  86 Southern California      30.5,   164 Washington State         25.5
+opt_22157_1999_12.out:pred2:64%  5.0  45 Western Illinois         34.3,    43 Northern Iowa            29.3
+opt_22157_1999_12.out:pred2:67% 13.7  14 Marshall                 41.0,   101 Western Michigan         27.3
+opt_22157_1999_12.out:pred2:67% 12.0  26 Massachusetts            37.6,   119 William & Mary           25.6
+opt_22157_1999_12.out:pred2:93% 35.3   6 Wisconsin                47.2,   177 Iowa                     11.9
+opt_22157_1999_12.out:pred2:62%  2.1  31 Brigham Young            35.9,    67 Wyoming                  33.8
+opt_22157_1999_12.out:pred2:62%  2.2 163 Alabama A&M              33.3,   171 Alcorn State             31.1
+opt_22157_1999_13.out:pred2:51%  0.4  58 Colorado State           24.8,    47 Air Force                24.5
+opt_22157_1999_13.out:pred2:62%  2.8 119 Samford                  27.6,   127 Tennessee Tech           24.7
+opt_22157_1999_13.out:pred2:67% 16.7 117 Saint John's             31.2,   201 Iona                     14.5
+opt_22157_1999_13.out:pred2:63%  4.9 159 Alabama A&M              26.5,   175 Arkansas - Pine Bluff    21.7
+opt_22157_1999_13.out:pred2:66% 10.0  31 Arkansas                 32.2,    62 Mississippi State        22.2
+opt_22157_1999_13.out:pred2:63%  4.5  91 Houston                  28.2,   151 Army                     23.7
+opt_22157_1999_13.out:pred2:63%  4.7  24 Alabama                  29.6,    69 Auburn                   24.9
+opt_22157_1999_13.out:pred2:67% 16.3 150 Valparaiso               33.1,   229 Austin Peay              16.9
+opt_22157_1999_13.out:pred2:57%  1.5 207 Central Michigan         28.1,   220 Ball State               26.6
+opt_22157_1999_13.out:pred2:86% 22.1  77 Oklahoma State           41.7,   227 Baylor                   19.6
+opt_22157_1999_13.out:pred2:50%  0.0  33 Utah                     34.7,    44 Brigham Young            34.7
+opt_22157_1999_13.out:pred2:68% 12.1  98 Brown                    42.5,   152 Columbia                 30.5
+opt_22157_1999_13.out:pred2:64%  5.9 102 Sacramento State         36.1,   157 California Poly          30.2
+opt_22157_1999_13.out:pred2:66%  9.4  80 Northern Arizona         41.0,   189 California State - North 31.7
+opt_22157_1999_13.out:pred2:66%  8.7 123 Central Florida          37.4,   166 Bowling Green            28.7
+opt_22157_1999_13.out:pred2:87% 23.2   7 Furman                   48.3,   155 Chattanooga              25.0
+opt_22157_1999_13.out:pred2:60%  2.5  53 Cincinnati               28.7,    81 Memphis State            26.1
+opt_22157_1999_13.out:pred2:64%  6.1 128 Princeton                25.7,   187 Dartmouth                19.6
+opt_22157_1999_13.out:pred2:56%  1.2 136 Howard                   39.6,   164 Delaware State           38.4
+opt_22157_1999_13.out:pred2:96% 40.0  67 Duquesne                 56.8,   234 Canisius                 16.8
+opt_22157_1999_13.out:pred2:80% 18.9  76 Eastern Kentucky         40.9,   191 Eastern Illinois         22.0
+opt_22157_1999_13.out:pred2:78% 20.5  56 Bucknell                 40.7,   211 Fordham                  20.2
+opt_22157_1999_13.out:pred2:86% 19.4  70 Fresno State             48.1,   176 San Jose State           28.6
+opt_22157_1999_13.out:pred2:74% 20.5  92 Georgetown               36.7,   202 La Salle                 16.2
+opt_22157_1999_13.out:pred2:67% 14.1 132 Hampton                  35.0,   173 Morgan State             20.9
+opt_22157_1999_13.out:pred2:52%  0.5 108 Navy                     33.0,   134 Hawaii                   32.5
+opt_22157_1999_13.out:pred2:74% 17.7  16 Hofstra                  39.6,    90 James Madison            22.0
+opt_22157_1999_13.out:pred2:84% 20.5  12 Colgate                  44.4,   161 Holy Cross               23.9
+opt_22157_1999_13.out:pred2:62%  2.7  73 Boise State              32.8,   133 Idaho                    30.1
+opt_22157_1999_13.out:pred2:76% 19.1  42 Illinois                 37.5,   181 Northwestern             18.4
+opt_22157_1999_13.out:pred2:84% 16.9  20 Purdue                   49.8,   139 Indiana                  33.0
+opt_22157_1999_13.out:pred2:86% 23.3  21 Minnesota                39.3,   185 Iowa                     16.0
+opt_22157_1999_13.out:pred2:89% 22.7  39 Jackson State            48.8,   171 Alcorn State             26.1
+opt_22157_1999_13.out:pred2:67% 12.7 165 Jacksonville             40.8,   192 Charleston Southern      28.2
+opt_22157_1999_13.out:pred2:56%  1.2 135 Kansas                   30.5,   109 Iowa State               29.2
+opt_22157_1999_13.out:pred2:87% 25.5  13 Kansas State             44.0,   137 Missouri                 18.5
+opt_22157_1999_13.out:pred2:66%  9.6  15 Tennessee                37.8,    79 Kentucky                 28.2
+opt_22157_1999_13.out:pred2:90% 28.9   5 Lehigh                   49.3,   160 Lafayette                20.3
+opt_22157_1999_13.out:pred2:69% 15.8  29 Appalachian State        37.1,   163 Liberty                  21.3
+opt_22157_1999_13.out:pred2:63%  3.5  30 Southern Mississippi     38.1,    41 Louisville               34.5
+opt_22157_1999_13.out:pred2:66%  9.5 177 Marist                   33.2,   212 Siena                    23.7
+opt_22157_1999_13.out:pred2:57%  1.3  72 Maryland                 34.2,    74 Virginia                 32.9
+opt_22157_1999_13.out:pred2:86% 25.0  27 Massachusetts            45.3,   169 Connecticut              20.2
+opt_22157_1999_13.out:pred2:92% 32.2  32 Miami - Florida          49.2,   209 Rutgers                  17.1
+opt_22157_1999_13.out:pred2:89% 26.9 106 Miami - Ohio             49.3,   228 Buffalo                  22.4
+opt_22157_1999_13.out:pred2:66% 10.0  19 Michigan                 34.5,    50 Ohio State               24.5
+opt_22157_1999_13.out:pred2:52%  0.4  22 Michigan State           28.7,    11 Penn State               28.3
+opt_22157_1999_13.out:pred2:66% 10.8 144 East Tennessee State     35.0,   214 Middle Tennessee State   24.2
+opt_22157_1999_13.out:pred2:64%  6.3  65 Mississippi              32.0,    93 Georgia                  25.7
+opt_22157_1999_13.out:pred2:88% 24.4  26 Montana                  50.9,   208 Montana State            26.5
+opt_22157_1999_13.out:pred2:67% 12.9 105 San Diego State          31.5,   210 Nevada - Las Vegas       18.5
+opt_22157_1999_13.out:pred2:57%  1.5 190 Nevada - Reno            35.5,   194 Utah State               34.0
+opt_22157_1999_13.out:pred2:67% 12.1  64 New Hampshire            37.4,   158 Maine                    25.4
+opt_22157_1999_13.out:pred2:66% 11.6 180 New Mexico State         32.2,   221 North Texas              20.6
+opt_22157_1999_13.out:pred2:63%  4.0 186 McNeese State            25.9,   219 Nicholls State           21.8
+opt_22157_1999_13.out:pred2:63%  3.6 148 North Carolina           30.8,   131 Duke                     27.1
+opt_22157_1999_13.out:pred2:66%  9.1 145 Northern Illinois        36.2,   193 Eastern Michigan         27.1
+opt_22157_1999_13.out:pred2:55%  1.1 138 Northwestern State       29.7,   104 Stephen F. Austin        28.6
+opt_22157_1999_13.out:pred2:66%  9.0  57 Notre Dame               34.5,    99 Boston College           25.5
+opt_22157_1999_13.out:pred2:64%  4.7  43 Oregon                   37.0,    46 Oregon State             32.3
+opt_22157_1999_13.out:pred2:65%  6.6  89 Pennsylvania             35.0,   115 Cornell                  28.4
+opt_22157_1999_13.out:pred2:64%  5.7 188 Rhode Island             31.6,   184 Northeastern             25.9
+opt_22157_1999_13.out:pred2:63%  4.5 114 Richmond                 34.0,   112 William & Mary           29.5
+opt_22157_1999_13.out:pred2:79% 32.0  95 Robert Morris            44.7,   226 Stony Brook              12.7
+opt_22157_1999_13.out:pred2:94% 36.1  37 Fairfield                48.7,   230 Saint Peter's            12.6
+opt_22157_1999_13.out:pred2:77% 20.3  17 Clemson                  34.1,   216 South Carolina           13.8
+opt_22157_1999_13.out:pred2:83% 21.5  35 Tennessee State          43.5,   196 Southeast Missouri State 22.0
+opt_22157_1999_13.out:pred2:66% 10.2  97 Southern California      35.4,   154 California - Los Angeles 25.3
+opt_22157_1999_13.out:pred2:59%  1.6 110 Southern Illinois        38.4,   129 Western Kentucky         36.8
+opt_22157_1999_13.out:pred2:66%  8.2  84 Southwest Missouri State 44.0,   126 Indiana State            35.8
+opt_22157_1999_13.out:pred2:63%  3.6 113 Sam Houston State        33.8,   178 Southwest Texas State    30.2
+opt_22157_1999_13.out:pred2:88% 24.9  54 Wofford                  47.3,   222 Louisiana - Lafayette    22.4
+opt_22157_1999_13.out:pred2:64%  5.9  83 Stanford                 34.5,   125 California               28.6
+opt_22157_1999_13.out:pred2:88% 29.5   1 Virginia Tech            42.0,   170 Temple                   12.4
+opt_22157_1999_13.out:pred2:66%  8.3 118 Texas Christian          35.9,   147 Texas - El Paso          27.6
+opt_22157_1999_13.out:pred2:66% 13.1 172 Texas Southern           32.0,   205 Norfolk State            18.9
+opt_22157_1999_13.out:pred2:74% 18.4   9 Oklahoma                 38.7,   153 Texas Tech               20.4
+opt_22157_1999_13.out:pred2:56%  1.3 116 Toledo                   31.9,   100 Western Michigan         30.5
+opt_22157_1999_13.out:pred2:81% 21.7  85 Troy State               39.7,   200 Jacksonville State       18.0
+opt_22157_1999_13.out:pred2:58%  1.5 120 Alabama - Birmingham     38.5,   167 Tulane                   37.0
+opt_22157_1999_13.out:pred2:64%  6.1 168 Southern Methodist       30.8,   206 Tulsa                    24.7
+opt_22157_1999_13.out:pred2:60%  2.1  66 Villanova                37.0,    63 Delaware                 34.9
+opt_22157_1999_13.out:pred2:63%  4.9  23 Georgia Tech             37.4,    52 Wake Forest              32.5
+opt_22157_1999_13.out:pred2:68% 14.2  61 Washington               38.1,   156 Washington State         23.8
+opt_22157_1999_13.out:pred2:60%  2.4 198 Western Carolina         29.6,   197 The Citadel              27.2
+opt_22157_1999_13.out:pred2:64%  5.5  34 Western Illinois         37.5,    59 Drake                    32.0
+opt_22157_1999_13.out:pred2:74% 15.7  60 Wyoming                  37.6,   174 New Mexico               22.0
+opt_22157_1999_13.out:pred2:67% 13.5  36 Yale                     36.2,    94 Harvard                  22.7
+opt_22157_1999_13.out:pred2:66% 11.1  28 East Carolina            34.9,   107 North Carolina State     23.7
+opt_22157_1999_13.out:pred2:64%  5.9   3 Florida State            33.2,    18 Florida                  27.3
+opt_22157_1999_13.out:pred2:90% 24.0   6 Florida A&M              53.4,   122 Bethune - Cookman        29.3
+opt_22157_1999_13.out:pred2:72% 16.4  45 North Carolina A&T       37.5,   162 South Carolina State     21.1
+opt_22157_1999_13.out:pred2:63%  2.7 101 Morehead State           44.4,   103 Southern Utah            41.8
+opt_22157_1999_14.out:pred2:62%  3.5  70 Mississippi State        24.1,    64 Mississippi              20.6
+opt_22157_1999_14.out:pred2:68% 14.6   2 Nebraska                 37.5,    56 Colorado                 22.9
+opt_22157_1999_14.out:pred2:67% 12.5  35 Arkansas                 38.1,   136 Louisiana State          25.5
+opt_22157_1999_14.out:pred2:87% 24.5  19 Marshall                 41.7,   148 Ohio                     17.2
+opt_22157_1999_14.out:pred2:67% 12.5  24 Oklahoma                 38.8,    78 Oklahoma State           26.2
+opt_22157_1999_14.out:pred2:62%  2.7  42 Louisiana Tech           37.7,   108 Southern California      35.0
+opt_22157_1999_14.out:pred2:67% 25.2 114 Saint John's             35.0,   225 Stony Brook               9.8
+opt_22157_1999_14.out:pred2:54%  0.8  12 Texas                    34.0,    39 Texas A&M                33.1
+opt_22157_1999_14.out:pred2:66% 11.5  99 Texas Christian          31.4,   163 Southern Methodist       19.9
+opt_22157_1999_14.out:pred2:89% 27.5   1 Virginia Tech            43.7,    91 Boston College           16.2
+opt_22157_1999_14.out:pred2:66%  8.4   3 Florida A&M              41.7,    34 Appalachian State        33.3
+opt_22157_1999_14.out:pred2:61%  2.4  90 Arizona                  33.9,   123 Arizona State            31.5
+opt_22157_1999_14.out:pred2:63%  4.5  11 Furman                   35.3,    20 Massachusetts            30.9
+opt_22157_1999_14.out:pred2:75% 13.0  22 Georgia Tech             45.7,    97 Georgia                  32.7
+opt_22157_1999_14.out:pred2:64%  5.8 115 Hawaii                   36.8,   155 Washington State         31.0
+opt_22157_1999_14.out:pred2:57%  1.5  13 Hofstra                  37.3,     8 Lehigh                   35.9
+opt_22157_1999_14.out:pred2:65%  6.8  10 Colgate                  42.4,    57 Illinois State           35.5
+opt_22157_1999_14.out:pred2:74% 17.8  16 Montana                  41.5,    83 Youngstown State         23.7
+opt_22157_1999_14.out:pred2:79% 21.7  43 Colorado State           38.8,   214 Nevada - Las Vegas       17.2
+opt_22157_1999_14.out:pred2:66% 11.7  67 Air Force                32.3,   171 New Mexico               20.6
+opt_22157_1999_14.out:pred2:63%  5.9 189 Utah State               26.3,   221 North Texas              20.4
+opt_22157_1999_14.out:pred2:73% 13.9   5 Georgia Southern         46.0,    76 Northern Arizona         32.1
+opt_22157_1999_14.out:pred2:52%  0.5  51 Wyoming                  31.1,    94 San Diego State          30.6
+opt_22157_1999_14.out:pred2:63%  3.3  71 Stanford                 41.3,    79 Notre Dame               38.1
+opt_22157_1999_14.out:pred2:87% 24.7   9 Tennessee                42.5,   124 Vanderbilt               17.8
+opt_22157_1999_14.out:pred2:64%  6.4  44 Tennessee State          33.3,    47 North Carolina A&T       27.0
+opt_22157_1999_14.out:pred2:65%  8.2  92 Troy State               30.9,    95 James Madison            22.8
+opt_22157_1999_14.out:pred2:53%  0.7 109 West Virginia            32.5,    84 Pittsburgh               31.8
+opt_22157_1999_14.out:pred2:64%  5.4  23 Miami - Florida          34.7,    60 Syracuse                 29.2
+opt_22157_1999_14.out:pred2:66%  9.8  68 Southern                 34.3,   134 Grambling                24.5
+opt_22157_1999_15.out:pred2:84% 21.8  16 Marshall                 43.3,   115 Western Michigan         21.5
+opt_22157_1999_15.out:pred2:69% 13.3   2 Georgia Southern         45.0,     9 Massachusetts            31.6
+opt_22157_1999_15.out:pred2:65%  8.4  10 Hofstra                  39.2,    22 Illinois State           30.8
+opt_22157_1999_15.out:pred2:89% 28.9  14 Miami - Florida          44.4,   180 Temple                   15.4
+opt_22157_1999_15.out:pred2:77% 16.8   3 Florida A&M              44.9,    85 Troy State               28.1
+opt_22157_1999_15.out:pred2:58%  2.3  30 North Carolina A&T       23.9,    48 Youngstown State         21.6
+opt_22157_1999_15.out:pred2:63%  4.8 124 Navy                     34.1,   161 Army                     29.3
+opt_22157_1999_15.out:pred2:63%  3.4  21 Florida                  32.7,    24 Alabama                  29.3
+opt_22157_1999_15.out:pred2:65%  6.9   4 Nebraska                 36.4,    15 Texas                    29.5
+opt_22157_1999_16.out:pred2:78% 15.7   1 Georgia Southern         49.9,    10 Illinois State           34.2
+opt_22157_1999_16.out:pred2:66% 10.1   3 Florida A&M              40.0,    22 Youngstown State         29.9
+opt_22157_1999_16.out:pred2:65%  8.1  27 Jackson State            35.7,    74 Southern                 27.7
+opt_22157_1999_17.out:pred2:64%  5.9  81 Southern                 30.3,   120 Hampton                  24.4
+opt_22157_1999_17.out:pred2:66% 11.6   2 Georgia Southern         39.4,    13 Youngstown State         27.8
+opt_22157_1999_17.out:pred2:63%  4.4  34 Utah                     34.6,    52 Fresno State             30.3
+opt_22157_1999_17.out:pred2:64%  6.3  33 East Carolina            32.4,   103 Texas Christian          26.1
+opt_22157_1999_17.out:pred2:62%  3.3  65 Wake Forest              30.0,   111 Arizona State            26.6
+opt_22157_1999_17.out:pred2:67% 12.7  51 Oregon State             40.0,   141 Hawaii                   27.4
+opt_22157_1999_17.out:pred2:64%  7.1  24 Marshall                 33.3,    47 Brigham Young            26.2
+opt_22157_1999_17.out:pred2:63%  4.2  11 Penn State               29.8,    36 Texas A&M                25.6
+opt_22157_1999_17.out:pred2:63%  3.8  86 Syracuse                 36.7,    97 Kentucky                 33.0
+opt_22157_1999_17.out:pred2:76% 17.7   6 Kansas State             41.3,    76 Washington               23.6
+opt_22157_1999_17.out:pred2:54%  0.7  66 Boise State              40.1,    43 Louisville               39.5
+opt_22157_1999_17.out:pred2:52%  0.4  50 Illinois                 36.1,    77 Virginia                 35.7
+opt_22157_1999_17.out:pred2:56%  1.4  40 Clemson                  27.1,    61 Mississippi State        25.7
+opt_22157_1999_17.out:pred2:51%  0.2  32 Minnesota                33.8,    38 Oregon                   33.6
+opt_22157_1999_17.out:pred2:64%  6.0  42 Colorado                 34.7,    88 Boston College           28.6
+opt_22157_1999_17.out:pred2:63%  3.8  23 Southern Mississippi     30.9,    44 Colorado State           27.1
+opt_22157_1999_17.out:pred2:66%  8.6  21 Oklahoma                 34.8,    63 Mississippi              26.2
+opt_22157_1999_17.out:pred2:64%  5.9  16 Texas                    38.2,    49 Arkansas                 32.3
+opt_22157_1999_17.out:pred2:66%  8.8  29 Purdue                   39.7,    78 Georgia                  30.9
+opt_22157_1999_17.out:pred2:66%  7.9   9 Miami - Florida          45.6,    30 Georgia Tech             37.8
+opt_22157_1999_17.out:pred2:54%  1.0  17 Michigan State           29.8,    28 Florida                  28.9
+opt_22157_1999_17.out:pred2:75% 15.5   7 Wisconsin                44.4,    64 Stanford                 28.9
+opt_22157_1999_17.out:pred2:51%  0.2  18 Michigan                 29.6,    15 Alabama                  29.4
+opt_22157_1999_17.out:pred2:64%  5.7   3 Nebraska                 30.3,    10 Tennessee                24.6
+opt_22157_1999_17.out:pred2:62%  3.1   1 Virginia Tech            31.1,     4 Florida State            28.0
