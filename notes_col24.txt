@@ -1,0 +1,41 @@
+week06:
+
+Power rankings:
+1 Tennessee
+2 Alabama
+3 Missouri
+4 Notre Dame
+5 Indiana
+6 Texas
+7 Ohio State
+8 Central Florida
+9 Mississippi
+10 Georgia
+...
+13 Oklahoma
+...
+46 Auburn
+...
+62 Baylor
+..
+65 Brigham Young
+
+Earned rankings:
+1 Missouri actualWins=4 expectedWins=3.8005207179922307 otherWins=1.4427369738209288 actual-other=2.557263026179071
+2 Brigham Young actualWins=4 expectedWins=2.410803731259074 otherWins=1.4696180009564939 actual-other=2.530381999043506
+3 Illinois actualWins=4 expectedWins=2.989897039798144 otherWins=1.4852739473693992 actual-other=2.514726052630601
+4 Utah actualWins=4 expectedWins=3.155741432112317 otherWins=1.4936043426607806 actual-other=2.5063956573392194
+5 Washington State actualWins=4 expectedWins=3.1356435126071958 otherWins=1.6336349508179062 actual-other=2.366365049182094
+6 Texas actualWins=4 expectedWins=3.772242412984503 otherWins=1.7331914133411683 actual-other=2.266808586658832
+7 Indiana actualWins=4 expectedWins=3.8675573821332443 otherWins=1.8929738441579707 actual-other=2.1070261558420293
+8 Miami - Florida actualWins=4 expectedWins=3.8122504570553883 otherWins=1.9109591320478754 actual-other=2.0890408679521246
+9 Tennessee actualWins=4 expectedWins=3.710681817706244 otherWins=1.9536897408372031 actual-other=2.046310259162797
+10 Central Florida actualWins=3 expectedWins=2.5820897601046844 otherWins=0.9679189530061365 actual-other=2.0320810469938637
+...
+20 Oklahoma actualWins=3 expectedWins=2.9768052072875797 otherWins=1.1837658590480233 actual-other=1.8162341409519767
+
+predictions: prob=0.6768566889235021 Oklahoma--Auburn  predicted=33.18314618368626--16.992027456018228 spread=16.191118727668034
+predictions: prob=0.617941650619726 Brigham Young--Baylor  predicted=18.45507786496533--13.19911098850205 spread=5.25596687646328
+
+68% chance of Oklahoma defeating Auburn. Average score for the game: 33.2 to 17.0
+62% chance of Brigham Young defeating Baylor. Average score for the game: 18.5 to 13.2
