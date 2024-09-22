@@ -1,0 +1,89 @@
+predictions: prob=0.6654555747145925 Ball State--Northeastern predicted=33.93534370313644--14.244370757155902 spread=19.690972945980537
+predictions: prob=0.6628302329166162 Wake Forest--Baylor  predicted=34.885020032945235--16.347505442104108 spread=18.537514590841127
+predictions: prob=0.6033065695844527 Buffalo--Texas - El Paso predicted=31.772561380314347--24.420987730946255 spread=7.351573649368092
+predictions: prob=0.6652733502142412 Central Michigan--Eastern Illinois predicted=42.8727498644436--22.832999362354315 spread=20.039750502089284
+predictions: prob=0.6827193192090084 Cincinnati--Eastern Kentucky predicted=51.20703694917278--13.774059079780187 spread=37.432977869392595
+predictions: prob=0.6726757931831008 Connecticut--Hofstra predicted=34.87381737519088--10.937550387343531 spread=23.93626698784735
+predictions: prob=0.683856362329288 Eastern Michigan--Indiana State predicted=49.82289868826184--9.646649660970049 spread=40.17624902729179
+predictions: prob=0.6810172947535083 Georgia Tech--Jacksonville State predicted=46.455633550817254--12.448962584987289 spread=34.00667096582997
+predictions: prob=0.5315976076518059 Iowa State--South Dakota State predicted=20.63343895467836--18.670954794946006 spread=1.9624841597323552
+predictions: prob=0.6842293265252409 Miami - Florida--Charleston Southern predicted=52.42918522096163--11.018026357750376 spread=41.411158863211256
+predictions: prob=0.641928107787229 Vanderbilt--Miami - Ohio  predicted=25.165609958430903--12.499501997524678 spread=12.666107960906224
+predictions: prob=0.6344887208029527 Troy State--Middle Tennessee State  predicted=30.66660763740181--19.34776289379247 spread=11.31884474360934
+predictions: prob=0.6826279610565468 North Dakota State--Austin Peay predicted=58.39400418411027--20.380077800442592 spread=38.01392638366768
+predictions: prob=0.6554106986132668 South Carolina--North Carolina State predicted=30.388422874256605--14.452134065216207 spread=15.936288809040398
+predictions: prob=0.6395680682569831 Oregon State--Stanford  predicted=27.63556857546964--15.423065922396663 spread=12.212502653072978
+predictions: prob=0.5575449287303261 Gardner - Webb--Tennessee Tech  predicted=21.82884875425917--18.0548261927028 spread=3.774022561556368
+predictions: prob=0.549431127107011 Army--Temple predicted=13.00595175580317--9.94004431202524 spread=3.065907443777931
+predictions: prob=0.5425400806399618 Rice--Southern Methodist predicted=30.31882715335429--27.704078639997693 spread=2.6147485133565986
+predictions: prob=0.6813366867564905 San Diego--Marist predicted=55.64009605512753--20.322187938904865 spread=35.31790811622267
+predictions: prob=0.6828910581586569 Air Force--Southern Utah predicted=53.596913638627--15.764005396475671 spread=37.83290824215133
+predictions: prob=0.6224359488338473 Alabama A&M--Tennessee State predicted=33.864738353910056--23.90629583940912 spread=9.958442514500938
+predictions: prob=0.6664735769989636 Tulsa--Alabama - Birmingham  predicted=46.344229737764984--26.161538967465532 spread=20.182690770299452
+predictions: prob=0.6301037167958092 Southeast Louisiana--Alcorn State  predicted=26.153618929835783--15.064989669738651 spread=11.088629260097132
+predictions: prob=0.67891801311731 Arizona--Idaho predicted=53.935476121765305--23.17683538774041 spread=30.758640734024894
+predictions: prob=0.6849281928627329 Arizona State--Northern Arizona predicted=63.401583440803016--19.707805915296042 spread=43.693777525506974
+predictions: prob=0.6785723170294714 Arkansas--Western Illinois predicted=46.33607306692758--16.037060726214477 spread=30.299012340713105
+predictions: prob=0.6740923599812909 Auburn--Northeast Louisiana predicted=36.75618876263714--11.707848510370784 spread=25.048340252266353
+predictions: prob=0.6865736947957815 Boise State--Idaho State predicted=68.5349609447433--17.682679882887665 spread=50.852281061855635
+predictions: prob=0.6482513270784052 Brigham Young--Northern Iowa predicted=26.838426690368205--12.495611274535037 spread=14.342815415833169
+predictions: prob=0.5812631941923665 California--Michigan State predicted=34.108583383707945--28.73073911254818 spread=5.377844271159766
+predictions: prob=0.6020306220640552 Bryant--Central Connecticut  predicted=26.031790210993808--18.490856088678193 spread=7.540934122315615
+predictions: prob=0.6754054246453296 Central Florida--South Carolina State predicted=39.93429077615421--13.152816691770592 spread=26.781474084383614
+predictions: prob=0.5740838896340856 James Madison--Duke  predicted=24.96832530184781--20.04739666926623 spread=4.920928632581578
+predictions: prob=0.5399655253807082 Richmond--Elon  predicted=29.068933981914185--26.51260034241494 spread=2.5563336394992433
+predictions: prob=0.6666265748973009 Florida--Hawaii predicted=47.08374575281269--26.8247377774235 spread=20.25900797538919
+predictions: prob=0.5332815370390799 Alabama State--Florida A&M  predicted=16.89263183717435--14.778511453855483 spread=2.114120383318866
+predictions: prob=0.6781581194125471 Georgia--Georgia Southern predicted=54.03918385349755--24.91263576072561 spread=29.126548092771937
+predictions: prob=0.675070248609022 Houston--Southern predicted=44.9250953654856--18.457303540843213 spread=26.46779182464239
+predictions: prob=0.6371227167727604 Indiana--Western Kentucky predicted=25.945667642117073--14.17644522663577 spread=11.769222415481302
+predictions: prob=0.673008174641323 Iowa--Maine predicted=28.076392960279676--4.612948101811163 spread=23.463444858468513
+predictions: prob=0.6870641012563351 Kansas--Florida International predicted=60.276238319337224--8.23232933028569 spread=52.04390898905153
+predictions: prob=0.6814002234026716 Kansas State--North Texas predicted=58.73646332046205--24.784954295324916 spread=33.951509025137135
+predictions: prob=0.6737605815458598 Louisiana State--Appalachian State predicted=47.76867468316155--22.992135442280656 spread=24.776539240880894
+predictions: prob=0.6430662508126681 Mississippi State--Louisiana Tech  predicted=28.436538125900885--15.5417117440768 spread=12.894826381824085
+predictions: prob=0.584219462816226 Marshall--Illinois State predicted=25.200318275807902--19.45660062865116 spread=5.743717647156743
+predictions: prob=0.6425983789363695 Maryland--Delaware predicted=34.34923595154878--21.26592976653599 spread=13.083306185012788
+predictions: prob=0.671653927378526 Massachusetts--Albany predicted=35.03757829929147--11.31835777166188 spread=23.719220527629588
+predictions: prob=0.5532550134354678 Michigan--Utah predicted=10.213008237166472--6.896411986533597 spread=3.316596250632875
+predictions: prob=0.6449680948245476 Minnesota--Northern Illinois predicted=35.629929476632086--22.3370684256873 spread=13.292861050944786
+predictions: prob=0.6491896717267217 Mississippi--Memphis predicted=35.923553720248854--21.666451125463386 spread=14.257102594785469
+predictions: prob=0.6584551494364717 Missouri--Illinois predicted=36.80244387933415--19.895649982163008 spread=16.90679389717114
+predictions: prob=0.6692983485222178 Navy--Towson predicted=49.84141462278082--27.653120359859432 spread=22.188294262921385
+predictions: prob=0.6109041806009047 Clemson--Alabama predicted=25.535391311180113--17.384116392165527 spread=8.151274919014586
+predictions: prob=0.6511972039228467 Nebraska--Western Michigan predicted=35.75854383913775--20.99746670993259 spread=14.761077129205162
+predictions: prob=0.6153672099643989 Nevada - Las Vegas--Utah State predicted=22.02645750624626--13.365966006759173 spread=8.660491499487087
+predictions: prob=0.6606538147942725 Nevada - Reno--Grambling predicted=39.56549923390499--21.48735005115705 spread=18.078149182747936
+predictions: prob=0.5271718947102073 Texas Christian--New Mexico  predicted=15.714955878085128--14.069870339337964 spread=1.6450855387471641
+predictions: prob=0.6742114190302965 Boston College--Kent State  predicted=44.98997518205603--19.842283932084413 spread=25.147691249971615
+predictions: prob=0.6435009294658524 North Carolina--McNeese State predicted=29.276952561202183--16.005547331984882 spread=13.2714052292173
+predictions: prob=0.6097299697037672 Northwestern--Syracuse predicted=25.95323284198308--17.93075358934432 spread=8.02247925263876
+predictions: prob=0.6610172077968135 Virginia Tech--East Carolina predicted=34.30022481870806--16.47733926760678 spread=17.82288555110128
+predictions: prob=0.6377823945036578 Oklahoma State--Washington State  predicted=33.043062595434336--21.15676427439808 spread=11.886298321036257
+predictions: prob=0.680466756407721 Ohio State--Youngstown State predicted=38.13197337893631--6.158535171422791 spread=31.973438207513517
+predictions: prob=0.6860525188773438 Oklahoma--Tennessee - Chattanooga predicted=64.53042223491819--16.291118221068267 spread=48.239304013849925
+predictions: prob=0.6636500093764244 Oregon--Washington predicted=41.86366464044892--22.982221826631726 spread=18.88144281381719
+predictions: prob=0.6838375046233852 Penn State--Coastal Carolina predicted=57.869299187265064--18.472807040101856 spread=39.39649214716321
+predictions: prob=0.6562848280053825 Pittsburgh--Bowling Green predicted=32.84827256938169--16.644986611205535 spread=16.203285958176156
+predictions: prob=0.6456610987944771 Rhode Island--Monmouth predicted=28.89116082806776--14.859185265361461 spread=14.0319755627063
+predictions: prob=0.5752234070971519 San Diego State--California Poly predicted=29.111483072522777--24.101193069942983 spread=5.010290002579794
+predictions: prob=0.6293596574825908 San Jose State--California - Davis predicted=26.336289006580166--15.592296321342019 spread=10.743992685238148
+predictions: prob=0.6638739940864156 Jacksonville--Savannah State  predicted=29.680449812836116--10.295991196141896 spread=19.384458616694218
+predictions: prob=0.6616428610716817 Southern Mississippi--Louisiana - Lafayette predicted=33.82616597291489--15.7634314855895 spread=18.062734487325393
+predictions: prob=0.6856765924493582 South Florida--Tennessee - Martin predicted=66.69139047730178--20.116392834694867 spread=46.57499764260692
+predictions: prob=0.5242806641926356 Colgate--Stony Brook  predicted=25.525937823634866--23.994670854438574 spread=1.5312669691962917
+predictions: prob=0.6721455916990215 Texas--Florida Atlantic predicted=46.64002466295273--23.089741723587757 spread=23.550282939364976
+predictions: prob=0.6704322519638054 Texas A&M--Arkansas State predicted=41.29778414620076--18.898623909708423 spread=22.39916023649234
+predictions: prob=0.6651286636837548 Prairie View--Texas Southern  predicted=33.86479286403885--13.47026808391674 spread=20.394524780122108
+predictions: prob=0.6758695512734506 Texas Tech--Eastern Washington predicted=45.42652548665059--18.194836409751936 spread=27.231689076898654
+predictions: prob=0.6391447942892593 Southern California--Virginia  predicted=28.184741644771545--16.05082848023164 spread=12.133913164539905
+predictions: prob=0.6830284541179503 West Virginia--Villanova predicted=55.55604492931509--17.39462694545165 spread=38.161417983863444
+predictions: prob=0.6714373430003473 Wisconsin--Akron predicted=43.22516323367499--20.167622622759843 spread=23.057540610915147
+predictions: prob=0.6747047030558867 Wofford--Presbyterian predicted=44.4025487414985--17.712558038244687 spread=26.689990703253812
+predictions: prob=0.6067549762196062 Wyoming--Ohio predicted=30.19192326312794--22.486950514140396 spread=7.704972748987544
+predictions: prob=0.5293283377693991 Kentucky--Louisville  predicted=36.181221137094795--34.40256315766097 spread=1.7786579794338238
+predictions: prob=0.6189106156143761 Colorado--Colorado State predicted=33.24148813498523--24.152154720930543 spread=9.089333414054689
+predictions: prob=0.5399512426323374 Hampton--Jackson State  predicted=26.49175285497178--23.93637430909257 spread=2.5553785458792078
+predictions: prob=0.520697040021926 California - Los Angeles--Tennessee predicted=20.42314986406537--19.175437077822096 spread=1.247712786243273
+predictions: prob=0.637872737789277 Rutgers--Fresno State predicted=30.086524683275158--18.184052314407452 spread=11.902472368867706
+::: forecastStatistics {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}::: detailedStatistics {'weekb1': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}}}

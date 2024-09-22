@@ -1,0 +1,280 @@
+1999:01:Alabama/Vanderbilt:		week=2:winner=1
+1999:01:Arizona/Texas Christian:		week=2:winner=1
+1999:01:Arkansas/Southern Methodist:		week=2:winner=1
+1999:01:Baylor/Boston College:		week=2:winner=0
+1999:01:Bowling Green/Pittsburgh:		week=2:winner=0
+1999:01:Colorado State/Colorado:		week=2:winner=1
+1999:01:Georgia Tech/Navy:		week=2:winner=1
+1999:01:Louisville/Kentucky:		week=2:winner=1
+1999:01:Marshall/Clemson:		week=2:winner=1
+1999:01:Mississippi/Memphis State:		week=2:winner=1
+1999:01:Nebraska/Iowa:		week=2:winner=1
+1999:01:New Mexico/Texas - El Paso:		week=2:winner=0
+1999:01:Notre Dame/Michigan:		week=2:winner=0
+1999:01:Oregon State/Nevada - Reno:		week=2:winner=1
+1999:01:Purdue/Central Florida:		week=2:winner=1
+1999:01:Rice/Houston:		week=2:winner=0
+1999:01:South Carolina/North Carolina State:		week=2:winner=0
+1999:01:Stanford/Texas:		week=2:winner=0
+1999:01:Texas Tech/Arizona State:		week=2:winner=0
+1999:01:Tulane/Southern Mississippi:		week=2:winner=0
+1999:01:Utah/Washington State:		week=2:winner=1
+1999:01:Virginia/North Carolina:		week=2:winner=1
+1999:01:West Virginia/East Carolina:		week=2:winner=0
+1999:02:California - Los Angeles/Ohio State:		week=3:winner=0
+1999:02:California/Nebraska:		week=3:winner=0
+1999:02:Duke/East Carolina:		week=3:winner=0
+1999:02:Georgia Tech/Florida State:		week=3:winner=0
+1999:02:Houston/Alabama:		week=3:winner=0
+1999:02:Iowa/Iowa State:		week=3:winner=0
+1999:02:Miami - Ohio/West Virginia:		week=3:winner=0
+1999:02:Middle Tennessee State/Arizona:		week=3:winner=0
+1999:02:Navy/Kent State:		week=3:winner=1
+1999:02:Nevada - Las Vegas/Baylor:		week=3:winner=1
+1999:02:New Mexico State/New Mexico:		week=3:winner=1
+1999:02:North Carolina/Indiana:		week=3:winner=1
+1999:02:North Texas/Louisiana State:		week=3:winner=0
+1999:02:Northern Illinois/Vanderbilt:		week=3:winner=0
+1999:02:Notre Dame/Purdue:		week=3:winner=0
+1999:02:Pittsburgh/Penn State:		week=3:winner=0
+1999:02:San Diego State/Illinois:		week=3:winner=0
+1999:02:San Jose State/Colorado:		week=3:winner=0
+1999:02:Southern Methodist/Tulane:		week=3:winner=0
+1999:02:Texas - El Paso/Oregon:		week=3:winner=0
+1999:02:Texas Christian/Northwestern:		week=3:winner=0
+1999:02:Texas Tech/Southwestern Louisiana:		week=3:winner=1
+1999:02:Texas/Rutgers:		week=3:winner=1
+1999:02:Virginia/Clemson:		week=3:winner=0
+1999:02:Wake Forest/Army:		week=3:winner=1
+1999:02:Washington State/Stanford:		week=3:winner=0
+1999:03:Air Force/Washington:		week=4:winner=1
+1999:03:Army/Tulane:		week=4:winner=0
+1999:03:Auburn/Louisiana State:		week=4:winner=1
+1999:03:Baylor/Oklahoma:		week=4:winner=0
+1999:03:Boise State/Hawaii:		week=4:winner=0
+1999:03:Boston College/Navy:		week=4:winner=1
+1999:03:East Carolina/South Carolina:		week=4:winner=1
+1999:03:Iowa State/Nevada - Las Vegas:		week=4:winner=1
+1999:03:Kansas/Colorado:		week=4:winner=0
+1999:03:Kentucky/Indiana:		week=4:winner=1
+1999:03:Michigan State/Notre Dame:		week=4:winner=1
+1999:03:Michigan/Syracuse:		week=4:winner=1
+1999:03:Nevada - Reno/Oregon:		week=4:winner=0
+1999:03:Northwestern/Duke:		week=4:winner=1
+1999:03:Penn State/Miami - Florida:		week=4:winner=1
+1999:03:Stanford/Arizona:		week=4:winner=1
+1999:03:Temple/Akron:		week=4:winner=0
+1999:03:Tennessee/Florida:		week=4:winner=0
+1999:03:Toledo/Ball State:		week=4:winner=1
+1999:03:Washington State/Idaho:		week=4:winner=0
+1999:03:West Virginia/Maryland:		week=4:winner=0
+1999:04:Arizona State/California:		week=5:winner=0
+1999:04:Arizona/Washington State:		week=5:winner=1
+1999:04:Arkansas/Alabama:		week=5:winner=0
+1999:04:Ball State/Army:		week=5:winner=0
+1999:04:Boston College/Rutgers:		week=5:winner=1
+1999:04:California - Los Angeles/Stanford:		week=5:winner=0
+1999:04:Cincinnati/Ohio State:		week=5:winner=0
+1999:04:Colorado/Washington:		week=5:winner=0
+1999:04:Hawaii/Southern Methodist:		week=5:winner=1
+1999:04:Kansas State/Iowa State:		week=5:winner=1
+1999:04:Michigan/Wisconsin:		week=5:winner=1
+1999:04:Mississippi/Auburn:		week=5:winner=1
+1999:04:Navy/Rice:		week=5:winner=0
+1999:04:Nebraska/Missouri:		week=5:winner=1
+1999:04:San Diego State/Kansas:		week=5:winner=1
+1999:04:Southern California/Oregon:		week=5:winner=0
+1999:04:Southern Mississippi/Texas A&M:		week=5:winner=0
+1999:04:Texas/Baylor:		week=5:winner=1
+1999:04:Vanderbilt/Duke:		week=5:winner=1
+1999:04:Virginia/Brigham Young:		week=5:winner=1
+1999:04:West Virginia/Syracuse:		week=5:winner=0
+1999:04:Wyoming/Air Force:		week=5:winner=1
+1999:05:Air Force/San Diego State:		week=6:winner=1
+1999:05:Akron/Ball State:		week=6:winner=1
+1999:05:Alabama/Florida:		week=6:winner=1
+1999:05:Auburn/Tennessee:		week=6:winner=0
+1999:05:California - Los Angeles/Arizona State:		week=6:winner=0
+1999:05:Illinois/Indiana:		week=6:winner=0
+1999:05:Kansas State/Texas:		week=6:winner=1
+1999:05:Louisiana State/Georgia:		week=6:winner=0
+1999:05:Minnesota/Northwestern:		week=6:winner=1
+1999:05:North Carolina/Clemson:		week=6:winner=0
+1999:05:North Texas/Baylor:		week=6:winner=0
+1999:05:Oklahoma State/Nebraska:		week=6:winner=0
+1999:05:Oklahoma/Notre Dame:		week=6:winner=0
+1999:05:Oregon/Washington:		week=6:winner=0
+1999:05:Purdue/Michigan:		week=6:winner=0
+1999:05:Rice/Tulsa:		week=6:winner=1
+1999:05:Rutgers/Wake Forest:		week=6:winner=0
+1999:05:Southern Methodist/Kansas:		week=6:winner=0
+1999:05:Tulane/Syracuse:		week=6:winner=0
+1999:05:Virginia Tech/Virginia:		week=6:winner=1
+1999:05:Wisconsin/Ohio State:		week=6:winner=1
+1999:06:Air Force/Navy:		week=7:winner=1
+1999:06:Arizona State/Notre Dame:		week=7:winner=0
+1999:06:Clemson/North Carolina State:		week=7:winner=0
+1999:06:Florida/Louisiana State:		week=7:winner=1
+1999:06:Georgia/Tennessee:		week=7:winner=0
+1999:06:Iowa State/Nebraska:		week=7:winner=0
+1999:06:Kentucky/South Carolina:		week=7:winner=1
+1999:06:Maryland/Wake Forest:		week=7:winner=1
+1999:06:Memphis State/Alabama - Birmingham:		week=7:winner=1
+1999:06:Miami - Florida/Florida State:		week=7:winner=0
+1999:06:Michigan/Michigan State:		week=7:winner=0
+1999:06:Mississippi State/Auburn:		week=7:winner=1
+1999:06:Missouri/Colorado:		week=7:winner=0
+1999:06:Oregon/California - Los Angeles:		week=7:winner=0
+1999:06:Purdue/Ohio State:		week=7:winner=0
+1999:06:Southern California/Arizona:		week=7:winner=0
+1999:06:Southern Mississippi/East Carolina:		week=7:winner=1
+1999:06:Texas Tech/Oklahoma State:		week=7:winner=0
+1999:06:Texas/Oklahoma:		week=7:winner=1
+1999:06:Tulane/Mississippi:		week=7:winner=0
+1999:07:Alabama - Birmingham/Cincinnati:		week=8:winner=1
+1999:07:Alabama/Mississippi:		week=8:winner=1
+1999:07:Arizona State/Washington:		week=8:winner=1
+1999:07:Clemson/Maryland:		week=8:winner=1
+1999:07:Colorado/Texas Tech:		week=8:winner=0
+1999:07:Florida/Auburn:		week=8:winner=1
+1999:07:Iowa State/Missouri:		week=8:winner=1
+1999:07:Iowa/Northwestern:		week=8:winner=0
+1999:07:Michigan State/Purdue:		week=8:winner=0
+1999:07:Ohio State/Penn State:		week=8:winner=0
+1999:07:Pittsburgh/Boston College:		week=8:winner=0
+1999:07:South Carolina/Arkansas:		week=8:winner=0
+1999:07:Southern California/Notre Dame:		week=8:winner=0
+1999:07:Syracuse/Virginia Tech:		week=8:winner=0
+1999:07:Toledo/Marshall:		week=8:winner=0
+1999:07:Tulsa/Texas Christian:		week=8:winner=0
+1999:07:Utah/Air Force:		week=8:winner=1
+1999:07:Virginia/North Carolina State:		week=8:winner=1
+1999:08:Cincinnati/Southern Mississippi:		week=9:winner=0
+1999:08:Colorado State/Wyoming:		week=9:winner=1
+1999:08:Colorado/Iowa State:		week=9:winner=1
+1999:08:Houston/Louisville:		week=9:winner=0
+1999:08:Indiana/Iowa:		week=9:winner=1
+1999:08:Kansas State/Oklahoma State:		week=9:winner=1
+1999:08:Louisiana State/Mississippi State:		week=9:winner=0
+1999:08:Louisiana Tech/Central Florida:		week=9:winner=1
+1999:08:Miami - Florida/Boston College:		week=9:winner=1
+1999:08:Michigan State/Wisconsin:		week=9:winner=0
+1999:08:Nebraska/Texas:		week=9:winner=0
+1999:08:North Carolina/Maryland:		week=9:winner=0
+1999:08:Penn State/Purdue:		week=9:winner=1
+1999:08:Pittsburgh/Rutgers:		week=9:winner=1
+1999:08:Stanford/Southern California:		week=9:winner=1
+1999:08:Tennessee/Alabama:		week=9:winner=1
+1999:08:Texas A&M/Oklahoma:		week=9:winner=0
+1999:08:Texas Christian/Rice:		week=9:winner=0
+1999:08:Texas Tech/Baylor:		week=9:winner=1
+1999:08:Tulane/East Carolina:		week=9:winner=0
+1999:08:Vanderbilt/South Carolina:		week=9:winner=1
+1999:08:Washington/California:		week=9:winner=1
+1999:09:Air Force/Brigham Young:		week=10:winner=0
+1999:09:Arizona State/Oregon:		week=10:winner=0
+1999:09:Arizona/California - Los Angeles:		week=10:winner=1
+1999:09:Auburn/Arkansas:		week=10:winner=0
+1999:09:Boston College/Syracuse:		week=10:winner=1
+1999:09:Buffalo/Kent State:		week=10:winner=0
+1999:09:Clemson/Wake Forest:		week=10:winner=1
+1999:09:East Carolina/Houston:		week=10:winner=1
+1999:09:Georgia/Florida:		week=10:winner=0
+1999:09:Memphis State/Tulane:		week=10:winner=1
+1999:09:Mississippi/Louisiana State:		week=10:winner=1
+1999:09:North Carolina State/Georgia Tech:		week=10:winner=0
+1999:09:Oklahoma State/Texas A&M:		week=10:winner=0
+1999:09:Oklahoma/Colorado:		week=10:winner=0
+1999:09:Rice/Southern Methodist:		week=10:winner=0
+1999:09:Rutgers/Temple:		week=10:winner=0
+1999:09:Southern California/California:		week=10:winner=0
+1999:09:Southern Mississippi/Alabama:		week=10:winner=0
+1999:09:Stanford/Washington:		week=10:winner=0
+1999:09:Texas Tech/Missouri:		week=10:winner=0
+1999:09:Utah/Colorado State:		week=10:winner=0
+1999:09:West Virginia/Miami - Florida:		week=10:winner=0
+1999:10:Arizona State/Southern California:		week=11:winner=1
+1999:10:Arkansas/Mississippi:		week=11:winner=0
+1999:10:Army/Air Force:		week=11:winner=0
+1999:10:Colorado/Kansas State:		week=11:winner=0
+1999:10:Duke/Clemson:		week=11:winner=0
+1999:10:Georgia Tech/Virginia:		week=11:winner=0
+1999:10:Illinois/Iowa:		week=11:winner=1
+1999:10:Iowa State/Texas Tech:		week=11:winner=0
+1999:10:Louisiana State/Alabama:		week=11:winner=0
+1999:10:Louisville/Cincinnati:		week=11:winner=1
+1999:10:Maryland/North Carolina State:		week=11:winner=0
+1999:10:Miami - Florida/Pittsburgh:		week=11:winner=1
+1999:10:Minnesota/Penn State:		week=11:winner=1
+1999:10:Missouri/Oklahoma:		week=11:winner=0
+1999:10:Notre Dame/Tennessee:		week=11:winner=0
+1999:10:Ohio State/Michigan State:		week=11:winner=0
+1999:10:Texas A&M/Nebraska:		week=11:winner=0
+1999:10:Texas/Oklahoma State:		week=11:winner=1
+1999:10:Tulane/Houston:		week=11:winner=0
+1999:10:Wake Forest/North Carolina:		week=11:winner=1
+1999:10:Washington/Arizona:		week=11:winner=1
+1999:10:Wisconsin/Purdue:		week=11:winner=1
+1999:10:Wyoming/Utah:		week=11:winner=1
+1999:11:Auburn/Georgia:		week=12:winner=1
+1999:11:Clemson/Georgia Tech:		week=12:winner=0
+1999:11:Houston/Louisiana State:		week=12:winner=1
+1999:11:Illinois/Ohio State:		week=12:winner=1
+1999:11:Kansas State/Nebraska:		week=12:winner=0
+1999:11:Kansas/Oklahoma State:		week=12:winner=0
+1999:11:Louisiana Tech/Alabama - Birmingham:		week=12:winner=1
+1999:11:Miami - Florida/Virginia Tech:		week=12:winner=0
+1999:11:Michigan/Penn State:		week=12:winner=1
+1999:11:Mississippi State/Alabama:		week=12:winner=0
+1999:11:Oklahoma/Iowa State:		week=12:winner=1
+1999:11:Stanford/Arizona State:		week=12:winner=1
+1999:11:Tennessee/Arkansas:		week=12:winner=0
+1999:11:Texas A&M/Missouri:		week=12:winner=1
+1999:11:Texas Tech/Texas:		week=12:winner=0
+1999:11:Tulane/Navy:		week=12:winner=0
+1999:11:Wake Forest/Duke:		week=12:winner=0
+1999:11:Washington/California - Los Angeles:		week=12:winner=0
+1999:11:West Virginia/Boston College:		week=12:winner=0
+1999:12:Alabama/Auburn:		week=13:winner=1
+1999:12:Boston College/Notre Dame:		week=13:winner=1
+1999:12:Boston College/Virginia Tech:		week=14:winner=0
+1999:12:California - Los Angeles/Southern California:		week=13:winner=0
+1999:12:California/Stanford:		week=13:winner=0
+1999:12:Florida State/Florida:		week=13:winner=1
+1999:12:Florida/Alabama:		week=15:winner=0
+1999:12:Georgia/Mississippi:		week=13:winner=1
+1999:12:Iowa State/Kansas:		week=13:winner=0
+1999:12:Marshall/Western Michigan:		week=15:winner=1
+1999:12:Mississippi State/Arkansas:		week=13:winner=0
+1999:12:Navy/Army:		week=15:winner=1
+1999:12:Nebraska/Colorado:		week=14:winner=1
+1999:12:Nebraska/Texas:		week=15:winner=1
+1999:12:North Carolina State/East Carolina:		week=13:winner=0
+1999:12:Ohio State/Michigan:		week=13:winner=0
+1999:12:Oklahoma/Texas Tech:		week=13:winner=0
+1999:12:Penn State/Michigan State:		week=13:winner=0
+1999:12:Syracuse/Miami - Florida:		week=14:winner=0
+1999:12:Texas/Texas A&M:		week=14:winner=0
+1999:13:Alabama/Michigan:		week=17:winner=0
+1999:13:Arizona State/Wake Forest:		week=17:winner=0
+1999:13:Clemson/Mississippi State:		week=17:winner=0
+1999:13:Colorado/Boston College:		week=17:winner=1
+1999:13:East Carolina/Texas Christian:		week=17:winner=0
+1999:13:Illinois/Virginia:		week=17:winner=1
+1999:13:Kansas State/Washington:		week=17:winner=1
+1999:13:Kentucky/Syracuse:		week=17:winner=0
+1999:13:Louisville/Boise State:		week=17:winner=0
+1999:13:Marshall/Brigham Young:		week=17:winner=1
+1999:13:Miami - Florida/Georgia Tech:		week=17:winner=1
+1999:13:Michigan State/Florida:		week=17:winner=1
+1999:13:Minnesota/Oregon:		week=17:winner=0
+1999:13:Nebraska/Tennessee:		week=17:winner=1
+1999:13:Oklahoma/Mississippi:		week=17:winner=0
+1999:13:Oregon State/Hawaii:		week=17:winner=0
+1999:13:Penn State/Texas A&M:		week=17:winner=1
+1999:13:Purdue/Georgia:		week=17:winner=0
+1999:13:Southern Mississippi/Colorado State:		week=17:winner=1
+1999:13:Texas/Arkansas:		week=17:winner=0
+1999:13:Utah/Fresno State:		week=17:winner=1
+1999:13:Virginia Tech/Florida State:		week=17:winner=0
+1999:13:Wisconsin/Stanford:		week=17:winner=1

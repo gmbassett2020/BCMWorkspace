@@ -1,0 +1,605 @@
+::: cfpool 1999 entry 01
+::: year 1999 entry 01 team_str Kentucky/Louisville prob_sort_str 79595 Kentucky/Louisville winner 0
+::: year 1999 entry 01 team_str Virginia/North Carolina prob_sort_str 70610 Virginia/North Carolina winner 1
+::: year 1999 entry 01 team_str Purdue/Central Florida prob_sort_str 83987 Purdue/Central Florida winner 1
+::: year 1999 entry 01 team_str Nebraska/Iowa prob_sort_str 96950 Nebraska/Iowa winner 1
+::: year 1999 entry 01 team_str Oregon State/Nevada - Reno prob_sort_str 66042 Oregon State/Nevada - Reno winner 1
+::: year 1999 entry 01 team_str Rice/Houston prob_sort_str 53892 Rice/Houston winner 0
+::: year 1999 entry 01 team_str Michigan/Notre Dame prob_sort_str 70481 Michigan/Notre Dame winner 1
+::: year 1999 entry 01 team_str Colorado/Colorado State prob_sort_str 74362 Colorado/Colorado State winner 0
+::: year 1999 entry 01 team_str Texas/Stanford prob_sort_str 65577 Texas/Stanford winner 1
+::: year 1999 entry 01 team_str Texas Christian/Arizona prob_sort_str 83963 Texas Christian/Arizona winner 0
+::: year 1999 entry 01 team_str Alabama/Vanderbilt prob_sort_str 90614 Alabama/Vanderbilt winner 1
+::: year 1999 entry 01 team_str Georgia Tech/Navy prob_sort_str 95948 Georgia Tech/Navy winner 1
+::: year 1999 entry 01 team_str Texas - El Paso/New Mexico prob_sort_str 78939 Texas - El Paso/New Mexico winner 1
+::: year 1999 entry 01 team_str Arkansas/Southern Methodist prob_sort_str 89131 Arkansas/Southern Methodist winner 1
+::: year 1999 entry 01 team_str Pittsburgh/Bowling Green prob_sort_str 64920 Pittsburgh/Bowling Green winner 1
+::: year 1999 entry 01 team_str North Carolina State/South Carolina prob_sort_str 82720 North Carolina State/South Carolina winner 1
+::: year 1999 entry 01 team_str Boston College/Baylor prob_sort_str 58067 Boston College/Baylor winner 1
+::: year 1999 entry 01 team_str West Virginia/East Carolina prob_sort_str 96690 West Virginia/East Carolina winner 0
+::: year 1999 entry 01 team_str Clemson/Marshall prob_sort_str 54917 Clemson/Marshall winner 0
+::: year 1999 entry 01 team_str Texas Tech/Arizona State prob_sort_str 56121 Texas Tech/Arizona State winner 0
+::: year 1999 entry 01 team_str Utah/Washington State prob_sort_str 65713 Utah/Washington State winner 1
+::: year 1999 entry 01 team_str Tulane/Southern Mississippi prob_sort_str 54149 Tulane/Southern Mississippi winner 0
+::: score_val 14.0050629504794 tot_raw 71.4027493868399
+:::   str 53892 Rice/Houston correct 0 val 14.0050629504794
+:::   str 54149 Tulane/Southern Mississippi correct 0 val 15.4055692455274
+:::   str 54917 Clemson/Marshall correct 0 val 16.9461261700801
+:::   str 56121 Texas Tech/Arizona State correct 0 val 18.6407387870882
+:::   str 58067 Boston College/Baylor correct 1 val 20.504812665797
+:::   str 64920 Pittsburgh/Bowling Green correct 1 val 22.5552939323767
+:::   str 65577 Texas/Stanford correct 1 val 24.8108233256143
+:::   str 65713 Utah/Washington State correct 1 val 27.2919056581758
+:::   str 66042 Oregon State/Nevada - Reno correct 1 val 30.0210962239934
+:::   str 70481 Michigan/Notre Dame correct 1 val 33.0232058463927
+:::   str 70610 Virginia/North Carolina correct 1 val 36.325526431032
+:::   str 74362 Colorado/Colorado State correct 0 val 39.9580790741351
+:::   str 78939 Texas - El Paso/New Mexico correct 1 val 43.9538869815487
+:::   str 79595 Kentucky/Louisville correct 0 val 48.3492756797035
+:::   str 82720 North Carolina State/South Carolina correct 1 val 53.1842032476739
+:::   str 83963 Texas Christian/Arizona correct 0 val 58.5026235724413
+:::   str 83987 Purdue/Central Florida correct 1 val 64.3528859296854
+:::   str 89131 Arkansas/Southern Methodist correct 1 val 70.788174522654
+:::   str 90614 Alabama/Vanderbilt correct 1 val 77.8669919749194
+:::   str 95948 Georgia Tech/Navy correct 1 val 85.6536911724113
+:::   str 96690 West Virginia/East Carolina correct 0 val 94.2190602896524
+:::   str 96950 Nebraska/Iowa correct 1 val 103.640966318618
+cfpool year 1999 entry 01 score 693.973464230892
+::: cfpool 1999 entry 02
+::: year 1999 entry 02 team_str Colorado/San Jose State prob_sort_str 55481 Colorado/San Jose State winner 1
+::: year 1999 entry 02 team_str Nebraska/California prob_sort_str 87628 Nebraska/California winner 1
+::: year 1999 entry 02 team_str Army/Wake Forest prob_sort_str 63715 Army/Wake Forest winner 0
+::: year 1999 entry 02 team_str Illinois/San Diego State prob_sort_str 80611 Illinois/San Diego State winner 1
+::: year 1999 entry 02 team_str Texas/Rutgers prob_sort_str 95908 Texas/Rutgers winner 1
+::: year 1999 entry 02 team_str Northwestern/Texas Christian prob_sort_str 51179 Northwestern/Texas Christian winner 1
+::: year 1999 entry 02 team_str New Mexico/New Mexico State prob_sort_str 72136 New Mexico/New Mexico State winner 0
+::: year 1999 entry 02 team_str Florida State/Georgia Tech prob_sort_str 65693 Florida State/Georgia Tech winner 1
+::: year 1999 entry 02 team_str California - Los Angeles/Ohio State prob_sort_str 71991 California - Los Angeles/Ohio State winner 0
+::: year 1999 entry 02 team_str Indiana/North Carolina prob_sort_str 70637 Indiana/North Carolina winner 0
+::: year 1999 entry 02 team_str Miami - Ohio/West Virginia prob_sort_str 63883 Miami - Ohio/West Virginia winner 0
+::: year 1999 entry 02 team_str East Carolina/Duke prob_sort_str 72772 East Carolina/Duke winner 1
+::: year 1999 entry 02 team_str Alabama/Houston prob_sort_str 58193 Alabama/Houston winner 1
+::: year 1999 entry 02 team_str Penn State/Pittsburgh prob_sort_str 93804 Penn State/Pittsburgh winner 1
+::: year 1999 entry 02 team_str Baylor/Nevada - Las Vegas prob_sort_str 54007 Baylor/Nevada - Las Vegas winner 0
+::: year 1999 entry 02 team_str Purdue/Notre Dame prob_sort_str 70730 Purdue/Notre Dame winner 1
+::: year 1999 entry 02 team_str Vanderbilt/Northern Illinois prob_sort_str 79239 Vanderbilt/Northern Illinois winner 1
+::: year 1999 entry 02 team_str Arizona/Middle Tennessee State prob_sort_str 90753 Arizona/Middle Tennessee State winner 1
+::: year 1999 entry 02 team_str Stanford/Washington State prob_sort_str 53018 Stanford/Washington State winner 1
+::: year 1999 entry 02 team_str Oregon/Texas - El Paso prob_sort_str 77057 Oregon/Texas - El Paso winner 1
+::: year 1999 entry 02 team_str Navy/Kent State prob_sort_str 60507 Navy/Kent State winner 1
+::: year 1999 entry 02 team_str Virginia/Clemson prob_sort_str 66650 Virginia/Clemson winner 0
+::: year 1999 entry 02 team_str Tulane/Southern Methodist prob_sort_str 70235 Tulane/Southern Methodist winner 1
+::: year 1999 entry 02 team_str Iowa State/Iowa prob_sort_str 82858 Iowa State/Iowa winner 1
+::: year 1999 entry 02 team_str Louisiana State/North Texas prob_sort_str 91557 Louisiana State/North Texas winner 1
+::: score_val 10.1680721900208 tot_raw 98.3470594338839
+:::   str 51179 Northwestern/Texas Christian correct 1 val 10.1680721900208
+:::   str 53018 Stanford/Washington State correct 1 val 11.1848794090229
+:::   str 54007 Baylor/Nevada - Las Vegas correct 0 val 12.3033673499252
+:::   str 55481 Colorado/San Jose State correct 1 val 13.5337040849177
+:::   str 58193 Alabama/Houston correct 1 val 14.8870744934095
+:::   str 60507 Navy/Kent State correct 1 val 16.3757819427504
+:::   str 63715 Army/Wake Forest correct 0 val 18.0133601370255
+:::   str 63883 Miami - Ohio/West Virginia correct 0 val 19.814696150728
+:::   str 65693 Florida State/Georgia Tech correct 1 val 21.7961657658009
+:::   str 66650 Virginia/Clemson correct 0 val 23.9757823423809
+:::   str 70235 Tulane/Southern Methodist correct 1 val 26.373360576619
+:::   str 70637 Indiana/North Carolina correct 0 val 29.0106966342809
+:::   str 70730 Purdue/Notre Dame correct 1 val 31.911766297709
+:::   str 71991 California - Los Angeles/Ohio State correct 0 val 35.1029429274799
+:::   str 72136 New Mexico/New Mexico State correct 0 val 38.6132372202279
+:::   str 72772 East Carolina/Duke correct 1 val 42.4745609422507
+:::   str 77057 Oregon/Texas - El Paso correct 1 val 46.7220170364758
+:::   str 79239 Vanderbilt/Northern Illinois correct 1 val 51.3942187401234
+:::   str 80611 Illinois/San Diego State correct 1 val 56.5336406141357
+:::   str 82858 Iowa State/Iowa correct 1 val 62.1870046755493
+:::   str 87628 Nebraska/California correct 1 val 68.4057051431043
+:::   str 90753 Arizona/Middle Tennessee State correct 1 val 75.2462756574147
+:::   str 91557 Louisiana State/North Texas correct 1 val 82.7709032231562
+:::   str 93804 Penn State/Pittsburgh correct 1 val 91.0479935454718
+:::   str 95908 Texas/Rutgers correct 1 val 100.152792900019
+cfpool year 1999 entry 02 score 823.165917237951
+::: cfpool 1999 entry 03
+::: year 1999 entry 03 team_str Indiana/Kentucky prob_sort_str 61309 Indiana/Kentucky winner 0
+::: year 1999 entry 03 team_str Colorado/Kansas prob_sort_str 65366 Colorado/Kansas winner 1
+::: year 1999 entry 03 team_str Florida/Tennessee prob_sort_str 55399 Florida/Tennessee winner 1
+::: year 1999 entry 03 team_str East Carolina/South Carolina prob_sort_str 66897 East Carolina/South Carolina winner 1
+::: year 1999 entry 03 team_str Boston College/Navy prob_sort_str 77280 Boston College/Navy winner 1
+::: year 1999 entry 03 team_str Louisiana State/Auburn prob_sort_str 93049 Louisiana State/Auburn winner 0
+::: year 1999 entry 03 team_str Idaho/Washington State prob_sort_str 77242 Idaho/Washington State winner 1
+::: year 1999 entry 03 team_str Duke/Northwestern prob_sort_str 83908 Duke/Northwestern winner 0
+::: year 1999 entry 03 team_str Oregon/Nevada - Reno prob_sort_str 88449 Oregon/Nevada - Reno winner 1
+::: year 1999 entry 03 team_str Akron/Temple prob_sort_str 71917 Akron/Temple winner 1
+::: year 1999 entry 03 team_str Washington/Air Force prob_sort_str 55726 Washington/Air Force winner 0
+::: year 1999 entry 03 team_str Syracuse/Michigan prob_sort_str 65263 Syracuse/Michigan winner 0
+::: year 1999 entry 03 team_str Tulane/Army prob_sort_str 78854 Tulane/Army winner 1
+::: year 1999 entry 03 team_str Penn State/Miami - Florida prob_sort_str 69496 Penn State/Miami - Florida winner 1
+::: year 1999 entry 03 team_str Boise State/Hawaii prob_sort_str 58130 Boise State/Hawaii winner 0
+::: year 1999 entry 03 team_str Arizona/Stanford prob_sort_str 76974 Arizona/Stanford winner 0
+::: year 1999 entry 03 team_str Oklahoma/Baylor prob_sort_str 68512 Oklahoma/Baylor winner 1
+::: year 1999 entry 03 team_str Nevada - Las Vegas/Iowa State prob_sort_str 83730 Nevada - Las Vegas/Iowa State winner 0
+::: year 1999 entry 03 team_str West Virginia/Maryland prob_sort_str 92552 West Virginia/Maryland winner 0
+::: year 1999 entry 03 team_str Michigan State/Notre Dame prob_sort_str 50710 Michigan State/Notre Dame winner 1
+::: year 1999 entry 03 team_str Toledo/Ball State prob_sort_str 73635 Toledo/Ball State winner 1
+::: score_val 15.6243898083563 tot_raw 64.0024994425817
+:::   str 50710 Michigan State/Notre Dame correct 1 val 15.6243898083563
+:::   str 55399 Florida/Tennessee correct 1 val 17.1868287891919
+:::   str 55726 Washington/Air Force correct 0 val 18.9055116681111
+:::   str 58130 Boise State/Hawaii correct 0 val 20.7960628349222
+:::   str 61309 Indiana/Kentucky correct 0 val 22.8756691184144
+:::   str 65263 Syracuse/Michigan correct 0 val 25.1632360302558
+:::   str 65366 Colorado/Kansas correct 1 val 27.6795596332814
+:::   str 66897 East Carolina/South Carolina correct 1 val 30.4475155966096
+:::   str 68512 Oklahoma/Baylor correct 1 val 33.4922671562705
+:::   str 69496 Penn State/Miami - Florida correct 1 val 36.8414938718976
+:::   str 71917 Akron/Temple correct 1 val 40.5256432590873
+:::   str 73635 Toledo/Ball State correct 1 val 44.5782075849961
+:::   str 76974 Arizona/Stanford correct 0 val 49.0360283434957
+:::   str 77242 Idaho/Washington State correct 1 val 53.9396311778453
+:::   str 77280 Boston College/Navy correct 1 val 59.3335942956298
+:::   str 78854 Tulane/Army correct 1 val 65.2669537251928
+:::   str 83730 Nevada - Las Vegas/Iowa State correct 0 val 71.7936490977121
+:::   str 83908 Duke/Northwestern correct 0 val 78.9730140074833
+:::   str 88449 Oregon/Nevada - Reno correct 1 val 86.8703154082316
+:::   str 92552 West Virginia/Maryland correct 0 val 95.5573469490548
+:::   str 93049 Louisiana State/Auburn correct 0 val 105.11308164396
+cfpool year 1999 entry 03 score 511.78640030659
+::: cfpool 1999 entry 04
+::: year 1999 entry 04 team_str Kansas State/Iowa State prob_sort_str 92066 Kansas State/Iowa State winner 1
+::: year 1999 entry 04 team_str Duke/Vanderbilt prob_sort_str 54348 Duke/Vanderbilt winner 0
+::: year 1999 entry 04 team_str Boston College/Rutgers prob_sort_str 52322 Boston College/Rutgers winner 1
+::: year 1999 entry 04 team_str Auburn/Mississippi prob_sort_str 74562 Auburn/Mississippi winner 0
+::: year 1999 entry 04 team_str Michigan/Wisconsin prob_sort_str 78090 Michigan/Wisconsin winner 1
+::: year 1999 entry 04 team_str Ohio State/Cincinnati prob_sort_str 96338 Ohio State/Cincinnati winner 1
+::: year 1999 entry 04 team_str San Diego State/Kansas prob_sort_str 86604 San Diego State/Kansas winner 1
+::: year 1999 entry 04 team_str Washington/Colorado prob_sort_str 70760 Washington/Colorado winner 1
+::: year 1999 entry 04 team_str Rice/Navy prob_sort_str 78629 Rice/Navy winner 1
+::: year 1999 entry 04 team_str Southern Methodist/Hawaii prob_sort_str 73537 Southern Methodist/Hawaii winner 0
+::: year 1999 entry 04 team_str Syracuse/West Virginia prob_sort_str 86644 Syracuse/West Virginia winner 1
+::: year 1999 entry 04 team_str Arizona/Washington State prob_sort_str 78465 Arizona/Washington State winner 1
+::: year 1999 entry 04 team_str Texas A&M/Southern Mississippi prob_sort_str 75321 Texas A&M/Southern Mississippi winner 1
+::: year 1999 entry 04 team_str California - Los Angeles/Stanford prob_sort_str 69807 California - Los Angeles/Stanford winner 0
+::: year 1999 entry 04 team_str Army/Ball State prob_sort_str 85192 Army/Ball State winner 1
+::: year 1999 entry 04 team_str Alabama/Arkansas prob_sort_str 50975 Alabama/Arkansas winner 1
+::: year 1999 entry 04 team_str Nebraska/Missouri prob_sort_str 90338 Nebraska/Missouri winner 1
+::: year 1999 entry 04 team_str Oregon/Southern California prob_sort_str 75565 Oregon/Southern California winner 1
+::: year 1999 entry 04 team_str Brigham Young/Virginia prob_sort_str 66777 Brigham Young/Virginia winner 0
+::: year 1999 entry 04 team_str Air Force/Wyoming prob_sort_str 97727 Air Force/Wyoming winner 0
+::: year 1999 entry 04 team_str Texas/Baylor prob_sort_str 87572 Texas/Baylor winner 1
+::: year 1999 entry 04 team_str Arizona State/California prob_sort_str 56289 Arizona State/California winner 0
+::: score_val 14.0050629504794 tot_raw 71.4027493868399
+:::   str 50975 Alabama/Arkansas correct 1 val 14.0050629504794
+:::   str 52322 Boston College/Rutgers correct 1 val 15.4055692455274
+:::   str 54348 Duke/Vanderbilt correct 0 val 16.9461261700801
+:::   str 56289 Arizona State/California correct 0 val 18.6407387870882
+:::   str 66777 Brigham Young/Virginia correct 0 val 20.504812665797
+:::   str 69807 California - Los Angeles/Stanford correct 0 val 22.5552939323767
+:::   str 70760 Washington/Colorado correct 1 val 24.8108233256143
+:::   str 73537 Southern Methodist/Hawaii correct 0 val 27.2919056581758
+:::   str 74562 Auburn/Mississippi correct 0 val 30.0210962239934
+:::   str 75321 Texas A&M/Southern Mississippi correct 1 val 33.0232058463927
+:::   str 75565 Oregon/Southern California correct 1 val 36.325526431032
+:::   str 78090 Michigan/Wisconsin correct 1 val 39.9580790741351
+:::   str 78465 Arizona/Washington State correct 1 val 43.9538869815487
+:::   str 78629 Rice/Navy correct 1 val 48.3492756797035
+:::   str 85192 Army/Ball State correct 1 val 53.1842032476739
+:::   str 86604 San Diego State/Kansas correct 1 val 58.5026235724413
+:::   str 86644 Syracuse/West Virginia correct 1 val 64.3528859296854
+:::   str 87572 Texas/Baylor correct 1 val 70.788174522654
+:::   str 90338 Nebraska/Missouri correct 1 val 77.8669919749194
+:::   str 92066 Kansas State/Iowa State correct 1 val 85.6536911724113
+:::   str 96338 Ohio State/Cincinnati correct 1 val 94.2190602896524
+:::   str 97727 Air Force/Wyoming correct 0 val 103.640966318618
+cfpool year 1999 entry 04 score 760.399060243871
+::: cfpool 1999 entry 05
+::: year 1999 entry 05 team_str Clemson/North Carolina prob_sort_str 81085 Clemson/North Carolina winner 1
+::: year 1999 entry 05 team_str Georgia/Louisiana State prob_sort_str 79974 Georgia/Louisiana State winner 1
+::: year 1999 entry 05 team_str Nebraska/Oklahoma State prob_sort_str 98264 Nebraska/Oklahoma State winner 1
+::: year 1999 entry 05 team_str Oregon/Washington prob_sort_str 95912 Oregon/Washington winner 0
+::: year 1999 entry 05 team_str Notre Dame/Oklahoma prob_sort_str 53041 Notre Dame/Oklahoma winner 1
+::: year 1999 entry 05 team_str Akron/Ball State prob_sort_str 59890 Akron/Ball State winner 1
+::: year 1999 entry 05 team_str Michigan/Purdue prob_sort_str 66564 Michigan/Purdue winner 1
+::: year 1999 entry 05 team_str California - Los Angeles/Arizona State prob_sort_str 71198 California - Los Angeles/Arizona State winner 0
+::: year 1999 entry 05 team_str Syracuse/Tulane prob_sort_str 92932 Syracuse/Tulane winner 1
+::: year 1999 entry 05 team_str Rice/Tulsa prob_sort_str 82492 Rice/Tulsa winner 1
+::: year 1999 entry 05 team_str Tennessee/Auburn prob_sort_str 83445 Tennessee/Auburn winner 1
+::: year 1999 entry 05 team_str Wake Forest/Rutgers prob_sort_str 93624 Wake Forest/Rutgers winner 1
+::: year 1999 entry 05 team_str Baylor/North Texas prob_sort_str 78155 Baylor/North Texas winner 1
+::: year 1999 entry 05 team_str Ohio State/Wisconsin prob_sort_str 71253 Ohio State/Wisconsin winner 0
+::: year 1999 entry 05 team_str Virginia Tech/Virginia prob_sort_str 71838 Virginia Tech/Virginia winner 1
+::: year 1999 entry 05 team_str Florida/Alabama prob_sort_str 71715 Florida/Alabama winner 0
+::: year 1999 entry 05 team_str Illinois/Indiana prob_sort_str 96122 Illinois/Indiana winner 0
+::: year 1999 entry 05 team_str San Diego State/Air Force prob_sort_str 64807 San Diego State/Air Force winner 0
+::: year 1999 entry 05 team_str Kansas State/Texas prob_sort_str 78816 Kansas State/Texas winner 1
+::: year 1999 entry 05 team_str Minnesota/Northwestern prob_sort_str 91086 Minnesota/Northwestern winner 1
+::: year 1999 entry 05 team_str Kansas/Southern Methodist prob_sort_str 86031 Kansas/Southern Methodist winner 1
+::: score_val 15.6243898083563 tot_raw 64.0024994425817
+:::   str 53041 Notre Dame/Oklahoma correct 1 val 15.6243898083563
+:::   str 59890 Akron/Ball State correct 1 val 17.1868287891919
+:::   str 64807 San Diego State/Air Force correct 0 val 18.9055116681111
+:::   str 66564 Michigan/Purdue correct 1 val 20.7960628349222
+:::   str 71198 California - Los Angeles/Arizona State correct 0 val 22.8756691184144
+:::   str 71253 Ohio State/Wisconsin correct 0 val 25.1632360302558
+:::   str 71715 Florida/Alabama correct 0 val 27.6795596332814
+:::   str 71838 Virginia Tech/Virginia correct 1 val 30.4475155966096
+:::   str 78155 Baylor/North Texas correct 1 val 33.4922671562705
+:::   str 78816 Kansas State/Texas correct 1 val 36.8414938718976
+:::   str 79974 Georgia/Louisiana State correct 1 val 40.5256432590873
+:::   str 81085 Clemson/North Carolina correct 1 val 44.5782075849961
+:::   str 82492 Rice/Tulsa correct 1 val 49.0360283434957
+:::   str 83445 Tennessee/Auburn correct 1 val 53.9396311778453
+:::   str 86031 Kansas/Southern Methodist correct 1 val 59.3335942956298
+:::   str 91086 Minnesota/Northwestern correct 1 val 65.2669537251928
+:::   str 92932 Syracuse/Tulane correct 1 val 71.7936490977121
+:::   str 93624 Wake Forest/Rutgers correct 1 val 78.9730140074833
+:::   str 95912 Oregon/Washington correct 0 val 86.8703154082316
+:::   str 96122 Illinois/Indiana correct 0 val 95.5573469490548
+:::   str 98264 Nebraska/Oklahoma State correct 1 val 105.11308164396
+cfpool year 1999 entry 05 score 722.948361192651
+::: cfpool 1999 entry 06
+::: year 1999 entry 06 team_str Oklahoma/Texas prob_sort_str 60097 Oklahoma/Texas winner 0
+::: year 1999 entry 06 team_str Maryland/Wake Forest prob_sort_str 67079 Maryland/Wake Forest winner 1
+::: year 1999 entry 06 team_str Kentucky/South Carolina prob_sort_str 69114 Kentucky/South Carolina winner 1
+::: year 1999 entry 06 team_str Florida State/Miami - Florida prob_sort_str 79185 Florida State/Miami - Florida winner 1
+::: year 1999 entry 06 team_str Southern Mississippi/East Carolina prob_sort_str 71092 Southern Mississippi/East Carolina winner 1
+::: year 1999 entry 06 team_str Air Force/Navy prob_sort_str 84807 Air Force/Navy winner 1
+::: year 1999 entry 06 team_str Nebraska/Iowa State prob_sort_str 94943 Nebraska/Iowa State winner 1
+::: year 1999 entry 06 team_str Notre Dame/Arizona State prob_sort_str 99058 Notre Dame/Arizona State winner 1
+::: year 1999 entry 06 team_str Mississippi/Tulane prob_sort_str 79948 Mississippi/Tulane winner 1
+::: year 1999 entry 06 team_str Missouri/Colorado prob_sort_str 61632 Missouri/Colorado winner 0
+::: year 1999 entry 06 team_str Tennessee/Georgia prob_sort_str 96206 Tennessee/Georgia winner 1
+::: year 1999 entry 06 team_str Purdue/Ohio State prob_sort_str 55541 Purdue/Ohio State winner 0
+::: year 1999 entry 06 team_str Oklahoma State/Texas Tech prob_sort_str 88713 Oklahoma State/Texas Tech winner 1
+::: year 1999 entry 06 team_str Florida/Louisiana State prob_sort_str 90822 Florida/Louisiana State winner 1
+::: year 1999 entry 06 team_str Mississippi State/Auburn prob_sort_str 59953 Mississippi State/Auburn winner 1
+::: year 1999 entry 06 team_str Southern California/Arizona prob_sort_str 99041 Southern California/Arizona winner 0
+::: year 1999 entry 06 team_str Clemson/North Carolina State prob_sort_str 73841 Clemson/North Carolina State winner 0
+::: year 1999 entry 06 team_str Oregon/California - Los Angeles prob_sort_str 89120 Oregon/California - Los Angeles winner 0
+::: year 1999 entry 06 team_str Michigan State/Michigan prob_sort_str 71868 Michigan State/Michigan winner 1
+::: score_val 19.5468682346558 tot_raw 51.1590904484146
+:::   str 55541 Purdue/Ohio State correct 0 val 19.5468682346558
+:::   str 59953 Mississippi State/Auburn correct 1 val 21.5015550581214
+:::   str 60097 Oklahoma/Texas correct 0 val 23.6517105639336
+:::   str 61632 Missouri/Colorado correct 0 val 26.0168816203269
+:::   str 67079 Maryland/Wake Forest correct 1 val 28.6185697823596
+:::   str 69114 Kentucky/South Carolina correct 1 val 31.4804267605956
+:::   str 71092 Southern Mississippi/East Carolina correct 1 val 34.6284694366551
+:::   str 71868 Michigan State/Michigan correct 1 val 38.0913163803207
+:::   str 73841 Clemson/North Carolina State correct 0 val 41.9004480183527
+:::   str 79185 Florida State/Miami - Florida correct 1 val 46.090492820188
+:::   str 79948 Mississippi/Tulane correct 1 val 50.6995421022068
+:::   str 84807 Air Force/Navy correct 1 val 55.7694963124275
+:::   str 88713 Oklahoma State/Texas Tech correct 1 val 61.3464459436702
+:::   str 89120 Oregon/California - Los Angeles correct 0 val 67.4810905380373
+:::   str 90822 Florida/Louisiana State correct 1 val 74.229199591841
+:::   str 94943 Nebraska/Iowa State correct 1 val 81.6521195510251
+:::   str 96206 Tennessee/Georgia correct 1 val 89.8173315061276
+:::   str 99041 Southern California/Arizona correct 0 val 98.7990646567404
+:::   str 99058 Notre Dame/Arizona State correct 1 val 108.678971122414
+cfpool year 1999 entry 06 score 722.603936367953
+::: cfpool 1999 entry 07
+::: year 1999 entry 07 team_str Notre Dame/Southern California prob_sort_str 62909 Notre Dame/Southern California winner 1
+::: year 1999 entry 07 team_str Northwestern/Iowa prob_sort_str 51738 Northwestern/Iowa winner 1
+::: year 1999 entry 07 team_str Pittsburgh/Boston College prob_sort_str 83484 Pittsburgh/Boston College winner 0
+::: year 1999 entry 07 team_str Michigan State/Purdue prob_sort_str 78147 Michigan State/Purdue winner 0
+::: year 1999 entry 07 team_str Virginia/North Carolina State prob_sort_str 53687 Virginia/North Carolina State winner 1
+::: year 1999 entry 07 team_str Texas Christian/Tulsa prob_sort_str 92472 Texas Christian/Tulsa winner 1
+::: year 1999 entry 07 team_str Air Force/Utah prob_sort_str 53522 Air Force/Utah winner 0
+::: year 1999 entry 07 team_str Florida/Auburn prob_sort_str 81510 Florida/Auburn winner 1
+::: year 1999 entry 07 team_str Missouri/Iowa State prob_sort_str 68327 Missouri/Iowa State winner 0
+::: year 1999 entry 07 team_str Virginia Tech/Syracuse prob_sort_str 79809 Virginia Tech/Syracuse winner 1
+::: year 1999 entry 07 team_str Marshall/Toledo prob_sort_str 93356 Marshall/Toledo winner 1
+::: year 1999 entry 07 team_str Arkansas/South Carolina prob_sort_str 95971 Arkansas/South Carolina winner 1
+::: year 1999 entry 07 team_str Colorado/Texas Tech prob_sort_str 84126 Colorado/Texas Tech winner 0
+::: year 1999 entry 07 team_str Penn State/Ohio State prob_sort_str 79978 Penn State/Ohio State winner 1
+::: year 1999 entry 07 team_str Clemson/Maryland prob_sort_str 52893 Clemson/Maryland winner 1
+::: year 1999 entry 07 team_str Alabama - Birmingham/Cincinnati prob_sort_str 73242 Alabama - Birmingham/Cincinnati winner 1
+::: year 1999 entry 07 team_str Alabama/Mississippi prob_sort_str 60555 Alabama/Mississippi winner 1
+::: year 1999 entry 07 team_str Washington/Arizona State prob_sort_str 96623 Washington/Arizona State winner 0
+::: score_val 21.9302222222566 tot_raw 45.5991731349224
+:::   str 51738 Northwestern/Iowa correct 1 val 21.9302222222566
+:::   str 52893 Clemson/Maryland correct 1 val 24.1232444444822
+:::   str 53522 Air Force/Utah correct 0 val 26.5355688889305
+:::   str 53687 Virginia/North Carolina State correct 1 val 29.1891257778235
+:::   str 60555 Alabama/Mississippi correct 1 val 32.1080383556059
+:::   str 62909 Notre Dame/Southern California correct 1 val 35.3188421911665
+:::   str 68327 Missouri/Iowa State correct 0 val 38.8507264102831
+:::   str 73242 Alabama - Birmingham/Cincinnati correct 1 val 42.7357990513114
+:::   str 78147 Michigan State/Purdue correct 0 val 47.0093789564426
+:::   str 79809 Virginia Tech/Syracuse correct 1 val 51.7103168520869
+:::   str 79978 Penn State/Ohio State correct 1 val 56.8813485372955
+:::   str 81510 Florida/Auburn correct 1 val 62.5694833910251
+:::   str 83484 Pittsburgh/Boston College correct 0 val 68.8264317301276
+:::   str 84126 Colorado/Texas Tech correct 0 val 75.7090749031404
+:::   str 92472 Texas Christian/Tulsa correct 1 val 83.2799823934544
+:::   str 93356 Marshall/Toledo correct 1 val 91.6079806327999
+:::   str 95971 Arkansas/South Carolina correct 1 val 100.76877869608
+:::   str 96623 Washington/Arizona State correct 0 val 110.845656565688
+cfpool year 1999 entry 07 score 632.223162545388
+::: cfpool 1999 entry 08
+::: year 1999 entry 08 team_str Colorado State/Wyoming prob_sort_str 50861 Colorado State/Wyoming winner 1
+::: year 1999 entry 08 team_str Louisville/Houston prob_sort_str 56411 Louisville/Houston winner 1
+::: year 1999 entry 08 team_str Iowa State/Colorado prob_sort_str 79626 Iowa State/Colorado winner 0
+::: year 1999 entry 08 team_str Rice/Texas Christian prob_sort_str 64214 Rice/Texas Christian winner 1
+::: year 1999 entry 08 team_str Southern California/Stanford prob_sort_str 88432 Southern California/Stanford winner 0
+::: year 1999 entry 08 team_str Nebraska/Texas prob_sort_str 74805 Nebraska/Texas winner 0
+::: year 1999 entry 08 team_str Kansas State/Oklahoma State prob_sort_str 94010 Kansas State/Oklahoma State winner 1
+::: year 1999 entry 08 team_str Tennessee/Alabama prob_sort_str 56405 Tennessee/Alabama winner 1
+::: year 1999 entry 08 team_str Maryland/North Carolina prob_sort_str 59683 Maryland/North Carolina winner 1
+::: year 1999 entry 08 team_str Vanderbilt/South Carolina prob_sort_str 72775 Vanderbilt/South Carolina winner 1
+::: year 1999 entry 08 team_str East Carolina/Tulane prob_sort_str 78930 East Carolina/Tulane winner 1
+::: year 1999 entry 08 team_str Oklahoma/Texas A&M prob_sort_str 64478 Oklahoma/Texas A&M winner 1
+::: year 1999 entry 08 team_str Washington/California prob_sort_str 63166 Washington/California winner 1
+::: year 1999 entry 08 team_str Wisconsin/Michigan State prob_sort_str 62684 Wisconsin/Michigan State winner 1
+::: year 1999 entry 08 team_str Iowa/Indiana prob_sort_str 63520 Iowa/Indiana winner 0
+::: year 1999 entry 08 team_str Purdue/Penn State prob_sort_str 52292 Purdue/Penn State winner 0
+::: year 1999 entry 08 team_str Texas Tech/Baylor prob_sort_str 76109 Texas Tech/Baylor winner 1
+::: year 1999 entry 08 team_str Mississippi State/Louisiana State prob_sort_str 92555 Mississippi State/Louisiana State winner 1
+::: year 1999 entry 08 team_str Southern Mississippi/Cincinnati prob_sort_str 88282 Southern Mississippi/Cincinnati winner 1
+::: year 1999 entry 08 team_str Pittsburgh/Rutgers prob_sort_str 84853 Pittsburgh/Rutgers winner 1
+::: year 1999 entry 08 team_str Miami - Florida/Boston College prob_sort_str 97135 Miami - Florida/Boston College winner 1
+::: year 1999 entry 08 team_str Louisiana Tech/Central Florida prob_sort_str 64440 Louisiana Tech/Central Florida winner 1
+::: score_val 14.0050629504794 tot_raw 71.4027493868399
+:::   str 50861 Colorado State/Wyoming correct 1 val 14.0050629504794
+:::   str 52292 Purdue/Penn State correct 0 val 15.4055692455274
+:::   str 56405 Tennessee/Alabama correct 1 val 16.9461261700801
+:::   str 56411 Louisville/Houston correct 1 val 18.6407387870882
+:::   str 59683 Maryland/North Carolina correct 1 val 20.504812665797
+:::   str 62684 Wisconsin/Michigan State correct 1 val 22.5552939323767
+:::   str 63166 Washington/California correct 1 val 24.8108233256143
+:::   str 63520 Iowa/Indiana correct 0 val 27.2919056581758
+:::   str 64214 Rice/Texas Christian correct 1 val 30.0210962239934
+:::   str 64440 Louisiana Tech/Central Florida correct 1 val 33.0232058463927
+:::   str 64478 Oklahoma/Texas A&M correct 1 val 36.325526431032
+:::   str 72775 Vanderbilt/South Carolina correct 1 val 39.9580790741351
+:::   str 74805 Nebraska/Texas correct 0 val 43.9538869815487
+:::   str 76109 Texas Tech/Baylor correct 1 val 48.3492756797035
+:::   str 78930 East Carolina/Tulane correct 1 val 53.1842032476739
+:::   str 79626 Iowa State/Colorado correct 0 val 58.5026235724413
+:::   str 84853 Pittsburgh/Rutgers correct 1 val 64.3528859296854
+:::   str 88282 Southern Mississippi/Cincinnati correct 1 val 70.788174522654
+:::   str 88432 Southern California/Stanford correct 0 val 77.8669919749194
+:::   str 92555 Mississippi State/Louisiana State correct 1 val 85.6536911724113
+:::   str 94010 Kansas State/Oklahoma State correct 1 val 94.2190602896524
+:::   str 97135 Miami - Florida/Boston College correct 1 val 103.640966318618
+cfpool year 1999 entry 08 score 776.979022567387
+::: cfpool 1999 entry 09
+::: year 1999 entry 09 team_str East Carolina/Houston prob_sort_str 59962 East Carolina/Houston winner 1
+::: year 1999 entry 09 team_str Texas A&M/Oklahoma State prob_sort_str 76793 Texas A&M/Oklahoma State winner 1
+::: year 1999 entry 09 team_str Washington/Stanford prob_sort_str 59414 Washington/Stanford winner 1
+::: year 1999 entry 09 team_str Oklahoma/Colorado prob_sort_str 92850 Oklahoma/Colorado winner 0
+::: year 1999 entry 09 team_str Florida/Georgia prob_sort_str 85365 Florida/Georgia winner 1
+::: year 1999 entry 09 team_str Georgia Tech/North Carolina State prob_sort_str 88917 Georgia Tech/North Carolina State winner 1
+::: year 1999 entry 09 team_str Syracuse/Boston College prob_sort_str 93996 Syracuse/Boston College winner 0
+::: year 1999 entry 09 team_str Arkansas/Auburn prob_sort_str 80277 Arkansas/Auburn winner 1
+::: year 1999 entry 09 team_str Arizona/California - Los Angeles prob_sort_str 54597 Arizona/California - Los Angeles winner 1
+::: year 1999 entry 09 team_str Brigham Young/Air Force prob_sort_str 66115 Brigham Young/Air Force winner 1
+::: year 1999 entry 09 team_str Rice/Southern Methodist prob_sort_str 91428 Rice/Southern Methodist winner 0
+::: year 1999 entry 09 team_str Miami - Florida/West Virginia prob_sort_str 92909 Miami - Florida/West Virginia winner 1
+::: year 1999 entry 09 team_str Clemson/Wake Forest prob_sort_str 59024 Clemson/Wake Forest winner 1
+::: year 1999 entry 09 team_str Temple/Rutgers prob_sort_str 74546 Temple/Rutgers winner 1
+::: year 1999 entry 09 team_str Oregon/Arizona State prob_sort_str 86609 Oregon/Arizona State winner 1
+::: year 1999 entry 09 team_str Alabama/Southern Mississippi prob_sort_str 54851 Alabama/Southern Mississippi winner 1
+::: year 1999 entry 09 team_str Southern California/California prob_sort_str 83609 Southern California/California winner 0
+::: year 1999 entry 09 team_str Kent State/Buffalo prob_sort_str 83181 Kent State/Buffalo winner 1
+::: year 1999 entry 09 team_str Missouri/Texas Tech prob_sort_str 68031 Missouri/Texas Tech winner 1
+::: year 1999 entry 09 team_str Mississippi/Louisiana State prob_sort_str 64470 Mississippi/Louisiana State winner 1
+::: year 1999 entry 09 team_str Utah/Colorado State prob_sort_str 76305 Utah/Colorado State winner 0
+::: score_val 15.6243898083563 tot_raw 64.0024994425817
+:::   str 54597 Arizona/California - Los Angeles correct 1 val 15.6243898083563
+:::   str 54851 Alabama/Southern Mississippi correct 1 val 17.1868287891919
+:::   str 59024 Clemson/Wake Forest correct 1 val 18.9055116681111
+:::   str 59414 Washington/Stanford correct 1 val 20.7960628349222
+:::   str 59962 East Carolina/Houston correct 1 val 22.8756691184144
+:::   str 64470 Mississippi/Louisiana State correct 1 val 25.1632360302558
+:::   str 66115 Brigham Young/Air Force correct 1 val 27.6795596332814
+:::   str 68031 Missouri/Texas Tech correct 1 val 30.4475155966096
+:::   str 74546 Temple/Rutgers correct 1 val 33.4922671562705
+:::   str 76305 Utah/Colorado State correct 0 val 36.8414938718976
+:::   str 76793 Texas A&M/Oklahoma State correct 1 val 40.5256432590873
+:::   str 80277 Arkansas/Auburn correct 1 val 44.5782075849961
+:::   str 83181 Kent State/Buffalo correct 1 val 49.0360283434957
+:::   str 83609 Southern California/California correct 0 val 53.9396311778453
+:::   str 85365 Florida/Georgia correct 1 val 59.3335942956298
+:::   str 86609 Oregon/Arizona State correct 1 val 65.2669537251928
+:::   str 88917 Georgia Tech/North Carolina State correct 1 val 71.7936490977121
+:::   str 91428 Rice/Southern Methodist correct 0 val 78.9730140074833
+:::   str 92850 Oklahoma/Colorado correct 0 val 86.8703154082316
+:::   str 92909 Miami - Florida/West Virginia correct 1 val 95.5573469490548
+:::   str 93996 Syracuse/Boston College correct 0 val 105.11308164396
+cfpool year 1999 entry 09 score 638.262463890582
+::: cfpool 1999 entry 10
+::: year 1999 entry 10 team_str Miami - Florida/Pittsburgh prob_sort_str 75519 Miami - Florida/Pittsburgh winner 1
+::: year 1999 entry 10 team_str Washington/Arizona prob_sort_str 55003 Washington/Arizona winner 1
+::: year 1999 entry 10 team_str Southern California/Arizona State prob_sort_str 83838 Southern California/Arizona State winner 0
+::: year 1999 entry 10 team_str Texas/Oklahoma State prob_sort_str 85653 Texas/Oklahoma State winner 1
+::: year 1999 entry 10 team_str Nebraska/Texas A&M prob_sort_str 90360 Nebraska/Texas A&M winner 1
+::: year 1999 entry 10 team_str Iowa State/Texas Tech prob_sort_str 69491 Iowa State/Texas Tech winner 0
+::: year 1999 entry 10 team_str Tennessee/Notre Dame prob_sort_str 77845 Tennessee/Notre Dame winner 1
+::: year 1999 entry 10 team_str Penn State/Minnesota prob_sort_str 71844 Penn State/Minnesota winner 0
+::: year 1999 entry 10 team_str Arkansas/Mississippi prob_sort_str 66297 Arkansas/Mississippi winner 0
+::: year 1999 entry 10 team_str Maryland/North Carolina State prob_sort_str 60634 Maryland/North Carolina State winner 0
+::: year 1999 entry 10 team_str Wake Forest/North Carolina prob_sort_str 70868 Wake Forest/North Carolina winner 1
+::: year 1999 entry 10 team_str Michigan State/Ohio State prob_sort_str 72745 Michigan State/Ohio State winner 1
+::: year 1999 entry 10 team_str Air Force/Army prob_sort_str 84787 Air Force/Army winner 1
+::: year 1999 entry 10 team_str Georgia Tech/Virginia prob_sort_str 66696 Georgia Tech/Virginia winner 0
+::: year 1999 entry 10 team_str Alabama/Louisiana State prob_sort_str 95523 Alabama/Louisiana State winner 1
+::: year 1999 entry 10 team_str Wisconsin/Purdue prob_sort_str 62691 Wisconsin/Purdue winner 1
+::: year 1999 entry 10 team_str Louisville/Cincinnati prob_sort_str 52494 Louisville/Cincinnati winner 1
+::: year 1999 entry 10 team_str Kansas State/Colorado prob_sort_str 97096 Kansas State/Colorado winner 1
+::: year 1999 entry 10 team_str Houston/Tulane prob_sort_str 80514 Houston/Tulane winner 1
+::: year 1999 entry 10 team_str Oklahoma/Missouri prob_sort_str 89819 Oklahoma/Missouri winner 1
+::: year 1999 entry 10 team_str Illinois/Iowa prob_sort_str 79558 Illinois/Iowa winner 1
+::: year 1999 entry 10 team_str Clemson/Duke prob_sort_str 89532 Clemson/Duke winner 1
+::: year 1999 entry 10 team_str Utah/Wyoming prob_sort_str 90687 Utah/Wyoming winner 0
+::: score_val 12.5718126571046 tot_raw 79.5430243255238
+:::   str 52494 Louisville/Cincinnati correct 1 val 12.5718126571046
+:::   str 55003 Washington/Arizona correct 1 val 13.8289939228151
+:::   str 60634 Maryland/North Carolina State correct 0 val 15.2118933150966
+:::   str 62691 Wisconsin/Purdue correct 1 val 16.7330826466062
+:::   str 66297 Arkansas/Mississippi correct 0 val 18.4063909112669
+:::   str 66696 Georgia Tech/Virginia correct 0 val 20.2470300023935
+:::   str 69491 Iowa State/Texas Tech correct 0 val 22.2717330026329
+:::   str 70868 Wake Forest/North Carolina correct 1 val 24.4989063028962
+:::   str 71844 Penn State/Minnesota correct 0 val 26.9487969331858
+:::   str 72745 Michigan State/Ohio State correct 1 val 29.6436766265044
+:::   str 75519 Miami - Florida/Pittsburgh correct 1 val 32.6080442891548
+:::   str 77845 Tennessee/Notre Dame correct 1 val 35.8688487180703
+:::   str 79558 Illinois/Iowa correct 1 val 39.4557335898773
+:::   str 80514 Houston/Tulane correct 1 val 43.4013069488651
+:::   str 83838 Southern California/Arizona State correct 0 val 47.7414376437516
+:::   str 84787 Air Force/Army correct 1 val 52.5155814081268
+:::   str 85653 Texas/Oklahoma State correct 1 val 57.7671395489394
+:::   str 89532 Clemson/Duke correct 1 val 63.5438535038334
+:::   str 89819 Oklahoma/Missouri correct 1 val 69.8982388542167
+:::   str 90360 Nebraska/Texas A&M correct 1 val 76.8880627396384
+:::   str 90687 Utah/Wyoming correct 0 val 84.5768690136023
+:::   str 95523 Alabama/Louisiana State correct 1 val 93.0345559149625
+:::   str 97096 Kansas State/Colorado correct 1 val 102.338011506459
+cfpool year 1999 entry 10 score 764.59584917807
+::: cfpool 1999 entry 11
+::: year 1999 entry 11 team_str Ohio State/Illinois prob_sort_str 72494 Ohio State/Illinois winner 0
+::: year 1999 entry 11 team_str Alabama/Mississippi State prob_sort_str 72085 Alabama/Mississippi State winner 1
+::: year 1999 entry 11 team_str Georgia Tech/Clemson prob_sort_str 57673 Georgia Tech/Clemson winner 1
+::: year 1999 entry 11 team_str Texas/Texas Tech prob_sort_str 96218 Texas/Texas Tech winner 1
+::: year 1999 entry 11 team_str Arizona State/Stanford prob_sort_str 53924 Arizona State/Stanford winner 0
+::: year 1999 entry 11 team_str Houston/Louisiana State prob_sort_str 55265 Houston/Louisiana State winner 1
+::: year 1999 entry 11 team_str Georgia/Auburn prob_sort_str 63300 Georgia/Auburn winner 0
+::: year 1999 entry 11 team_str Tennessee/Arkansas prob_sort_str 69958 Tennessee/Arkansas winner 0
+::: year 1999 entry 11 team_str Nebraska/Kansas State prob_sort_str 65015 Nebraska/Kansas State winner 1
+::: year 1999 entry 11 team_str Oklahoma State/Kansas prob_sort_str 70676 Oklahoma State/Kansas winner 1
+::: year 1999 entry 11 team_str Alabama - Birmingham/Louisiana Tech prob_sort_str 66099 Alabama - Birmingham/Louisiana Tech winner 0
+::: year 1999 entry 11 team_str Navy/Tulane prob_sort_str 63864 Navy/Tulane winner 1
+::: year 1999 entry 11 team_str Penn State/Michigan prob_sort_str 66270 Penn State/Michigan winner 0
+::: year 1999 entry 11 team_str Washington/California - Los Angeles prob_sort_str 76371 Washington/California - Los Angeles winner 0
+::: year 1999 entry 11 team_str Oklahoma/Iowa State prob_sort_str 84503 Oklahoma/Iowa State winner 1
+::: year 1999 entry 11 team_str Virginia Tech/Miami - Florida prob_sort_str 82807 Virginia Tech/Miami - Florida winner 1
+::: year 1999 entry 11 team_str West Virginia/Boston College prob_sort_str 61628 West Virginia/Boston College winner 0
+::: year 1999 entry 11 team_str Texas A&M/Missouri prob_sort_str 63334 Texas A&M/Missouri winner 1
+::: year 1999 entry 11 team_str Wake Forest/Duke prob_sort_str 74270 Wake Forest/Duke winner 0
+::: score_val 19.5468682346558 tot_raw 51.1590904484146
+:::   str 53924 Arizona State/Stanford correct 0 val 19.5468682346558
+:::   str 55265 Houston/Louisiana State correct 1 val 21.5015550581214
+:::   str 57673 Georgia Tech/Clemson correct 1 val 23.6517105639336
+:::   str 61628 West Virginia/Boston College correct 0 val 26.0168816203269
+:::   str 63300 Georgia/Auburn correct 0 val 28.6185697823596
+:::   str 63334 Texas A&M/Missouri correct 1 val 31.4804267605956
+:::   str 63864 Navy/Tulane correct 1 val 34.6284694366551
+:::   str 65015 Nebraska/Kansas State correct 1 val 38.0913163803207
+:::   str 66099 Alabama - Birmingham/Louisiana Tech correct 0 val 41.9004480183527
+:::   str 66270 Penn State/Michigan correct 0 val 46.090492820188
+:::   str 69958 Tennessee/Arkansas correct 0 val 50.6995421022068
+:::   str 70676 Oklahoma State/Kansas correct 1 val 55.7694963124275
+:::   str 72085 Alabama/Mississippi State correct 1 val 61.3464459436702
+:::   str 72494 Ohio State/Illinois correct 0 val 67.4810905380373
+:::   str 74270 Wake Forest/Duke correct 0 val 74.229199591841
+:::   str 76371 Washington/California - Los Angeles correct 0 val 81.6521195510251
+:::   str 82807 Virginia Tech/Miami - Florida correct 1 val 89.8173315061276
+:::   str 84503 Oklahoma/Iowa State correct 1 val 98.7990646567404
+:::   str 96218 Texas/Texas Tech correct 1 val 108.678971122414
+cfpool year 1999 entry 11 score 563.764787741007
+::: cfpool 1999 entry 12
+::: year 1999 entry 12 team_str Michigan/Ohio State prob_sort_str 82902 Michigan/Ohio State winner 1
+::: year 1999 entry 12 team_str Notre Dame/Boston College prob_sort_str 84887 Notre Dame/Boston College winner 0
+::: year 1999 entry 12 team_str Miami - Florida/Syracuse prob_sort_str 83501 Miami - Florida/Syracuse winner 1
+::: year 1999 entry 12 team_str Mississippi/Georgia prob_sort_str 74230 Mississippi/Georgia winner 0
+::: year 1999 entry 12 team_str East Carolina/North Carolina State prob_sort_str 68762 East Carolina/North Carolina State winner 1
+::: year 1999 entry 12 team_str Michigan State/Penn State prob_sort_str 52704 Michigan State/Penn State winner 1
+::: year 1999 entry 12 team_str Alabama/Auburn prob_sort_str 70027 Alabama/Auburn winner 1
+::: year 1999 entry 12 team_str Florida/Alabama prob_sort_str 59794 Florida/Alabama winner 0
+::: year 1999 entry 12 team_str Nebraska/Texas prob_sort_str 70425 Nebraska/Texas winner 1
+::: year 1999 entry 12 team_str Marshall/Western Michigan prob_sort_str 96727 Marshall/Western Michigan winner 1
+::: year 1999 entry 12 team_str Arkansas/Mississippi State prob_sort_str 71549 Arkansas/Mississippi State winner 1
+::: year 1999 entry 12 team_str Stanford/California prob_sort_str 75509 Stanford/California winner 1
+::: year 1999 entry 12 team_str Virginia Tech/Boston College prob_sort_str 99488 Virginia Tech/Boston College winner 1
+::: year 1999 entry 12 team_str Florida State/Florida prob_sort_str 79124 Florida State/Florida winner 1
+::: year 1999 entry 12 team_str Texas/Texas A&M prob_sort_str 65105 Texas/Texas A&M winner 0
+::: year 1999 entry 12 team_str Iowa State/Kansas prob_sort_str 60662 Iowa State/Kansas winner 0
+::: year 1999 entry 12 team_str Nebraska/Colorado prob_sort_str 92243 Nebraska/Colorado winner 1
+::: year 1999 entry 12 team_str Southern California/California - Los Angeles prob_sort_str 80901 Southern California/California - Los Angeles winner 1
+::: year 1999 entry 12 team_str Navy/Army prob_sort_str 67383 Navy/Army winner 1
+::: year 1999 entry 12 team_str Oklahoma/Texas Tech prob_sort_str 95430 Oklahoma/Texas Tech winner 0
+::: score_val 17.4596247725458 tot_raw 57.2749994932561
+:::   str 52704 Michigan State/Penn State correct 1 val 17.4596247725458
+:::   str 59794 Florida/Alabama correct 0 val 19.2055872498003
+:::   str 60662 Iowa State/Kansas correct 0 val 21.1261459747804
+:::   str 65105 Texas/Texas A&M correct 0 val 23.2387605722584
+:::   str 67383 Navy/Army correct 1 val 25.5626366294843
+:::   str 68762 East Carolina/North Carolina State correct 1 val 28.1189002924327
+:::   str 70027 Alabama/Auburn correct 1 val 30.930790321676
+:::   str 70425 Nebraska/Texas correct 1 val 34.0238693538436
+:::   str 71549 Arkansas/Mississippi State correct 1 val 37.4262562892279
+:::   str 74230 Mississippi/Georgia correct 0 val 41.1688819181507
+:::   str 75509 Stanford/California correct 1 val 45.2857701099658
+:::   str 79124 Florida State/Florida correct 1 val 49.8143471209624
+:::   str 80901 Southern California/California - Los Angeles correct 1 val 54.7957818330586
+:::   str 82902 Michigan/Ohio State correct 1 val 60.2753600163645
+:::   str 83501 Miami - Florida/Syracuse correct 1 val 66.302896018001
+:::   str 84887 Notre Dame/Boston College correct 0 val 72.9331856198011
+:::   str 92243 Nebraska/Colorado correct 1 val 80.2265041817812
+:::   str 95430 Oklahoma/Texas Tech correct 0 val 88.2491545999593
+:::   str 96727 Marshall/Western Michigan correct 1 val 97.0740700599552
+:::   str 99488 Virginia Tech/Boston College correct 1 val 106.781477065951
+cfpool year 1999 entry 12 score 734.07828406525
+::: cfpool 1999 entry 13
+::: year 1999 entry 13 team_str Michigan State/Florida prob_sort_str 52094 Michigan State/Florida winner 1
+::: year 1999 entry 13 team_str Louisville/Boise State prob_sort_str 76446 Louisville/Boise State winner 0
+::: year 1999 entry 13 team_str Purdue/Georgia prob_sort_str 71648 Purdue/Georgia winner 0
+::: year 1999 entry 13 team_str Southern Mississippi/Colorado State prob_sort_str 71259 Southern Mississippi/Colorado State winner 1
+::: year 1999 entry 13 team_str Utah/Fresno State prob_sort_str 74905 Utah/Fresno State winner 1
+::: year 1999 entry 13 team_str Alabama/Michigan prob_sort_str 50569 Alabama/Michigan winner 0
+::: year 1999 entry 13 team_str Penn State/Texas A&M prob_sort_str 73958 Penn State/Texas A&M winner 1
+::: year 1999 entry 13 team_str Virginia Tech/Florida State prob_sort_str 58590 Virginia Tech/Florida State winner 0
+::: year 1999 entry 13 team_str East Carolina/Texas Christian prob_sort_str 81121 East Carolina/Texas Christian winner 0
+::: year 1999 entry 13 team_str Clemson/Mississippi State prob_sort_str 70274 Clemson/Mississippi State winner 0
+::: year 1999 entry 13 team_str Minnesota/Oregon prob_sort_str 71918 Minnesota/Oregon winner 0
+::: year 1999 entry 13 team_str Syracuse/Kentucky prob_sort_str 59249 Syracuse/Kentucky winner 1
+::: year 1999 entry 13 team_str Wisconsin/Stanford prob_sort_str 90575 Wisconsin/Stanford winner 1
+::: year 1999 entry 13 team_str Miami - Florida/Georgia Tech prob_sort_str 71887 Miami - Florida/Georgia Tech winner 1
+::: year 1999 entry 13 team_str Illinois/Virginia prob_sort_str 52119 Illinois/Virginia winner 1
+::: year 1999 entry 13 team_str Oklahoma/Mississippi prob_sort_str 71316 Oklahoma/Mississippi winner 0
+::: year 1999 entry 13 team_str Oregon State/Hawaii prob_sort_str 85999 Oregon State/Hawaii winner 0
+::: year 1999 entry 13 team_str Kansas State/Washington prob_sort_str 93108 Kansas State/Washington winner 1
+::: year 1999 entry 13 team_str Nebraska/Tennessee prob_sort_str 59792 Nebraska/Tennessee winner 1
+::: year 1999 entry 13 team_str Wake Forest/Arizona State prob_sort_str 72726 Wake Forest/Arizona State winner 1
+::: year 1999 entry 13 team_str Colorado/Boston College prob_sort_str 62298 Colorado/Boston College winner 1
+::: year 1999 entry 13 team_str Marshall/Brigham Young prob_sort_str 71505 Marshall/Brigham Young winner 1
+::: year 1999 entry 13 team_str Texas/Arkansas prob_sort_str 71043 Texas/Arkansas winner 0
+::: score_val 12.5718126571046 tot_raw 79.5430243255238
+:::   str 50569 Alabama/Michigan correct 0 val 12.5718126571046
+:::   str 52094 Michigan State/Florida correct 1 val 13.8289939228151
+:::   str 52119 Illinois/Virginia correct 1 val 15.2118933150966
+:::   str 58590 Virginia Tech/Florida State correct 0 val 16.7330826466062
+:::   str 59249 Syracuse/Kentucky correct 1 val 18.4063909112669
+:::   str 59792 Nebraska/Tennessee correct 1 val 20.2470300023935
+:::   str 62298 Colorado/Boston College correct 1 val 22.2717330026329
+:::   str 70274 Clemson/Mississippi State correct 0 val 24.4989063028962
+:::   str 71043 Texas/Arkansas correct 0 val 26.9487969331858
+:::   str 71259 Southern Mississippi/Colorado State correct 1 val 29.6436766265044
+:::   str 71316 Oklahoma/Mississippi correct 0 val 32.6080442891548
+:::   str 71505 Marshall/Brigham Young correct 1 val 35.8688487180703
+:::   str 71648 Purdue/Georgia correct 0 val 39.4557335898773
+:::   str 71887 Miami - Florida/Georgia Tech correct 1 val 43.4013069488651
+:::   str 71918 Minnesota/Oregon correct 0 val 47.7414376437516
+:::   str 72726 Wake Forest/Arizona State correct 1 val 52.5155814081268
+:::   str 73958 Penn State/Texas A&M correct 1 val 57.7671395489394
+:::   str 74905 Utah/Fresno State correct 1 val 63.5438535038334
+:::   str 76446 Louisville/Boise State correct 0 val 69.8982388542167
+:::   str 81121 East Carolina/Texas Christian correct 0 val 76.8880627396384
+:::   str 85999 Oregon State/Hawaii correct 0 val 84.5768690136023
+:::   str 90575 Wisconsin/Stanford correct 1 val 93.0345559149625
+:::   str 93108 Kansas State/Washington correct 1 val 102.338011506459
+cfpool year 1999 entry 13 score 568.079015329966
+Average score: 691.614241875686
+   Entry 01 aveScore: 693.973464230892
+   Entry 02 aveScore: 823.165917237951
+   Entry 03 aveScore: 511.78640030659
+   Entry 04 aveScore: 760.399060243871
+   Entry 05 aveScore: 722.948361192651
+   Entry 06 aveScore: 722.603936367953
+   Entry 07 aveScore: 632.223162545388
+   Entry 08 aveScore: 776.979022567387
+   Entry 09 aveScore: 638.262463890582
+   Entry 10 aveScore: 764.59584917807
+   Entry 11 aveScore: 563.764787741007
+   Entry 12 aveScore: 734.07828406525
+   Entry 13 aveScore: 568.079015329966
