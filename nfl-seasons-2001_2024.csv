@@ -6215,22 +6215,22 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,1,week02,2024-09-15,team1Home,6,Denver,13,Pittsburgh
 2024,1,week02,2024-09-15,team1Home,19,Houston,13,Chicago
 2024,1,week02,2024-09-16,team1Home,21,Philadelphia,22,Atlanta
-2024,2,week03,2024-09-19,team1Home,-1,New York Jets,-1,New England
-2024,2,week03,2024-09-22,team1Home,-1,Cleveland,-1,New York Giants
-2024,2,week03,2024-09-22,team1Home,-1,New Orleans,-1,Philadelphia
-2024,2,week03,2024-09-22,team1Home,-1,Tampa Bay,-1,Denver
-2024,2,week03,2024-09-22,team1Home,-1,Tennessee,-1,Green Bay
-2024,2,week03,2024-09-22,team1Home,-1,Indianapolis,-1,Chicago
-2024,2,week03,2024-09-22,team1Home,-1,Minnesota,-1,Houston
-2024,2,week03,2024-09-22,team1Home,-1,Pittsburgh,-1,Los Angeles Chargers
-2024,2,week03,2024-09-22,team1Home,-1,Las Vegas,-1,Carolina
-2024,2,week03,2024-09-22,team1Home,-1,Seattle,-1,Miami
-2024,2,week03,2024-09-22,team1Home,-1,Arizona,-1,Detroit
-2024,2,week03,2024-09-22,team1Home,-1,Los Angeles Rams,-1,San Francisco
-2024,2,week03,2024-09-22,team1Home,-1,Dallas,-1,Baltimore
-2024,2,week03,2024-09-22,team1Home,-1,Atlanta,-1,Kansas City
-2024,2,week03,2024-09-23,team1Home,-1,Buffalo,-1,Jacksonville
-2024,2,week03,2024-09-23,team1Home,-1,Cincinnati,-1,Washington
+2024,2,week03,2024-09-19,team1Home,24,New York Jets,3,New England
+2024,2,week03,2024-09-22,team1Home,15,Cleveland,21,New York Giants
+2024,2,week03,2024-09-22,team1Home,12,New Orleans,15,Philadelphia
+2024,2,week03,2024-09-22,team1Home,7,Tampa Bay,26,Denver
+2024,2,week03,2024-09-22,team1Home,14,Tennessee,30,Green Bay
+2024,2,week03,2024-09-22,team1Home,21,Indianapolis,16,Chicago
+2024,2,week03,2024-09-22,team1Home,34,Minnesota,7,Houston
+2024,2,week03,2024-09-22,team1Home,20,Pittsburgh,10,Los Angeles Chargers
+2024,2,week03,2024-09-22,team1Home,22,Las Vegas,36,Carolina
+2024,2,week03,2024-09-22,team1Home,24,Seattle,3,Miami
+2024,2,week03,2024-09-22,team1Home,13,Arizona,20,Detroit
+2024,2,week03,2024-09-22,team1Home,27,Los Angeles Rams,24,San Francisco
+2024,2,week03,2024-09-22,team1Home,25,Dallas,28,Baltimore
+2024,2,week03,2024-09-22,team1Home,17,Atlanta,22,Kansas City
+2024,2,week03,2024-09-23,team1Home,47,Buffalo,10,Jacksonville
+2024,2,week03,2024-09-23,team1Home,33,Cincinnati,38,Washington
 2024,3,week04,2024-09-26,team1Home,-1,New York Giants,-1,Dallas
 2024,3,week04,2024-09-29,team1Home,-1,Atlanta,-1,New Orleans
 2024,3,week04,2024-09-29,team1Home,-1,Chicago,-1,Los Angeles Rams
