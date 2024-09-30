@@ -152,10 +152,11 @@ cfpool
 
 tmp work:
 
-./convscoresnfl.pl 2024 week02 nfl-seasons-2001_2024.csv scores-in.txt >  scores-out.txt
+./convscoresnfl.pl 2024 week03 nfl-seasons-2001_2024.csv scores-in.txt  scores-out.txt
 
 python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv outputFile=workspace/nfl-24wk02-3.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv outputFile=workspace/nfl-24wk03.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=4 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv outputFile=workspace/nfl-24wk04.txt usePowerUncertainty=True |& tee tmp.txt
 
 
 
@@ -164,4 +165,5 @@ python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspac
 python forecastAndRank.py currentSeason=2024 maxRound=4 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk03.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=5 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk04.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=6 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk05.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=7 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk06.txt usePowerUncertainty=True |& tee tmp.txt
 
