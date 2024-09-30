@@ -5635,113 +5635,110 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,4,week04,2024-09-21,team1Home,31,Holy Cross,38,Yale
 2024,4,week04,2024-09-21,team1Home,14,North Alabama,28,Tarleton State
 2024,4,week04,2024-09-22,team1Home,36,Hawaii,7,Northern Iowa
-2024,5,week05,2024-09-26,team1Home,-1,Temple,-1,Army
-2024,5,week05,2024-09-27,team1Home,-1,Rutgers,-1,Washington
-2024,5,week05,2024-09-27,team1Home,-1,Miami - Florida,-1,Virginia Tech
-2024,5,week05,2024-09-28,team1Home,-1,Bethune - Cookman,-1,Alabama State
-2024,5,week05,2024-09-28,team1Home,-1,Northern Arizona,-1,Sacramento State
-2024,5,week05,2024-09-28,team1Home,-1,Butler,-1,Houston Christian
-2024,5,week05,2024-09-28,team1Home,-1,Campbell,-1,Delaware State
-2024,5,week05,2024-09-28,team1Home,-1,Albany,-1,Maine
-2024,5,week05,2024-09-28,team1Home,-1,Central Arkansas,-1,Lamar
-2024,5,week05,2024-09-28,team1Home,-1,Tennessee State,-1,Charleston Southern
-2024,5,week05,2024-09-28,team1Home,-1,Texas Tech,-1,Cincinnati
-2024,5,week05,2024-09-28,team1Home,-1,Mississippi Valley State,-1,Alcorn State
-2024,5,week05,2024-09-28,team1Home,-1,Connecticut,-1,Buffalo
-2024,5,week05,2024-09-28,team1Home,-1,Utah Tech,-1,Abilene Christian
-2024,5,week05,2024-09-28,team1Home,-1,Merrimack,-1,Dartmouth
-2024,5,week05,2024-09-28,team1Home,-1,Drake,-1,San Diego
-2024,5,week05,2024-09-28,team1Home,-1,East Carolina,-1,Texas - San Antonio
-2024,5,week05,2024-09-28,team1Home,-1,The Citadel,-1,East Tennessee State
-2024,5,week05,2024-09-28,team1Home,-1,Kent State,-1,Eastern Michigan
-2024,5,week05,2024-09-28,team1Home,-1,Eastern Washington,-1,Montana
-2024,5,week05,2024-09-28,team1Home,-1,Florida A&M,-1,Alabama A&M
-2024,5,week05,2024-09-28,team1Home,-1,Florida Atlantic,-1,Wagner
-2024,5,week05,2024-09-28,team1Home,-1,Florida International,-1,Louisiana Tech
-2024,5,week05,2024-09-28,team1Home,-1,Gardner - Webb,-1,Tennessee Tech
-2024,5,week05,2024-09-28,team1Home,-1,Georgia State,-1,Georgia Southern
-2024,5,week05,2024-09-28,team1Home,-1,Utah,-1,Arizona
-2024,5,week05,2024-09-28,team1Home,-1,William & Mary,-1,Hampton
-2024,5,week05,2024-09-28,team1Home,-1,Brown,-1,Harvard
-2024,5,week05,2024-09-28,team1Home,-1,Syracuse,-1,Holy Cross
-2024,5,week05,2024-09-28,team1Home,-1,Indiana State,-1,Houston Christian
-2024,5,week05,2024-09-28,team1Home,-1,California - Davis,-1,Idaho
-2024,5,week05,2024-09-28,team1Home,-1,Idaho State,-1,Montana State
-2024,5,week05,2024-09-28,team1Home,-1,Penn State,-1,Illinois
-2024,5,week05,2024-09-28,team1Home,-1,Illinois State,-1,North Dakota State
-2024,5,week05,2024-09-28,team1Home,-1,Houston,-1,Iowa State
-2024,5,week05,2024-09-28,team1Home,-1,Texas Southern,-1,Jackson State
-2024,5,week05,2024-09-28,team1Home,-1,Kennesaw State,-1,Tennessee - Martin
-2024,5,week05,2024-09-28,team1Home,-1,Auburn,-1,Oklahoma
-2024,5,week05,2024-09-28,team1Home,-1,Eastern Illinois,-1,Lindenwood
-2024,5,week05,2024-09-28,team1Home,-1,Troy State,-1,Northeast Louisiana
-2024,5,week05,2024-09-28,team1Home,-1,Austin Peay,-1,Southern Utah
-2024,5,week05,2024-09-28,team1Home,-1,Wofford,-1,Mercer
-2024,5,week05,2024-09-28,team1Home,-1,Miami - Ohio,-1,Massachusetts
-2024,5,week05,2024-09-28,team1Home,-1,Memphis,-1,Middle Tennessee State
-2024,5,week05,2024-09-28,team1Home,-1,Missouri State,-1,Youngstown State
-2024,5,week05,2024-09-28,team1Home,-1,James Madison,-1,Ball State
-2024,5,week05,2024-09-28,team1Home,-1,Monmouth,-1,Fordham
-2024,5,week05,2024-09-28,team1Home,-1,Stony Brook,-1,Morgan State
-2024,5,week05,2024-09-28,team1Home,-1,Nevada - Las Vegas,-1,Fresno State
-2024,5,week05,2024-09-28,team1Home,-1,New Mexico State,-1,New Mexico
-2024,5,week05,2024-09-28,team1Home,-1,South Carolina State,-1,North Carolina A&T
-2024,5,week05,2024-09-28,team1Home,-1,Baylor,-1,Brigham Young
-2024,5,week05,2024-09-28,team1Home,-1,Northern Colorado,-1,California Poly
-2024,5,week05,2024-09-28,team1Home,-1,North Carolina State,-1,Northern Illinois
-2024,5,week05,2024-09-28,team1Home,-1,Southeast Missouri State,-1,Northwestern State
-2024,5,week05,2024-09-28,team1Home,-1,Ohio,-1,Akron
-2024,5,week05,2024-09-28,team1Home,-1,Bowling Green,-1,Old Dominion
-2024,5,week05,2024-09-28,team1Home,-1,Tennessee - Chattanooga,-1,Portland State
-2024,5,week05,2024-09-28,neutral,-1,Prairie View,-1,Grambling
-2024,5,week05,2024-09-28,team1Home,-1,Elon,-1,Richmond
-2024,5,week05,2024-09-28,team1Home,-1,Delaware,-1,Sacred Heart
-2024,5,week05,2024-09-28,neutral,-1,Texas State - San Marcos,-1,Sam Houston State
-2024,5,week05,2024-09-28,team1Home,-1,Furman,-1,Samford
-2024,5,week05,2024-09-28,team1Home,-1,Central Michigan,-1,San Diego State
-2024,5,week05,2024-09-28,team1Home,-1,Louisiana State,-1,South Alabama
-2024,5,week05,2024-09-28,team1Home,-1,South Dakota,-1,Southern Illinois
-2024,5,week05,2024-09-28,team1Home,-1,Tulane,-1,South Florida
-2024,5,week05,2024-09-28,team1Home,-1,Tarleton State,-1,Southeast Louisiana
-2024,5,week05,2024-09-28,team1Home,-1,Clemson,-1,Stanford
-2024,5,week05,2024-09-28,team1Home,-1,Boston College,-1,Western Kentucky
-2024,5,week05,2024-09-28,team1Home,-1,Kansas,-1,Texas Christian
-2024,5,week05,2024-09-28,team1Home,-1,Rice,-1,North Carolina - Charlotte
-2024,5,week05,2024-09-28,team1Home,-1,Southern California,-1,Wisconsin
-2024,5,week05,2024-09-28,team1Home,-1,Morehead State,-1,Valparaiso
-2024,5,week05,2024-09-28,team1Home,-1,Villanova,-1,Long Island
-2024,5,week05,2024-09-28,team1Home,-1,Boise State,-1,Washington State
-2024,5,week05,2024-09-28,team1Home,-1,Marshall,-1,Western Michigan
-2024,5,week05,2024-09-28,team1Home,-1,Wyoming,-1,Air Force
-2024,5,week05,2024-09-28,neutral,-1,Texas A&M,-1,Arkansas
-2024,5,week05,2024-09-28,team1Home,-1,Alabama,-1,Georgia
-2024,5,week05,2024-09-28,team1Home,-1,Mississippi,-1,Kentucky
-2024,5,week05,2024-09-28,team1Home,-1,Texas,-1,Mississippi State
-2024,5,week05,2024-09-28,team1Home,-1,Indiana,-1,Maryland
-2024,5,week05,2024-09-28,team1Home,-1,Michigan,-1,Minnesota
-2024,5,week05,2024-09-28,team1Home,-1,Michigan State,-1,Ohio State
-2024,5,week05,2024-09-28,team1Home,-1,Purdue,-1,Nebraska
-2024,5,week05,2024-09-28,team1Home,-1,California - Los Angeles,-1,Oregon
-2024,5,week05,2024-09-28,team1Home,-1,Notre Dame,-1,Louisville
-2024,5,week05,2024-09-28,team1Home,-1,Duke,-1,North Carolina
-2024,5,week05,2024-09-28,team1Home,-1,Southern Methodist,-1,Florida State
-2024,5,week05,2024-09-28,team1Home,-1,Wake Forest,-1,Louisiana - Lafayette
-2024,5,week05,2024-09-28,team1Home,-1,Kansas State,-1,Oklahoma State
-2024,5,week05,2024-09-28,team1Home,-1,Central Florida,-1,Colorado
-2024,5,week05,2024-09-28,team1Home,-1,Appalachian State,-1,Liberty
-2024,5,week05,2024-09-28,team1Home,-1,Alabama - Birmingham,-1,Navy
-2024,5,week05,2024-09-28,team1Home,-1,North Texas,-1,Tulsa
-2024,5,week05,2024-09-28,team1Home,-1,North Dakota,-1,Murray State
-2024,5,week05,2024-09-28,team1Home,-1,Presbyterian,-1,Davidson
-2024,5,week05,2024-09-28,team1Home,-1,Marist,-1,Dayton
-2024,5,week05,2024-09-28,team1Home,-1,Princeton,-1,Howard
-2024,5,week05,2024-09-28,team1Home,-1,Georgetown,-1,Columbia
-2024,5,week05,2024-09-28,team1Home,-1,Cornell,-1,Yale
-2024,5,week05,2024-09-28,team1Home,-1,Lehigh,-1,Bucknell
-2024,5,week05,2024-09-28,team1Home,-1,Weber State,-1,McNeese State
-2024,5,week05,2024-09-28,team1Home,-1,Pennsylvania,-1,Colgate
-2024,5,week05,2024-09-28,neutral,-1,North Carolina Central,-1,Norfolk State
-2024,5,week05,2024-09-28,team1Home,-1,Eastern Kentucky,-1,Robert Morris
+2024,5,week05,2024-09-26,team1Home,14,Temple,42,Army
+2024,5,week05,2024-09-27,team1Home,21,Rutgers,18,Washington
+2024,5,week05,2024-09-27,team1Home,38,Miami - Florida,34,Virginia Tech
+2024,5,week05,2024-09-28,team1Home,21,Bethune - Cookman,26,Alabama State
+2024,5,week05,2024-09-28,team1Home,34,Northern Arizona,16,Sacramento State
+2024,5,week05,2024-09-28,team1Home,63,Butler,0,Houston Christian
+2024,5,week05,2024-09-28,team1Home,44,Campbell,41,Delaware State
+2024,5,week05,2024-09-28,team1Home,20,Albany,34,Maine
+2024,5,week05,2024-09-28,team1Home,34,Central Arkansas,14,Lamar
+2024,5,week05,2024-09-28,team1Home,13,Tennessee State,9,Charleston Southern
+2024,5,week05,2024-09-28,team1Home,44,Texas Tech,41,Cincinnati
+2024,5,week05,2024-09-28,team1Home,21,Mississippi Valley State,42,Alcorn State
+2024,5,week05,2024-09-28,team1Home,47,Connecticut,3,Buffalo
+2024,5,week05,2024-09-28,team1Home,30,Utah Tech,55,Abilene Christian
+2024,5,week05,2024-09-28,team1Home,14,Merrimack,16,Dartmouth
+2024,5,week05,2024-09-28,team1Home,30,Drake,28,San Diego
+2024,5,week05,2024-09-28,team1Home,30,East Carolina,20,Texas - San Antonio
+2024,5,week05,2024-09-28,team1Home,17,The Citadel,34,East Tennessee State
+2024,5,week05,2024-09-28,team1Home,33,Kent State,52,Eastern Michigan
+2024,5,week05,2024-09-28,team1Home,49,Eastern Washington,52,Montana
+2024,5,week05,2024-09-28,team1Home,41,Florida Atlantic,10,Wagner
+2024,5,week05,2024-09-28,team1Home,17,Florida International,10,Louisiana Tech
+2024,5,week05,2024-09-28,team1Home,21,Gardner - Webb,52,Tennessee Tech
+2024,5,week05,2024-09-28,team1Home,21,Georgia State,38,Georgia Southern
+2024,5,week05,2024-09-28,team1Home,10,Utah,23,Arizona
+2024,5,week05,2024-09-28,team1Home,49,William & Mary,7,Hampton
+2024,5,week05,2024-09-28,team1Home,31,Brown,28,Harvard
+2024,5,week05,2024-09-28,team1Home,42,Syracuse,14,Holy Cross
+2024,5,week05,2024-09-28,team1Home,24,Indiana State,27,Houston Christian
+2024,5,week05,2024-09-28,team1Home,28,California - Davis,26,Idaho
+2024,5,week05,2024-09-28,team1Home,17,Idaho State,37,Montana State
+2024,5,week05,2024-09-28,team1Home,21,Penn State,7,Illinois
+2024,5,week05,2024-09-28,team1Home,10,Illinois State,42,North Dakota State
+2024,5,week05,2024-09-28,team1Home,0,Houston,20,Iowa State
+2024,5,week05,2024-09-28,team1Home,14,Texas Southern,43,Jackson State
+2024,5,week05,2024-09-28,team1Home,13,Kennesaw State,24,Tennessee - Martin
+2024,5,week05,2024-09-28,team1Home,21,Auburn,27,Oklahoma
+2024,5,week05,2024-09-28,team1Home,25,Eastern Illinois,28,Lindenwood
+2024,5,week05,2024-09-28,team1Home,9,Troy State,13,Northeast Louisiana
+2024,5,week05,2024-09-28,team1Home,17,Austin Peay,28,Southern Utah
+2024,5,week05,2024-09-28,team1Home,3,Wofford,22,Mercer
+2024,5,week05,2024-09-28,team1Home,23,Miami - Ohio,20,Massachusetts
+2024,5,week05,2024-09-28,team1Home,24,Memphis,7,Middle Tennessee State
+2024,5,week05,2024-09-28,team1Home,38,Missouri State,31,Youngstown State
+2024,5,week05,2024-09-28,team1Home,63,James Madison,7,Ball State
+2024,5,week05,2024-09-28,team1Home,63,Monmouth,21,Fordham
+2024,5,week05,2024-09-28,team1Home,22,Stony Brook,3,Morgan State
+2024,5,week05,2024-09-28,team1Home,59,Nevada - Las Vegas,14,Fresno State
+2024,5,week05,2024-09-28,team1Home,40,New Mexico State,50,New Mexico
+2024,5,week05,2024-09-28,team1Home,45,South Carolina State,25,North Carolina A&T
+2024,5,week05,2024-09-28,team1Home,28,Baylor,34,Brigham Young
+2024,5,week05,2024-09-28,team1Home,7,Northern Colorado,28,California Poly
+2024,5,week05,2024-09-28,team1Home,24,North Carolina State,17,Northern Illinois
+2024,5,week05,2024-09-28,team1Home,19,Southeast Missouri State,0,Northwestern State
+2024,5,week05,2024-09-28,team1Home,30,Ohio,10,Akron
+2024,5,week05,2024-09-28,team1Home,27,Bowling Green,30,Old Dominion
+2024,5,week05,2024-09-28,team1Home,45,Tennessee - Chattanooga,30,Portland State
+2024,5,week05,2024-09-28,neutral,36,Prairie View,34,Grambling
+2024,5,week05,2024-09-28,team1Home,17,Elon,27,Richmond
+2024,5,week05,2024-09-28,team1Home,49,Delaware,0,Sacred Heart
+2024,5,week05,2024-09-28,neutral,39,Texas State - San Marcos,40,Sam Houston State
+2024,5,week05,2024-09-28,team1Home,22,Central Michigan,21,San Diego State
+2024,5,week05,2024-09-28,team1Home,42,Louisiana State,10,South Alabama
+2024,5,week05,2024-09-28,team1Home,42,South Dakota,13,Southern Illinois
+2024,5,week05,2024-09-28,team1Home,45,Tulane,10,South Florida
+2024,5,week05,2024-09-28,team1Home,36,Tarleton State,33,Southeast Louisiana
+2024,5,week05,2024-09-28,team1Home,40,Clemson,14,Stanford
+2024,5,week05,2024-09-28,team1Home,21,Boston College,20,Western Kentucky
+2024,5,week05,2024-09-28,team1Home,27,Kansas,38,Texas Christian
+2024,5,week05,2024-09-28,team1Home,20,Rice,21,North Carolina - Charlotte
+2024,5,week05,2024-09-28,team1Home,38,Southern California,21,Wisconsin
+2024,5,week05,2024-09-28,team1Home,17,Morehead State,5,Valparaiso
+2024,5,week05,2024-09-28,team1Home,24,Villanova,10,Long Island
+2024,5,week05,2024-09-28,team1Home,45,Boise State,24,Washington State
+2024,5,week05,2024-09-28,team1Home,27,Marshall,20,Western Michigan
+2024,5,week05,2024-09-28,team1Home,31,Wyoming,19,Air Force
+2024,5,week05,2024-09-28,neutral,21,Texas A&M,17,Arkansas
+2024,5,week05,2024-09-28,team1Home,41,Alabama,34,Georgia
+2024,5,week05,2024-09-28,team1Home,17,Mississippi,20,Kentucky
+2024,5,week05,2024-09-28,team1Home,35,Texas,13,Mississippi State
+2024,5,week05,2024-09-28,team1Home,42,Indiana,28,Maryland
+2024,5,week05,2024-09-28,team1Home,27,Michigan,24,Minnesota
+2024,5,week05,2024-09-28,team1Home,7,Michigan State,38,Ohio State
+2024,5,week05,2024-09-28,team1Home,10,Purdue,28,Nebraska
+2024,5,week05,2024-09-28,team1Home,13,California - Los Angeles,34,Oregon
+2024,5,week05,2024-09-28,team1Home,31,Notre Dame,24,Louisville
+2024,5,week05,2024-09-28,team1Home,21,Duke,20,North Carolina
+2024,5,week05,2024-09-28,team1Home,42,Southern Methodist,16,Florida State
+2024,5,week05,2024-09-28,team1Home,38,Wake Forest,41,Louisiana - Lafayette
+2024,5,week05,2024-09-28,team1Home,42,Kansas State,20,Oklahoma State
+2024,5,week05,2024-09-28,team1Home,21,Central Florida,48,Colorado
+2024,5,week05,2024-09-28,team1Home,18,Alabama - Birmingham,41,Navy
+2024,5,week05,2024-09-28,team1Home,52,North Texas,20,Tulsa
+2024,5,week05,2024-09-28,team1Home,72,North Dakota,35,Murray State
+2024,5,week05,2024-09-28,team1Home,37,Presbyterian,48,Davidson
+2024,5,week05,2024-09-28,team1Home,14,Marist,47,Dayton
+2024,5,week05,2024-09-28,team1Home,30,Princeton,13,Howard
+2024,5,week05,2024-09-28,team1Home,20,Georgetown,17,Columbia
+2024,5,week05,2024-09-28,team1Home,47,Cornell,23,Yale
+2024,5,week05,2024-09-28,team1Home,35,Lehigh,38,Bucknell
+2024,5,week05,2024-09-28,team1Home,26,Weber State,28,McNeese State
+2024,5,week05,2024-09-28,team1Home,27,Pennsylvania,17,Colgate
+2024,5,week05,2024-09-28,neutral,37,North Carolina Central,10,Norfolk State
+2024,5,week05,2024-09-28,team1Home,31,Eastern Kentucky,7,Robert Morris
 2024,6,week06,2024-10-03,team1Home,-1,Texas - El Paso,-1,Sam Houston State
 2024,6,week06,2024-10-03,team1Home,-1,Troy State,-1,Texas State - San Marcos
 2024,6,week06,2024-10-04,team1Home,-1,Kennesaw State,-1,Jacksonville State
