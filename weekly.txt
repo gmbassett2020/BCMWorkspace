@@ -153,10 +153,12 @@ cfpool
 tmp work:
 
 ./convscoresnfl.pl 2024 week03 nfl-seasons-2001_2024.csv scores-in.txt  scores-out.txt
+./convscoresnfl.pl 2024 week04 nfl-seasons-2001_2024.csv scores-in.txt  scores-out.txt
 
 python forecastAndRank.py currentSeason=2024 maxRound=2 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv outputFile=workspace/nfl-24wk02-3.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv outputFile=workspace/nfl-24wk03.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=4 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv outputFile=workspace/nfl-24wk04.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=5 useTeamListFile=workspace/nfl-list-2001_2024.csv useTeamSeasonsFile=workspace/nfl-seasons-2001_2024.csv outputFile=workspace/nfl-24wk05.txt usePowerUncertainty=True
 
 
 

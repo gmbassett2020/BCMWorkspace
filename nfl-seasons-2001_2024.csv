@@ -6183,22 +6183,22 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2023,20,weeke3,2023-01-28,team1Home,34,San Francisco,31,Detroit
 2023,20,weeke3,2023-01-28,team1Home,10,Baltimore,17,Kansas City
 2023,21,weeke4,2023-02-11,neutral,25,Kansas City,22,San Francisco
-2024,0,weekb1,2024-09-05,team1Home,-1,Kansas City,-1,Baltimore
-2024,0,weekb1,2024-09-06,team1Home,-1,Philadelphia,-1,Green Bay
-2024,0,weekb1,2024-09-08,team1Home,-1,Atlanta,-1,Pittsburgh
-2024,0,weekb1,2024-09-08,team1Home,-1,Chicago,-1,Tennessee
-2024,0,weekb1,2024-09-08,team1Home,-1,New Orleans,-1,Carolina
-2024,0,weekb1,2024-09-08,team1Home,-1,New York Giants,-1,Minnesota
-2024,0,weekb1,2024-09-08,team1Home,-1,Buffalo,-1,Arizona
-2024,0,weekb1,2024-09-08,team1Home,-1,Cincinnati,-1,New England
-2024,0,weekb1,2024-09-08,team1Home,-1,Indianapolis,-1,Houston
-2024,0,weekb1,2024-09-08,team1Home,-1,Miami,-1,Jacksonville
-2024,0,weekb1,2024-09-08,team1Home,-1,Seattle,-1,Denver
-2024,0,weekb1,2024-09-08,team1Home,-1,Los Angeles Chargers,-1,Las Vegas
-2024,0,weekb1,2024-09-08,team1Home,-1,Cleveland,-1,Dallas
-2024,0,weekb1,2024-09-08,team1Home,-1,Tampa Bay,-1,Washington
-2024,0,weekb1,2024-09-08,team1Home,-1,Detroit,-1,Los Angeles Rams
-2024,0,weekb1,2024-09-09,team1Home,-1,San Francisco,-1,New York Jets
+2024,0,weekb1,2024-09-05,team1Home,27,Kansas City,20,Baltimore
+2024,0,weekb1,2024-09-06,team1Home,34,Philadelphia,29,Green Bay
+2024,0,weekb1,2024-09-08,team1Home,10,Atlanta,18,Pittsburgh
+2024,0,weekb1,2024-09-08,team1Home,24,Chicago,17,Tennessee
+2024,0,weekb1,2024-09-08,team1Home,47,New Orleans,10,Carolina
+2024,0,weekb1,2024-09-08,team1Home,6,New York Giants,28,Minnesota
+2024,0,weekb1,2024-09-08,team1Home,34,Buffalo,28,Arizona
+2024,0,weekb1,2024-09-08,team1Home,10,Cincinnati,16,New England
+2024,0,weekb1,2024-09-08,team1Home,27,Indianapolis,29,Houston
+2024,0,weekb1,2024-09-08,team1Home,20,Miami,17,Jacksonville
+2024,0,weekb1,2024-09-08,team1Home,26,Seattle,20,Denver
+2024,0,weekb1,2024-09-08,team1Home,22,Los Angeles Chargers,10,Las Vegas
+2024,0,weekb1,2024-09-08,team1Home,17,Cleveland,33,Dallas
+2024,0,weekb1,2024-09-08,team1Home,37,Tampa Bay,20,Washington
+2024,0,weekb1,2024-09-08,team1Home,26,Detroit,20,Los Angeles Rams
+2024,0,weekb1,2024-09-09,team1Home,32,San Francisco,19,New York Jets
 2024,1,week02,2024-09-12,team1Home,10,Miami,31,Buffalo
 2024,1,week02,2024-09-15,team1Home,16,Detroit,20,Tampa Bay
 2024,1,week02,2024-09-15,team1Home,19,Dallas,44,New Orleans
@@ -6231,22 +6231,22 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,2,week03,2024-09-22,team1Home,17,Atlanta,22,Kansas City
 2024,2,week03,2024-09-23,team1Home,47,Buffalo,10,Jacksonville
 2024,2,week03,2024-09-23,team1Home,33,Cincinnati,38,Washington
-2024,3,week04,2024-09-26,team1Home,-1,New York Giants,-1,Dallas
-2024,3,week04,2024-09-29,team1Home,-1,Atlanta,-1,New Orleans
-2024,3,week04,2024-09-29,team1Home,-1,Chicago,-1,Los Angeles Rams
-2024,3,week04,2024-09-29,team1Home,-1,Carolina,-1,Cincinnati
-2024,3,week04,2024-09-29,team1Home,-1,Tampa Bay,-1,Philadelphia
-2024,3,week04,2024-09-29,team1Home,-1,Indianapolis,-1,Pittsburgh
-2024,3,week04,2024-09-29,team1Home,-1,Green Bay,-1,Minnesota
-2024,3,week04,2024-09-29,team1Home,-1,Houston,-1,Jacksonville
-2024,3,week04,2024-09-29,team1Home,-1,New York Jets,-1,Denver
-2024,3,week04,2024-09-29,team1Home,-1,Arizona,-1,Washington
-2024,3,week04,2024-09-29,team1Home,-1,San Francisco,-1,New England
-2024,3,week04,2024-09-29,team1Home,-1,Las Vegas,-1,Cleveland
-2024,3,week04,2024-09-29,team1Home,-1,Los Angeles Chargers,-1,Kansas City
-2024,3,week04,2024-09-29,team1Home,-1,Baltimore,-1,Buffalo
-2024,3,week04,2024-09-30,team1Home,-1,Miami,-1,Tennessee
-2024,3,week04,2024-09-30,team1Home,-1,Detroit,-1,Seattle
+2024,3,week04,2024-09-26,team1Home,15,New York Giants,20,Dallas
+2024,3,week04,2024-09-29,team1Home,26,Atlanta,24,New Orleans
+2024,3,week04,2024-09-29,team1Home,24,Chicago,18,Los Angeles Rams
+2024,3,week04,2024-09-29,team1Home,24,Carolina,34,Cincinnati
+2024,3,week04,2024-09-29,team1Home,33,Tampa Bay,16,Philadelphia
+2024,3,week04,2024-09-29,team1Home,27,Indianapolis,24,Pittsburgh
+2024,3,week04,2024-09-29,team1Home,29,Green Bay,31,Minnesota
+2024,3,week04,2024-09-29,team1Home,24,Houston,20,Jacksonville
+2024,3,week04,2024-09-29,team1Home,9,New York Jets,10,Denver
+2024,3,week04,2024-09-29,team1Home,14,Arizona,42,Washington
+2024,3,week04,2024-09-29,team1Home,30,San Francisco,13,New England
+2024,3,week04,2024-09-29,team1Home,20,Las Vegas,16,Cleveland
+2024,3,week04,2024-09-29,team1Home,10,Los Angeles Chargers,17,Kansas City
+2024,3,week04,2024-09-29,team1Home,35,Baltimore,10,Buffalo
+2024,3,week04,2024-09-30,team1Home,12,Miami,31,Tennessee
+2024,3,week04,2024-09-30,team1Home,42,Detroit,29,Seattle
 2024,4,week05,2024-10-03,team1Home,-1,Atlanta,-1,Tampa Bay
 2024,4,week05,2024-10-06,team1Home,-1,Minnesota,-1,New York Jets
 2024,4,week05,2024-10-06,team1Home,-1,Chicago,-1,Carolina
