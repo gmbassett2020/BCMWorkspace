@@ -502,3 +502,742 @@
 244 Jacksonville
 245 Valparaiso
 246 Morehead State
+247 Houston Baptist
+248 Mississippi Valley State
+249 Virginia Military
+250 Savannah State
+251 Delaware State
+252 Marist
+253 Robert Morris
+254 Stetson
+255 Davidson
+::: earned rankings for IA
+1 Notre Dame actualWins=4 expectedWins=2.827439945431817 otherWins=0.8386396864954132 actual-other=3.161360313504587
+2 Alabama actualWins=4 expectedWins=3.953978881649376 otherWins=1.0577392651171877 actual-other=2.9422607348828125
+3 Oklahoma actualWins=4 expectedWins=3.653567989848417 otherWins=1.160333699717033 actual-other=2.8396663002829667
+4 Louisiana State actualWins=4 expectedWins=3.048207080491002 otherWins=1.2143564522520767 actual-other=2.7856435477479233
+5 Georgia actualWins=4 expectedWins=3.8920797777445726 otherWins=1.2286096569248046 actual-other=2.771390343075195
+6 Penn State actualWins=4 expectedWins=3.9426904063593486 otherWins=1.2541545705134007 actual-other=2.7458454294865993
+7 Stanford actualWins=4 expectedWins=3.353981627620332 otherWins=1.2587874876690208 actual-other=2.7412125123309794
+8 Duke actualWins=4 expectedWins=3.500372395169752 otherWins=1.4297954746806545 actual-other=2.5702045253193457
+9 Ohio State actualWins=4 expectedWins=3.7952485189042524 otherWins=1.5322839438748506 actual-other=2.467716056125149
+10 Clemson actualWins=4 expectedWins=3.5111323203109044 otherWins=1.5803527025712714 actual-other=2.4196472974287286
+11 South Florida actualWins=4 expectedWins=3.377750180932378 otherWins=1.6398069312415033 actual-other=2.3601930687584964
+12 Kentucky actualWins=4 expectedWins=2.5961266402497016 otherWins=1.9158083406143136 actual-other=2.084191659385686
+13 Indiana actualWins=3 expectedWins=3.0983859758693066 otherWins=1.0414854890945466 actual-other=1.9585145109054534
+14 North Texas actualWins=4 expectedWins=3.358406035218741 otherWins=2.086399076494248 actual-other=1.913600923505752
+15 Oklahoma State actualWins=3 expectedWins=3.852868239752648 otherWins=1.1239100194620257 actual-other=1.8760899805379743
+16 Buffalo actualWins=4 expectedWins=2.6077277183016494 otherWins=2.131837440661433 actual-other=1.868162559338567
+17 Cincinnati actualWins=4 expectedWins=3.388419554361742 otherWins=2.1715211447946206 actual-other=1.8284788552053794
+18 Mississippi actualWins=3 expectedWins=2.297577579209448 otherWins=1.1926995491027605 actual-other=1.8073004508972395
+19 Washington actualWins=3 expectedWins=3.0142112983034446 otherWins=1.2081590923267205 actual-other=1.7918409076732795
+20 San Diego State actualWins=3 expectedWins=2.2305043720735216 otherWins=1.2449170620843681 actual-other=1.7550829379156319
+21 Texas actualWins=3 expectedWins=2.421017954372336 otherWins=1.2458781639743013 actual-other=1.7541218360256987
+22 North Carolina State actualWins=3 expectedWins=2.3173108420098223 otherWins=1.2470385379709563 actual-other=1.7529614620290437
+23 Iowa actualWins=3 expectedWins=3.144532332588296 otherWins=1.3836028326212988 actual-other=1.6163971673787012
+24 Syracuse actualWins=4 expectedWins=3.61314140668513 otherWins=2.3939525672274766 actual-other=1.6060474327725234
+25 Texas Tech actualWins=3 expectedWins=2.3423224285766926 otherWins=1.3995734859165156 actual-other=1.6004265140834844
+26 Michigan actualWins=3 expectedWins=3.355792566926432 otherWins=1.4266791783526478 actual-other=1.5733208216473522
+27 Michigan State actualWins=2 expectedWins=1.8446908518661669 otherWins=0.4390776869554932 actual-other=1.560922313044507
+28 Brigham Young actualWins=3 expectedWins=2.178022477815827 otherWins=1.452434378573469 actual-other=1.547565621426531
+29 Maryland actualWins=3 expectedWins=2.003969615940261 otherWins=1.4690537682428642 actual-other=1.5309462317571358
+30 Missouri actualWins=3 expectedWins=2.586056863810639 otherWins=1.481804354342115 actual-other=1.518195645657885
+31 Hawaii actualWins=4 expectedWins=3.4229932040265227 otherWins=2.4867125715782565 actual-other=1.5132874284217435
+32 California actualWins=3 expectedWins=2.3029978727023 otherWins=1.4872477955267325 actual-other=1.5127522044732675
+33 West Virginia actualWins=3 expectedWins=2.8833896433569457 otherWins=1.49033784739145 actual-other=1.50966215260855
+34 Arkansas State actualWins=3 expectedWins=2.3253548909013264 otherWins=1.4926646249521163 actual-other=1.5073353750478837
+35 Virginia actualWins=3 expectedWins=2.9177107228495993 otherWins=1.544264362463608 actual-other=1.455735637536392
+36 South Carolina actualWins=2 expectedWins=1.2790485826967681 otherWins=0.547010791806827 actual-other=1.452989208193173
+37 Wisconsin actualWins=3 expectedWins=3.2883061203550707 otherWins=1.5585082437034554 actual-other=1.4414917562965446
+38 Miami - Florida actualWins=3 expectedWins=3.143456412994433 otherWins=1.622229116930382 actual-other=1.377770883069618
+39 Colorado actualWins=3 expectedWins=2.594526145088115 otherWins=1.645970793097236 actual-other=1.354029206902764
+40 Central Florida actualWins=3 expectedWins=2.9712202352362835 otherWins=1.6744428417093515 actual-other=1.3255571582906485
+41 Washington State actualWins=3 expectedWins=3.6647286806809625 otherWins=1.675511654616634 actual-other=1.324488345383366
+42 Minnesota actualWins=3 expectedWins=3.2524472440531045 otherWins=1.698003197344448 actual-other=1.301996802655552
+43 Boston College actualWins=3 expectedWins=3.387264107992247 otherWins=1.7062247203704992 actual-other=1.2937752796295008
+44 Auburn actualWins=3 expectedWins=2.980567941862641 otherWins=1.7566706593653318 actual-other=1.2433293406346682
+45 Baylor actualWins=3 expectedWins=2.6659351102374984 otherWins=1.7647801468184117 actual-other=1.2352198531815883
+46 Troy State actualWins=3 expectedWins=2.1986604314228693 otherWins=1.7970978766873467 actual-other=1.2029021233126533
+47 Army actualWins=2 expectedWins=2.0639602383392615 otherWins=0.807098880171995 actual-other=1.1929011198280048
+48 Southern California actualWins=2 expectedWins=1.58569285652625 otherWins=0.9029239752003568 actual-other=1.0970760247996432
+49 Houston actualWins=3 expectedWins=3.061256345249692 otherWins=1.971877276945603 actual-other=1.028122723054397
+50 Boise State actualWins=2 expectedWins=2.0708042465689904 otherWins=0.9727701687772781 actual-other=1.027229831222722
+51 Memphis actualWins=3 expectedWins=3.7374471090782517 otherWins=2.0069128333884625 actual-other=0.9930871666115375
+52 Wake Forest actualWins=2 expectedWins=2.6224556167530495 otherWins=1.0587969409131444 actual-other=0.9412030590868556
+53 Arizona State actualWins=2 expectedWins=2.270634274030513 otherWins=1.0803156098857098 actual-other=0.9196843901142902
+54 Florida actualWins=3 expectedWins=2.9747321637449753 otherWins=2.080978585829784 actual-other=0.9190214141702162
+55 Utah State actualWins=3 expectedWins=3.1272160583927984 otherWins=2.1022857403435853 actual-other=0.8977142596564147
+56 Utah actualWins=2 expectedWins=1.9625449430486355 otherWins=1.1162255363189646 actual-other=0.8837744636810354
+57 Coastal Carolina actualWins=3 expectedWins=2.778563182838271 otherWins=2.132468058572762 actual-other=0.867531941427238
+58 Vanderbilt actualWins=2 expectedWins=2.8940957690094526 otherWins=1.1489723362034248 actual-other=0.8510276637965752
+59 Florida Atlantic actualWins=2 expectedWins=1.4642474353414845 otherWins=1.1597200182567742 actual-other=0.8402799817432258
+60 Akron actualWins=2 expectedWins=1.4198025631884583 otherWins=1.2200050203471267 actual-other=0.7799949796528733
+61 Illinois actualWins=2 expectedWins=1.838872281088836 otherWins=1.2509667809517195 actual-other=0.7490332190482805
+62 Oregon actualWins=3 expectedWins=3.236200920794267 otherWins=2.2742937631461313 actual-other=0.7257062368538687
+63 Mississippi State actualWins=3 expectedWins=3.607983580943308 otherWins=2.274577373140186 actual-other=0.7254226268598138
+64 Fresno State actualWins=2 expectedWins=2.3123803090805186 otherWins=1.2871836297035586 actual-other=0.7128163702964414
+65 Louisiana Tech actualWins=2 expectedWins=1.6186056810213514 otherWins=1.300461694100687 actual-other=0.699538305899313
+66 Georgia Southern actualWins=2 expectedWins=1.7942571101988565 otherWins=1.3257615381505277 actual-other=0.6742384618494723
+67 Marshall actualWins=2 expectedWins=1.964611729800278 otherWins=1.3657826108549689 actual-other=0.6342173891450311
+68 Florida International actualWins=2 expectedWins=2.145243069065026 otherWins=1.3739771354773012 actual-other=0.6260228645226988
+69 Texas Christian actualWins=2 expectedWins=2.9538412434901953 otherWins=1.4217737709618676 actual-other=0.5782262290381324
+70 Appalachian State actualWins=2 expectedWins=2.0390151862358157 otherWins=1.4306812793827388 actual-other=0.5693187206172612
+71 Northeast Louisiana actualWins=2 expectedWins=1.3113055023405438 otherWins=1.4718244210646954 actual-other=0.5281755789353046
+72 Texas A&M actualWins=2 expectedWins=2.3870210235817284 otherWins=1.4912399913338519 actual-other=0.5087600086661481
+73 Wyoming actualWins=2 expectedWins=1.7340403510609042 otherWins=1.4967226423018605 actual-other=0.5032773576981395
+74 Kansas State actualWins=2 expectedWins=1.8700119811461107 otherWins=1.5205421275968967 actual-other=0.47945787240310334
+75 Toledo actualWins=2 expectedWins=1.922409272740853 otherWins=1.5340416395113994 actual-other=0.4659583604886006
+76 Florida State actualWins=2 expectedWins=1.6661514265011057 otherWins=1.558877766271156 actual-other=0.44112223372884407
+77 Iowa State actualWins=1 expectedWins=1.393087724863902 otherWins=0.5761011302254628 actual-other=0.42389886977453717
+78 New Mexico actualWins=2 expectedWins=1.794451007087491 otherWins=1.578208144441443 actual-other=0.4217918555585569
+79 Navy actualWins=2 expectedWins=2.3770515019779994 otherWins=1.5818133892108497 actual-other=0.4181866107891503
+80 Louisville actualWins=2 expectedWins=1.9466142875778645 otherWins=1.586861271522885 actual-other=0.4131387284771151
+81 Eastern Michigan actualWins=2 expectedWins=1.9998683598506353 otherWins=1.598558010571361 actual-other=0.40144198942863896
+82 Pittsburgh actualWins=2 expectedWins=2.0003705476218827 otherWins=1.631089566804639 actual-other=0.368910433195361
+83 Alabama - Birmingham actualWins=2 expectedWins=1.5916617914133298 otherWins=1.6353889043084018 actual-other=0.3646110956915982
+84 Virginia Tech actualWins=2 expectedWins=2.9144967878564874 otherWins=1.68768638631106 actual-other=0.31231361368893995
+85 Temple actualWins=2 expectedWins=2.371593244635598 otherWins=1.7094200216666156 actual-other=0.29057997833338445
+86 Southern Methodist actualWins=1 expectedWins=0.5021255540202717 otherWins=0.7265740413641139 actual-other=0.27342595863588615
+87 Northwestern actualWins=1 expectedWins=1.4198193435656912 otherWins=0.7499614799428703 actual-other=0.2500385200571297
+88 Arizona actualWins=2 expectedWins=2.1032557863123467 otherWins=1.7603178301584668 actual-other=0.23968216984153323
+89 Nevada - Reno actualWins=2 expectedWins=2.0424063307413776 otherWins=1.7620721093823766 actual-other=0.23792789061762343
+90 Western Michigan actualWins=2 expectedWins=1.9612354867717956 otherWins=1.8313482834590589 actual-other=0.16865171654094113
+91 Middle Tennessee State actualWins=1 expectedWins=1.0025397702787078 otherWins=0.8502157491720157 actual-other=0.1497842508279843
+92 Kansas actualWins=2 expectedWins=2.8710916814635823 otherWins=1.8761281438591002 actual-other=0.1238718561408998
+93 Nevada - Las Vegas actualWins=2 expectedWins=2.3399500198990966 otherWins=1.9425340589501356 actual-other=0.057465941049864355
+94 Connecticut actualWins=1 expectedWins=0.6086308243462052 otherWins=1.0379597706834345 actual-other=-0.03795977068343448
+95 East Carolina actualWins=1 expectedWins=1.199174078709623 otherWins=1.0382723847340711 actual-other=-0.03827238473407113
+96 Liberty actualWins=1 expectedWins=1.552165898515721 otherWins=1.042344261803763 actual-other=-0.04234426180376305
+97 Southern Mississippi actualWins=2 expectedWins=2.5203800270994785 otherWins=2.045319295174667 actual-other=-0.04531929517466704
+98 North Carolina actualWins=1 expectedWins=0.7781852844275701 otherWins=1.0592717417794835 actual-other=-0.05927174177948347
+99 Purdue actualWins=1 expectedWins=1.6478922588806848 otherWins=1.0716865604158619 actual-other=-0.07168656041586186
+100 Ohio actualWins=1 expectedWins=1.1306514779389794 otherWins=1.1025375946421376 actual-other=-0.10253759464213763
+101 Tennessee actualWins=2 expectedWins=2.5648323297380413 otherWins=2.124132417101487 actual-other=-0.12413241710148704
+102 Kent State actualWins=1 expectedWins=1.2894194432413972 otherWins=1.1839792642410598 actual-other=-0.18397926424105981
+103 Air Force actualWins=1 expectedWins=1.4697439217937596 otherWins=1.1911253640183517 actual-other=-0.19112536401835167
+104 Tulane actualWins=1 expectedWins=1.7904382862842705 otherWins=1.2051090781705285 actual-other=-0.20510907817052848
+105 North Carolina - Charlotte actualWins=2 expectedWins=1.7391546552756136 otherWins=2.2199812148720253 actual-other=-0.21998121487202527
+106 Georgia State actualWins=1 expectedWins=0.6771275925557338 otherWins=1.233693264266378 actual-other=-0.23369326426637804
+107 Massachusetts actualWins=2 expectedWins=1.9861275531687765 otherWins=2.2455375675978506 actual-other=-0.24553756759785061
+108 South Alabama actualWins=1 expectedWins=1.3455358656006806 otherWins=1.2765162093528883 actual-other=-0.27651620935288834
+109 Western Kentucky actualWins=1 expectedWins=0.9157662813655101 otherWins=1.333319174494769 actual-other=-0.333319174494769
+110 Miami - Ohio actualWins=1 expectedWins=1.2904933052442644 otherWins=1.3380656748378008 actual-other=-0.3380656748378008
+111 Old Dominion actualWins=1 expectedWins=0.6460478188803418 otherWins=1.340022697663051 actual-other=-0.34002269766305093
+112 Northern Illinois actualWins=1 expectedWins=1.3880266140781692 otherWins=1.4064064924036004 actual-other=-0.4064064924036004
+113 Louisiana - Lafayette actualWins=1 expectedWins=0.9595799090860282 otherWins=1.440663043846836 actual-other=-0.44066304384683597
+114 Georgia Tech actualWins=1 expectedWins=1.8663655801586745 otherWins=1.4505802428122023 actual-other=-0.4505802428122023
+115 Rutgers actualWins=1 expectedWins=1.4110133414761026 otherWins=1.4765059780414762 actual-other=-0.4765059780414762
+116 Tulsa actualWins=1 expectedWins=1.5858739568124767 otherWins=1.491573587173908 actual-other=-0.491573587173908
+117 California - Los Angeles actualWins=0 expectedWins=0.5494972013936652 otherWins=0.5189679424322814 actual-other=-0.5189679424322814
+118 Ball State actualWins=1 expectedWins=1.8624924602906843 otherWins=1.563335652414652 actual-other=-0.563335652414652
+119 Texas - San Antonio actualWins=1 expectedWins=0.9958919253507499 otherWins=1.5680870427616285 actual-other=-0.5680870427616285
+120 Central Michigan actualWins=1 expectedWins=1.0407284369680756 otherWins=1.585934762774192 actual-other=-0.585934762774192
+121 Oregon State actualWins=1 expectedWins=1.589726909814037 otherWins=1.590682714912293 actual-other=-0.5906827149122931
+122 Rice actualWins=1 expectedWins=1.18092187183741 otherWins=1.5973279952316464 actual-other=-0.5973279952316464
+123 Nebraska actualWins=0 expectedWins=0.8947736337454257 otherWins=0.7710089626929244 actual-other=-0.7710089626929244
+124 San Jose State actualWins=0 expectedWins=0.44163615934622397 otherWins=0.7740194182702663 actual-other=-0.7740194182702663
+125 Bowling Green actualWins=1 expectedWins=0.9685570335028928 otherWins=1.7938429671474163 actual-other=-0.7938429671474163
+126 Arkansas actualWins=1 expectedWins=1.4655627507498294 otherWins=1.834201077800236 actual-other=-0.834201077800236
+127 New Mexico State actualWins=1 expectedWins=0.8513182844313605 otherWins=1.9398081530794153 actual-other=-0.9398081530794153
+128 Colorado State actualWins=1 expectedWins=1.3069994664764104 otherWins=2.081172081559599 actual-other=-1.081172081559599
+129 Texas State - San Marcos actualWins=1 expectedWins=1.322513118904348 otherWins=2.3323274895005786 actual-other=-1.3323274895005786
+130 Texas - El Paso actualWins=0 expectedWins=0.7985826587171834 otherWins=1.9438949141204953 actual-other=-1.9438949141204953
+::: earned rankings for IAA
+1 Tennessee - Chattanooga actualWins=4 expectedWins=2.7253145587233347 otherWins=2.8085233516730024 actual-other=1.1914766483269976
+2 North Dakota State actualWins=3 expectedWins=2.9240922101262736 otherWins=2.190473528807819 actual-other=0.8095264711921808
+3 California - Davis actualWins=3 expectedWins=2.617653913644579 otherWins=2.2404356175458005 actual-other=0.7595643824541995
+4 Weber State actualWins=3 expectedWins=2.3551929673492644 otherWins=2.2530050780205437 actual-other=0.7469949219794563
+5 North Carolina A&T actualWins=3 expectedWins=3.052697424174495 otherWins=2.268659096062868 actual-other=0.7313409039371321
+6 Colgate actualWins=3 expectedWins=2.029813309004874 otherWins=2.2941944693091334 actual-other=0.7058055306908666
+7 Towson actualWins=2 expectedWins=1.3738519195932017 otherWins=1.335219366012581 actual-other=0.6647806339874189
+8 Montana actualWins=3 expectedWins=2.3218535676342125 otherWins=2.371300820439116 actual-other=0.6286991795608841
+9 Eastern Washington actualWins=2 expectedWins=1.4993404779086545 otherWins=1.3872373519518386 actual-other=0.6127626480481614
+10 McNeese State actualWins=3 expectedWins=2.081956296993377 otherWins=2.406463022790701 actual-other=0.5935369772092991
+11 Montana State actualWins=3 expectedWins=2.269338055373413 otherWins=2.408659976665087 actual-other=0.5913400233349129
+12 Villanova actualWins=3 expectedWins=2.751503819021945 otherWins=2.4201142643068363 actual-other=0.5798857356931637
+13 Illinois State actualWins=2 expectedWins=1.5410987442978064 otherWins=1.462883389002745 actual-other=0.5371166109972549
+14 Tennessee State actualWins=2 expectedWins=1.5336368603730373 otherWins=1.496245396089982 actual-other=0.503754603910018
+15 Dartmouth actualWins=2 expectedWins=1.6599135590536274 otherWins=1.5224686242053447 actual-other=0.4775313757946553
+16 Sacred Heart actualWins=3 expectedWins=2.6642817659139872 otherWins=2.5534993521402405 actual-other=0.4465006478597595
+17 Columbia actualWins=2 expectedWins=1.6091849925055317 otherWins=1.5595075419433304 actual-other=0.4404924580566696
+18 South Dakota State actualWins=2 expectedWins=1.9859652610662617 otherWins=1.561377161204455 actual-other=0.4386228387955451
+19 Missouri State actualWins=1 expectedWins=0.9026405686761844 otherWins=0.579439157953258 actual-other=0.42056084204674204
+20 Princeton actualWins=2 expectedWins=1.8503364181870907 otherWins=1.6060304074397775 actual-other=0.39396959256022246
+21 Pennsylvania actualWins=2 expectedWins=1.6038466377396805 otherWins=1.6431630029140205 actual-other=0.3568369970859795
+22 James Madison actualWins=3 expectedWins=3.239824076564277 otherWins=2.6530581754338183 actual-other=0.3469418245661817
+23 Stony Brook actualWins=3 expectedWins=2.2270220066503823 otherWins=2.686253813866679 actual-other=0.31374618613332084
+24 Harvard actualWins=2 expectedWins=1.7629363420277646 otherWins=1.6896486577319485 actual-other=0.3103513422680515
+25 Elon actualWins=2 expectedWins=1.9303283781712741 otherWins=1.6904455685376982 actual-other=0.30955443146230177
+26 Maine actualWins=2 expectedWins=1.8698374330216943 otherWins=1.706865087513041 actual-other=0.2931349124869591
+27 Western Carolina actualWins=2 expectedWins=1.8354608976972857 otherWins=1.7110535250219707 actual-other=0.2889464749780293
+28 Nicholls State actualWins=2 expectedWins=1.4169717322491087 otherWins=1.7600318808656916 actual-other=0.23996811913430838
+29 Central Arkansas actualWins=2 expectedWins=1.5980971529499368 otherWins=1.7601428935891148 actual-other=0.2398571064108852
+30 North Alabama actualWins=2 expectedWins=1.1239267044554373 otherWins=1.7817422183515546 actual-other=0.21825778164844545
+31 Idaho State actualWins=1 expectedWins=0.4664483445799812 otherWins=0.8552001482750968 actual-other=0.14479985172490317
+32 Rhode Island actualWins=2 expectedWins=1.5696538665235806 otherWins=1.8690899527173803 actual-other=0.13091004728261968
+33 Northwestern State actualWins=2 expectedWins=1.5104600421515344 otherWins=1.9072041471960377 actual-other=0.0927958528039623
+34 Norfolk State actualWins=1 expectedWins=0.17711649081126668 otherWins=0.9511312079346832 actual-other=0.0488687920653168
+35 Stetson actualWins=1 expectedWins=0.4435061070922765 otherWins=0.9690603910879949 actual-other=0.03093960891200509
+36 Wofford actualWins=2 expectedWins=2.095243957190407 otherWins=2.0029565016690403 actual-other=-0.002956501669040268
+37 East Tennessee State actualWins=2 expectedWins=0.8573731057398535 otherWins=2.0200395034728413 actual-other=-0.020039503472841336
+38 Alcorn State actualWins=2 expectedWins=1.6890860605880884 otherWins=2.0978431462839606 actual-other=-0.09784314628396062
+39 Jacksonville State actualWins=2 expectedWins=2.5937314353574332 otherWins=2.1146711863968197 actual-other=-0.11467118639681972
+40 Campbell actualWins=1 expectedWins=0.6140406238723646 otherWins=1.1287225675120642 actual-other=-0.12872256751206423
+41 Butler actualWins=1 expectedWins=0.11407514431866189 otherWins=1.1643157181181816 actual-other=-0.16431571811818158
+42 William & Mary actualWins=1 expectedWins=0.7666883209349645 otherWins=1.1939777721328093 actual-other=-0.1939777721328093
+43 Northern Arizona actualWins=2 expectedWins=2.265295200510194 otherWins=2.211617221630644 actual-other=-0.211617221630644
+44 Indiana State actualWins=1 expectedWins=0.7655417218238193 otherWins=1.2181022718754497 actual-other=-0.21810227187544973
+45 Southeast Missouri State actualWins=2 expectedWins=1.73432475339991 otherWins=2.2377835857410666 actual-other=-0.23778358574106662
+46 Kennesaw State actualWins=2 expectedWins=2.6606839126502586 otherWins=2.244760104249651 actual-other=-0.244760104249651
+47 Jackson State actualWins=1 expectedWins=0.4190146260671166 otherWins=1.2532187171318916 actual-other=-0.2532187171318916
+48 Southern actualWins=1 expectedWins=0.744689153457282 otherWins=1.2611911729891967 actual-other=-0.2611911729891967
+49 North Dakota actualWins=2 expectedWins=1.8893131472597753 otherWins=2.269407881634124 actual-other=-0.2694078816341241
+50 Mercer actualWins=2 expectedWins=2.110748560018849 otherWins=2.325213347954559 actual-other=-0.32521334795455914
+51 Howard actualWins=1 expectedWins=0.4647614110489425 otherWins=1.3302870054244795 actual-other=-0.33028700542447953
+52 Sacramento State actualWins=1 expectedWins=1.300073665228115 otherWins=1.332327185141071 actual-other=-0.33232718514107096
+53 Yale actualWins=1 expectedWins=1.2386508015417483 otherWins=1.3876128794047187 actual-other=-0.38761287940471867
+54 Presbyterian actualWins=0 expectedWins=0.011068961760708929 otherWins=0.4042618798776031 actual-other=-0.4042618798776031
+55 Western Illinois actualWins=1 expectedWins=1.3432974022845934 otherWins=1.4180788807521272 actual-other=-0.4180788807521272
+56 Austin Peay actualWins=2 expectedWins=2.809826555360196 otherWins=2.4243601005829203 actual-other=-0.4243601005829203
+57 Richmond actualWins=2 expectedWins=2.633990094653913 otherWins=2.4557207721055905 actual-other=-0.4557207721055905
+58 Northern Iowa actualWins=1 expectedWins=1.5825840165771392 otherWins=1.4804195851294115 actual-other=-0.4804195851294115
+59 Drake actualWins=0 expectedWins=0.02494891377303665 otherWins=0.48575289106288655 actual-other=-0.48575289106288655
+60 Eastern Kentucky actualWins=2 expectedWins=1.9509330176746333 otherWins=2.493563277422839 actual-other=-0.4935632774228389
+61 Idaho actualWins=0 expectedWins=0.013513667958960807 otherWins=0.5018595978195082 actual-other=-0.5018595978195082
+62 Albany actualWins=2 expectedWins=1.354427155816299 otherWins=2.5071603273117673 actual-other=-0.5071603273117673
+63 Incarnate Word actualWins=1 expectedWins=0.8350815779351158 otherWins=1.5200401234415248 actual-other=-0.5200401234415248
+64 Monmouth actualWins=2 expectedWins=1.680542085363697 otherWins=2.5376341382409295 actual-other=-0.5376341382409295
+65 South Dakota actualWins=1 expectedWins=1.4273132143434952 otherWins=1.5449617725377418 actual-other=-0.5449617725377418
+66 Bryant actualWins=2 expectedWins=1.7423213930242438 otherWins=2.568168711850317 actual-other=-0.5681687118503169
+67 Jacksonville actualWins=0 expectedWins=0.011179570510356784 otherWins=0.5701884237267685 actual-other=-0.5701884237267685
+68 Duquesne actualWins=2 expectedWins=1.2382675314389184 otherWins=2.5997335192137703 actual-other=-0.5997335192137703
+69 Delaware actualWins=2 expectedWins=2.6542733879359233 otherWins=2.6029598223774397 actual-other=-0.6029598223774397
+70 Stephen F. Austin actualWins=1 expectedWins=0.33362331169463877 otherWins=1.6204042781942622 actual-other=-0.6204042781942622
+71 Southern Illinois actualWins=1 expectedWins=1.7526688621111626 otherWins=1.6316054498967172 actual-other=-0.6316054498967172
+72 Tennessee - Martin actualWins=1 expectedWins=0.6402168671282816 otherWins=1.651495187777915 actual-other=-0.6514951877779149
+73 The Citadel actualWins=1 expectedWins=1.0565076270501859 otherWins=1.6603039453826498 actual-other=-0.6603039453826498
+74 North Carolina Central actualWins=0 expectedWins=0.31695326083506964 otherWins=0.7338678226043375 actual-other=-0.7338678226043375
+75 Morgan State actualWins=1 expectedWins=0.30229284129007394 otherWins=1.7763189554358088 actual-other=-0.7763189554358088
+76 Charleston Southern actualWins=0 expectedWins=0.09427611592014096 otherWins=0.7850695467451001 actual-other=-0.7850695467451001
+77 Davidson actualWins=0 expectedWins=0.02362232509004647 otherWins=0.851908622748437 actual-other=-0.851908622748437
+78 Arkansas - Pine Bluff actualWins=0 expectedWins=0.07230976603612088 otherWins=0.8725813329938978 actual-other=-0.8725813329938978
+79 Sam Houston State actualWins=1 expectedWins=1.6978556428229474 otherWins=1.881095395887792 actual-other=-0.8810953958877921
+80 Central Connecticut actualWins=1 expectedWins=1.0387376704649296 otherWins=1.894734232763337 actual-other=-0.894734232763337
+81 Youngstown State actualWins=1 expectedWins=1.9364672497673683 otherWins=1.9189633915350217 actual-other=-0.9189633915350217
+82 Gardner - Webb actualWins=0 expectedWins=0.1642657402460077 otherWins=0.9712566357661765 actual-other=-0.9712566357661765
+83 San Diego actualWins=0 expectedWins=0.18447846248431654 otherWins=0.9878519030976388 actual-other=-0.9878519030976388
+84 Holy Cross actualWins=1 expectedWins=1.126585091144235 otherWins=2.0066037831493952 actual-other=-1.0066037831493952
+85 Southeast Louisiana actualWins=1 expectedWins=1.8695683427920997 otherWins=2.011391273430831 actual-other=-1.011391273430831
+86 Abilene Christian actualWins=1 expectedWins=1.822541443974186 otherWins=2.015007230236487 actual-other=-1.015007230236487
+87 Prairie View actualWins=2 expectedWins=2.17980427752719 otherWins=3.0294311227624164 actual-other=-1.0294311227624164
+88 Morehead State actualWins=0 expectedWins=0.016976221876461306 otherWins=1.105061765421221 actual-other=-1.105061765421221
+89 Lehigh actualWins=1 expectedWins=0.8773385639000638 otherWins=2.122360886356476 actual-other=-1.1223608863564758
+90 Hampton actualWins=0 expectedWins=0.21092291165351074 otherWins=1.127692855072007 actual-other=-1.127692855072007
+91 California Poly actualWins=1 expectedWins=1.027337985399556 otherWins=2.16018926947829 actual-other=-1.1601892694782898
+92 Cornell actualWins=0 expectedWins=0.39976841354849363 otherWins=1.1876700826295246 actual-other=-1.1876700826295246
+93 Florida A&M actualWins=1 expectedWins=1.3131226025115015 otherWins=2.1877474025927706 actual-other=-1.1877474025927706
+94 Portland State actualWins=0 expectedWins=0.13683246145723765 otherWins=1.200121054919641 actual-other=-1.200121054919641
+95 South Carolina State actualWins=0 expectedWins=0.9060062926116162 otherWins=1.2126240704326554 actual-other=-1.2126240704326554
+96 Alabama State actualWins=0 expectedWins=0.44021435704139444 otherWins=1.3289555086342584 actual-other=-1.3289555086342584
+97 Murray State actualWins=0 expectedWins=0.08636891940088326 otherWins=1.333008010771428 actual-other=-1.333008010771428
+98 Furman actualWins=0 expectedWins=0.8345180929674051 otherWins=1.3487357274267462 actual-other=-1.3487357274267462
+99 Delaware State actualWins=0 expectedWins=0.014680688305827472 otherWins=1.3520770847351635 actual-other=-1.3520770847351635
+100 Tennessee Tech actualWins=0 expectedWins=0.04958490749296002 otherWins=1.371532227590327 actual-other=-1.371532227590327
+101 Grambling actualWins=1 expectedWins=0.8850560884582833 otherWins=2.374730897178185 actual-other=-1.374730897178185
+102 New Hampshire actualWins=0 expectedWins=0.6785052233664822 otherWins=1.3831772552630048 actual-other=-1.3831772552630048
+103 Savannah State actualWins=0 expectedWins=0.26946447662560025 otherWins=1.3935485312877938 actual-other=-1.3935485312877938
+104 Dayton actualWins=2 expectedWins=2.394466849676212 otherWins=3.403762752129451 actual-other=-1.4037627521294511
+105 Brown actualWins=0 expectedWins=0.2021447507611861 otherWins=1.4460562024489063 actual-other=-1.4460562024489063
+106 Valparaiso actualWins=0 expectedWins=0.30790656544046535 otherWins=1.447784439547537 actual-other=-1.447784439547537
+107 Wagner actualWins=0 expectedWins=0.1631464096343362 otherWins=1.4540618171083668 actual-other=-1.4540618171083668
+108 Bethune - Cookman actualWins=1 expectedWins=2.2656306072578145 otherWins=2.492591646773837 actual-other=-1.4925916467738372
+109 Lamar actualWins=0 expectedWins=0.2834890817600003 otherWins=1.5818073117181184 actual-other=-1.5818073117181184
+110 Samford actualWins=0 expectedWins=0.9546306869631904 otherWins=1.6077067587934382 actual-other=-1.6077067587934382
+111 Texas Southern actualWins=0 expectedWins=0.26362609806335746 otherWins=1.6191483801329087 actual-other=-1.6191483801329087
+112 Mississippi Valley State actualWins=0 expectedWins=0.139609505143324 otherWins=1.6284159595912755 actual-other=-1.6284159595912755
+113 Alabama A&M actualWins=0 expectedWins=0.5375089894732767 otherWins=1.7759657999814342 actual-other=-1.7759657999814342
+114 Saint Francis - Pennsylvania actualWins=1 expectedWins=2.216454663400273 otherWins=2.839770810610489 actual-other=-1.839770810610489
+115 Houston Baptist actualWins=0 expectedWins=0.07505300735979992 otherWins=1.8995386414309035 actual-other=-1.8995386414309035
+116 Georgetown actualWins=1 expectedWins=1.4358830286325241 otherWins=2.9298260135253544 actual-other=-1.9298260135253544
+117 Robert Morris actualWins=0 expectedWins=0.21938634787357225 otherWins=1.9984786267810726 actual-other=-1.9984786267810726
+118 Southern Utah actualWins=0 expectedWins=0.8100086848198499 otherWins=2.060777834272311 actual-other=-2.060777834272311
+119 Virginia Military actualWins=0 expectedWins=0.3579972424503389 otherWins=2.1535747801196266 actual-other=-2.1535747801196266
+120 Northern Colorado actualWins=0 expectedWins=1.0398142680002096 otherWins=2.1550132010232312 actual-other=-2.1550132010232312
+121 Eastern Illinois actualWins=0 expectedWins=0.29043099117419446 otherWins=2.4707764483015704 actual-other=-2.4707764483015704
+122 Bucknell actualWins=0 expectedWins=0.5379480575607207 otherWins=2.492631083134426 actual-other=-2.492631083134426
+123 Lafayette actualWins=0 expectedWins=0.32413248021102037 otherWins=2.5454260499580874 actual-other=-2.5454260499580874
+124 Fordham actualWins=0 expectedWins=0.3157612297060358 otherWins=2.5827001762849044 actual-other=-2.5827001762849044
+125 Marist actualWins=0 expectedWins=0.8584981617214907 otherWins=2.7106013628534424 actual-other=-2.7106013628534424
+::: earned rankings for overall
+1 Notre Dame actualWins=4 expectedWins=2.827439945431817 otherWins=0.8386396864954132 actual-other=3.161360313504587
+2 Alabama actualWins=4 expectedWins=3.953978881649376 otherWins=1.0577392651171877 actual-other=2.9422607348828125
+3 Oklahoma actualWins=4 expectedWins=3.653567989848417 otherWins=1.160333699717033 actual-other=2.8396663002829667
+4 Louisiana State actualWins=4 expectedWins=3.048207080491002 otherWins=1.2143564522520767 actual-other=2.7856435477479233
+5 Georgia actualWins=4 expectedWins=3.8920797777445726 otherWins=1.2286096569248046 actual-other=2.771390343075195
+6 Penn State actualWins=4 expectedWins=3.9426904063593486 otherWins=1.2541545705134007 actual-other=2.7458454294865993
+7 Stanford actualWins=4 expectedWins=3.353981627620332 otherWins=1.2587874876690208 actual-other=2.7412125123309794
+8 Duke actualWins=4 expectedWins=3.500372395169752 otherWins=1.4297954746806545 actual-other=2.5702045253193457
+9 Ohio State actualWins=4 expectedWins=3.7952485189042524 otherWins=1.5322839438748506 actual-other=2.467716056125149
+10 Clemson actualWins=4 expectedWins=3.5111323203109044 otherWins=1.5803527025712714 actual-other=2.4196472974287286
+11 South Florida actualWins=4 expectedWins=3.377750180932378 otherWins=1.6398069312415033 actual-other=2.3601930687584964
+12 Kentucky actualWins=4 expectedWins=2.5961266402497016 otherWins=1.9158083406143136 actual-other=2.084191659385686
+13 Indiana actualWins=3 expectedWins=3.0983859758693066 otherWins=1.0414854890945466 actual-other=1.9585145109054534
+14 North Texas actualWins=4 expectedWins=3.358406035218741 otherWins=2.086399076494248 actual-other=1.913600923505752
+15 Oklahoma State actualWins=3 expectedWins=3.852868239752648 otherWins=1.1239100194620257 actual-other=1.8760899805379743
+16 Buffalo actualWins=4 expectedWins=2.6077277183016494 otherWins=2.131837440661433 actual-other=1.868162559338567
+17 Cincinnati actualWins=4 expectedWins=3.388419554361742 otherWins=2.1715211447946206 actual-other=1.8284788552053794
+18 Mississippi actualWins=3 expectedWins=2.297577579209448 otherWins=1.1926995491027605 actual-other=1.8073004508972395
+19 Washington actualWins=3 expectedWins=3.0142112983034446 otherWins=1.2081590923267205 actual-other=1.7918409076732795
+20 San Diego State actualWins=3 expectedWins=2.2305043720735216 otherWins=1.2449170620843681 actual-other=1.7550829379156319
+21 Texas actualWins=3 expectedWins=2.421017954372336 otherWins=1.2458781639743013 actual-other=1.7541218360256987
+22 North Carolina State actualWins=3 expectedWins=2.3173108420098223 otherWins=1.2470385379709563 actual-other=1.7529614620290437
+23 Iowa actualWins=3 expectedWins=3.144532332588296 otherWins=1.3836028326212988 actual-other=1.6163971673787012
+24 Syracuse actualWins=4 expectedWins=3.61314140668513 otherWins=2.3939525672274766 actual-other=1.6060474327725234
+25 Texas Tech actualWins=3 expectedWins=2.3423224285766926 otherWins=1.3995734859165156 actual-other=1.6004265140834844
+26 Michigan actualWins=3 expectedWins=3.355792566926432 otherWins=1.4266791783526478 actual-other=1.5733208216473522
+27 Michigan State actualWins=2 expectedWins=1.8446908518661669 otherWins=0.4390776869554932 actual-other=1.560922313044507
+28 Brigham Young actualWins=3 expectedWins=2.178022477815827 otherWins=1.452434378573469 actual-other=1.547565621426531
+29 Maryland actualWins=3 expectedWins=2.003969615940261 otherWins=1.4690537682428642 actual-other=1.5309462317571358
+30 Missouri actualWins=3 expectedWins=2.586056863810639 otherWins=1.481804354342115 actual-other=1.518195645657885
+31 Hawaii actualWins=4 expectedWins=3.4229932040265227 otherWins=2.4867125715782565 actual-other=1.5132874284217435
+32 California actualWins=3 expectedWins=2.3029978727023 otherWins=1.4872477955267325 actual-other=1.5127522044732675
+33 West Virginia actualWins=3 expectedWins=2.8833896433569457 otherWins=1.49033784739145 actual-other=1.50966215260855
+34 Arkansas State actualWins=3 expectedWins=2.3253548909013264 otherWins=1.4926646249521163 actual-other=1.5073353750478837
+35 Virginia actualWins=3 expectedWins=2.9177107228495993 otherWins=1.544264362463608 actual-other=1.455735637536392
+36 South Carolina actualWins=2 expectedWins=1.2790485826967681 otherWins=0.547010791806827 actual-other=1.452989208193173
+37 Wisconsin actualWins=3 expectedWins=3.2883061203550707 otherWins=1.5585082437034554 actual-other=1.4414917562965446
+38 Miami - Florida actualWins=3 expectedWins=3.143456412994433 otherWins=1.622229116930382 actual-other=1.377770883069618
+39 Colorado actualWins=3 expectedWins=2.594526145088115 otherWins=1.645970793097236 actual-other=1.354029206902764
+40 Central Florida actualWins=3 expectedWins=2.9712202352362835 otherWins=1.6744428417093515 actual-other=1.3255571582906485
+41 Washington State actualWins=3 expectedWins=3.6647286806809625 otherWins=1.675511654616634 actual-other=1.324488345383366
+42 Minnesota actualWins=3 expectedWins=3.2524472440531045 otherWins=1.698003197344448 actual-other=1.301996802655552
+43 Boston College actualWins=3 expectedWins=3.387264107992247 otherWins=1.7062247203704992 actual-other=1.2937752796295008
+44 Auburn actualWins=3 expectedWins=2.980567941862641 otherWins=1.7566706593653318 actual-other=1.2433293406346682
+45 Baylor actualWins=3 expectedWins=2.6659351102374984 otherWins=1.7647801468184117 actual-other=1.2352198531815883
+46 Troy State actualWins=3 expectedWins=2.1986604314228693 otherWins=1.7970978766873467 actual-other=1.2029021233126533
+47 Army actualWins=2 expectedWins=2.0639602383392615 otherWins=0.807098880171995 actual-other=1.1929011198280048
+48 Tennessee - Chattanooga actualWins=4 expectedWins=2.7253145587233347 otherWins=2.8085233516730024 actual-other=1.1914766483269976
+49 Southern California actualWins=2 expectedWins=1.58569285652625 otherWins=0.9029239752003568 actual-other=1.0970760247996432
+50 Houston actualWins=3 expectedWins=3.061256345249692 otherWins=1.971877276945603 actual-other=1.028122723054397
+51 Boise State actualWins=2 expectedWins=2.0708042465689904 otherWins=0.9727701687772781 actual-other=1.027229831222722
+52 Memphis actualWins=3 expectedWins=3.7374471090782517 otherWins=2.0069128333884625 actual-other=0.9930871666115375
+53 Wake Forest actualWins=2 expectedWins=2.6224556167530495 otherWins=1.0587969409131444 actual-other=0.9412030590868556
+54 Arizona State actualWins=2 expectedWins=2.270634274030513 otherWins=1.0803156098857098 actual-other=0.9196843901142902
+55 Florida actualWins=3 expectedWins=2.9747321637449753 otherWins=2.080978585829784 actual-other=0.9190214141702162
+56 Utah State actualWins=3 expectedWins=3.1272160583927984 otherWins=2.1022857403435853 actual-other=0.8977142596564147
+57 Utah actualWins=2 expectedWins=1.9625449430486355 otherWins=1.1162255363189646 actual-other=0.8837744636810354
+58 Coastal Carolina actualWins=3 expectedWins=2.778563182838271 otherWins=2.132468058572762 actual-other=0.867531941427238
+59 Vanderbilt actualWins=2 expectedWins=2.8940957690094526 otherWins=1.1489723362034248 actual-other=0.8510276637965752
+60 Florida Atlantic actualWins=2 expectedWins=1.4642474353414845 otherWins=1.1597200182567742 actual-other=0.8402799817432258
+61 North Dakota State actualWins=3 expectedWins=2.9240922101262736 otherWins=2.190473528807819 actual-other=0.8095264711921808
+62 Akron actualWins=2 expectedWins=1.4198025631884583 otherWins=1.2200050203471267 actual-other=0.7799949796528733
+63 California - Davis actualWins=3 expectedWins=2.617653913644579 otherWins=2.2404356175458005 actual-other=0.7595643824541995
+64 Illinois actualWins=2 expectedWins=1.838872281088836 otherWins=1.2509667809517195 actual-other=0.7490332190482805
+65 Weber State actualWins=3 expectedWins=2.3551929673492644 otherWins=2.2530050780205437 actual-other=0.7469949219794563
+66 North Carolina A&T actualWins=3 expectedWins=3.052697424174495 otherWins=2.268659096062868 actual-other=0.7313409039371321
+67 Oregon actualWins=3 expectedWins=3.236200920794267 otherWins=2.2742937631461313 actual-other=0.7257062368538687
+68 Mississippi State actualWins=3 expectedWins=3.607983580943308 otherWins=2.274577373140186 actual-other=0.7254226268598138
+69 Fresno State actualWins=2 expectedWins=2.3123803090805186 otherWins=1.2871836297035586 actual-other=0.7128163702964414
+70 Colgate actualWins=3 expectedWins=2.029813309004874 otherWins=2.2941944693091334 actual-other=0.7058055306908666
+71 Louisiana Tech actualWins=2 expectedWins=1.6186056810213514 otherWins=1.300461694100687 actual-other=0.699538305899313
+72 Georgia Southern actualWins=2 expectedWins=1.7942571101988565 otherWins=1.3257615381505277 actual-other=0.6742384618494723
+73 Towson actualWins=2 expectedWins=1.3738519195932017 otherWins=1.335219366012581 actual-other=0.6647806339874189
+74 Marshall actualWins=2 expectedWins=1.964611729800278 otherWins=1.3657826108549689 actual-other=0.6342173891450311
+75 Montana actualWins=3 expectedWins=2.3218535676342125 otherWins=2.371300820439116 actual-other=0.6286991795608841
+76 Florida International actualWins=2 expectedWins=2.145243069065026 otherWins=1.3739771354773012 actual-other=0.6260228645226988
+77 Eastern Washington actualWins=2 expectedWins=1.4993404779086545 otherWins=1.3872373519518386 actual-other=0.6127626480481614
+78 McNeese State actualWins=3 expectedWins=2.081956296993377 otherWins=2.406463022790701 actual-other=0.5935369772092991
+79 Montana State actualWins=3 expectedWins=2.269338055373413 otherWins=2.408659976665087 actual-other=0.5913400233349129
+80 Villanova actualWins=3 expectedWins=2.751503819021945 otherWins=2.4201142643068363 actual-other=0.5798857356931637
+81 Texas Christian actualWins=2 expectedWins=2.9538412434901953 otherWins=1.4217737709618676 actual-other=0.5782262290381324
+82 Appalachian State actualWins=2 expectedWins=2.0390151862358157 otherWins=1.4306812793827388 actual-other=0.5693187206172612
+83 Illinois State actualWins=2 expectedWins=1.5410987442978064 otherWins=1.462883389002745 actual-other=0.5371166109972549
+84 Northeast Louisiana actualWins=2 expectedWins=1.3113055023405438 otherWins=1.4718244210646954 actual-other=0.5281755789353046
+85 Texas A&M actualWins=2 expectedWins=2.3870210235817284 otherWins=1.4912399913338519 actual-other=0.5087600086661481
+86 Tennessee State actualWins=2 expectedWins=1.5336368603730373 otherWins=1.496245396089982 actual-other=0.503754603910018
+87 Wyoming actualWins=2 expectedWins=1.7340403510609042 otherWins=1.4967226423018605 actual-other=0.5032773576981395
+88 Kansas State actualWins=2 expectedWins=1.8700119811461107 otherWins=1.5205421275968967 actual-other=0.47945787240310334
+89 Dartmouth actualWins=2 expectedWins=1.6599135590536274 otherWins=1.5224686242053447 actual-other=0.4775313757946553
+90 Toledo actualWins=2 expectedWins=1.922409272740853 otherWins=1.5340416395113994 actual-other=0.4659583604886006
+91 Sacred Heart actualWins=3 expectedWins=2.6642817659139872 otherWins=2.5534993521402405 actual-other=0.4465006478597595
+92 Florida State actualWins=2 expectedWins=1.6661514265011057 otherWins=1.558877766271156 actual-other=0.44112223372884407
+93 Columbia actualWins=2 expectedWins=1.6091849925055317 otherWins=1.5595075419433304 actual-other=0.4404924580566696
+94 South Dakota State actualWins=2 expectedWins=1.9859652610662617 otherWins=1.561377161204455 actual-other=0.4386228387955451
+95 Iowa State actualWins=1 expectedWins=1.393087724863902 otherWins=0.5761011302254628 actual-other=0.42389886977453717
+96 New Mexico actualWins=2 expectedWins=1.794451007087491 otherWins=1.578208144441443 actual-other=0.4217918555585569
+97 Missouri State actualWins=1 expectedWins=0.9026405686761844 otherWins=0.579439157953258 actual-other=0.42056084204674204
+98 Navy actualWins=2 expectedWins=2.3770515019779994 otherWins=1.5818133892108497 actual-other=0.4181866107891503
+99 Louisville actualWins=2 expectedWins=1.9466142875778645 otherWins=1.586861271522885 actual-other=0.4131387284771151
+100 Eastern Michigan actualWins=2 expectedWins=1.9998683598506353 otherWins=1.598558010571361 actual-other=0.40144198942863896
+101 Princeton actualWins=2 expectedWins=1.8503364181870907 otherWins=1.6060304074397775 actual-other=0.39396959256022246
+102 Pittsburgh actualWins=2 expectedWins=2.0003705476218827 otherWins=1.631089566804639 actual-other=0.368910433195361
+103 Alabama - Birmingham actualWins=2 expectedWins=1.5916617914133298 otherWins=1.6353889043084018 actual-other=0.3646110956915982
+104 Pennsylvania actualWins=2 expectedWins=1.6038466377396805 otherWins=1.6431630029140205 actual-other=0.3568369970859795
+105 James Madison actualWins=3 expectedWins=3.239824076564277 otherWins=2.6530581754338183 actual-other=0.3469418245661817
+106 Stony Brook actualWins=3 expectedWins=2.2270220066503823 otherWins=2.686253813866679 actual-other=0.31374618613332084
+107 Virginia Tech actualWins=2 expectedWins=2.9144967878564874 otherWins=1.68768638631106 actual-other=0.31231361368893995
+108 Harvard actualWins=2 expectedWins=1.7629363420277646 otherWins=1.6896486577319485 actual-other=0.3103513422680515
+109 Elon actualWins=2 expectedWins=1.9303283781712741 otherWins=1.6904455685376982 actual-other=0.30955443146230177
+110 Maine actualWins=2 expectedWins=1.8698374330216943 otherWins=1.706865087513041 actual-other=0.2931349124869591
+111 Temple actualWins=2 expectedWins=2.371593244635598 otherWins=1.7094200216666156 actual-other=0.29057997833338445
+112 Western Carolina actualWins=2 expectedWins=1.8354608976972857 otherWins=1.7110535250219707 actual-other=0.2889464749780293
+113 Southern Methodist actualWins=1 expectedWins=0.5021255540202717 otherWins=0.7265740413641139 actual-other=0.27342595863588615
+114 Northwestern actualWins=1 expectedWins=1.4198193435656912 otherWins=0.7499614799428703 actual-other=0.2500385200571297
+115 Nicholls State actualWins=2 expectedWins=1.4169717322491087 otherWins=1.7600318808656916 actual-other=0.23996811913430838
+116 Central Arkansas actualWins=2 expectedWins=1.5980971529499368 otherWins=1.7601428935891148 actual-other=0.2398571064108852
+117 Arizona actualWins=2 expectedWins=2.1032557863123467 otherWins=1.7603178301584668 actual-other=0.23968216984153323
+118 Nevada - Reno actualWins=2 expectedWins=2.0424063307413776 otherWins=1.7620721093823766 actual-other=0.23792789061762343
+119 North Alabama actualWins=2 expectedWins=1.1239267044554373 otherWins=1.7817422183515546 actual-other=0.21825778164844545
+120 Western Michigan actualWins=2 expectedWins=1.9612354867717956 otherWins=1.8313482834590589 actual-other=0.16865171654094113
+121 Middle Tennessee State actualWins=1 expectedWins=1.0025397702787078 otherWins=0.8502157491720157 actual-other=0.1497842508279843
+122 Idaho State actualWins=1 expectedWins=0.4664483445799812 otherWins=0.8552001482750968 actual-other=0.14479985172490317
+123 Rhode Island actualWins=2 expectedWins=1.5696538665235806 otherWins=1.8690899527173803 actual-other=0.13091004728261968
+124 Kansas actualWins=2 expectedWins=2.8710916814635823 otherWins=1.8761281438591002 actual-other=0.1238718561408998
+125 Northwestern State actualWins=2 expectedWins=1.5104600421515344 otherWins=1.9072041471960377 actual-other=0.0927958528039623
+126 Nevada - Las Vegas actualWins=2 expectedWins=2.3399500198990966 otherWins=1.9425340589501356 actual-other=0.057465941049864355
+127 Norfolk State actualWins=1 expectedWins=0.17711649081126668 otherWins=0.9511312079346832 actual-other=0.0488687920653168
+128 Stetson actualWins=1 expectedWins=0.4435061070922765 otherWins=0.9690603910879949 actual-other=0.03093960891200509
+129 Wofford actualWins=2 expectedWins=2.095243957190407 otherWins=2.0029565016690403 actual-other=-0.002956501669040268
+130 East Tennessee State actualWins=2 expectedWins=0.8573731057398535 otherWins=2.0200395034728413 actual-other=-0.020039503472841336
+131 Connecticut actualWins=1 expectedWins=0.6086308243462052 otherWins=1.0379597706834345 actual-other=-0.03795977068343448
+132 East Carolina actualWins=1 expectedWins=1.199174078709623 otherWins=1.0382723847340711 actual-other=-0.03827238473407113
+133 Liberty actualWins=1 expectedWins=1.552165898515721 otherWins=1.042344261803763 actual-other=-0.04234426180376305
+134 Southern Mississippi actualWins=2 expectedWins=2.5203800270994785 otherWins=2.045319295174667 actual-other=-0.04531929517466704
+135 North Carolina actualWins=1 expectedWins=0.7781852844275701 otherWins=1.0592717417794835 actual-other=-0.05927174177948347
+136 Purdue actualWins=1 expectedWins=1.6478922588806848 otherWins=1.0716865604158619 actual-other=-0.07168656041586186
+137 Alcorn State actualWins=2 expectedWins=1.6890860605880884 otherWins=2.0978431462839606 actual-other=-0.09784314628396062
+138 Ohio actualWins=1 expectedWins=1.1306514779389794 otherWins=1.1025375946421376 actual-other=-0.10253759464213763
+139 Jacksonville State actualWins=2 expectedWins=2.5937314353574332 otherWins=2.1146711863968197 actual-other=-0.11467118639681972
+140 Tennessee actualWins=2 expectedWins=2.5648323297380413 otherWins=2.124132417101487 actual-other=-0.12413241710148704
+141 Campbell actualWins=1 expectedWins=0.6140406238723646 otherWins=1.1287225675120642 actual-other=-0.12872256751206423
+142 Butler actualWins=1 expectedWins=0.11407514431866189 otherWins=1.1643157181181816 actual-other=-0.16431571811818158
+143 Kent State actualWins=1 expectedWins=1.2894194432413972 otherWins=1.1839792642410598 actual-other=-0.18397926424105981
+144 Air Force actualWins=1 expectedWins=1.4697439217937596 otherWins=1.1911253640183517 actual-other=-0.19112536401835167
+145 William & Mary actualWins=1 expectedWins=0.7666883209349645 otherWins=1.1939777721328093 actual-other=-0.1939777721328093
+146 Tulane actualWins=1 expectedWins=1.7904382862842705 otherWins=1.2051090781705285 actual-other=-0.20510907817052848
+147 Northern Arizona actualWins=2 expectedWins=2.265295200510194 otherWins=2.211617221630644 actual-other=-0.211617221630644
+148 Indiana State actualWins=1 expectedWins=0.7655417218238193 otherWins=1.2181022718754497 actual-other=-0.21810227187544973
+149 North Carolina - Charlotte actualWins=2 expectedWins=1.7391546552756136 otherWins=2.2199812148720253 actual-other=-0.21998121487202527
+150 Georgia State actualWins=1 expectedWins=0.6771275925557338 otherWins=1.233693264266378 actual-other=-0.23369326426637804
+151 Southeast Missouri State actualWins=2 expectedWins=1.73432475339991 otherWins=2.2377835857410666 actual-other=-0.23778358574106662
+152 Kennesaw State actualWins=2 expectedWins=2.6606839126502586 otherWins=2.244760104249651 actual-other=-0.244760104249651
+153 Massachusetts actualWins=2 expectedWins=1.9861275531687765 otherWins=2.2455375675978506 actual-other=-0.24553756759785061
+154 Jackson State actualWins=1 expectedWins=0.4190146260671166 otherWins=1.2532187171318916 actual-other=-0.2532187171318916
+155 Southern actualWins=1 expectedWins=0.744689153457282 otherWins=1.2611911729891967 actual-other=-0.2611911729891967
+156 North Dakota actualWins=2 expectedWins=1.8893131472597753 otherWins=2.269407881634124 actual-other=-0.2694078816341241
+157 South Alabama actualWins=1 expectedWins=1.3455358656006806 otherWins=1.2765162093528883 actual-other=-0.27651620935288834
+158 Mercer actualWins=2 expectedWins=2.110748560018849 otherWins=2.325213347954559 actual-other=-0.32521334795455914
+159 Howard actualWins=1 expectedWins=0.4647614110489425 otherWins=1.3302870054244795 actual-other=-0.33028700542447953
+160 Sacramento State actualWins=1 expectedWins=1.300073665228115 otherWins=1.332327185141071 actual-other=-0.33232718514107096
+161 Western Kentucky actualWins=1 expectedWins=0.9157662813655101 otherWins=1.333319174494769 actual-other=-0.333319174494769
+162 Miami - Ohio actualWins=1 expectedWins=1.2904933052442644 otherWins=1.3380656748378008 actual-other=-0.3380656748378008
+163 Old Dominion actualWins=1 expectedWins=0.6460478188803418 otherWins=1.340022697663051 actual-other=-0.34002269766305093
+164 Yale actualWins=1 expectedWins=1.2386508015417483 otherWins=1.3876128794047187 actual-other=-0.38761287940471867
+165 Presbyterian actualWins=0 expectedWins=0.011068961760708929 otherWins=0.4042618798776031 actual-other=-0.4042618798776031
+166 Northern Illinois actualWins=1 expectedWins=1.3880266140781692 otherWins=1.4064064924036004 actual-other=-0.4064064924036004
+167 Western Illinois actualWins=1 expectedWins=1.3432974022845934 otherWins=1.4180788807521272 actual-other=-0.4180788807521272
+168 Austin Peay actualWins=2 expectedWins=2.809826555360196 otherWins=2.4243601005829203 actual-other=-0.4243601005829203
+169 Louisiana - Lafayette actualWins=1 expectedWins=0.9595799090860282 otherWins=1.440663043846836 actual-other=-0.44066304384683597
+170 Georgia Tech actualWins=1 expectedWins=1.8663655801586745 otherWins=1.4505802428122023 actual-other=-0.4505802428122023
+171 Richmond actualWins=2 expectedWins=2.633990094653913 otherWins=2.4557207721055905 actual-other=-0.4557207721055905
+172 Rutgers actualWins=1 expectedWins=1.4110133414761026 otherWins=1.4765059780414762 actual-other=-0.4765059780414762
+173 Northern Iowa actualWins=1 expectedWins=1.5825840165771392 otherWins=1.4804195851294115 actual-other=-0.4804195851294115
+174 Drake actualWins=0 expectedWins=0.02494891377303665 otherWins=0.48575289106288655 actual-other=-0.48575289106288655
+175 Tulsa actualWins=1 expectedWins=1.5858739568124767 otherWins=1.491573587173908 actual-other=-0.491573587173908
+176 Eastern Kentucky actualWins=2 expectedWins=1.9509330176746333 otherWins=2.493563277422839 actual-other=-0.4935632774228389
+177 Idaho actualWins=0 expectedWins=0.013513667958960807 otherWins=0.5018595978195082 actual-other=-0.5018595978195082
+178 Albany actualWins=2 expectedWins=1.354427155816299 otherWins=2.5071603273117673 actual-other=-0.5071603273117673
+179 California - Los Angeles actualWins=0 expectedWins=0.5494972013936652 otherWins=0.5189679424322814 actual-other=-0.5189679424322814
+180 Incarnate Word actualWins=1 expectedWins=0.8350815779351158 otherWins=1.5200401234415248 actual-other=-0.5200401234415248
+181 Monmouth actualWins=2 expectedWins=1.680542085363697 otherWins=2.5376341382409295 actual-other=-0.5376341382409295
+182 South Dakota actualWins=1 expectedWins=1.4273132143434952 otherWins=1.5449617725377418 actual-other=-0.5449617725377418
+183 Ball State actualWins=1 expectedWins=1.8624924602906843 otherWins=1.563335652414652 actual-other=-0.563335652414652
+184 Texas - San Antonio actualWins=1 expectedWins=0.9958919253507499 otherWins=1.5680870427616285 actual-other=-0.5680870427616285
+185 Bryant actualWins=2 expectedWins=1.7423213930242438 otherWins=2.568168711850317 actual-other=-0.5681687118503169
+186 Jacksonville actualWins=0 expectedWins=0.011179570510356784 otherWins=0.5701884237267685 actual-other=-0.5701884237267685
+187 Central Michigan actualWins=1 expectedWins=1.0407284369680756 otherWins=1.585934762774192 actual-other=-0.585934762774192
+188 Oregon State actualWins=1 expectedWins=1.589726909814037 otherWins=1.590682714912293 actual-other=-0.5906827149122931
+189 Rice actualWins=1 expectedWins=1.18092187183741 otherWins=1.5973279952316464 actual-other=-0.5973279952316464
+190 Duquesne actualWins=2 expectedWins=1.2382675314389184 otherWins=2.5997335192137703 actual-other=-0.5997335192137703
+191 Delaware actualWins=2 expectedWins=2.6542733879359233 otherWins=2.6029598223774397 actual-other=-0.6029598223774397
+192 Stephen F. Austin actualWins=1 expectedWins=0.33362331169463877 otherWins=1.6204042781942622 actual-other=-0.6204042781942622
+193 Southern Illinois actualWins=1 expectedWins=1.7526688621111626 otherWins=1.6316054498967172 actual-other=-0.6316054498967172
+194 Tennessee - Martin actualWins=1 expectedWins=0.6402168671282816 otherWins=1.651495187777915 actual-other=-0.6514951877779149
+195 The Citadel actualWins=1 expectedWins=1.0565076270501859 otherWins=1.6603039453826498 actual-other=-0.6603039453826498
+196 North Carolina Central actualWins=0 expectedWins=0.31695326083506964 otherWins=0.7338678226043375 actual-other=-0.7338678226043375
+197 Nebraska actualWins=0 expectedWins=0.8947736337454257 otherWins=0.7710089626929244 actual-other=-0.7710089626929244
+198 San Jose State actualWins=0 expectedWins=0.44163615934622397 otherWins=0.7740194182702663 actual-other=-0.7740194182702663
+199 Morgan State actualWins=1 expectedWins=0.30229284129007394 otherWins=1.7763189554358088 actual-other=-0.7763189554358088
+200 Charleston Southern actualWins=0 expectedWins=0.09427611592014096 otherWins=0.7850695467451001 actual-other=-0.7850695467451001
+201 Bowling Green actualWins=1 expectedWins=0.9685570335028928 otherWins=1.7938429671474163 actual-other=-0.7938429671474163
+202 Arkansas actualWins=1 expectedWins=1.4655627507498294 otherWins=1.834201077800236 actual-other=-0.834201077800236
+203 Davidson actualWins=0 expectedWins=0.02362232509004647 otherWins=0.851908622748437 actual-other=-0.851908622748437
+204 Arkansas - Pine Bluff actualWins=0 expectedWins=0.07230976603612088 otherWins=0.8725813329938978 actual-other=-0.8725813329938978
+205 Sam Houston State actualWins=1 expectedWins=1.6978556428229474 otherWins=1.881095395887792 actual-other=-0.8810953958877921
+206 Central Connecticut actualWins=1 expectedWins=1.0387376704649296 otherWins=1.894734232763337 actual-other=-0.894734232763337
+207 Youngstown State actualWins=1 expectedWins=1.9364672497673683 otherWins=1.9189633915350217 actual-other=-0.9189633915350217
+208 New Mexico State actualWins=1 expectedWins=0.8513182844313605 otherWins=1.9398081530794153 actual-other=-0.9398081530794153
+209 Gardner - Webb actualWins=0 expectedWins=0.1642657402460077 otherWins=0.9712566357661765 actual-other=-0.9712566357661765
+210 San Diego actualWins=0 expectedWins=0.18447846248431654 otherWins=0.9878519030976388 actual-other=-0.9878519030976388
+211 Holy Cross actualWins=1 expectedWins=1.126585091144235 otherWins=2.0066037831493952 actual-other=-1.0066037831493952
+212 Southeast Louisiana actualWins=1 expectedWins=1.8695683427920997 otherWins=2.011391273430831 actual-other=-1.011391273430831
+213 Abilene Christian actualWins=1 expectedWins=1.822541443974186 otherWins=2.015007230236487 actual-other=-1.015007230236487
+214 Prairie View actualWins=2 expectedWins=2.17980427752719 otherWins=3.0294311227624164 actual-other=-1.0294311227624164
+215 Colorado State actualWins=1 expectedWins=1.3069994664764104 otherWins=2.081172081559599 actual-other=-1.081172081559599
+216 Morehead State actualWins=0 expectedWins=0.016976221876461306 otherWins=1.105061765421221 actual-other=-1.105061765421221
+217 Lehigh actualWins=1 expectedWins=0.8773385639000638 otherWins=2.122360886356476 actual-other=-1.1223608863564758
+218 Hampton actualWins=0 expectedWins=0.21092291165351074 otherWins=1.127692855072007 actual-other=-1.127692855072007
+219 California Poly actualWins=1 expectedWins=1.027337985399556 otherWins=2.16018926947829 actual-other=-1.1601892694782898
+220 Cornell actualWins=0 expectedWins=0.39976841354849363 otherWins=1.1876700826295246 actual-other=-1.1876700826295246
+221 Florida A&M actualWins=1 expectedWins=1.3131226025115015 otherWins=2.1877474025927706 actual-other=-1.1877474025927706
+222 Portland State actualWins=0 expectedWins=0.13683246145723765 otherWins=1.200121054919641 actual-other=-1.200121054919641
+223 South Carolina State actualWins=0 expectedWins=0.9060062926116162 otherWins=1.2126240704326554 actual-other=-1.2126240704326554
+224 Alabama State actualWins=0 expectedWins=0.44021435704139444 otherWins=1.3289555086342584 actual-other=-1.3289555086342584
+225 Texas State - San Marcos actualWins=1 expectedWins=1.322513118904348 otherWins=2.3323274895005786 actual-other=-1.3323274895005786
+226 Murray State actualWins=0 expectedWins=0.08636891940088326 otherWins=1.333008010771428 actual-other=-1.333008010771428
+227 Furman actualWins=0 expectedWins=0.8345180929674051 otherWins=1.3487357274267462 actual-other=-1.3487357274267462
+228 Delaware State actualWins=0 expectedWins=0.014680688305827472 otherWins=1.3520770847351635 actual-other=-1.3520770847351635
+229 Tennessee Tech actualWins=0 expectedWins=0.04958490749296002 otherWins=1.371532227590327 actual-other=-1.371532227590327
+230 Grambling actualWins=1 expectedWins=0.8850560884582833 otherWins=2.374730897178185 actual-other=-1.374730897178185
+231 New Hampshire actualWins=0 expectedWins=0.6785052233664822 otherWins=1.3831772552630048 actual-other=-1.3831772552630048
+232 Savannah State actualWins=0 expectedWins=0.26946447662560025 otherWins=1.3935485312877938 actual-other=-1.3935485312877938
+233 Dayton actualWins=2 expectedWins=2.394466849676212 otherWins=3.403762752129451 actual-other=-1.4037627521294511
+234 Brown actualWins=0 expectedWins=0.2021447507611861 otherWins=1.4460562024489063 actual-other=-1.4460562024489063
+235 Valparaiso actualWins=0 expectedWins=0.30790656544046535 otherWins=1.447784439547537 actual-other=-1.447784439547537
+236 Wagner actualWins=0 expectedWins=0.1631464096343362 otherWins=1.4540618171083668 actual-other=-1.4540618171083668
+237 Bethune - Cookman actualWins=1 expectedWins=2.2656306072578145 otherWins=2.492591646773837 actual-other=-1.4925916467738372
+238 Lamar actualWins=0 expectedWins=0.2834890817600003 otherWins=1.5818073117181184 actual-other=-1.5818073117181184
+239 Samford actualWins=0 expectedWins=0.9546306869631904 otherWins=1.6077067587934382 actual-other=-1.6077067587934382
+240 Texas Southern actualWins=0 expectedWins=0.26362609806335746 otherWins=1.6191483801329087 actual-other=-1.6191483801329087
+241 Mississippi Valley State actualWins=0 expectedWins=0.139609505143324 otherWins=1.6284159595912755 actual-other=-1.6284159595912755
+242 Alabama A&M actualWins=0 expectedWins=0.5375089894732767 otherWins=1.7759657999814342 actual-other=-1.7759657999814342
+243 Saint Francis - Pennsylvania actualWins=1 expectedWins=2.216454663400273 otherWins=2.839770810610489 actual-other=-1.839770810610489
+244 Houston Baptist actualWins=0 expectedWins=0.07505300735979992 otherWins=1.8995386414309035 actual-other=-1.8995386414309035
+245 Georgetown actualWins=1 expectedWins=1.4358830286325241 otherWins=2.9298260135253544 actual-other=-1.9298260135253544
+246 Texas - El Paso actualWins=0 expectedWins=0.7985826587171834 otherWins=1.9438949141204953 actual-other=-1.9438949141204953
+247 Robert Morris actualWins=0 expectedWins=0.21938634787357225 otherWins=1.9984786267810726 actual-other=-1.9984786267810726
+248 Southern Utah actualWins=0 expectedWins=0.8100086848198499 otherWins=2.060777834272311 actual-other=-2.060777834272311
+249 Virginia Military actualWins=0 expectedWins=0.3579972424503389 otherWins=2.1535747801196266 actual-other=-2.1535747801196266
+250 Northern Colorado actualWins=0 expectedWins=1.0398142680002096 otherWins=2.1550132010232312 actual-other=-2.1550132010232312
+251 Eastern Illinois actualWins=0 expectedWins=0.29043099117419446 otherWins=2.4707764483015704 actual-other=-2.4707764483015704
+252 Bucknell actualWins=0 expectedWins=0.5379480575607207 otherWins=2.492631083134426 actual-other=-2.492631083134426
+253 Lafayette actualWins=0 expectedWins=0.32413248021102037 otherWins=2.5454260499580874 actual-other=-2.5454260499580874
+254 Fordham actualWins=0 expectedWins=0.3157612297060358 otherWins=2.5827001762849044 actual-other=-2.5827001762849044
+255 Marist actualWins=0 expectedWins=0.8584981617214907 otherWins=2.7106013628534424 actual-other=-2.7106013628534424
+results: prob=0.6352054303499537 Temple--Tulsa actual=31--17 predicted=25.811239694222827--19.110693416709385
+results: prob=0.6773062293948771 Harvard--Brown actual=31--17 predicted=37.18768079279927--16.717209417705945
+results: prob=0.6860785213880857 Central Florida--Florida Atlantic actual=56--36 predicted=45.30749562970644--17.587666151501598
+results: prob=0.6878646764639322 Penn State--Illinois actual=63--24 predicted=55.90811118982275--21.738477679880393
+results: prob=0.34218673906306285 Southern California--Washington State actual=39--36 predicted=18.642230109638625--28.42433399951459
+results: prob=0.6862511855596571 Alabama--Texas A&M actual=45--23 predicted=42.98575712825186--14.754031846320736
+results: prob=0.4335191950758832 Albany--Saint Francis - Pennsylvania actual=35--28 predicted=19.41077247027995--21.905451932292046
+results: prob=0.6899146581028244 Appalachian State--Gardner - Webb actual=72--7 predicted=69.14720868032552--16.61063874846578
+results: prob=0.6815022180776463 Prairie View--Arkansas - Pine Bluff actual=62--13 predicted=41.96397962219337--21.539335099071778
+results: prob=0.6519826842360656 Arkansas State--Nevada - Las Vegas actual=27--20 predicted=27.294307061151883--18.528422616957215
+results: prob=0.68859421974652 Auburn--Arkansas actual=34--3 predicted=56.145879462423494--17.783937921031157
+results: prob=0.3322893249990848 Western Kentucky--Ball State actual=28--20 predicted=14.536588046156176--26.74816600779628
+results: prob=0.6237620000352435 Baylor--Kansas actual=26--7 predicted=25.551445943335317--19.857018669903173
+results: prob=0.6586869622511277 Miami - Ohio--Bowling Green actual=38--23 predicted=29.11853470935165--19.16679677382582
+results: prob=0.6830695642169842 Brigham Young--McNeese State actual=30--3 predicted=37.84206286016567--15.88473399067011
+results: prob=0.6759995132399028 Bryant--Robert Morris actual=49--46 predicted=32.62262483098108--16.90763051027474
+results: prob=0.6838901862511282 California - Davis--Idaho actual=44--21 predicted=47.08131835852451--16.082271199966687
+results: prob=0.4865436548936781 Central Michigan--Maine actual=17--5 predicted=18.439779453100552--18.91332473764571
+results: prob=0.6757816509942353 Elon--Charleston Southern actual=31--22 predicted=34.787814318871696--15.827020039556182
+results: prob=0.6762593322501617 Cincinnati--Ohio actual=34--30 predicted=32.2238508422882--16.37780091484069
+results: prob=0.6837157033104564 Colgate--Lafayette actual=45--0 predicted=30.738233988469265--7.8443086433559195
+results: prob=0.5378791259729881 Illinois State--Colorado State actual=35--19 predicted=21.507006235657826--19.90325596783899
+results: prob=0.61960934703384 Yale--Cornell actual=30--24 predicted=25.494847899095017--18.490276021600675
+results: prob=0.6807512904412467 Dayton--Davidson actual=42--21 predicted=46.062627689927346--18.285222293664383
+results: prob=0.6892308256601775 Duke--North Carolina Central actual=55--13 predicted=69.93766578411265--15.820665281304635
+results: prob=0.6852923496353338 Tennessee State--Eastern Illinois actual=41--40 predicted=46.68722861695069--20.439235298984332
+results: prob=0.5160779880006976 Eastern Kentucky--Southeast Missouri State actual=23--14 predicted=23.95467464789336--23.38811842395931
+results: prob=0.6854378008344323 Eastern Washington--California Poly actual=70--17 predicted=42.949377651096--16.80869750571895
+results: prob=0.33575921014113985 East Tennessee State--Furman actual=29--27 predicted=16.921248883807277--28.157149110219628
+results: prob=0.6510071101904075 Florida A&M--Savannah State actual=31--13 predicted=23.50989705357369--14.889471937805748
+results: prob=0.5912302577748243 Florida State--Northern Illinois actual=37--19 predicted=17.30815726142192--13.662922475145685
+results: prob=0.6626101774212132 Central Connecticut--Fordham actual=24--13 predicted=24.76657191232078--13.945354037507347
+results: prob=0.6729405061892482 Columbia--Georgetown actual=23--15 predicted=31.262299365499175--16.397700879154044
+results: prob=0.6362511014739032 Western Michigan--Georgia State actual=34--15 predicted=28.280856883431248--21.469529865872158
+results: prob=0.6805594919099878 Clemson--Georgia Tech actual=49--21 predicted=38.338313457836186--19.284977507859733
+results: prob=0.5595859299743571 Grambling--Alabama State actual=34--0 predicted=16.863884550354328--14.6591880638479
+results: prob=0.6896201589223225 Hawaii--Duquesne actual=42--21 predicted=73.38547537651182--25.225746810670593
+results: prob=0.6345047517850173 Dartmouth--Holy Cross actual=34--14 predicted=28.847114295831624--21.758288689100148
+results: prob=0.6899744235987753 Houston--Texas Southern actual=70--14 predicted=75.35167182615155--21.721806462094822
+results: prob=0.46346315300494434 Michigan State--Indiana actual=35--21 predicted=21.239091451011888--22.546810808486484
+results: prob=0.44262016229019696 Wisconsin--Iowa actual=28--17 predicted=13.289773201012654--15.401544573387532
+results: prob=0.6739580038976891 Iowa State--Akron actual=26--13 predicted=27.756042997604162--13.14388828792006
+results: prob=0.6897401687145881 Jacksonville State--Tennessee Tech actual=48--20 predicted=61.383487491259345--11.628161535067466
+results: prob=0.6868414780190475 James Madison--William & Mary actual=51--0 predicted=39.86352428929206--9.856343075435408
+results: prob=0.3449173640517029 Kentucky--Mississippi State actual=28--7 predicted=17.497044146283002--26.77225828410225
+results: prob=0.6865092915255683 Southeast Louisiana--Lamar actual=30--24 predicted=48.545631568949126--19.602075014692197
+results: prob=0.5459749697653807 North Texas--Liberty actual=47--7 predicted=24.699063788538197--23.03039405236462
+results: prob=0.6832893221145887 Coastal Carolina--Louisiana - Lafayette actual=30--28 predicted=43.613569745703614--21.34367585056425
+results: prob=0.6855922283416818 Louisiana State--Louisiana Tech actual=38--21 predicted=43.4373532984199--16.952957157449365
+results: prob=0.6049238709616569 North Carolina State--Marshall actual=37--20 predicted=26.265077575650928--21.85980615310303
+results: prob=0.33679829021306174 Maryland--Minnesota actual=42--13 predicted=19.857887968477176--30.809200042067097
+results: prob=0.6578299626051092 Massachusetts--North Carolina - Charlotte actual=49--31 predicted=26.140322262786285--16.351475645632366
+results: prob=0.6862871405096183 Memphis--South Alabama actual=52--35 predicted=47.34572951736814--18.961796901126007
+results: prob=0.38883623020094715 The Citadel--Mercer actual=38--31 predicted=17.104761949381814--21.89956171067032
+results: prob=0.6789840120706526 Miami - Florida--Florida International actual=31--17 predicted=35.66455496044058--17.983757958721462
+results: prob=0.6857256537632254 Michigan--Nebraska actual=56--10 predicted=45.8128348901413--19.000976715517794
+results: prob=0.6801364964786053 Mississippi--Kent State actual=38--17 predicted=38.81220942416344--20.128504579837234
+results: prob=0.6759201220781617 Alcorn State--Mississippi Valley State actual=56--20 predicted=28.440415167044502--12.775077594448106
+results: prob=0.6844920957557882 Georgia--Missouri actual=43--29 predicted=41.234060364576074--17.023153798051034
+results: prob=0.523201278198511 Montana--Sacramento State actual=41--34 predicted=23.057117802376354--22.236517574791925
+results: prob=0.36062805426716005 Howard--Bethune - Cookman actual=41--35 predicted=18.44682342891502--25.58102864032366
+results: prob=0.6338023506716313 Nicholls State--Sam Houston State actual=27--7 predicted=26.59861280042735--20.01935089788676
+results: prob=0.4130207025511762 North Carolina--Pittsburgh actual=38--35 predicted=17.00394621274472--20.433899694913713
+results: prob=0.3108688623439393 Morgan State--North Carolina A&T actual=16--13 predicted=13.912715721668693--56.56952892802002
+results: prob=0.44000472234812216 Idaho State--North Dakota actual=25--21 predicted=18.09333544272061--20.454924549696358
+results: prob=0.6823618843045514 North Dakota State--Delaware actual=38--10 predicted=31.49655058648803--10.499774050446387
+results: prob=0.6319041411472536 Troy State--Northeast Louisiana actual=35--27 predicted=29.762281795225768--23.355777186310885
+results: prob=0.6798241910035245 Northern Arizona--Southern Utah actual=31--23 predicted=39.22437357268109--20.83674916940565
+results: prob=0.6869966312873026 Northern Iowa--Hampton actual=44--0 predicted=51.2053404259815--18.209463938815617
+results: prob=0.651913158861668 Southern--Alabama A&M actual=29--27 predicted=22.52613585711802--13.7641573351573
+results: prob=0.6880977887954758 Ohio State--Tulane actual=49--6 predicted=51.591463460068454--16.25809950124267
+results: prob=0.676063786419501 Oklahoma--Army actual=28--21 predicted=32.89705599800795--17.171154564951106
+results: prob=0.3139123903415848 Texas Tech--Oklahoma State actual=41--17 predicted=19.39441136268256--47.170156656557324
+results: prob=0.3129361669436408 Old Dominion--Virginia Tech actual=49--35 predicted=17.103637111106064--47.90094044035635
+results: prob=0.6399859624556532 Stanford--Oregon actual=38--31 predicted=25.144789933522357--17.94459781665089
+results: prob=0.5780182228329698 Arizona--Oregon State actual=35--14 predicted=28.073377719840664--25.0665953795846
+results: prob=0.642646807431687 Pennsylvania--Lehigh actual=30--10 predicted=26.429798622834788--18.57556396967302
+results: prob=0.6760926241642291 Montana State--Portland State actual=43--23 predicted=38.31086578632008--22.57138331820173
+results: prob=0.6696428467893137 Princeton--Monmouth actual=51--9 predicted=39.974806093850525--21.2691481763513
+results: prob=0.3264545559239589 Purdue--Boston College actual=30--13 predicted=22.668902775698335--37.10186773417615
+results: prob=0.6156774288874484 Buffalo--Rutgers actual=42--13 predicted=25.54848188178139--20.452610405425805
+results: prob=0.6605888055111417 San Diego State--Eastern Michigan actual=23--20 predicted=25.328858458906208--14.984010169425183
+results: prob=0.3296264966773026 Norfolk State--South Carolina State actual=17--7 predicted=8.745366849573173--22.59193289691349
+results: prob=0.3668264724919019 Southern Methodist--Navy actual=31--30 predicted=26.873767932564597--33.392330582097415
+results: prob=0.665507602286111 Southern Mississippi--Rice actual=40--22 predicted=27.462655625329194--15.905690566978205
+results: prob=0.678716998846463 South Florida--East Carolina actual=20--13 predicted=37.817945038036555--20.34610520660363
+results: prob=0.3252016327077575 Stephen F. Austin--Abilene Christian actual=24--21 predicted=17.30908114555567--32.34975532239788
+results: prob=0.4615769513008253 Stetson--Marist actual=19--14 predicted=17.16627679693193--19.155478354086128
+results: prob=0.35250679952975694 Stony Brook--Richmond actual=36--10 predicted=15.139375815450272--23.27641680373804
+results: prob=0.6863374344222153 Syracuse--Connecticut actual=51--21 predicted=49.135021350537365--20.706784117006798
+results: prob=0.4806000296510675 Florida--Tennessee actual=47--21 predicted=14.35992483018058--15.044461742786119
+results: prob=0.6326943461382859 Tennessee - Chattanooga--Samford actual=27--20 predicted=23.30486267918006--16.84264065731105
+results: prob=0.3299750175869003 Tennessee - Martin--Austin Peay actual=37--7 predicted=19.671191640725183--32.68510088541974
+results: prob=0.33421888163030156 Texas--Texas Christian actual=31--16 predicted=19.61551262006615--31.24945618239613
+results: prob=0.4908712919733059 New Mexico State--Texas - El Paso actual=27--20 predicted=18.606198258696878--18.92776128631503
+results: prob=0.6617522418473252 Texas - San Antonio--Texas State - San Marcos actual=25--21 predicted=26.12967215167245--15.516467508120126
+results: prob=0.6559156606216066 Toledo--Nevada - Reno actual=63--44 predicted=26.86929043431428--17.442100688197723
+results: prob=0.6797749913799918 Utah State--Air Force actual=42--32 predicted=36.04286518221015--17.66156669855132
+results: prob=0.3652146069704576 South Carolina--Vanderbilt actual=37--14 predicted=14.203737960244403--20.868840010002685
+results: prob=0.6874284415966772 Villanova--Bucknell actual=49--7 predicted=42.274511432835006--10.05396194844825
+results: prob=0.6750351384650113 Virginia--Louisville actual=27--3 predicted=32.86884448439158--17.691729548193603
+results: prob=0.6762838606394612 Sacred Heart--Wagner actual=41--14 predicted=32.82307534548426--16.972340441539703
+results: prob=0.5763748684826863 Notre Dame--Wake Forest actual=56--27 predicted=26.50139242944252--23.577933927582986
+results: prob=0.6523153026015739 Washington--Arizona State actual=27--20 predicted=22.60672347494735--13.779435463898153
+results: prob=0.6706456281601487 Weber State--Northern Colorado actual=45--28 predicted=29.64301882677537--16.438122518285947
+results: prob=0.6885004730606973 Western Carolina--Virginia Military actual=52--50 predicted=52.444685161304974--13.654335422972807
+results: prob=0.6842564375895632 West Virginia--Kansas State actual=35--6 predicted=42.873915757865866--19.052352718706537
+predictions: prob=0.6806466308766731 Northern Iowa--Indiana State  predicted=36.79014830272744--17.6542354372625 spread=19.135912865464938
+predictions: prob=0.6849633866276982 Miami - Florida--North Carolina predicted=42.98319122632557--17.872850832002733 spread=25.11034039432284
+predictions: prob=0.6830269757861334 North Carolina A&T--South Carolina State predicted=29.985163829040566--8.106629147895553 spread=21.878534681145013
+predictions: prob=0.6596843983066245 Colorado--California - Los Angeles predicted=28.222642394271492--18.05374824663991 spread=10.168894147631583
+predictions: prob=0.6654690777672627 Princeton--Columbia  predicted=31.997270932677495--20.44166801633539 spread=11.555602916342103
+predictions: prob=0.6173443351092373 Rhode Island--Harvard  predicted=27.806055191109294--22.593060410299042 spread=5.212994780810252
+predictions: prob=0.6681079285473677 Memphis--Tulane  predicted=34.030266424720146--21.69949948904309 spread=12.330766935677055
+predictions: prob=0.63244086923888 Abilene Christian--Incarnate Word predicted=27.204403184303306--20.76264339731366 spread=6.441759786989646
+predictions: prob=0.6764755642788897 Air Force--Nevada - Reno predicted=36.7880598099139--20.820747747704047 spread=15.96731206220985
+predictions: prob=0.6904563819402312 Alabama--Louisiana - Lafayette predicted=80.79991755473613--15.493190100156014 spread=65.30672745458011
+predictions: prob=0.6770023918403919 Alabama - Birmingham--North Carolina - Charlotte predicted=30.64877261015233--14.362543433324788 spread=16.286229176827543
+predictions: prob=0.6879407419704242 Appalachian State--South Alabama predicted=56.42824364179239--21.81374573545076 spread=34.61449790634163
+predictions: prob=0.6023273546340879 Southern California--Arizona  predicted=26.386141321800842--22.12861230954445 spread=4.257529012256391
+predictions: prob=0.685723607272911 Arizona State--Oregon State predicted=45.80472743417323--18.98729175246803 spread=26.817435681705202
+predictions: prob=0.6835910435628393 Auburn--Southern Mississippi predicted=34.86224208275804--12.176563999804415 spread=22.685678082953622
+predictions: prob=0.5661295584857344 Kent State--Ball State  predicted=17.57316460023204--15.096267774662145 spread=2.476896825569895
+predictions: prob=0.6700716164426254 Boston College--Temple predicted=29.18679707170873--16.197588370652177 spread=12.989208701056555
+predictions: prob=0.648397496738073 Georgetown--Brown  predicted=23.586069317375962--15.343258718043273 spread=8.242810599332689
+predictions: prob=0.6149855473219026 Army--Buffalo  predicted=27.576746637480408--22.531078199282103 spread=5.045668438198305
+predictions: prob=0.671367870393595 Butler--Morehead State predicted=32.308719246105454--18.8239898268919 spread=13.484729419213554
+predictions: prob=0.5338037887171759 California--Oregon predicted=21.333604770896088--20.12800075463157 spread=1.205604016264516
+predictions: prob=0.6785132647573036 Montana--California Poly  predicted=40.013669031089165--22.69803732878122 spread=17.315631702307947
+predictions: prob=0.5268743789558566 Campbell--North Alabama predicted=19.913372696774488--18.960378769073706 spread=0.9529939277007813
+predictions: prob=0.6834155912974589 Central Florida--Pittsburgh predicted=35.86213460810893--13.429777055858484 spread=22.432357552250448
+predictions: prob=0.6796914015994215 Clemson--Syracuse predicted=36.89169188597849--18.638391333687398 spread=18.25330055229109
+predictions: prob=0.680304175597686 Cincinnati--Connecticut  predicted=35.6786066870561--16.876898410998514 spread=18.80170827605759
+predictions: prob=0.6475751782656791 Sacred Heart--Cornell  predicted=24.75209020868155--16.623713763389173 spread=8.128376445292378
+predictions: prob=0.6763615463801569 Dartmouth--Pennsylvania predicted=33.12133095158404--17.226088389397542 spread=15.8952425621865
+predictions: prob=0.6828322901708739 Duke--Virginia Tech predicted=32.89728990192971--11.279782009386508 spread=21.617507892543202
+predictions: prob=0.6742035928597714 East Carolina--Old Dominion predicted=32.54993936925182--17.8220107289505 spread=14.727928640301318
+predictions: prob=0.6778644176086038 Eastern Michigan--Northern Illinois predicted=33.0564742287741--16.201669068423364 spread=16.854805160350736
+predictions: prob=0.6857551706114586 Tennessee - Chattanooga--East Tennessee State  predicted=45.023094960521505--18.126543026228646 spread=26.89655193429286
+predictions: prob=0.6794634660869284 Elon--New Hampshire predicted=30.81700432096514--12.748865615517655 spread=18.068138705447485
+predictions: prob=0.6902776818273089 Florida International--Arkansas - Pine Bluff predicted=79.56872442237002--19.481708549498514 spread=60.08701587287151
+predictions: prob=0.6723977542097479 Fresno State--Toledo predicted=28.60728865844914--14.699314363164756 spread=13.907974295284383
+predictions: prob=0.5472766146564593 Furman--Western Carolina predicted=16.661417216620357--14.94510385921635 spread=1.7163133574040081
+predictions: prob=0.6857349024744037 Wofford--Gardner - Webb  predicted=42.88239380615687--16.052811580929433 spread=26.829582225227437
+predictions: prob=0.6895295857772185 Georgia--Tennessee predicted=58.02160841843273--11.137446658207828 spread=46.8841617602249
+predictions: prob=0.5753819057284502 Arkansas State--Georgia Southern  predicted=17.432008872380287--14.55322354499183 spread=2.8787853273884565
+predictions: prob=0.534422041053418 Northeast Louisiana--Georgia State  predicted=24.17881977976402--22.947482786786143 spread=1.2313369929778766
+predictions: prob=0.6853679636115168 Georgia Tech--Bowling Green predicted=46.41545332443957--20.432239526055792 spread=25.983213798383776
+predictions: prob=0.6845947500261497 Charleston Southern--Hampton  predicted=38.275919017324526--13.872735546783463 spread=24.403183470541062
+predictions: prob=0.6788322858785779 Holy Cross--Bucknell predicted=31.328516032936477--13.76976756256284 spread=17.558748470373637
+predictions: prob=0.6756579197402683 Idaho--Portland State predicted=31.14221705650565--15.634738647195409 spread=15.507478409310242
+predictions: prob=0.5169528700839798 Northern Arizona--Idaho State  predicted=23.43033995021204--22.83298862333029 spread=0.5973513268817499
+predictions: prob=0.5991503432111833 Alabama A&M--Jackson State  predicted=19.28586984453913--15.216239318921652 spread=4.069630525617477
+predictions: prob=0.6251102020107526 Drake--Jacksonville  predicted=26.35065569927249--19.288860063212333 spread=7.0617956360601575
+predictions: prob=0.6720842245744043 Jacksonville State--Austin Peay predicted=22.01442953105438--8.243963527270001 spread=13.770466003784378
+predictions: prob=0.6853503402469402 Oklahoma State--Kansas  predicted=45.60297074933142--19.64487356972654 spread=25.95809717960488
+predictions: prob=0.6808815124869234 Texas--Kansas State  predicted=42.237924499951774--22.868681895308402 spread=19.36924260464337
+predictions: prob=0.6778211671390445 Kennesaw State--Samford predicted=34.51815525717309--17.691810808539756 spread=16.826344448633336
+predictions: prob=0.6514480496508616 South Carolina--Kentucky  predicted=27.204884348209657--18.516097880351598 spread=8.688786467858058
+predictions: prob=0.6597135267946727 Central Connecticut--Lafayette  predicted=22.40267533467273--12.232420675029712 spread=10.170254659643017
+predictions: prob=0.6228120243438444 Louisiana State--Mississippi predicted=23.822647313515695--18.2047460363013 spread=5.6179012772143935
+predictions: prob=0.6622657891124258 Louisville--Florida State predicted=25.376895600331878--14.635485917069559 spread=10.741409683262319
+predictions: prob=0.6763097217236653 Dayton--Marist  predicted=38.097757020344005--22.23628745828804 spread=15.861469562055966
+predictions: prob=0.6828174791678695 McNeese State--Stephen F. Austin predicted=32.592013431452--11.01614404986297 spread=21.575869381589033
+predictions: prob=0.6409566378948299 Western Michigan--Miami - Ohio  predicted=26.281597299054738--18.969965974445735 spread=7.311631324609003
+predictions: prob=0.6875370131121588 Michigan State--Central Michigan predicted=50.25246629426722--17.57934371063714 spread=32.67312258363008
+predictions: prob=0.5110052901939619 Middle Tennessee State--Florida Atlantic predicted=20.815721613938504--20.428753911886503 spread=0.3869677020520008
+predictions: prob=0.6108254640470524 Mississippi State--Florida predicted=15.148073280564857--10.378776496231673 spread=4.769296784333184
+predictions: prob=0.6513048073590852 Missouri State--Illinois State predicted=22.719619283159837--14.047200163165737 spread=8.6724191199941
+predictions: prob=0.6598739817039615 Monmouth--Wagner predicted=27.6120370846874--17.417632470119763 spread=10.194404614567638
+predictions: prob=0.6589388770487794 Eastern Washington--Montana State  predicted=33.28658538855797--23.283454840855697 spread=10.00313054770227
+predictions: prob=0.6829421760225652 Tennessee - Martin--Murray State  predicted=43.61988847311324--21.827688276420183 spread=21.79220019669306
+predictions: prob=0.6756896209241106 Purdue--Nebraska  predicted=42.8398945429242--27.320243047689722 spread=15.519651495234477
+predictions: prob=0.5428204991524349 Liberty--New Mexico  predicted=24.488690032987332--22.942563571871485 spread=1.546126461115847
+predictions: prob=0.6873586303900924 Nicholls State--Lamar predicted=47.74578828805852--15.840676134227873 spread=31.905112153830647
+predictions: prob=0.688342799220693 Norfolk State--Delaware State predicted=42.54025743368331--5.753881262897073 spread=36.786376170786234
+predictions: prob=0.6842008898981814 North Carolina Central--Florida A&M predicted=41.56977781642394--17.866859206103324 spread=23.702918610320612
+predictions: prob=0.6553831481323594 North Carolina State--Virginia predicted=24.776333089676747--15.442196427462221 spread=9.334136662214526
+predictions: prob=0.5131736486839054 South Dakota State--North Dakota State  predicted=16.586292413479246--16.122698693712813 spread=0.4635937197664326
+predictions: prob=0.5340035169229426 Northern Colorado--North Dakota predicted=22.040259797079077--20.82759521500647 spread=1.212664582072609
+predictions: prob=0.6825743947825659 North Texas--Louisiana Tech predicted=42.26459269689003--20.964751151372134 spread=21.299841545517893
+predictions: prob=0.6782942530329624 Michigan--Northwestern  predicted=34.55354208763159--17.39253870009867 spread=17.161003387532922
+predictions: prob=0.6562644176663225 Notre Dame--Stanford predicted=25.340131986259188--15.852478584170182 spread=9.487653402089006
+predictions: prob=0.6804257703528966 Prairie View--Grambling predicted=37.16671301591167--18.24179180648135 spread=18.92492120943032
+predictions: prob=0.6868497584490931 Texas A&M--Arkansas predicted=50.303918194357294--20.254216452976145 spread=30.04970174138115
+predictions: prob=0.6693289427883677 Ohio--Massachusetts predicted=36.41033218942641--23.677955000987108 spread=12.732377188439305
+predictions: prob=0.685436759992025 Oklahoma--Baylor predicted=47.09298939096679--20.959506331637563 spread=26.13348305932923
+predictions: prob=0.6646387191654151 Penn State--Ohio State predicted=29.263341783379754--17.948306304418 spread=11.315035478961754
+predictions: prob=0.6844776154512557 James Madison--Richmond  predicted=39.46725159948399--15.268693029899293 spread=24.198558569584694
+predictions: prob=0.6856086494532099 Indiana--Rutgers  predicted=44.39372721358252--17.865741699632924 spread=26.5279855139496
+predictions: prob=0.5578889425321649 Central Arkansas--Sam Houston State  predicted=25.23586150528776--23.098865841890575 spread=2.1369956633971867
+predictions: prob=0.6773108956472791 San Diego--Stetson predicted=34.08066183557612--14.492736274938213 spread=19.58792556063791
+predictions: prob=0.6238176333514842 Hawaii--San Jose State  predicted=33.86439093039977--28.156455603077408 spread=5.707935327322364
+predictions: prob=0.6875984513119134 Bethune - Cookman--Savannah State  predicted=47.670749736261556--14.742141748689935 spread=32.928607987571624
+predictions: prob=0.6792751670336656 Southeast Louisiana--Northwestern State predicted=34.75293308800781--16.83950912509991 spread=17.9134239629079
+predictions: prob=0.5042510479724395 Southern--Alcorn State predicted=12.809367566286344--12.659764978070545 spread=0.14960258821579941
+predictions: prob=0.6072050976103919 Southern Illinois--South Dakota predicted=21.526471600595237--16.98398249145657 spread=4.542489109138668
+predictions: prob=0.6897551376898267 Southern Methodist--Houston Baptist predicted=68.32043333314445--18.278846635767962 spread=50.04158669737649
+predictions: prob=0.6415331846593155 Villanova--Stony Brook  predicted=19.987346945543933--12.602571996206876 spread=7.384774949337057
+predictions: prob=0.5054557653582599 Eastern Illinois--Tennessee Tech  predicted=19.912358488644152--19.720771928175267 spread=0.19158656046888467
+predictions: prob=0.6441009505290017 Texas Christian--Iowa State predicted=19.485744883607516--11.807252319630482 spread=7.678492563977034
+predictions: prob=0.6646986435880619 Texas - San Antonio--Texas - El Paso predicted=26.5707115605637--15.235129938448189 spread=11.335581622115512
+predictions: prob=0.6739004270599489 Texas Tech--West Virginia predicted=33.82000596288128--19.220512271460652 spread=14.59949369142063
+predictions: prob=0.6507527964398264 Towson--The Citadel predicted=29.278998326851905--20.67252078349876 spread=8.606477543353144
+predictions: prob=0.598131304413403 Troy State--Coastal Carolina predicted=21.655129374358324--17.644259542895174 spread=4.01086983146315
+predictions: prob=0.5945794991256534 Valparaiso--Davidson predicted=21.97004911244312--17.27823136309233 spread=4.69181774935079
+predictions: prob=0.6855279367570773 Vanderbilt--Tennessee State predicted=38.79635365333742--12.449017559826181 spread=26.347336093511238
+predictions: prob=0.6837338980027665 Mercer--Virginia Military  predicted=38.92919768774084--15.995445616406688 spread=22.93375207133415
+predictions: prob=0.6857552377609596 Wake Forest--Rice predicted=48.809195673792516--21.90853129125751 spread=26.900664382535005
+predictions: prob=0.6714209105869274 Washington--Brigham Young predicted=25.594172409250255--12.084642566723481 spread=13.509529842526774
+predictions: prob=0.6730925831556054 Washington State--Utah predicted=24.020238340423035--9.798675092075346 spread=14.221563248347689
+predictions: prob=0.6606787411783059 Western Illinois--Youngstown State predicted=27.382943921258644--17.008044629362853 spread=10.37489929189579
+predictions: prob=0.5050850455277716 Western Kentucky--Marshall predicted=22.792608178265628--22.61396048069249 spread=0.1786476975731368
+predictions: prob=0.6777254635885774 Colgate--William & Mary  predicted=23.093783385045267--6.335298577473413 spread=16.758484807571854
+predictions: prob=0.6860425510250414 Boise State--Wyoming  predicted=45.15383835073422--17.51933502367309 spread=27.63450332706113
+predictions: prob=0.6612855218446445 Maine--Yale  predicted=32.48933005293607--21.975897774396067 spread=10.513432278540002
+::: forecastStatistics {0: {'expected': 9.316122777913215, 'actual': 8, 'total': 17}, 1: {'expected': 60.10548978710254, 'actual': 72, 'total': 90}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 69.42161256501575, 'actual': 80, 'total': 107, 'year': 2018}}::: detailedStatistics {'weekb0': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0.6635740389226569, 'actual': 0, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0.6635740389226569, 'actual': 0, 'total': 1, 'year': 2018}}, 'nonConf': {0: {'expected': 1.1877792799398954, 'actual': 1, 'total': 2}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.1877792799398954, 'actual': 1, 'total': 2, 'year': 2018}}, 'nonDiv': {0: {'expected': 0.5973518051813118, 'actual': 1, 'total': 1}, 1: {'expected': 0.6595807176737375, 'actual': 1, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.2569325228550494, 'actual': 2, 'total': 2, 'year': 2018}}}, 'weekb1': {'conf': {0: {'expected': 1.6275028004150711, 'actual': 2, 'total': 3}, 1: {'expected': 2.620963159382189, 'actual': 3, 'total': 4}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 4.24846595979726, 'actual': 5, 'total': 7, 'year': 2018}}, 'nonConf': {0: {'expected': 7.618459184797748, 'actual': 6, 'total': 14}, 1: {'expected': 28.76885115328288, 'actual': 36, 'total': 44}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 36.387310338080624, 'actual': 42, 'total': 58, 'year': 2018}}, 'nonDiv': {0: {'expected': 2.78417529794732, 'actual': 4, 'total': 5}, 1: {'expected': 24.033262905163408, 'actual': 33, 'total': 36}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 26.817438203110722, 'actual': 37, 'total': 41, 'year': 2018}}}, 'week02': {'conf': {0: {'expected': 3.3240380329275783, 'actual': 1, 'total': 6}, 1: {'expected': 3.8833884317321496, 'actual': 5, 'total': 6}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 7.207426464659728, 'actual': 6, 'total': 12, 'year': 2018}}, 'nonConf': {0: {'expected': 6.078296904609465, 'actual': 6, 'total': 11}, 1: {'expected': 39.28522580412728, 'actual': 53, 'total': 60}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 45.363522708736745, 'actual': 59, 'total': 71, 'year': 2018}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 19.64523169955412, 'actual': 28, 'total': 29}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 19.64523169955412, 'actual': 28, 'total': 29, 'year': 2018}}}, 'week03': {'conf': {0: {'expected': 1.6495078460428054, 'actual': 2, 'total': 3}, 1: {'expected': 11.623168662752997, 'actual': 11, 'total': 18}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 13.272676508795804, 'actual': 13, 'total': 21, 'year': 2018}}, 'nonConf': {0: {'expected': 5.202601463500578, 'actual': 5, 'total': 9}, 1: {'expected': 39.16329474663864, 'actual': 45, 'total': 59}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 44.3658962101392, 'actual': 50, 'total': 68, 'year': 2018}}, 'nonDiv': {0: {'expected': 1.1374969040776874, 'actual': 2, 'total': 2}, 1: {'expected': 10.244179185817755, 'actual': 15, 'total': 15}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 11.381676089895443, 'actual': 17, 'total': 17, 'year': 2018}}}, 'week04': {'conf': {0: {'expected': 4.915602420208325, 'actual': 4, 'total': 9}, 1: {'expected': 35.98708437779081, 'actual': 39, 'total': 54}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 40.90268679799913, 'actual': 43, 'total': 63, 'year': 2018}}, 'nonConf': {0: {'expected': 3.34918488662558, 'actual': 3, 'total': 6}, 1: {'expected': 20.676595778810647, 'actual': 28, 'total': 31}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 24.02578066543623, 'actual': 31, 'total': 37, 'year': 2018}}, 'nonDiv': {0: {'expected': 1.0513354710793101, 'actual': 1, 'total': 2}, 1: {'expected': 3.4418096305010835, 'actual': 5, 'total': 5}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 4.493145101580394, 'actual': 6, 'total': 7, 'year': 2018}}}, 'week05': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}}}
