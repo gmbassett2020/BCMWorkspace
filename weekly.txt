@@ -168,4 +168,5 @@ python forecastAndRank.py currentSeason=2024 maxRound=4 useTeamListFile=workspac
 python forecastAndRank.py currentSeason=2024 maxRound=5 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk04.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=6 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk05.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=7 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk06.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=8 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk07.txt usePowerUncertainty=True
 
