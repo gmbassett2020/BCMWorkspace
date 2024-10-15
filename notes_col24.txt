@@ -1,3 +1,42 @@
+week09
+
+Bassett Model power rankings:
+1 Ohio State
+2 Alabama
+3 Mississippi
+4 Tennessee
+5 Texas
+6 Georgia
+7 Miami - Florida
+8 Indiana
+9 Iowa State
+10 Oregon
+...
+12 Oklahoma
+...
+26 Brigham Young
+27 South Carolina
+...
+55 Oklahoma State
+
+Earned rankings:
+1 Oregon          actualWins=6 expectedWins=4.679500287306946 otherWins=1.535853569532407 actual-other=4.4641464304675935
+2 Iowa State      actualWins=6 expectedWins=5.052909836990452 otherWins=1.7146407433129405 actual-other=4.28535925668706
+3 Brigham Young   actualWins=6 expectedWins=4.4053348290154695 otherWins=1.9287366394887693 actual-other=4.071263360511231
+4 Penn State      actualWins=6 expectedWins=4.875666965852943 otherWins=2.067567195628752 actual-other=3.932432804371248
+5 Miami - Florida actualWins=6 expectedWins=5.436635106480022 otherWins=2.2641933065016646 actual-other=3.7358066934983354
+...
+25 Oklahoma       actualWins=4 expectedWins=3.954377760003514 otherWins=1.3086595475910239 actual-other=2.6913404524089763
+...
+59 South Carolina actualWins=3 expectedWins=3.1082586011268667 otherWins=1.3914793500041553 actual-other=1.6085206499958447
+...
+69 Oklahoma State actualWins=3 expectedWins=3.2625309838271823 otherWins=1.6943621441684031 actual-other=1.3056378558315969
+
+67% chance of BYU defeating Oklahoma State.  Averge score for the game: 31 to 17
+61% chance of OU defeating South Carolina.  Average score for the game: 19 to 14
+
+predictions: prob=0.670881643189633 Brigham Young--Oklahoma State predicted=30.64552757489766--17.358208398650902 spread=13.287319176246758
+predictions: prob=0.6058189348111391 Oklahoma--South Carolina predicted=18.67264394072094--14.216508831949856 spread=4.4561351087710825
 
 week08 Bassett Model power rankings:
 1 Ohio State
