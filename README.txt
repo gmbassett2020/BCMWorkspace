@@ -1,7 +1,9 @@
 
+Instructions on how to run and maintain football forecasts and rankings using the Bassett Compatitive Model (updated Bassett Football Model).
+
 Location of the model and scripts:
 
-   https://github.com/gmbassett2020/BassettCompetativeModel
+   https://github.com/gmbassett2020/BassettCompetitiveModel
    https://github.com/gmbassett2020/BCMWorkspace
 
 
