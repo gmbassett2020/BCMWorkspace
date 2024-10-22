@@ -1,107 +1,114 @@
-2024-10-08 @Liberty                  31  Florida Intl             24 O1         
-2024-10-09 @Jacksonville St          54  New Mexico St            13            
-2024-10-10 @James Madison            39  Coastal Car               7            
-2024-10-10 @Louisiana Tech           48  MTSU                     21            
-2024-10-10 @WKU                      44  UTEP                     17            
-2024-10-11 @Arizona St               27  Utah                     19            
-2024-10-11  Harvard                  38 @Cornell                  20            
-2024-10-11 @Ark Pine Bluff           21  Prairie View             17            
-2024-10-11  UNLV                     50 @Utah St                  34            
-2024-10-11  Northwestern             37 @Maryland                 10            
-2024-10-12 @Drake                    27  Butler                   17            
-2024-10-12 @Alabama St               54  MS Valley St             17            
-2024-10-12  E Washington             35 @CS Sacramento            28            
-2024-10-12 @Pittsburgh               17  California               15            
-2024-10-12 @NC Central               68  VA-Lynchburg              0            
-2024-10-12  SUNY Albany              24 @Bryant                   17            
-2024-10-12 @Lindenwood               29  Charleston So            14            
-2024-10-12  Cincinnati               19 @UCF                      13            
-2024-10-12 @W Carolina               30  Citadel                  16            
-2024-10-12  Alcorn St                17 @Grambling                15            
-2024-10-12 @North Alabama            47  Abilene Chr              34            
-2024-10-12  Dartmouth                44 @Yale                     43 O1         
-2024-10-12 @Robert Morris            23  Delaware St               0            
-2024-10-12 @Tarleton St              42  Utah Tech                 0            
-2024-10-12  Duquesne                 38 @St Francis PA             7            
-2024-10-12 @ETSU                     31  Samford                  28            
-2024-10-12 @Tennessee St             41  E Illinois               17            
-2024-10-12  New Hampshire            17 @Elon                     10            
-2024-10-12 @Tennessee                23  Florida                  17 O1         
-2024-10-12  North Texas              41 @FL Atlantic              37            
-2024-10-12 @Louisiana                34  Appalachian St           24            
-2024-10-12  Chattanooga              41 @Furman                   10            
-2024-10-12 @Ga Southern              24  Marshall                 23            
-2024-10-12  Old Dominion             21 @Georgia St               14            
-2024-10-12 @BYU                      41  Arizona                  19            
-2024-10-12  Boise St                 28 @Hawaii                    7            
-2024-10-12 @Texas St                 41  Arkansas St               9            
-2024-10-12 @Montana St               38  Idaho                     7            
-2024-10-12  Portland St              42 @Idaho St                 38            
-2024-10-12 @Illinois                 50  Purdue                   49 O1         
-2024-10-12  Missouri St              41 @Illinois St               7            
-2024-10-12 @Incarnate Word           55  Nicholls St              10            
-2024-10-12 @Indiana St               31  Murray St                27            
-2024-10-12  Iowa St                  28 @West Virginia            16            
-2024-10-12  Ball St                  37 @Kent                     35            
-2024-10-12 @ULM                      38  Southern Miss            21            
-2024-10-12 @Delaware                 44  Maine                    21            
-2024-10-12  St Thomas MN             39 @Marist                   32            
-2024-10-12 @Mercer                   34  Princeton                 7            
-2024-10-12  Merrimack                32 @Morgan St                24            
-2024-10-12  Miami OH                 38 @E Michigan               14            
-2024-10-12  Missouri                 45 @Massachusetts             3            
-2024-10-12 @Nevada                   42  Oregon St                37            
-2024-10-12  Towson                   28 @Norfolk St               23            
-2024-10-12  N Dakota St              24 @S Illinois                3            
-2024-10-12 @Montana                  31  Northern Arizona         20            
-2024-10-12  N Colorado               21 @Weber St                 17            
-2024-10-12  N Illinois               17 @Bowling Green             7            
-2024-10-12  Ohio                     27 @C Michigan               25            
-2024-10-12  Penn St                  33 @USC                      30 O1         
-2024-10-12  Wisconsin                42 @Rutgers                   7            
-2024-10-12 @Alabama A&M              56  Bethune-Cookman          12            
-2024-10-12  San Diego St             27 @Wyoming                  24            
-2024-10-12  Memphis                  21 @South Florida             3           Orlando, FL 
-2024-10-12 @SE Missouri St           34  Tennessee Tech            3            
-2024-10-12  Southern Univ            22 @TX Southern              19 O1         
-2024-10-12 @Notre Dame               49  Stanford                  7            
-2024-10-12  TN Martin                45 @W Illinois               17            
-2024-10-12 @Buffalo                  30  Toledo                   15            
-2024-10-12 @UC Davis                 56  Cal Poly                 10            
-2024-10-12 @Wofford                  31  VMI                      16            
-2024-10-12  Columbia                 24 @Wagner                    6            
-2024-10-12 @Iowa                     40  Washington               16            
-2024-10-12  Washington St            25 @Fresno St                17            
-2024-10-12 @W Michigan               34  Akron                    24            
-2024-10-12 @S Dakota St              63  Youngstown St            13            
-2024-10-12 @Alabama                  27  South Carolina           25            
-2024-10-12 @Georgia                  41  Mississippi St           31            
-2024-10-12  Vanderbilt               20 @Kentucky                 13            
-2024-10-12 @LSU                      29  Mississippi              26 O1         
-2024-10-12  Texas                    34  Oklahoma                  3           Dallas TX 
-2024-10-12  Minnesota                21 @UCLA                     17            
-2024-10-12 @Oregon                   32  Ohio St                  31            
-2024-10-12  Syracuse                 24 @NC State                 17            
-2024-10-12  Clemson                  49 @Wake Forest              14            
-2024-10-12  Georgia Tech             41 @North Carolina           34            
-2024-10-12  Louisville               24 @Virginia                 20            
-2024-10-12  Kansas St                31 @Colorado                 28            
-2024-10-12 @New Mexico               52  Air Force                37            
-2024-10-12 @Colorado St              31  San Jose St              24            
-2024-10-12 @Army                     44  UAB                      10            
-2024-10-12 @Rice                     29  UT San Antonio           27            
-2024-10-12 @Rhode Island             31  Brown                    21            
-2024-10-12 @Dayton                   16  Davidson                 14            
-2024-10-12 @Morehead St              14  Presbyterian              7            
-2024-10-12 @South Dakota             42  Northern Iowa            17            
-2024-10-12 @LIU Post                 31  Stonehill                 7            
-2024-10-12  Georgetown               17 @Lafayette                 0            
-2024-10-12 @Holy Cross               19  Fordham                  16            
-2024-10-12 @Howard                   21  Sacred Heart             14            
-2024-10-12  SF Austin                27 @Lamar                    20            
-2024-10-12  TX A&M Commerce          42 @Northwestern LA          21            
-2024-10-12  SE Louisiana             37 @Houston Chr               7            
-2024-10-12 @Central Conn             38  Mercyhurst               20            
-2024-10-12 @Penn                     31  Bucknell                 21            
-2024-10-12 @Southern Utah            42  E Kentucky               21            
-2024-10-12 @Cent Arkansas            34  West Georgia             33            
+2024-10-15 @MTSU                     14  Kennesaw                  5            
+2024-10-15 @New Mexico St            33  Louisiana Tech           30 O2         
+2024-10-15 @South Alabama            25  Troy                      9            
+2024-10-16 @UTEP                     30  Florida Intl             21            
+2024-10-16  WKU                      31 @Sam Houston St           14            
+2024-10-17 @Marshall                 35  Georgia St               20            
+2024-10-17 @Virginia Tech            42  Boston College           21            
+2024-10-18 @Duke                     23  Florida St               16            
+2024-10-18  Fresno St                24 @Nevada                   21            
+2024-10-18  Oregon                   35 @Purdue                    0            
+2024-10-18 @BYU                      38  Oklahoma St              35            
+2024-10-18 @Princeton                29  Brown                    17            
+2024-10-19  Dayton                   21 @Butler                   14            
+2024-10-19 @CS Sacramento            51  Weber St                 48 O2         
+2024-10-19  NC State                 24 @California               23            
+2024-10-19 @William & Mary           35  Campbell                 28            
+2024-10-19  Elon                     30 @SUNY Albany              14            
+2024-10-19  SE Missouri St           26 @Charleston So            13            
+2024-10-19 @Cincinnati               24  Arizona St               14            
+2024-10-19 @Southern Univ            24  Alcorn St                14            
+2024-10-19  Louisiana                34 @Coastal Car              24            
+2024-10-19  Wake Forest              23 @Connecticut              20            
+2024-10-19 @Dartmouth                20  Central Conn             16            
+2024-10-19  Drake                    19 @Presbyterian             16 O1         
+2024-10-19 @Army                     45  East Carolina            28            
+2024-10-19 @E Michigan               38  C Michigan               34            
+2024-10-19  UC Davis                 48 @E Washington             38            
+2024-10-19 @Florida                  48  Kentucky                 20            
+2024-10-19 @Jackson St               35  Florida A&M              21            
+2024-10-19 @UT San Antonio           38  FL Atlantic              24            
+2024-10-19 @S Carolina St            30  Fort Valley St            3            
+2024-10-19  W Carolina               52 @Furman                   20            
+2024-10-19 @Gardner Webb             42  Lindenwood               35            
+2024-10-19 @Ga Southern              28  James Madison            14            
+2024-10-19  Colorado                 34 @Arizona                   7            
+2024-10-19  Hampton                  59 @NC A&T                   17            
+2024-10-19 @Washington St            42  Hawaii                   10            
+2024-10-19 @Harvard                  35  Holy Cross               34            
+2024-10-19  Arkansas St              44 @Southern Miss            28            
+2024-10-19 @Northern Arizona         30  Idaho St                 26            
+2024-10-19 @Grambling                31  Ark Pine Bluff           21            
+2024-10-19  Illinois St              40 @Murray St                32            
+2024-10-19 @Missouri St              46  Indiana St               21            
+2024-10-19 @Iowa St                  38  UCF                      35            
+2024-10-19 @Bowling Green            27  Kent                      6            
+2024-10-19 @Missouri                 21  Auburn                   17            
+2024-10-19 @Maine                    35  Villanova                 7            
+2024-10-19 @San Diego                34  Marist                    6            
+2024-10-19 @Samford                  55  Mercer                   35            
+2024-10-19 @Merrimack                48  Stonehill                28            
+2024-10-19  Bethune-Cookman          20 @MS Valley St             10            
+2024-10-19 @Vanderbilt               24  Ball St                  14            
+2024-10-19 @Monmouth NJ              55  Bryant                   17            
+2024-10-19  Montana St               44 @Portland St              14            
+2024-10-19  UNLV                     33 @Oregon St                25            
+2024-10-19 @N Dakota St              13  S Dakota St               9            
+2024-10-19  Baylor                   59 @Texas Tech               35            
+2024-10-19  Toledo                   13 @N Illinois                6            
+2024-10-19 @Miami OH                 30  Ohio                     20            
+2024-10-19 @Old Dominion             24  Texas St                 14            
+2024-10-19  Rhode Island             26 @New Hampshire             9            
+2024-10-19 @Richmond                 28  Delaware                  9            
+2024-10-19 @Robert Morris            45  LIU Post                 31            
+2024-10-19  UCLA                     35 @Rutgers                  32            
+2024-10-19 @Lafayette                31  Sacred Heart             17            
+2024-10-19 @Wagner                   14  St Francis PA             0            
+2024-10-19  St Thomas MN             42 @Valparaiso               14            
+2024-10-19  South Dakota             27 @Youngstown St            17            
+2024-10-19 @South Florida            35  UAB                      25            
+2024-10-19  SMU                      40 @Stanford                 10            
+2024-10-19  Stony Brook              52 @Towson                   24            
+2024-10-19 @Tennessee                24  Alabama                  17            
+2024-10-19 @Chattanooga              37  Wofford                   5            
+2024-10-19  Tennessee St             27 @Howard                   14            
+2024-10-19 @W Illinois               37  Tennessee Tech           21            
+2024-10-19  TCU                      13 @Utah                      7            
+2024-10-19 @Tulane                   24  Rice                     10            
+2024-10-19 @Navy                     51  Charlotte                17            
+2024-10-19 @Maryland                 29  USC                      28            
+2024-10-19  New Mexico               50 @Utah St                  45            
+2024-10-19  Citadel                  13 @VMI                      10            
+2024-10-19  Kansas St                45 @West Virginia            18            
+2024-10-19  W Michigan               48 @Buffalo                  41            
+2024-10-19  Wisconsin                23 @Northwestern              3            
+2024-10-19 @San Jose St              24  Wyoming                  14            
+2024-10-19  LSU                      34 @Arkansas                 10            
+2024-10-19  Texas A&M                34 @Mississippi St           24            
+2024-10-19  South Carolina           35 @Oklahoma                  9            
+2024-10-19  Georgia                  30 @Texas                    15            
+2024-10-19 @Illinois                 21  Michigan                  7            
+2024-10-19 @Indiana                  56  Nebraska                  7            
+2024-10-19 @Michigan St              32  Iowa                     20            
+2024-10-19  Notre Dame               31 @Georgia Tech             13           Atlanta, GA 
+2024-10-19 @Clemson                  48  Virginia                 31            
+2024-10-19  Miami FL                 52 @Louisville               45            
+2024-10-19 @Kansas                   42  Houston                  14           Kansas City MO 
+2024-10-19  Colorado St              21 @Air Force                13            
+2024-10-19 @Memphis                  52  North Texas              44            
+2024-10-19 @Temple                   20  Tulsa                    10            
+2024-10-19 @West Georgia             41  Shorter                  13            
+2024-10-19 @Incarnate Word           30  McNeese St               17            
+2024-10-19 @Idaho                    34  Cal Poly                 29            
+2024-10-19 @North Dakota             31  Northern Iowa             7            
+2024-10-19 @Davidson                 70  Stetson                  48            
+2024-10-19  Columbia                 23 @Penn                     17            
+2024-10-19  Cornell                  34 @Bucknell                 21            
+2024-10-19 @Yale                     38  Lehigh                   23            
+2024-10-19 @Colgate                  38  Georgetown               28            
+2024-10-19 @SE Louisiana             24  SF Austin                23            
+2024-10-19 @Abilene Chr              34  E Kentucky               20            
+2024-10-19 @Nicholls St              20  Northwestern LA           0            
+2024-10-19  Austin Peay              13 @Utah Tech                 7            
+2024-10-19  Lamar                    29 @TX A&M Commerce          20            
+
