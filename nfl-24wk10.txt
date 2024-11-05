@@ -1,0 +1,164 @@
+::: rankings for AFC
+1 Buffalo
+2 Kansas City
+3 Pittsburgh
+4 Baltimore
+5 Los Angeles Chargers
+6 Denver
+7 Houston
+8 Indianapolis
+9 New York Jets
+10 Cincinnati
+11 Cleveland
+12 Las Vegas
+13 Jacksonville
+14 Tennessee
+15 Miami
+16 New England
+::: rankings for NFC
+1 Detroit
+2 Minnesota
+3 Tampa Bay
+4 Green Bay
+5 Washington
+6 Philadelphia
+7 San Francisco
+8 Chicago
+9 Atlanta
+10 Arizona
+11 Los Angeles Rams
+12 New Orleans
+13 Seattle
+14 Dallas
+15 New York Giants
+16 Carolina
+::: rankings for overall
+1 Detroit
+2 Buffalo
+3 Minnesota
+4 Kansas City
+5 Pittsburgh
+6 Tampa Bay
+7 Baltimore
+8 Green Bay
+9 Washington
+10 Los Angeles Chargers
+11 Denver
+12 Philadelphia
+13 San Francisco
+14 Chicago
+15 Houston
+16 Atlanta
+17 Arizona
+18 Los Angeles Rams
+19 New Orleans
+20 Indianapolis
+21 Seattle
+22 New York Jets
+23 Cincinnati
+24 Dallas
+25 New York Giants
+26 Cleveland
+27 Las Vegas
+28 Jacksonville
+29 Tennessee
+30 Miami
+31 New England
+32 Carolina
+::: earned rankings for AFC
+1 Kansas City actualWins=8 expectedWins=5.361506223746175 otherWins=3.7016524480757456 actual-other=4.298347551924254
+2 Baltimore actualWins=6 expectedWins=5.537813680470563 otherWins=4.0901407439386155 actual-other=1.9098592560613845
+3 Buffalo actualWins=7 expectedWins=6.859062621253149 otherWins=5.185899117312471 actual-other=1.8141008826875291
+4 Pittsburgh actualWins=6 expectedWins=5.6466389956950245 otherWins=4.187286836723825 actual-other=1.8127131632761753
+5 Houston actualWins=6 expectedWins=4.756163948336989 otherWins=4.487101722228083 actual-other=1.5128982777719173
+6 Los Angeles Chargers actualWins=5 expectedWins=5.065783064461469 otherWins=4.085558091026472 actual-other=0.9144419089735276
+7 Denver actualWins=5 expectedWins=5.4604930380715375 otherWins=4.38496886495518 actual-other=0.6150311350448199
+8 Indianapolis actualWins=4 expectedWins=4.2044583994646025 otherWins=4.515795309721424 actual-other=-0.5157953097214243
+9 Cincinnati actualWins=4 expectedWins=4.553154332878517 otherWins=5.132183693015176 actual-other=-1.1321836930151763
+10 New York Jets actualWins=3 expectedWins=3.926027797640554 otherWins=4.437438494422831 actual-other=-1.437438494422831
+11 Tennessee actualWins=2 expectedWins=2.54779021492722 otherWins=4.053081557279705 actual-other=-2.0530815572797048
+12 Las Vegas actualWins=2 expectedWins=2.7924784959353004 otherWins=4.282494310317868 actual-other=-2.282494310317868
+13 Miami actualWins=2 expectedWins=2.279752494001305 otherWins=4.434481412783985 actual-other=-2.4344814127839847
+14 Jacksonville actualWins=2 expectedWins=2.9777604296625486 otherWins=4.7205960985150766 actual-other=-2.7205960985150766
+15 Cleveland actualWins=2 expectedWins=3.1763692837997057 otherWins=4.783009370087189 actual-other=-2.783009370087189
+16 New England actualWins=2 expectedWins=2.4754326203669827 otherWins=5.284875966283122 actual-other=-3.2848759662831224
+::: earned rankings for NFC
+1 Detroit actualWins=7 expectedWins=6.285919879171976 otherWins=3.796563564746653 actual-other=3.203436435253347
+2 Minnesota actualWins=6 expectedWins=5.477375996253692 otherWins=3.8288297688325343 actual-other=2.1711702311674657
+3 Washington actualWins=7 expectedWins=6.015273775584861 otherWins=4.907156716347506 actual-other=2.0928432836524937
+4 Philadelphia actualWins=6 expectedWins=5.2613224817936235 otherWins=4.2704583929230076 actual-other=1.7295416070769924
+5 Green Bay actualWins=6 expectedWins=5.577542812331553 otherWins=4.359538599368672 actual-other=1.6404614006313283
+6 Atlanta actualWins=6 expectedWins=4.559260588613752 otherWins=4.444986053355662 actual-other=1.5550139466443378
+7 Arizona actualWins=5 expectedWins=3.7616430263274556 otherWins=3.9085813450492517 actual-other=1.0914186549507483
+8 Los Angeles Rams actualWins=4 expectedWins=3.27599101795811 otherWins=3.5123251371987987 actual-other=0.4876748628012013
+9 Tampa Bay actualWins=4 expectedWins=5.0232104377955125 otherWins=3.5503666758017784 actual-other=0.44963332419822155
+10 San Francisco actualWins=4 expectedWins=4.8009481965811345 otherWins=4.217834282859792 actual-other=-0.21783428285979234
+11 Dallas actualWins=3 expectedWins=2.7654224735610202 otherWins=3.5045787398559485 actual-other=-0.5045787398559485
+12 Chicago actualWins=4 expectedWins=4.879677067979083 otherWins=4.592133405469389 actual-other=-0.5921334054693892
+13 Seattle actualWins=4 expectedWins=4.479268243914335 otherWins=4.762375870789828 actual-other=-0.7623758707898283
+14 New York Giants actualWins=2 expectedWins=2.827174094723054 otherWins=4.253122717275819 actual-other=-2.2531227172758186
+15 Carolina actualWins=2 expectedWins=1.139679801894001 otherWins=4.415010892230769 actual-other=-2.415010892230769
+16 New Orleans actualWins=2 expectedWins=4.249604464805192 otherWins=4.489465007656743 actual-other=-2.489465007656743
+::: earned rankings for overall
+1 Kansas City actualWins=8 expectedWins=5.361506223746175 otherWins=3.7016524480757456 actual-other=4.298347551924254
+2 Detroit actualWins=7 expectedWins=6.285919879171976 otherWins=3.796563564746653 actual-other=3.203436435253347
+3 Minnesota actualWins=6 expectedWins=5.477375996253692 otherWins=3.8288297688325343 actual-other=2.1711702311674657
+4 Washington actualWins=7 expectedWins=6.015273775584861 otherWins=4.907156716347506 actual-other=2.0928432836524937
+5 Baltimore actualWins=6 expectedWins=5.537813680470563 otherWins=4.0901407439386155 actual-other=1.9098592560613845
+6 Buffalo actualWins=7 expectedWins=6.859062621253149 otherWins=5.185899117312471 actual-other=1.8141008826875291
+7 Pittsburgh actualWins=6 expectedWins=5.6466389956950245 otherWins=4.187286836723825 actual-other=1.8127131632761753
+8 Philadelphia actualWins=6 expectedWins=5.2613224817936235 otherWins=4.2704583929230076 actual-other=1.7295416070769924
+9 Green Bay actualWins=6 expectedWins=5.577542812331553 otherWins=4.359538599368672 actual-other=1.6404614006313283
+10 Atlanta actualWins=6 expectedWins=4.559260588613752 otherWins=4.444986053355662 actual-other=1.5550139466443378
+11 Houston actualWins=6 expectedWins=4.756163948336989 otherWins=4.487101722228083 actual-other=1.5128982777719173
+12 Arizona actualWins=5 expectedWins=3.7616430263274556 otherWins=3.9085813450492517 actual-other=1.0914186549507483
+13 Los Angeles Chargers actualWins=5 expectedWins=5.065783064461469 otherWins=4.085558091026472 actual-other=0.9144419089735276
+14 Denver actualWins=5 expectedWins=5.4604930380715375 otherWins=4.38496886495518 actual-other=0.6150311350448199
+15 Los Angeles Rams actualWins=4 expectedWins=3.27599101795811 otherWins=3.5123251371987987 actual-other=0.4876748628012013
+16 Tampa Bay actualWins=4 expectedWins=5.0232104377955125 otherWins=3.5503666758017784 actual-other=0.44963332419822155
+17 San Francisco actualWins=4 expectedWins=4.8009481965811345 otherWins=4.217834282859792 actual-other=-0.21783428285979234
+18 Dallas actualWins=3 expectedWins=2.7654224735610202 otherWins=3.5045787398559485 actual-other=-0.5045787398559485
+19 Indianapolis actualWins=4 expectedWins=4.2044583994646025 otherWins=4.515795309721424 actual-other=-0.5157953097214243
+20 Chicago actualWins=4 expectedWins=4.879677067979083 otherWins=4.592133405469389 actual-other=-0.5921334054693892
+21 Seattle actualWins=4 expectedWins=4.479268243914335 otherWins=4.762375870789828 actual-other=-0.7623758707898283
+22 Cincinnati actualWins=4 expectedWins=4.553154332878517 otherWins=5.132183693015176 actual-other=-1.1321836930151763
+23 New York Jets actualWins=3 expectedWins=3.926027797640554 otherWins=4.437438494422831 actual-other=-1.437438494422831
+24 Tennessee actualWins=2 expectedWins=2.54779021492722 otherWins=4.053081557279705 actual-other=-2.0530815572797048
+25 New York Giants actualWins=2 expectedWins=2.827174094723054 otherWins=4.253122717275819 actual-other=-2.2531227172758186
+26 Las Vegas actualWins=2 expectedWins=2.7924784959353004 otherWins=4.282494310317868 actual-other=-2.282494310317868
+27 Carolina actualWins=2 expectedWins=1.139679801894001 otherWins=4.415010892230769 actual-other=-2.415010892230769
+28 Miami actualWins=2 expectedWins=2.279752494001305 otherWins=4.434481412783985 actual-other=-2.4344814127839847
+29 New Orleans actualWins=2 expectedWins=4.249604464805192 otherWins=4.489465007656743 actual-other=-2.489465007656743
+30 Jacksonville actualWins=2 expectedWins=2.9777604296625486 otherWins=4.7205960985150766 actual-other=-2.7205960985150766
+31 Cleveland actualWins=2 expectedWins=3.1763692837997057 otherWins=4.783009370087189 actual-other=-2.783009370087189
+32 New England actualWins=2 expectedWins=2.4754326203669827 otherWins=5.284875966283122 actual-other=-3.2848759662831224
+results: prob=0.4892824915424614 New York Jets--Houston actual=21--13 predicted=19.928280657198858--20.30508374548682
+results: prob=0.6363274738151987 Atlanta--Dallas actual=27--21 predicted=23.759800295358527--16.948584929903916
+results: prob=0.6393982534864396 Cincinnati--Las Vegas actual=41--24 predicted=27.813199225527303--20.67920944181238
+results: prob=0.6462363764904928 Washington--New York Giants actual=27--22 predicted=24.0001303722485--16.052532654969262
+results: prob=0.6377545050283205 Tennessee--New England actual=20--17 predicted=15.465821825336779--8.50865317533448
+results: prob=0.603510958999036 Baltimore--Denver actual=41--10 predicted=20.921573808160193--16.601495650826973
+results: prob=0.6830884624370559 Buffalo--Miami actual=30--27 predicted=31.40770611272916--9.443061612327604
+results: prob=0.3325841824482335 Carolina--New Orleans actual=23--22 predicted=15.62062571699883--27.72008828932801
+results: prob=0.6517217710376884 Los Angeles Chargers--Cleveland actual=27--10 predicted=19.739774428208563--11.01142398449825
+results: prob=0.6676017452601686 Minnesota--Indianapolis actual=21--13 predicted=30.651633727838924--18.493855389339668
+results: prob=0.537585733633453 Arizona--Chicago actual=29--9 predicted=17.07533970483474--15.730148071845463
+results: prob=0.6128677264922442 Detroit--Green Bay actual=24--14 predicted=26.655749961545474--21.753190986451035
+results: prob=0.43269442344767994 Los Angeles Rams--Seattle actual=26--20 predicted=19.368402866845628--21.891118304296604
+results: prob=0.6760301326652371 Philadelphia--Jacksonville actual=28--23 predicted=35.02308841474401--19.325142015408456
+results: prob=0.6059073403142745 Kansas City--Tampa Bay actual=30--24 predicted=20.543568103308335--16.082507018065257
+predictions: prob=0.6706309316355797 Baltimore--Cincinnati predicted=37.65814487399923--24.46052826057629 spread=13.197616613422937
+predictions: prob=0.6381684178553116 New York Giants--Carolina  predicted=18.84526133582789--11.844566294801538 spread=7.000695041026351
+predictions: prob=0.6727319537923497 Chicago--New England predicted=23.615797659769203--9.575130817985798 spread=14.040666841783406
+predictions: prob=0.6667610059992168 Minnesota--Jacksonville  predicted=33.07203373056809--21.16676914379244 spread=11.905264586775647
+predictions: prob=0.5068946244250585 New Orleans--Atlanta predicted=19.927295423989975--19.685162435694043 spread=0.242132988295932
+predictions: prob=0.6276219843101446 Tampa Bay--San Francisco predicted=27.97365046074261--21.96563027432267 spread=6.008020186419941
+predictions: prob=0.6083903576152287 Buffalo--Indianapolis  predicted=25.846449242665702--21.2332584413252 spread=4.613190801340501
+predictions: prob=0.6537174410886074 Kansas City--Denver predicted=18.97972599865327--9.93471147753002 spread=9.04501452112325
+predictions: prob=0.5410409858861209 Washington--Pittsburgh predicted=18.111742115827724--16.636951975789703 spread=1.4747901400380208
+predictions: prob=0.677980547286986 Los Angeles Chargers--Tennessee predicted=25.661623299246287--8.726596464249834 spread=16.935026834996453
+predictions: prob=0.5869250764114884 Philadelphia--Dallas  predicted=22.128336856815498--18.70453836328474 spread=3.4237984935307573
+predictions: prob=0.6348086896041403 Arizona--New York Jets predicted=22.22274579526291--15.562006551986997 spread=6.660739243275913
+predictions: prob=0.6615494638507813 Detroit--Houston  predicted=31.05190698978224--20.494871125856506 spread=10.557035863925734
+predictions: prob=0.6668521788640911 Los Angeles Rams--Miami predicted=24.73277644229198--12.79860623221819 spread=11.934170210073788
+::: forecastStatistics {0: {'expected': 1.6156088186433115, 'actual': 1, 'total': 3}, 1: {'expected': 7.727860563577923, 'actual': 11, 'total': 12}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 9.343469382221235, 'actual': 12, 'total': 15, 'year': 2024}}::: detailedStatistics {'weekb1': {'conf': {0: {'expected': 1.0376424876625157, 'actual': 2, 'total': 2}, 1: {'expected': 0.662679223017439, 'actual': 1, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.7003217106799546, 'actual': 3, 'total': 3, 'year': 2024}}, 'nonConf': {0: {'expected': 2.857510949643963, 'actual': 3, 'total': 5}, 1: {'expected': 1.319988021504309, 'actual': 1, 'total': 2}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 4.177498971148273, 'actual': 4, 'total': 7, 'year': 2024}}, 'nonDiv': {0: {'expected': 1.6827288994806375, 'actual': 3, 'total': 3}, 1: {'expected': 1.9358435526598379, 'actual': 3, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.6185724521404756, 'actual': 6, 'total': 6, 'year': 2024}}}, 'week02': {'conf': {0: {'expected': 1.070443552954925, 'actual': 1, 'total': 2}, 1: {'expected': 0.6117986707979811, 'actual': 1, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.682242223752906, 'actual': 2, 'total': 3, 'year': 2024}}, 'nonConf': {0: {'expected': 1.6074949795674998, 'actual': 1, 'total': 3}, 1: {'expected': 3.80597635884042, 'actual': 2, 'total': 6}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 5.413471338407919, 'actual': 3, 'total': 9, 'year': 2024}}, 'nonDiv': {0: {'expected': 1.1752660068123801, 'actual': 1, 'total': 2}, 1: {'expected': 1.306585642062798, 'actual': 2, 'total': 2}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.4818516488751783, 'actual': 3, 'total': 4, 'year': 2024}}}, 'week03': {'conf': {0: {'expected': 0.5566278441266449, 'actual': 1, 'total': 1}, 1: {'expected': 0.6755914765603647, 'actual': 0, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.2322193206870096, 'actual': 1, 'total': 2, 'year': 2024}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 2.6682728316739084, 'actual': 2, 'total': 4}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.6682728316739084, 'actual': 2, 'total': 4, 'year': 2024}}, 'nonDiv': {0: {'expected': 1.0785375080362427, 'actual': 2, 'total': 2}, 1: {'expected': 5.1747949100624115, 'actual': 2, 'total': 8}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 6.253332418098653, 'actual': 4, 'total': 10, 'year': 2024}}}, 'week04': {'conf': {0: {'expected': 0.5436382270292053, 'actual': 1, 'total': 1}, 1: {'expected': 2.5862199796209877, 'actual': 2, 'total': 4}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.1298582066501934, 'actual': 3, 'total': 5, 'year': 2024}}, 'nonConf': {0: {'expected': 2.199775435790116, 'actual': 1, 'total': 4}, 1: {'expected': 3.2713915627811536, 'actual': 2, 'total': 5}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 5.471166998571269, 'actual': 3, 'total': 9, 'year': 2024}}, 'nonDiv': {0: {'expected': 0.5241321226675091, 'actual': 0, 'total': 1}, 1: {'expected': 0.6771953723702735, 'actual': 1, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.2013274950377826, 'actual': 1, 'total': 2, 'year': 2024}}}, 'week05': {'conf': {0: {'expected': 1.1004416456746262, 'actual': 1, 'total': 2}, 1: {'expected': 2.7095964088468802, 'actual': 1, 'total': 4}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.810038054521506, 'actual': 2, 'total': 6, 'year': 2024}}, 'nonConf': {0: {'expected': 0.5477878692237106, 'actual': 0, 'total': 1}, 1: {'expected': 1.9799296251743574, 'actual': 2, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.5277174943980683, 'actual': 2, 'total': 4, 'year': 2024}}, 'nonDiv': {0: {'expected': 0.5316875412725962, 'actual': 0, 'total': 1}, 1: {'expected': 2.0205102774013075, 'actual': 2, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.552197818673904, 'actual': 2, 'total': 4, 'year': 2024}}}, 'week06': {'conf': {0: {'expected': 1.6825695721030014, 'actual': 1, 'total': 3}, 1: {'expected': 1.9224391562254355, 'actual': 1, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.605008728328437, 'actual': 2, 'total': 6, 'year': 2024}}, 'nonConf': {0: {'expected': 1.14236937753068, 'actual': 1, 'total': 2}, 1: {'expected': 1.3193256883526172, 'actual': 2, 'total': 2}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.461695065883297, 'actual': 3, 'total': 4, 'year': 2024}}, 'nonDiv': {0: {'expected': 0.574085606897396, 'actual': 0, 'total': 1}, 1: {'expected': 1.96814415972342, 'actual': 3, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.542229766620816, 'actual': 3, 'total': 4, 'year': 2024}}}, 'week07': {'conf': {0: {'expected': 1.1580840173905567, 'actual': 1, 'total': 2}, 1: {'expected': 0.6210521783985998, 'actual': 1, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.7791361957891565, 'actual': 2, 'total': 3, 'year': 2024}}, 'nonConf': {0: {'expected': 0.5726216741734483, 'actual': 1, 'total': 1}, 1: {'expected': 3.3358693439743603, 'actual': 4, 'total': 5}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.9084910181478087, 'actual': 5, 'total': 6, 'year': 2024}}, 'nonDiv': {0: {'expected': 1.673321858243827, 'actual': 1, 'total': 3}, 1: {'expected': 1.9270178649265493, 'actual': 2, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.600339723170376, 'actual': 3, 'total': 6, 'year': 2024}}}, 'week08': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 3.3004012818430195, 'actual': 2, 'total': 5}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.3004012818430195, 'actual': 2, 'total': 5, 'year': 2024}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 1.9838287698694281, 'actual': 2, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.9838287698694281, 'actual': 2, 'total': 3, 'year': 2024}}, 'nonDiv': {0: {'expected': 1.0858230062127936, 'actual': 2, 'total': 2}, 1: {'expected': 4.009226974362369, 'actual': 6, 'total': 6}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 5.095049980575163, 'actual': 8, 'total': 8, 'year': 2024}}}, 'week09': {'conf': {0: {'expected': 0.5673055765523201, 'actual': 0, 'total': 1}, 1: {'expected': 2.6096083829715595, 'actual': 3, 'total': 4}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.17691395952388, 'actual': 3, 'total': 5, 'year': 2024}}, 'nonConf': {0: {'expected': 1.0483032420909915, 'actual': 1, 'total': 2}, 1: {'expected': 3.1687129623666834, 'actual': 5, 'total': 5}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 4.217016204457674, 'actual': 6, 'total': 7, 'year': 2024}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 1.9495392182396802, 'actual': 3, 'total': 3}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.9495392182396802, 'actual': 3, 'total': 3, 'year': 2024}}}, 'week10': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}}}
