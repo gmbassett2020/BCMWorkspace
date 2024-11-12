@@ -7,7 +7,7 @@
 # to remove warnings about unused scores).
 
 set year = 2024
-set round = week10
+set round = week11
 set schedFile = ../colI-seasons-2020_2024.csv
 set scoreFile = tmp-score-2024-in.txt
 #set scoreFile = massey_score-2024.txt
@@ -25,7 +25,7 @@ echo "::: ERRORS:"
 grep ERROR all_out.txt
 echo ""
 
-echo "Resolve any ERRORs in $outFile (Doing 'grep ERROR $outFile'.  Okay if no lines follow.)"
+echo "Searching for any ERRORs in $outFile (Doing 'grep ERROR $outFile'.  Okay if no lines follow.):"
 grep ERROR $outFile
 
 # merge back $outFile into $schedFile
