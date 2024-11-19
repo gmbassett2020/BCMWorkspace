@@ -1064,7 +1064,7 @@ my @conv_list = (
   },
   {
     name	=> "Texas A&M-Commerce",
-    match_str	=> '^(Texas|TX) ?A&M(-| )Commerce$',
+    match_str	=> '^((Texas|TX) ?A&M(-| )Commerce|East (Texas|TX) ?A&M)$',
   },
   {
     name	=> "Texas Christian",
