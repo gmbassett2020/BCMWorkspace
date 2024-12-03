@@ -6349,35 +6349,35 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,10,week11,2024-11-17,team1Home,34,Los Angeles Chargers,27,Cincinnati
 2024,10,week11,2024-11-17,team1Home,27,New York Jets,28,Indianapolis
 2024,10,week11,2024-11-18,team1Home,10,Dallas,34,Houston
-2024,11,week12,2024-11-21,team1Home,-1,Cleveland,-1,Pittsburgh
-2024,11,week12,2024-11-24,team1Home,-1,Chicago,-1,Minnesota
-2024,11,week12,2024-11-24,team1Home,-1,Indianapolis,-1,Detroit
-2024,11,week12,2024-11-24,team1Home,-1,Washington,-1,Dallas
-2024,11,week12,2024-11-24,team1Home,-1,Carolina,-1,Kansas City
-2024,11,week12,2024-11-24,team1Home,-1,Houston,-1,Tennessee
-2024,11,week12,2024-11-24,team1Home,-1,New York Giants,-1,Tampa Bay
-2024,11,week12,2024-11-24,team1Home,-1,Miami,-1,New England
-2024,11,week12,2024-11-24,team1Home,-1,Las Vegas,-1,Denver
-2024,11,week12,2024-11-24,team1Home,-1,Green Bay,-1,San Francisco
-2024,11,week12,2024-11-24,team1Home,-1,Seattle,-1,Arizona
-2024,11,week12,2024-11-24,team1Home,-1,Los Angeles Rams,-1,Philadelphia
-2024,11,week12,2024-11-25,team1Home,-1,Los Angeles Chargers,-1,Baltimore
-2024,12,week13,2024-11-28,team1Home,-1,Detroit,-1,Chicago
-2024,12,week13,2024-11-28,team1Home,-1,Dallas,-1,New York Giants
-2024,12,week13,2024-11-28,team1Home,-1,Green Bay,-1,Miami
-2024,12,week13,2024-11-29,team1Home,-1,Kansas City,-1,Las Vegas
-2024,12,week13,2024-12-01,team1Home,-1,Minnesota,-1,Arizona
-2024,12,week13,2024-12-01,team1Home,-1,New York Jets,-1,Seattle
-2024,12,week13,2024-12-01,team1Home,-1,Atlanta,-1,Los Angeles Chargers
-2024,12,week13,2024-12-01,team1Home,-1,Cincinnati,-1,Pittsburgh
-2024,12,week13,2024-12-01,team1Home,-1,Jacksonville,-1,Houston
-2024,12,week13,2024-12-01,team1Home,-1,New England,-1,Indianapolis
-2024,12,week13,2024-12-01,team1Home,-1,Washington,-1,Tennessee
-2024,12,week13,2024-12-01,team1Home,-1,Carolina,-1,Tampa Bay
-2024,12,week13,2024-12-01,team1Home,-1,New Orleans,-1,Los Angeles Rams
-2024,12,week13,2024-12-01,team1Home,-1,Baltimore,-1,Philadelphia
-2024,12,week13,2024-12-01,team1Home,-1,Buffalo,-1,San Francisco
-2024,12,week13,2024-12-02,team1Home,-1,Denver,-1,Cleveland
+2024,11,week12,2024-11-21,team1Home,24,Cleveland,19,Pittsburgh
+2024,11,week12,2024-11-24,team1Home,27,Chicago,30,Minnesota
+2024,11,week12,2024-11-24,team1Home,6,Indianapolis,24,Detroit
+2024,11,week12,2024-11-24,team1Home,26,Washington,34,Dallas
+2024,11,week12,2024-11-24,team1Home,27,Carolina,30,Kansas City
+2024,11,week12,2024-11-24,team1Home,27,Houston,32,Tennessee
+2024,11,week12,2024-11-24,team1Home,7,New York Giants,30,Tampa Bay
+2024,11,week12,2024-11-24,team1Home,34,Miami,15,New England
+2024,11,week12,2024-11-24,team1Home,19,Las Vegas,29,Denver
+2024,11,week12,2024-11-24,team1Home,38,Green Bay,10,San Francisco
+2024,11,week12,2024-11-24,team1Home,16,Seattle,6,Arizona
+2024,11,week12,2024-11-24,team1Home,20,Los Angeles Rams,37,Philadelphia
+2024,11,week12,2024-11-25,team1Home,23,Los Angeles Chargers,30,Baltimore
+2024,12,week13,2024-11-28,team1Home,23,Detroit,20,Chicago
+2024,12,week13,2024-11-28,team1Home,27,Dallas,20,New York Giants
+2024,12,week13,2024-11-28,team1Home,30,Green Bay,17,Miami
+2024,12,week13,2024-11-29,team1Home,19,Kansas City,17,Las Vegas
+2024,12,week13,2024-12-01,team1Home,23,Minnesota,22,Arizona
+2024,12,week13,2024-12-01,team1Home,21,New York Jets,26,Seattle
+2024,12,week13,2024-12-01,team1Home,13,Atlanta,17,Los Angeles Chargers
+2024,12,week13,2024-12-01,team1Home,38,Cincinnati,44,Pittsburgh
+2024,12,week13,2024-12-01,team1Home,20,Jacksonville,23,Houston
+2024,12,week13,2024-12-01,team1Home,24,New England,25,Indianapolis
+2024,12,week13,2024-12-01,team1Home,42,Washington,19,Tennessee
+2024,12,week13,2024-12-01,team1Home,23,Carolina,26,Tampa Bay
+2024,12,week13,2024-12-01,team1Home,14,New Orleans,21,Los Angeles Rams
+2024,12,week13,2024-12-01,team1Home,19,Baltimore,24,Philadelphia
+2024,12,week13,2024-12-01,team1Home,35,Buffalo,10,San Francisco
+2024,12,week13,2024-12-02,team1Home,41,Denver,32,Cleveland
 2024,13,week14,2024-12-05,team1Home,-1,Detroit,-1,Green Bay
 2024,13,week14,2024-12-08,team1Home,-1,Minnesota,-1,Atlanta
 2024,13,week14,2024-12-08,team1Home,-1,New York Giants,-1,New Orleans
