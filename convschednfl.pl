@@ -36,7 +36,7 @@ my $yr = "00";
 my $week;
 my $week_num = 0;
 
-my @week_names = ("weekb1", "week02", "week03", "week04", "week05", "week06", "week07", "week08", "week09", "week10", "week11", "week12", "week13", "week14", "week15", "week16", "week17", "week18");
+my @week_names = ("weekb1", "week02", "week03", "week04", "week05", "week06", "week07", "week08", "week09", "week10", "week11", "week12", "week13", "week14", "week15", "week16", "week17", "week18", "weeke1", "weeke2", "weeke3", "weeke4");
 
 print OUT "Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2\n";
 
@@ -45,6 +45,8 @@ while (@sched) {
 
   my $game = shift @sched;
   my $rawGame = $game;
+
+  print "::: $rawGame eq $sched[0] && $sched[2] eq $sched[3]\n";
 
   chomp ($game);
   $game =~ s/\r//g;
@@ -191,9 +193,10 @@ while (@sched) {
 #    $neutral = "team1Home";
 
   } elsif (($rawGame eq $sched[0]) && ($sched[2] eq $sched[3])) {
+  print "::: found matchup\n";
     # 2021 https://www.foxsports.com/nfl/scores
     # copy page and paste as text
-    # problems with the end of the season
+    # problems with the end of the season - need to make similar names identical
     # see 2021 espn
     $team1 = $game;
     shift @sched;
