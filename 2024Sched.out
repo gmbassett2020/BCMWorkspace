@@ -277,3 +277,7 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,18,weeke1,2024-01-12,team1Home,-1,Philadelphia,-1,Green Bay
 2024,18,weeke1,2024-01-12,team1Home,-1,Tampa Bay,-1,Washington
 2024,18,weeke1,2024-01-13,team1Home,-1,Los Angeles Rams,-1,Minnesota
+2024,19,weeke2,2024-01-18,team1Home,-1,Kansas City,-1,Houston
+2024,19,weeke2,2024-01-18,team1Home,-1,Detroit,-1,Washington
+2024,19,weeke2,2024-01-19,team1Home,-1,Philadelphia,-1,Los Angeles Chargers
+2024,19,weeke2,2024-01-19,team1Home,-1,Buffalo,-1,Baltimore
