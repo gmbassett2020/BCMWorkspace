@@ -168,6 +168,8 @@ my $name;
 foreach $name (@_) {
 
 #print "LOOKING for $name\n";
+  die "ERROR: ambiguous name $name" if ($name eq "Los Angeles");
+
   my $team;
   my $match;
   foreach $team (@conv_list) {
