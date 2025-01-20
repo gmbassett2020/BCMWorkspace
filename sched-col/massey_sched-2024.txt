@@ -1593,7 +1593,6 @@
 2024-12-06 @Boise St                 21  UNLV                      7 P        Mountain West Championship  
 2024-12-06 @Jacksonville St          52  WKU                      12 P        CUSA Championship  
 2024-12-06 @Army                     35  Tulane                   14 P        AAC Championship  
-2024-12-07  Clemson                  34  SMU                      31 P        ACC Championship Charlotte, NC 
 2024-12-07  Oregon                   45  Penn St                  37 P        Big 10 Championship Indianapolis IN 
 2024-12-07 @Jackson St               41  Southern Univ            13 P        SWAC Championship  
 2024-12-07 @S Dakota St              35  Montana                  18 P          
@@ -1609,49 +1608,57 @@
 2024-12-07  Georgia                  22  Texas                    19 PO1      SEC Championship Atlanta GA 
 2024-12-07  Marshall                 31 @Louisiana                 3 P        Sun Belt Championship  
 2024-12-13 @Montana St               52  Idaho                    19 P          
-2024-12-14  South Alabama            30  W Michigan               23          Veterans Bowl Montgomery, AL 
-2024-12-14 @S Dakota St              55  Incarnate Word           14 P          
-2024-12-14  Jackson St               28  S Carolina St             7          Celebration Bowl  Atlanta, GA 
-2024-12-14 @South Dakota             35  UC Davis                 21 P          
-2024-12-14 @N Dakota St              31  Mercer                    7 P          
-2024-12-14  Navy                     31  Army                     13           Landover MD 
-2024-12-17  Memphis                  42  West Virginia            37          Frisco Bowl Frisco TX 
-2024-12-18  James Madison            27  WKU                      17          Boca Raton Bowl Boca Raton FL 
-2024-12-18  UNLV                     24  California               13          LA Bowl Inglewood CA 
-2024-12-19  Ga Southern               0  Sam Houston St            0 Sch      New Orleans Bowl New Orleans LA 
-2024-12-20  Jacksonville St           0  Ohio                      0 Sch      Cure Bowl Orlando FL 
-2024-12-20  Florida                   0  Tulane                    0 Sch      Gasparilla Bowl Tampa FL 
-2024-12-20  Indiana                   0 @Notre Dame                0 SchP     CFP  
-2024-12-21  SMU                       0 @Penn St                   0 SchP     CFP  
-2024-12-21  Clemson                   0 @Texas                     0 SchP     CFP  
-2024-12-21  Tennessee                 0 @Ohio St                   0 SchP     CFP  
-2024-12-21  S Dakota St               0 @N Dakota St               0 SchP       
-2024-12-21  South Dakota              0 @Montana St                0 SchP       
-2024-12-23  UT San Antonio            0 @Coastal Car               0 Sch      Myrtle Beach Bowl Conway SC 
-2024-12-23  Fresno St                 0  N Illinois                0 Sch      Potato Bowl Boise ID 
-2024-12-24  San Jose St               0  South Florida             0 Sch      Hawaii Bowl Honolulu, HI 
-2024-12-26  Pittsburgh                0  Toledo                    0 Sch      GameAbove Bowl Detroit MI 
-2024-12-26  Kansas St                 0  Rutgers                   0 Sch      Rate Bowl Phoenix AZ 
-2024-12-26  Arkansas St               0  Bowling Green             0 Sch      68 Ventures Bowl Mobile AL 
-2024-12-27  Navy                      0  Oklahoma                  0 Sch      Armed Forces Bowl Ft Worth TX 
-2024-12-27  Georgia Tech              0  Vanderbilt                0 Sch      Birmingham Bowl Birmingham AL 
-2024-12-27  Arkansas                  0  Texas Tech                0 Sch      Liberty Bowl Memphis TN 
-2024-12-27  Syracuse                  0  Washington St             0 Sch      Holiday Bowl San Diego CA 
-2024-12-27  Texas A&M                 0  USC                       0 Sch      Las Vegas Bowl Las Vegas NV 
-2024-12-28  Connecticut               0  North Carolina            0 Sch      Fenway Bowl Boston MA 
-2024-12-28  Boston College            0  Nebraska                  0 Sch      Pinstripe Bowl Bronx NY 
-2024-12-28  Louisiana                 0  TCU                       0 Sch      New Mexico Bowl Albuquerque NM 
-2024-12-28  Iowa St                   0  Miami FL                  0 Sch      Pop Tarts Bowl Orlando FL 
-2024-12-28  Colorado St               0  Miami OH                  0 Sch      Arizona Bowl Tucson AZ 
-2024-12-28  East Carolina             0  NC State                  0 Sch      Military Bowl Annapolis MD 
-2024-12-28  BYU                       0  Colorado                  0 Sch      Alamo Bowl San Antonio TX 
-2024-12-28  Army                      0  Louisiana Tech            0 Sch      Independence Bowl Shreveport LA 
-2024-12-30  Iowa                      0  Missouri                  0 Sch      Music City Bowl Nashville TN 
-2024-12-31  Alabama                   0  Michigan                  0 Sch      ReliaQuest Bowl Tampa FL 
-2024-12-31  Louisville                0  Washington                0 Sch      Sun Bowl El Paso TX 
-2024-12-31  Illinois                  0  South Carolina            0 Sch      Citrus Bowl Orlando FL 
-2024-12-31  Baylor                    0  LSU                       0 Sch      Texas Bowl Houston TX 
-2025-01-02  Duke                      0  Mississippi               0 Sch      Gator Bowl Jacksonville, FL 
-2025-01-03  North Texas               0  Texas St                  0 Sch      First Responder Bowl Dallas TX 
-2025-01-03  Minnesota                 0  Virginia Tech             0 Sch      Mayo Bowl Charlotte NC 
-2025-01-04  Buffalo                   0  Liberty                   0 Sch      Bahamas Bowl Nassau, Bahamas 
+2024-12-14  South Alabama            30  W Michigan               23          Veterans Bowl Montgomery, AL
+2024-12-14 @S Dakota St              55  Incarnate Word           14 P         
+2024-12-14  Jackson St               28  S Carolina St             7          Celebration Bowl  Atlanta GA
+2024-12-14 @South Dakota             35  UC Davis                 21 P         
+2024-12-14 @N Dakota St              31  Mercer                    7 P         
+2024-12-14  Navy                     31  Army                     13          Landover MD
+2024-12-17  Memphis                  42  West Virginia            37          Frisco Bowl Frisco TX
+2024-12-18  James Madison            27  WKU                      17          Boca Raton Bowl Boca Raton FL
+2024-12-18  UNLV                     24  California               13          LA Bowl Inglewood CA
+2024-12-19  Sam Houston St           31  Ga Southern              26          New Orleans Bowl New Orleans LA
+2024-12-20  Ohio                     30  Jacksonville St          27          Cure Bowl Orlando FL
+2024-12-20  Florida                  33  Tulane                    8          Gasparilla Bowl Tampa FL
+2024-12-20 @Notre Dame               27  Indiana                  17 P        CFP 
+2024-12-21 @Penn St                  38  SMU                      10 P        CFP 
+2024-12-21 @Texas                    38  Clemson                  24 P        CFP 
+2024-12-21 @Ohio St                  42  Tennessee                17 P        CFP 
+2024-12-21 @N Dakota St              28  S Dakota St              21 P         
+2024-12-21 @Montana St               31  South Dakota             17 P         
+2024-12-23  UT San Antonio           44 @Coastal Car              15          Myrtle Beach Bowl Conway SC
+2024-12-23  N Illinois               28  Fresno St                20 O2       Potato Bowl Boise ID
+2024-12-24  South Florida            41  San Jose St              39 O5       Hawaii Bowl Honolulu HI
+2024-12-26  Toledo                   48  Pittsburgh               46 O6       GameAbove Bowl Detroit MI
+2024-12-26  Kansas St                44  Rutgers                  41          Rate Bowl Phoenix AZ
+2024-12-26  Arkansas St              38  Bowling Green            31          68 Ventures Bowl Mobile AL
+2024-12-27  Navy                     21  Oklahoma                 20          Armed Forces Bowl Fort Worth TX
+2024-12-27  Vanderbilt               35  Georgia Tech             27          Birmingham Bowl Birmingham AL
+2024-12-27  Arkansas                 39  Texas Tech               26          Liberty Bowl Memphis TN
+2024-12-27  Syracuse                 52  Washington St            35          Holiday Bowl San Diego CA
+2024-12-27  USC                      35  Texas A&M                31          Las Vegas Bowl Las Vegas NV
+2024-12-28  Connecticut              27  North Carolina           14          Fenway Bowl Boston MA
+2024-12-28  Nebraska                 20  Boston College           15          Pinstripe Bowl Bronx NY
+2024-12-28  TCU                      34  Louisiana                 3          New Mexico Bowl Albuquerque NM
+2024-12-28  Iowa St                  42  Miami FL                 41          Pop Tarts Bowl Orlando FL
+2024-12-28  Miami OH                 43  Colorado St              17          Arizona Bowl Tucson AZ
+2024-12-28  East Carolina            26  NC State                 21          Military Bowl Annapolis MD
+2024-12-28  BYU                      36  Colorado                 14          Alamo Bowl San Antonio TX
+2024-12-28  Army                     27  Louisiana Tech            6          Independence Bowl Shreveport LA
+2024-12-30  Missouri                 27  Iowa                     24          Music City Bowl Nashville TN
+2024-12-31  Michigan                 19  Alabama                  13          ReliaQuest Bowl Tampa FL
+2024-12-31  Louisville               35  Washington               34          Sun Bowl El Paso TX
+2024-12-31  Illinois                 21  South Carolina           17          Citrus Bowl Orlando FL
+2024-12-31  LSU                      44  Baylor                   31          Texas Bowl Houston TX
+2024-12-31  Penn St                  31  Boise St                 14 P        Fiesta Bowl, CFP QF Glendale AZ
+2025-01-01  Texas                    39  Arizona St               31 PO2      Peach Bowl, CFP QF Atlanta GA
+2025-01-01  Ohio St                  41  Oregon                   21 P        Rose Bowl, CFP QF Pasadena CA
+2025-01-02  Mississippi              52  Duke                     20          Gator Bowl Jacksonville, FL
+2025-01-02  Notre Dame               23  Georgia                  10 P        Sugar Bowl, CFP QF New Orleans LA
+2025-01-03  Texas St                 30  North Texas              28          First Responder Bowl Dallas TX
+2025-01-03  Minnesota                24  Virginia Tech            10          Mayo Bowl Charlotte NC
+2025-01-04  Buffalo                  26  Liberty                   7          Bahamas Bowl Nassau, Bahamas
+2025-01-06  N Dakota St              35  Montana St               32 P        FCS Championship Frisco TX
+2025-01-09  Notre Dame               27  Penn St                  24 P        Orange Bowl, CFP Semi Miami Gardens FL
+2025-01-10  Ohio St                  28  Texas                    14 P        Cotton Bowl, CFP Semi Arlington, TX
+2025-01-20  Notre Dame                0  Ohio St                   0 SchP     CFP Championship Atlanta, GA

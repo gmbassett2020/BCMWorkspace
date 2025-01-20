@@ -138,8 +138,9 @@ python forecastAndRank.py currentSeason=2024 maxRound=3 useTeamListFile=workspac
 python forecastAndRank.py currentSeason=2024 maxRound=16 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wk15.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=17 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wke1.txt usePowerUncertainty=True |& tee tmp.txt
 python forecastAndRank.py currentSeason=2024 maxRound=18 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wke2.txt usePowerUncertainty=True |& tee tmp.txt
+python forecastAndRank.py currentSeason=2024 maxRound=19 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wke3.txt usePowerUncertainty=True
+python forecastAndRank.py currentSeason=2024 maxRound=20 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wke4.txt usePowerUncertainty=True
 # also needed to add a dummy game for the following week for the final results:
-python forecastAndRank.py currentSeason=2024 maxRound=19 useTeamListFile=workspace/colI-list-2020_2024.csv useTeamSeasonsFile=workspace/colI-seasons-2020_2024.csv outputFile=workspace/col-24wkfnl.txt usePowerUncertainty=True |& tee tmp.txt
 
 makeweb.pl
 update spotlight.html
