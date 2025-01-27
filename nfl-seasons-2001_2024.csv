@@ -6154,35 +6154,35 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2023,16,week17,2023-12-31,team1Home,25,Kansas City,17,Cincinnati
 2023,16,week17,2023-12-31,team1Home,16,Denver,9,Los Angeles Chargers
 2023,16,week17,2023-12-31,team1Home,10,Minnesota,33,Green Bay
-2023,17,week18,2023-01-07,team1Home,20,Arizona,21,Seattle
-2023,17,week18,2023-01-07,team1Home,10,Baltimore,17,Pittsburgh
-2023,17,week18,2023-01-07,team1Home,0,Carolina,9,Tampa Bay
-2023,17,week18,2023-01-07,team1Home,31,Cincinnati,14,Cleveland
-2023,17,week18,2023-01-07,team1Home,30,Detroit,20,Minnesota
-2023,17,week18,2023-01-07,team1Home,17,Green Bay,9,Chicago
-2023,17,week18,2023-01-07,team1Home,19,Indianapolis,23,Houston
-2023,17,week18,2023-01-07,team1Home,12,Los Angeles Chargers,13,Kansas City
-2023,17,week18,2023-01-07,team1Home,27,Las Vegas,14,Denver
-2023,17,week18,2023-01-07,team1Home,14,Miami,21,Buffalo
-2023,17,week18,2023-01-07,team1Home,48,New Orleans,17,Atlanta
-2023,17,week18,2023-01-07,team1Home,3,New England,17,New York Jets
-2023,17,week18,2023-01-07,team1Home,27,New York Giants,10,Philadelphia
-2023,17,week18,2023-01-07,team1Home,28,Tennessee,20,Jacksonville
-2023,17,week18,2023-01-07,team1Home,20,San Francisco,21,Los Angeles Rams
-2023,17,week18,2023-01-07,team1Home,10,Washington,38,Dallas
-2023,18,weeke1,2023-01-13,team1Home,45,Houston,14,Cleveland
-2023,18,weeke1,2023-01-13,team1Home,26,Kansas City,7,Miami
-2023,18,weeke1,2023-01-14,team1Home,31,Buffalo,17,Pittsburgh
-2023,18,weeke1,2023-01-14,team1Home,32,Dallas,48,Green Bay
-2023,18,weeke1,2023-01-15,team1Home,24,Detroit,23,Los Angeles Rams
-2023,18,weeke1,2023-01-15,team1Home,32,Tampa Bay,9,Philadelphia
-2023,19,weeke2,2023-01-20,team1Home,34,Baltimore,10,Houston
-2023,19,weeke2,2023-01-20,team1Home,24,San Francisco,21,Green Bay
-2023,19,weeke2,2023-01-21,team1Home,31,Detroit,23,Tampa Bay
-2023,19,weeke2,2023-01-21,team1Home,24,Buffalo,27,Kansas City
-2023,20,weeke3,2023-01-28,team1Home,34,San Francisco,31,Detroit
-2023,20,weeke3,2023-01-28,team1Home,10,Baltimore,17,Kansas City
-2023,21,weeke4,2023-02-11,neutral,25,Kansas City,22,San Francisco
+2023,17,week18,2024-01-07,team1Home,20,Arizona,21,Seattle
+2023,17,week18,2024-01-07,team1Home,10,Baltimore,17,Pittsburgh
+2023,17,week18,2024-01-07,team1Home,0,Carolina,9,Tampa Bay
+2023,17,week18,2024-01-07,team1Home,31,Cincinnati,14,Cleveland
+2023,17,week18,2024-01-07,team1Home,30,Detroit,20,Minnesota
+2023,17,week18,2024-01-07,team1Home,17,Green Bay,9,Chicago
+2023,17,week18,2024-01-07,team1Home,19,Indianapolis,23,Houston
+2023,17,week18,2024-01-07,team1Home,12,Los Angeles Chargers,13,Kansas City
+2023,17,week18,2024-01-07,team1Home,27,Las Vegas,14,Denver
+2023,17,week18,2024-01-07,team1Home,14,Miami,21,Buffalo
+2023,17,week18,2024-01-07,team1Home,48,New Orleans,17,Atlanta
+2023,17,week18,2024-01-07,team1Home,3,New England,17,New York Jets
+2023,17,week18,2024-01-07,team1Home,27,New York Giants,10,Philadelphia
+2023,17,week18,2024-01-07,team1Home,28,Tennessee,20,Jacksonville
+2023,17,week18,2024-01-07,team1Home,20,San Francisco,21,Los Angeles Rams
+2023,17,week18,2024-01-07,team1Home,10,Washington,38,Dallas
+2023,18,weeke1,2024-01-13,team1Home,45,Houston,14,Cleveland
+2023,18,weeke1,2024-01-13,team1Home,26,Kansas City,7,Miami
+2023,18,weeke1,2024-01-14,team1Home,31,Buffalo,17,Pittsburgh
+2023,18,weeke1,2024-01-14,team1Home,32,Dallas,48,Green Bay
+2023,18,weeke1,2024-01-15,team1Home,24,Detroit,23,Los Angeles Rams
+2023,18,weeke1,2024-01-15,team1Home,32,Tampa Bay,9,Philadelphia
+2023,19,weeke2,2024-01-20,team1Home,34,Baltimore,10,Houston
+2023,19,weeke2,2024-01-20,team1Home,24,San Francisco,21,Green Bay
+2023,19,weeke2,2024-01-21,team1Home,31,Detroit,23,Tampa Bay
+2023,19,weeke2,2024-01-21,team1Home,24,Buffalo,27,Kansas City
+2023,20,weeke3,2024-01-28,team1Home,34,San Francisco,31,Detroit
+2023,20,weeke3,2024-01-28,team1Home,10,Baltimore,17,Kansas City
+2023,21,weeke4,2024-02-11,neutral,25,Kansas City,22,San Francisco
 2024,0,weekb1,2024-09-05,team1Home,27,Kansas City,20,Baltimore
 2024,0,weekb1,2024-09-06,team1Home,34,Philadelphia,29,Green Bay
 2024,0,weekb1,2024-09-08,team1Home,10,Atlanta,18,Pittsburgh
@@ -6465,5 +6465,6 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,19,weeke2,2025-01-18,team1Home,31,Detroit,45,Washington
 2024,19,weeke2,2025-01-19,team1Home,28,Philadelphia,22,Los Angeles Rams
 2024,19,weeke2,2025-01-19,team1Home,27,Buffalo,25,Baltimore
-2024,20,weeke3,2025-01-26,team1Home,-1,Philadelphia,-1,Washington
-2024,20,weeke3,2025-01-26,team1Home,-1,Kansas City,-1,Buffalo
+2024,20,weeke3,2025-01-26,team1Home,55,Philadelphia,23,Washington
+2024,20,weeke3,2025-01-26,team1Home,32,Kansas City,29,Buffalo
+2024,21,weeke4,2025-02-09,neutral,-1,Philadelphia,-1,Kansas City
