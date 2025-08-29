@@ -1,0 +1,197 @@
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FLF8TEMEL1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FLF8TEMEL1');
+</script>
+
+<TITLE>Bassett Football Model</TITLE>
+
+<BODY BGCOLOR="#002CAA" TEXT="#FFFFFF"
+      LINK="#FFFF00" VLINK="#FF33AA" ALINK="#FFFFFF"> 
+
+<H1> Bassett Football Model: Questions and Answers </H1>
+
+<P> <HR SIZE=5> <P>
+
+<PRE>
+Date: Fri, 4 Oct 1996 10:03:41 -0600 (CDT)
+
+>   Interesting how you rank the teams.  You don't take quality of opponent
+>   into consideration?  Just offensive and defensive prowess?  So you can
+>   have Nebraska #3 and ASU, who totally dominated the huskers, #11?  ASU
+>   has beaten 3 ranked teams this year (#1 Nebraska, #18 Washington, and #25
+>   Oregon). 
+
+The model does take the quality of the opponent into account THROUGH
+its offensive and defensive model fits.  Lets look at Arizona State for
+example.  Here are the model vs actual scores for ASU using the model's 
+latest fit:
+
+prob rnk winning_team        actual pred    rnk losing_team         actual pred
+ 71%  16 Arizona State           45 32.7,    19 Washington              42 26.5
+ 99%  16 Arizona State           52 52.3,   109 North Texas              7  6.0
+ 12%  16 Arizona State           19 27.7,     3 Nebraska                 0 41.3
+ 89%  16 Arizona State           48 38.9,    45 Oregon                  27 23.7
+
+(where "pred" is the AVERAGE score the model predicts for that matchup).
+
+The model finds offensive and defensive fits for each team which on the
+average produce the best fit to the actual scores.  With the exception of
+the number of points Nebraska scored, the actual vs model scores are
+pretty close.  If we look at the average performance:
+
+            Average points ASU was expected to score: 38
+                               actual average points: 41
+
+                   Average expected defensive points: 24
+                             actual defensive points: 19
+
+The fact that the model did not reproduce a low score for Nebraska
+suggests that this was an unusual event (i.e. far from the average
+behavior of the two teams).  When finding the offensive and defensive
+fits, the model goes through several iterations of adjusting the
+off/def for each game to match the score and then averaging the off/def of
+each team.  Getting the model's Nebraska points against ASU closer to
+zero would require raising ASU defense and/or lowering Nebraska's
+offense.  The fitting does this to the extent that this is ALSO
+consistent with their other games.
+
+>   I can't see rewarding schools for scheduling patsies and then
+>   crushing the living daylights out of them.  
+
+The model doesn't reward playing against patsies.  If a team plays a patsy
+it must score a lot of points or drop.  It is how many points that are
+scored that counts, not who wins.  For example:
+
+prob rnk winning_team        actual pred    rnk losing_team         actual pred
+ 99%   3 Nebraska                55 47.2,    27 Michigan State          14 21.6
+ 78%   3 Nebraska                 0 41.3,    16 Arizona State           19 27.7
+ 99%   3 Nebraska                65 50.5,    59 Colorado State           9 14.7
+
+When playing Michigan State and Colorado State, if Nebraska had not done
+as well as they did the model would have lowered its off/def.
+
+       Average points Nebraska was expected to score: 46
+                               actual average points: 40
+
+                   Average expected defensive points: 21
+                             actual defensive points: 14  
+</PRE>
+
+<P> <HR SIZE=1> <P>
+
+<PRE>
+Date: Wed, 2 Sep 1998 14:29:45
+
+> ... How in the world can you justify a prediction based on LAST YEAR'S TEAMS!
+> This is college football.  Seniors graduate ...
+
+Actually, making this assumption at the beginning of the year is not such an
+awful thing to do.  In 1996 my model picked 75% of the in the first 
+five weeks of the season (when the assumption of last year's performance
+has the largest effect).  This is the same percentage as for the entire
+1996 season.  Last year, when I made an attempt at adjusting the initial
+values to reflect changes from the previous season, the model picked 77%
+in the first 5 weeks and 78% for then entire year.  Basically, it is not
+that bad of an assumption.
+
+> ... Unless a computer
+> ranking system can be devised that evaluates the teams as they are now ...
+> [it] really means nothing when it comes to the relative strengths of 
+> the teams.
+
+This is precisely what my model is designed to do, once enough games have 
+been played in the season (say about 5 weeks).  In the mean time I recommend
+that you use the model prediction as a baseline to adjust according to
+how you feel the teams have changed.
+</PRE>
+
+<P> <HR SIZE=1> <P>
+
+<PRE>
+Date: Tue, 29 Sep 1998 12:48:14
+
+> Now that you've added this Uncertainty value...how are you coming up with
+> this number?
+
+There is no completely unique way fit the model to the actual scores.  This
+season I am now doing the fit three different ways.  The variation in
+rank between these methods is what I list as the "uncertainty".
+
+At the beginning of the season the uncertainty is high because the solution
+depends strongly on the initial guess at the teams strengths.  As more
+games are played the different methods tend to converge toward a common
+solution, reducing the uncertainty.
+</PRE>
+
+<P> <HR SIZE=5> <P>
+
+<PRE>
+Date: Thu, 23 Sep 1999 14:27:50
+
+> ... Your predictions include a random component (0 to 1). 10,000 games
+> are played and the scores averaged.  ... Do you actually simulate
+> 10,000 games?
+
+I ran 10,000 games each for a range of offensive and defensive values and
+constructed a table.  For any given game I look up in the table
+under the offensive and defensive settings for the two teams and get the
+average scores and probability of a win.  So it has the same result as
+if I did run 10,000 games but all I have to do is retrieve from a table.
+</PRE>
+
+<P> <HR SIZE=5> <P>
+
+<PRE>
+Date: Mon, 21 Aug 2000 14:12:32
+
+> Thanks for the info.  76%, roughly 3 out of 4, is a pretty good track
+> record.  But it seems to me that a lot of games are in the 80-20 range, and
+> you'll get a very high percentage of them right.  So, my question is:  Of
+> all the games that your model predicts higher than 40% for the loser and
+> less than 60% for the winner, how many does your model get right?  And how
+> about the 70-30, 80-20, 90-10?  I was just curious to see how the winning
+> percentage is reflected.
+
+Good question.  Here is how my model predictions break down according
+to model forecasted percentage brackets:
+
+                 50-59%  60-69%  70-79%  80-89%  90-99%     all
+total games:        449     547     747     685     703    3139
+number right:       268     355     541     563     639    2374
+number expected:  248.3   355.1   563.8   584.2   657.3  2416.4
+expected %:        55.3    64.9    75.5    85.3    93.5    77.0
+actual %:          59.7    64.9    72.4    82.2    90.9    75.6
+
+For example, for games where my model forecast a 60-69% change of a
+victory (547) it got the winner right 355 times.  The average expected
+percentage was 64.9% (355.1 of 547) and the actual correct also was 64.9%.
+Actually it is not a coincidence that the actual and expected
+percentages are so close.  I have adjusted my forecasted percentages
+(reducing the larger ones by about 5-6% and increasing the lower ones by
+4%) so that the forecasted and actual percentages would be the same.
+
+I thought that this was pretty impressive until I realized that I could
+come up with another model that was 100% accurate: flip a coin.  Expected
+correct is 50% and actual correct will also be 50% on average.  The 
+difference is that the coin-flip model is totally useless.   That is 
+why I gave my overall accuracy.  The better the model, the higher that will
+be.  I would love to know what the absolute best percentage is.  If one
+knew that, then one would have the ultimate model.  Since I lower my larger
+percentage forecasts by about 5%, perhaps the actual average percentage
+of favored team over underdog is around 80%.
+</PRE>
+
+<P> <HR SIZE=5> <P>
+
+<P>
+Please email comments or questions to
+<A HREF="mailto:bfm@BassettFootball.net">bfm@BassettFootball.net</A>
+<P>
+
+
