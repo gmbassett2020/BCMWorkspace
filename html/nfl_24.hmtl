@@ -1,3 +1,4 @@
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FLF8TEMEL1"></script>
 <script>
@@ -8,7 +9,7 @@
   gtag('config', 'G-FLF8TEMEL1');
 </script>
 
-<TITLE>Bassett Football Model</TITLE>
+<TITLE>Bassett Football Model - NFL 2024 </TITLE>
 
 <BODY BGCOLOR="#002CAA" TEXT="#FFFFFF"
       LINK="#FFFF00" VLINK="#FF33AA" ALINK="#FFFFFF"> 
@@ -16,40 +17,19 @@
 <META  name="description" 
   content="Computer model for ranking football teams.">
 <META  name="keywords" 
-  content="computer model, football, college, IA, IAA, nfl, ranking, results, prediction">
+  content="computer model, football, nfl, ranking, results, prediction">
 
-<H1> Bassett Football Model </H1>
+<H2><A NAME="nfl"></A>2024 NFL Forecast</H2>
 
-The Bassett football model is a system for ranking the relative strengths
-of football teams.  A key feature of this model is that it recognizes
-that if two teams could play more than once the same team would not
-always win (there is an element of chance involved).  The system is
-based on a simple model of a football game.  For a given match-up of
-two teams, a number of model games are simulated by a computer and the
-average scores and the percentage of times each team wins is computed.
-Each week during the football season the best fit of offensive and
-defensive strengths is found for each team consistent with the actual
-scores.  I do include considerations for home field advantage and for
-the possibility that teams may score less than expected in a blow-out if
-they choose to run out time instead of score more points in the latter
-part of a game.
+<UL>
+<LI>
+<A HREF="https://github.com/gmbassett2020/BassettCompetativeModel"> Development version of the model in Python </A>
 
-<!--H3> <A HREF="http://www.bassettfootballmodel.com"> Draft version of new web design for the pages</A> </H3-->
-<H3> <A HREF="about_model.html"> More about the model ... </A> </H3>
-<H3> <A HREF="questions.html"> Questions and answers ... </A> </H3>
+<LI>
+<A HREF="https://github.com/gmbassett2020/BCMWorkspace"> Scripts used to run the model and publish the results </A>
+</UL>
 
-The purpose of this football web page is to provide an unbiased
-analysis of the teams: how they compare with each other and what sort
-of results to expect from upcoming games.  It is not my intention,
-however, to encourage gambling with this information.  I have purposely
-presented the information in a way that will minimize its usefulness in
-this regard while still providing useful entertainment, etc.
-<A HREF="mailto:bfm@BassettFootball.net"> Comments </A> on how to avoid
-the misuse of these web pages for gambling are most welcome.
-
-<P>
-
-Enjoy!
+<H2> <A HREF="col_past.html">NCAA Past Seasons </A> </H2>
 
 <P> <HR SIZE=5> <P>
 
@@ -128,50 +108,10 @@ Enjoy!
      27 Jan 2025: Average model rankings (NFL)</A> <!-- nfl rank -->
      (average rank over entire season)</H3>
 
-<H2> <A HREF="nfl_past.html">Past Seasons </A> </H2>
 
-<P> <HR SIZE=5> <P>
+<HR SIZE=5>
 
-<H2> <A HREF="col_past.html">NCAA Past Seasons </A> </H2>
-
-<P> <HR SIZE=5> <P>
-
-<H2> Links of interest </H2>
-
-<UL>
-
-<LI> Bassett Model and tools available on GitHub: </A>
-   <UL>
-   <LI>
-   <A HREF="https://github.com/gmbassett2020/BassettCompetativeModel"> Development version of the model in Python </A>
-   <LI>
-   <A HREF="https://github.com/gmbassett2020/BCMWorkspace"> Scripts used to run the model and publish the results </A>
-   </UL>
-<LI> NCAA forecasts from ThePredictionTracker
-   <UL>
-   <LI> Main Page:
-   <A HREF="http://www.thepredictiontracker.com/predncaa.html">
-        ThePredictionTracker</A>
-   <LI> Latest NCAA Forecast: <A HREF="http://www.thepredictiontracker.com/predncaa.html">
-        ThePredictionTracker latest forecast </A>
-   </UL>
-<LI><A HREF="http://prwolfe.bol.ucla.edu/cfootball/home.htm">
-     Peter Wolfe's College Football Scores</A> 
-<LI><A HREF="https://masseyratings.com/ranks">
-     College Football Ranking Comparasion</A>
-<LI><A HREF="http://www.thepredictiontracker.com/predncaa.html">
-     PerformanZ sponsored comparison between ranking/prediction systems</A>
-<LI><A HREF="http://www.cfpool.com/">
-     RSFC CFPOOL</A>
-<!--
-<UL> 
-<LI><A HREF="http://www.cfpool.com/2002/ytd2002.htm">
-</UL>
--->
-
-</UL>
-
-<P> <HR SIZE=5> <P>
+<P>
 
 Please email comments or questions to
 <A HREF="mailto:bfm@BassettFootball.net">bfm@BassettFootball.net</A>
