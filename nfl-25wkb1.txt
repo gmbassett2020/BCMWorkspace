@@ -1,0 +1,17 @@
+predictions: prob=0.9057542481117286 Philadelphia--Dallas predicted=31.843517610237--13.432751154331854 spread=18.410766455905147
+predictions: prob=0.5653355178093558 Los Angeles Chargers--Kansas City predicted=15.205083525213166--12.9019308841203 spread=2.303152641092865
+predictions: prob=0.6383522791586742 Tampa Bay--Atlanta  predicted=27.53196140299721--22.575149863245155 spread=4.9568115397520565
+predictions: prob=0.7072319146943037 Cincinnati--Cleveland  predicted=29.257640601806656--21.623215969428106 spread=7.6344246323785505
+predictions: prob=0.6840933997732467 Jacksonville--Carolina predicted=22.862656142223237--16.154187694200953 spread=6.708468448022284
+predictions: prob=0.8642975025800215 Washington--New York Giants predicted=31.29043186017251--15.89277318960388 spread=15.397658670568632
+predictions: prob=0.5358399051031218 New England--Las Vegas predicted=16.058118218096908--14.798699156902416 spread=1.2594190611944924
+predictions: prob=0.5904883860056728 Arizona--New Orleans  predicted=19.49020540793966--16.28698489616051 spread=3.203220511779147
+predictions: prob=0.586789515688335 Pittsburgh--New York Jets  predicted=20.407204725714784--17.3370875242879 spread=3.0701172014268856
+predictions: prob=0.5666998003177536 Indianapolis--Miami predicted=21.367547772340483--19.015852440417145 spread=2.351695331923338
+predictions: prob=0.6505359639987276 Seattle--San Francisco predicted=21.54285027154516--16.128100212243883 spread=5.4147500593012765
+predictions: prob=0.8794995876752771 Denver--Tennessee predicted=27.672163088130937--11.257318440188044 spread=16.414844647942893
+predictions: prob=0.541655893871402 Detroit--Green Bay  predicted=23.37207815403093--21.907589897535708 spread=1.4644882564952226
+predictions: prob=0.6024739416074825 Los Angeles Rams--Houston predicted=19.677971431755665--16.041389677372486 spread=3.6365817543831795
+predictions: prob=0.5527740543026849 Buffalo--Baltimore predicted=24.351332902143422--22.493909033794544 spread=1.857423868348878
+predictions: prob=0.6281456333091041 Minnesota--Chicago  predicted=20.630013670835517--16.05276976530819 spread=4.577243905527325
+::: forecastStatistics {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}::: detailedStatistics {'weekb1': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}}}

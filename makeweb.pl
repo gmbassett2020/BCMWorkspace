@@ -21,10 +21,10 @@ my $html_base = "./html";
 #my $html_base = "tmp-html";
 
 #FIXME
-my $year = "2024";
+my $year = "2025";
 my $league = "nfl";
-my $week = "weeke4"; # this is the current week, the result week is one less
-my $today = "27 Jan 2025";
+my $week = "weekb1"; # this is the current week, the result week is one less
+my $today = "30 Aug 2025";
 #my $year = "2023";
 #my $league = "col";
 #my $week = "wke3"; # this is the current week, the result week is one less, wkb#,wk##,wke#
@@ -761,30 +761,58 @@ sub addWeek
 
 # NFL dates
 
-# 2024 season:
+# 2025 season:
+my $yearInfo = 2025;
 $wk_count = 1;
-addWeek($league, $year, "wkb1", "Week 1 (5-9 Sep)", $wk_count++);
-addWeek($league, $year, "wk02", "Week 2 (12-16 Sep)", $wk_count++);
-addWeek($league, $year, "wk03", "Week 3 (19-23 Sep)", $wk_count++);
-addWeek($league, $year, "wk04", "Week 4 (26-30 Sep)", $wk_count++);
-addWeek($league, $year, "wk05", "Week 5 (3-7 Oct)", $wk_count++);
-addWeek($league, $year, "wk06", "Week 6 (10-14 Oct)", $wk_count++);
-addWeek($league, $year, "wk07", "Week 7 (17-21 Oct)", $wk_count++);
-addWeek($league, $year, "wk08", "Week 8 (24-28 Oct)", $wk_count++);
-addWeek($league, $year, "wk09", "Week 9 (31 Oct - 4 Nov)", $wk_count++);
-addWeek($league, $year, "wk10", "Week 10 (7-11 Nov)", $wk_count++);
-addWeek($league, $year, "wk11", "Week 11 (14-18 Nov)", $wk_count++);
-addWeek($league, $year, "wk12", "Week 12 (21-25 Nov)", $wk_count++);
-addWeek($league, $year, "wk13", "Week 13 (28 Nov - 2 Dec)", $wk_count++);
-addWeek($league, $year, "wk14", "Week 14 (5-9 Dec)", $wk_count++);
-addWeek($league, $year, "wk15", "Week 15 (12-16 Dec)", $wk_count++);
-addWeek($league, $year, "wk16", "Week 16 (19-21 Dec)", $wk_count++);
-addWeek($league, $year, "wk17", "Week 17 (25-29 Dec)", $wk_count++);
-addWeek($league, $year, "wk18", "Week 18 (5 Jan)", $wk_count++);
-addWeek($league, $year, "wke1", "Postseason: Wild Card (11-13 Jan)", $wk_count++);
-addWeek($league, $year, "wke2", "Postseason: Divisional (18-19 Jan)", $wk_count++);
-addWeek($league, $year, "wke3", "Postseason: Conference (26 Jan)", $wk_count++);
-addWeek($league, $year, "wke4", "Super Bowl (9 Feb)", $wk_count++);
+addWeek($league, $yearInfo, "wkb1", "Week 1 (4-8 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk02", "Week 2 (11-15 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk03", "Week 3 (18-22 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk04", "Week 4 (25-29 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk05", "Week 5 (2-6 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk06", "Week 6 (9-13 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk07", "Week 7 (16-20 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk08", "Week 8 (23-27 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk09", "Week 9 (30 Oct - 3 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk10", "Week 10 (6-10 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk11", "Week 11 (13-17 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk12", "Week 12 (20-24 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk13", "Week 13 (27 Nov - 1 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk14", "Week 14 (4-8 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk15", "Week 15 (11-15 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk16", "Week 16 (18-22 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk17", "Week 17 (25-29 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk18", "Week 18 (4 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke1", "Postseason: Wild Card (10-12 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke2", "Postseason: Divisional (17-18 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke3", "Postseason: Conference (25 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke4", "Super Bowl (8 Feb)", $wk_count++);
+
+
+# 2024 season:
+my $yearInfo = 2024;
+$wk_count = 1;
+addWeek($league, $yearInfo, "wkb1", "Week 1 (5-9 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk02", "Week 2 (12-16 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk03", "Week 3 (19-23 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk04", "Week 4 (26-30 Sep)", $wk_count++);
+addWeek($league, $yearInfo, "wk05", "Week 5 (3-7 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk06", "Week 6 (10-14 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk07", "Week 7 (17-21 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk08", "Week 8 (24-28 Oct)", $wk_count++);
+addWeek($league, $yearInfo, "wk09", "Week 9 (31 Oct - 4 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk10", "Week 10 (7-11 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk11", "Week 11 (14-18 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk12", "Week 12 (21-25 Nov)", $wk_count++);
+addWeek($league, $yearInfo, "wk13", "Week 13 (28 Nov - 2 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk14", "Week 14 (5-9 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk15", "Week 15 (12-16 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk16", "Week 16 (19-21 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk17", "Week 17 (25-29 Dec)", $wk_count++);
+addWeek($league, $yearInfo, "wk18", "Week 18 (5 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke1", "Postseason: Wild Card (11-13 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke2", "Postseason: Divisional (18-19 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke3", "Postseason: Conference (26 Jan)", $wk_count++);
+addWeek($league, $yearInfo, "wke4", "Super Bowl (9 Feb)", $wk_count++);
 
 # 2023 season:
 $wk_count = 1;
