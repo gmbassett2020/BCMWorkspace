@@ -6467,23 +6467,23 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2024,19,weeke2,2025-01-19,team1Home,27,Buffalo,25,Baltimore
 2024,20,weeke3,2025-01-26,team1Home,55,Philadelphia,23,Washington
 2024,20,weeke3,2025-01-26,team1Home,32,Kansas City,29,Buffalo
-2024,21,weeke4,2025-02-09,neutral,-1,Philadelphia,-1,Kansas City
-2025,0,weekb1,2025-09-04,team1Home,-1,Philadelphia,-1,Dallas
-2025,0,weekb1,2025-09-05,team1Home,-1,Los Angeles Chargers,-1,Kansas City
-2025,0,weekb1,2025-09-07,team1Home,-1,Atlanta,-1,Tampa Bay
-2025,0,weekb1,2025-09-07,team1Home,-1,Cleveland,-1,Cincinnati
-2025,0,weekb1,2025-09-07,team1Home,-1,Jacksonville,-1,Carolina
-2025,0,weekb1,2025-09-07,team1Home,-1,Washington,-1,New York Giants
-2025,0,weekb1,2025-09-07,team1Home,-1,New England,-1,Las Vegas
-2025,0,weekb1,2025-09-07,team1Home,-1,New Orleans,-1,Arizona
-2025,0,weekb1,2025-09-07,team1Home,-1,New York Jets,-1,Pittsburgh
-2025,0,weekb1,2025-09-07,team1Home,-1,Indianapolis,-1,Miami
-2025,0,weekb1,2025-09-07,team1Home,-1,Seattle,-1,San Francisco
-2025,0,weekb1,2025-09-07,team1Home,-1,Denver,-1,Tennessee
-2025,0,weekb1,2025-09-07,team1Home,-1,Green Bay,-1,Detroit
-2025,0,weekb1,2025-09-07,team1Home,-1,Los Angeles Rams,-1,Houston
-2025,0,weekb1,2025-09-07,team1Home,-1,Buffalo,-1,Baltimore
-2025,0,weekb1,2025-09-08,team1Home,-1,Chicago,-1,Minnesota
+2024,21,weeke4,2025-02-09,neutral,40,Philadelphia,22,Kansas City
+2025,0,weekb1,2025-09-04,team1Home,24,Philadelphia,20,Dallas
+2025,0,weekb1,2025-09-05,team1Home,27,Los Angeles Chargers,21,Kansas City
+2025,0,weekb1,2025-09-07,team1Home,20,Atlanta,23,Tampa Bay
+2025,0,weekb1,2025-09-07,team1Home,16,Cleveland,17,Cincinnati
+2025,0,weekb1,2025-09-07,team1Home,26,Jacksonville,10,Carolina
+2025,0,weekb1,2025-09-07,team1Home,21,Washington,6,New York Giants
+2025,0,weekb1,2025-09-07,team1Home,13,New England,20,Las Vegas
+2025,0,weekb1,2025-09-07,team1Home,13,New Orleans,20,Arizona
+2025,0,weekb1,2025-09-07,team1Home,32,New York Jets,34,Pittsburgh
+2025,0,weekb1,2025-09-07,team1Home,33,Indianapolis,8,Miami
+2025,0,weekb1,2025-09-07,team1Home,13,Seattle,17,San Francisco
+2025,0,weekb1,2025-09-07,team1Home,20,Denver,12,Tennessee
+2025,0,weekb1,2025-09-07,team1Home,27,Green Bay,13,Detroit
+2025,0,weekb1,2025-09-07,team1Home,14,Los Angeles Rams,9,Houston
+2025,0,weekb1,2025-09-07,team1Home,41,Buffalo,40,Baltimore
+2025,0,weekb1,2025-09-08,team1Home,24,Chicago,27,Minnesota
 2025,1,week02,2025-09-11,team1Home,-1,Green Bay,-1,Washington
 2025,1,week02,2025-09-14,team1Home,-1,Detroit,-1,Chicago
 2025,1,week02,2025-09-14,team1Home,-1,Dallas,-1,New York Giants
