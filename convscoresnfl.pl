@@ -239,6 +239,11 @@ while (@score) {
 
 }
 
+foreach my $teams (sort keys %scores)
+{
+   print "::: teams $teams score $scores{$teams}\n";
+}
+
 open SCHED, "$sched_file" or die "ERROR opening schedule file, $sched_file ($!)";
 my @sched = <SCHED>;
 close SCHED or die "ERROR reading schedule file, $sched_file ($!)";
