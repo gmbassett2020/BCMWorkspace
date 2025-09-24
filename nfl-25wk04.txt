@@ -1,0 +1,167 @@
+::: rankings for AFC
+1 Baltimore
+2 Buffalo
+3 Los Angeles Chargers
+4 Houston
+5 Denver
+6 Kansas City
+7 Indianapolis
+8 Cincinnati
+9 Jacksonville
+10 Las Vegas
+11 Tennessee
+12 Cleveland
+13 Pittsburgh
+14 New England
+15 New York Jets
+16 Miami
+::: rankings for NFC
+1 Green Bay
+2 Tampa Bay
+3 Los Angeles Rams
+4 Washington
+5 Philadelphia
+6 Detroit
+7 San Francisco
+8 Atlanta
+9 Seattle
+10 Arizona
+11 Dallas
+12 New York Giants
+13 New Orleans
+14 Carolina
+15 Minnesota
+16 Chicago
+::: rankings for overall
+1 Green Bay
+2 Baltimore
+3 Tampa Bay
+4 Los Angeles Rams
+5 Buffalo
+6 Washington
+7 Los Angeles Chargers
+8 Houston
+9 Philadelphia
+10 Detroit
+11 Denver
+12 San Francisco
+13 Atlanta
+14 Kansas City
+15 Indianapolis
+16 Seattle
+17 Cincinnati
+18 Jacksonville
+19 Arizona
+20 Dallas
+21 New York Giants
+22 Las Vegas
+23 Tennessee
+24 New Orleans
+25 Cleveland
+26 Carolina
+27 Pittsburgh
+28 Minnesota
+29 New England
+30 New York Jets
+31 Miami
+32 Chicago
+::: earned rankings for AFC
+1 Los Angeles Chargers actualWins=3 expectedWins=2.074390963501522 otherWins=1.4854475359502655 actual-other=1.5145524640497345
+2 Indianapolis actualWins=3 expectedWins=2.039414296040076 otherWins=1.846339149281033 actual-other=1.153660850718967
+3 Buffalo actualWins=3 expectedWins=2.373182706313656 otherWins=1.8860929834225642 actual-other=1.1139070165774358
+4 Jacksonville actualWins=2 expectedWins=1.5936645373356897 otherWins=1.552585991849176 actual-other=0.447414008150824
+5 Cincinnati actualWins=2 expectedWins=1.9490658609418907 otherWins=1.8256673418473233 actual-other=0.17433265815267673
+6 Pittsburgh actualWins=2 expectedWins=1.24127590161909 otherWins=1.9741283135760337 actual-other=0.02587168642396631
+7 Cleveland actualWins=1 expectedWins=0.5392406560345371 otherWins=1.0328201673987425 actual-other=-0.032820167398742495
+8 Kansas City actualWins=1 expectedWins=1.3598403359335784 otherWins=1.201663101550516 actual-other=-0.20166310155051592
+9 Denver actualWins=1 expectedWins=1.6116553522732437 otherWins=1.3045514822061242 actual-other=-0.30455148220612416
+10 Las Vegas actualWins=1 expectedWins=1.0375396802440005 otherWins=1.342362690512231 actual-other=-0.342362690512231
+11 Baltimore actualWins=1 expectedWins=2.151437611052061 otherWins=1.3787464238291154 actual-other=-0.3787464238291154
+12 Houston actualWins=0 expectedWins=1.4234717876313945 otherWins=0.9459005653941939 actual-other=-0.9459005653941939
+13 Tennessee actualWins=0 expectedWins=0.8269058628714416 otherWins=1.2006360647488616 actual-other=-1.2006360647488616
+14 New England actualWins=1 expectedWins=1.5146029175444768 otherWins=2.216245317187567 actual-other=-1.2162453171875671
+15 New York Jets actualWins=0 expectedWins=0.5913538531584428 otherWins=1.3860426243583324 actual-other=-1.3860426243583324
+16 Miami actualWins=0 expectedWins=0.5915254040642941 otherWins=1.431236825236217 actual-other=-1.431236825236217
+::: earned rankings for NFC
+1 Philadelphia actualWins=3 expectedWins=1.7737521393154614 otherWins=1.2839560084173367 actual-other=1.7160439915826633
+2 Tampa Bay actualWins=3 expectedWins=2.098449746777039 otherWins=1.4497034172395393 actual-other=1.5502965827604607
+3 San Francisco actualWins=3 expectedWins=1.8315410671723806 otherWins=1.528595408529363 actual-other=1.471404591470637
+4 Los Angeles Rams actualWins=2 expectedWins=1.9451659163009247 otherWins=1.1990476793314302 actual-other=0.8009523206685698
+5 Detroit actualWins=2 expectedWins=1.5040747397604068 otherWins=1.2402796913329595 actual-other=0.7597203086670405
+6 Green Bay actualWins=2 expectedWins=2.359601470231763 otherWins=1.3948130040218147 actual-other=0.6051869959781853
+7 Washington actualWins=2 expectedWins=1.9544998993931024 otherWins=1.4743999686305869 actual-other=0.5256000313694131
+8 Arizona actualWins=2 expectedWins=1.6929981269076397 otherWins=1.656207944006924 actual-other=0.34379205599307605
+9 Seattle actualWins=2 expectedWins=2.002175289508534 otherWins=1.8503684396709892 actual-other=0.14963156032901082
+10 Minnesota actualWins=2 expectedWins=1.1515800703961954 otherWins=1.88506836686084 actual-other=0.1149316331391601
+11 Carolina actualWins=1 expectedWins=0.7328579136325775 otherWins=1.354966776009681 actual-other=-0.3549667760096811
+12 Atlanta actualWins=1 expectedWins=1.8527425592113282 otherWins=1.5949319236862014 actual-other=-0.5949319236862014
+13 Chicago actualWins=1 expectedWins=0.5662406155225741 otherWins=1.6944428228689918 actual-other=-0.6944428228689918
+14 Dallas actualWins=1 expectedWins=1.751367127230995 otherWins=1.7555940419471372 actual-other=-0.7555940419471372
+15 New York Giants actualWins=0 expectedWins=0.900804980409293 otherWins=1.2287375477781926 actual-other=-1.2287375477781926
+16 New Orleans actualWins=0 expectedWins=0.9635806116703909 otherWins=1.4680365666457662 actual-other=-1.4680365666457662
+::: earned rankings for overall
+1 Philadelphia actualWins=3 expectedWins=1.7737521393154614 otherWins=1.2839560084173367 actual-other=1.7160439915826633
+2 Tampa Bay actualWins=3 expectedWins=2.098449746777039 otherWins=1.4497034172395393 actual-other=1.5502965827604607
+3 Los Angeles Chargers actualWins=3 expectedWins=2.074390963501522 otherWins=1.4854475359502655 actual-other=1.5145524640497345
+4 San Francisco actualWins=3 expectedWins=1.8315410671723806 otherWins=1.528595408529363 actual-other=1.471404591470637
+5 Indianapolis actualWins=3 expectedWins=2.039414296040076 otherWins=1.846339149281033 actual-other=1.153660850718967
+6 Buffalo actualWins=3 expectedWins=2.373182706313656 otherWins=1.8860929834225642 actual-other=1.1139070165774358
+7 Los Angeles Rams actualWins=2 expectedWins=1.9451659163009247 otherWins=1.1990476793314302 actual-other=0.8009523206685698
+8 Detroit actualWins=2 expectedWins=1.5040747397604068 otherWins=1.2402796913329595 actual-other=0.7597203086670405
+9 Green Bay actualWins=2 expectedWins=2.359601470231763 otherWins=1.3948130040218147 actual-other=0.6051869959781853
+10 Washington actualWins=2 expectedWins=1.9544998993931024 otherWins=1.4743999686305869 actual-other=0.5256000313694131
+11 Jacksonville actualWins=2 expectedWins=1.5936645373356897 otherWins=1.552585991849176 actual-other=0.447414008150824
+12 Arizona actualWins=2 expectedWins=1.6929981269076397 otherWins=1.656207944006924 actual-other=0.34379205599307605
+13 Cincinnati actualWins=2 expectedWins=1.9490658609418907 otherWins=1.8256673418473233 actual-other=0.17433265815267673
+14 Seattle actualWins=2 expectedWins=2.002175289508534 otherWins=1.8503684396709892 actual-other=0.14963156032901082
+15 Minnesota actualWins=2 expectedWins=1.1515800703961954 otherWins=1.88506836686084 actual-other=0.1149316331391601
+16 Pittsburgh actualWins=2 expectedWins=1.24127590161909 otherWins=1.9741283135760337 actual-other=0.02587168642396631
+17 Cleveland actualWins=1 expectedWins=0.5392406560345371 otherWins=1.0328201673987425 actual-other=-0.032820167398742495
+18 Kansas City actualWins=1 expectedWins=1.3598403359335784 otherWins=1.201663101550516 actual-other=-0.20166310155051592
+19 Denver actualWins=1 expectedWins=1.6116553522732437 otherWins=1.3045514822061242 actual-other=-0.30455148220612416
+20 Las Vegas actualWins=1 expectedWins=1.0375396802440005 otherWins=1.342362690512231 actual-other=-0.342362690512231
+21 Carolina actualWins=1 expectedWins=0.7328579136325775 otherWins=1.354966776009681 actual-other=-0.3549667760096811
+22 Baltimore actualWins=1 expectedWins=2.151437611052061 otherWins=1.3787464238291154 actual-other=-0.3787464238291154
+23 Atlanta actualWins=1 expectedWins=1.8527425592113282 otherWins=1.5949319236862014 actual-other=-0.5949319236862014
+24 Chicago actualWins=1 expectedWins=0.5662406155225741 otherWins=1.6944428228689918 actual-other=-0.6944428228689918
+25 Dallas actualWins=1 expectedWins=1.751367127230995 otherWins=1.7555940419471372 actual-other=-0.7555940419471372
+26 Houston actualWins=0 expectedWins=1.4234717876313945 otherWins=0.9459005653941939 actual-other=-0.9459005653941939
+27 Tennessee actualWins=0 expectedWins=0.8269058628714416 otherWins=1.2006360647488616 actual-other=-1.2006360647488616
+28 New England actualWins=1 expectedWins=1.5146029175444768 otherWins=2.216245317187567 actual-other=-1.2162453171875671
+29 New York Giants actualWins=0 expectedWins=0.900804980409293 otherWins=1.2287375477781926 actual-other=-1.2287375477781926
+30 New York Jets actualWins=0 expectedWins=0.5913538531584428 otherWins=1.3860426243583324 actual-other=-1.3860426243583324
+31 Miami actualWins=0 expectedWins=0.5915254040642941 otherWins=1.431236825236217 actual-other=-1.431236825236217
+32 New Orleans actualWins=0 expectedWins=0.9635806116703909 otherWins=1.4680365666457662 actual-other=-1.4680365666457662
+results: prob=0.9636810511811107 Buffalo--Miami actual=31--21 predicted=44.35508828276271--19.22369960736636
+results: prob=0.2940928290785052 Carolina--Atlanta actual=30--0 predicted=17.750253167090342--25.330792776937027
+results: prob=0.9718825626761316 Tampa Bay--New York Jets actual=29--27 predicted=44.82288841399931--18.093934066570903
+results: prob=0.49259278743533474 Philadelphia--Los Angeles Rams actual=33--26 predicted=16.021759091168555--16.281713826480882
+results: prob=0.11619661074220833 Cleveland--Green Bay actual=13--10 predicted=16.424242025433347--33.143275491929586
+results: prob=0.8406588651750311 Washington--Las Vegas actual=41--24 predicted=26.982728463614798--13.022356240013703
+results: prob=0.5982438609811123 Indianapolis--Tennessee actual=41--20 predicted=21.560949075935742--18.077690925912425
+results: prob=0.42600183263832536 Pittsburgh--New England actual=21--14 predicted=18.77909620191255--21.390971306182323
+results: prob=0.2887121014814924 Minnesota--Cincinnati actual=48--10 predicted=22.664281751347726--30.464397022369628
+results: prob=0.4066585819936629 Jacksonville--Houston actual=17--10 predicted=16.222494024828176--19.528578012210687
+results: prob=0.6578296773639307 Los Angeles Chargers--Denver actual=23--20 predicted=21.630658979229064--15.938999354364693
+results: prob=0.7680575052718761 Seattle--New Orleans actual=44--13 predicted=22.32318131559207--12.06867571232636
+results: prob=0.6743299423273558 San Francisco--Arizona actual=16--15 predicted=21.16155984535759--14.834942178996528
+results: prob=0.16179575401598734 Chicago--Dallas actual=31--14 predicted=25.241508223516078--39.06096847965681
+results: prob=0.5889488310652357 Kansas City--New York Giants actual=22--9 predicted=21.69875924035208--18.55097387946801
+results: prob=0.28366210612929876 Detroit--Baltimore actual=38--30 predicted=20.03857821305406--28.046531973015334
+predictions: prob=0.513675720923366 Seattle--Arizona  predicted=16.065886149424266--15.585872834969347 spread=0.48001331445491857
+predictions: prob=0.5380362807141617 Minnesota--Pittsburgh  predicted=22.429962000773102--21.093133830186165 spread=1.3368281705869371
+predictions: prob=0.516422796802992 Philadelphia--Tampa Bay  predicted=22.35029519029966--21.773810463184507 spread=0.5764847271151545
+predictions: prob=0.7580346807097517 Carolina--New England  predicted=26.702699255095258--16.902773998419036 spread=9.799925256676222
+predictions: prob=0.9474025525092583 Detroit--Cleveland predicted=35.447904660236404--12.765468016108628 spread=22.682436644127776
+predictions: prob=0.6311194044498916 Washington--Atlanta  predicted=21.287814623849457--16.600340534047604 spread=4.687474089801853
+predictions: prob=0.7909659369484727 Houston--Tennessee predicted=23.002075056186726--11.665191509606018 spread=11.336883546580708
+predictions: prob=0.8598731376139976 Buffalo--New Orleans predicted=33.549645716370335--18.43315209097006 spread=15.116493625400274
+predictions: prob=0.8004599634815328 Los Angeles Chargers--New York Giants  predicted=29.220992826414687--17.415278326695866 spread=11.805714499718821
+predictions: prob=0.7178227815423167 San Francisco--Jacksonville predicted=23.554822989717543--15.48542171912861 spread=8.069401270588934
+predictions: prob=0.5544488319390892 Indianapolis--Los Angeles Rams  predicted=21.32547792010833--19.408745034979333 spread=1.9167328851289973
+predictions: prob=0.5942864311717637 Baltimore--Kansas City  predicted=27.46671060949231--24.12651591776707 spread=3.340194691725241
+predictions: prob=0.5500224388177712 Las Vegas--Chicago predicted=17.20296371010427--15.442911168696256 spread=1.7600525414080153
+predictions: prob=0.86210866192348 Green Bay--Dallas  predicted=39.881079159351245--24.62328883501102 spread=15.257790324340224
+predictions: prob=0.5374697401118474 Miami--New York Jets predicted=19.29358614695685--17.976728962339138 spread=1.3168571846177137
+predictions: prob=0.8600930463527734 Denver--Cincinnati predicted=35.7599203861825--20.629595708427765 spread=15.130324677754736
+::: forecastStatistics {0: {'expected': 2.861939489979025, 'actual': 2, 'total': 5}, 1: {'expected': 1.3321596196912866, 'actual': 2, 'total': 2}, 2: {'expected': 2.9015904685825795, 'actual': 1, 'total': 4}, 3: {'expected': 2.562666500416835, 'actual': 1, 'total': 3}, 4: {'expected': 1.9355636138572423, 'actual': 2, 'total': 2}, 5: {'expected': 11.59391969252697, 'actual': 8, 'total': 16, 'year': 2025}}::: detailedStatistics {'weekb1': {'conf': {0: {'expected': 1.1334835180542555, 'actual': 1, 'total': 2}, 1: {'expected': 1.917033876466506, 'actual': 2, 'total': 3}, 2: {'expected': 0.7072319146943037, 'actual': 1, 'total': 1}, 3: {'expected': 0.8642975025800215, 'actual': 1, 'total': 1}, 4: {'expected': 0.9155625372365314, 'actual': 1, 'total': 1}, 5: {'expected': 5.537609349031618, 'actual': 6, 'total': 8, 'year': 2025}}, 'nonConf': {0: {'expected': 2.832591661417568, 'actual': 4, 'total': 5}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0.8794995876752771, 'actual': 1, 'total': 1}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.7120912490928455, 'actual': 5, 'total': 6, 'year': 2025}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 1.2865673413807293, 'actual': 2, 'total': 2}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 1.2865673413807293, 'actual': 2, 'total': 2, 'year': 2025}}}, 'week02': {'conf': {0: {'expected': 1.076177363702564, 'actual': 0, 'total': 2}, 1: {'expected': 1.266116324904812, 'actual': 2, 'total': 2}, 2: {'expected': 0.7132660854628707, 'actual': 1, 'total': 1}, 3: {'expected': 0.8025383699823934, 'actual': 1, 'total': 1}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 3.85809814405264, 'actual': 4, 'total': 6, 'year': 2025}}, 'nonConf': {0: {'expected': 1.1645240210418941, 'actual': 2, 'total': 2}, 1: {'expected': 1.2858049346668596, 'actual': 2, 'total': 2}, 2: {'expected': 0.7444598741459464, 'actual': 0, 'total': 1}, 3: {'expected': 0.856955796025366, 'actual': 1, 'total': 1}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 4.051744625880066, 'actual': 5, 'total': 6, 'year': 2025}}, 'nonDiv': {0: {'expected': 1.6074168716508774, 'actual': 3, 'total': 3}, 1: {'expected': 0.6916510406048401, 'actual': 0, 'total': 1}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.299067912255717, 'actual': 3, 'total': 4, 'year': 2025}}}, 'week03': {'conf': {0: {'expected': 1.1915852789874495, 'actual': 1, 'total': 2}, 1: {'expected': 1.3321596196912866, 'actual': 2, 'total': 2}, 2: {'expected': 0.7059071709214948, 'actual': 0, 'total': 1}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0.9636810511811107, 'actual': 1, 'total': 1}, 5: {'expected': 4.193333120781341, 'actual': 4, 'total': 6, 'year': 2025}}, 'nonConf': {0: {'expected': 1.08140537992634, 'actual': 0, 'total': 2}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0.7680575052718761, 'actual': 1, 'total': 1}, 3: {'expected': 0.8382042459840127, 'actual': 0, 'total': 1}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 2.687667131182229, 'actual': 1, 'total': 4, 'year': 2025}}, 'nonDiv': {0: {'expected': 0.5889488310652357, 'actual': 1, 'total': 1}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 1.4276257923892088, 'actual': 0, 'total': 2}, 3: {'expected': 1.7244622544328227, 'actual': 1, 'total': 2}, 4: {'expected': 0.9718825626761316, 'actual': 1, 'total': 1}, 5: {'expected': 4.7129194405633985, 'actual': 3, 'total': 6, 'year': 2025}}}, 'week04': {'conf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonConf': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}, 'nonDiv': {0: {'expected': 0, 'actual': 0, 'total': 0}, 1: {'expected': 0, 'actual': 0, 'total': 0}, 2: {'expected': 0, 'actual': 0, 'total': 0}, 3: {'expected': 0, 'actual': 0, 'total': 0}, 4: {'expected': 0, 'actual': 0, 'total': 0}, 5: {'expected': 0, 'actual': 0, 'total': 0}}}}
