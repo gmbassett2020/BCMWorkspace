@@ -1,112 +1,116 @@
+WARNING: Lincoln CA not found
 WARNING: West Georgia not found
-WARNING: UTRGV not found
+WARNING: S Connecticut not found
 WARNING: Mercyhurst not found
+WARNING: Valdosta St not found
 WARNING: New Haven not found
-WARNING: Pace not found
-2025,6,week06,2025-10-02,team1Home,37,New Mexico State,10,Sam Houston State
-2025,6,week06,2025-10-03,team1Home,38,Brigham Young,24,West Virginia
-2025,6,week06,2025-10-03,team1Home,54,South Florida,26,North Carolina - Charlotte
-2025,6,week06,2025-10-03,team1Home,45,San Diego State,24,Colorado State
-2025,6,week06,2025-10-03,team1Home,35,San Jose State,28,New Mexico
-2025,6,week06,2025-10-03,team1Home,24,Delaware,27,Western Kentucky
-2025,6,week06,2025-10-04,team1Home,30,Alabama,14,Vanderbilt
-2025,6,week06,2025-10-04,team1Home,27,Appalachian State,23,Oregon State
-2025,6,week06,2025-10-04,team1Home,41,Arizona,13,Oklahoma State
-2025,6,week06,2025-10-04,team1Home,31,Arkansas State,30,Texas State - San Marcos
-2025,6,week06,2025-10-04,team1Home,35,Baylor,34,Kansas State
-2025,6,week06,2025-10-04,team1Home,21,California,45,Duke
-2025,6,week06,2025-10-04,team1Home,38,Cincinnati,30,Iowa State
-2025,6,week06,2025-10-04,team1Home,51,Connecticut,10,Florida International
-2025,6,week06,2025-10-04,team1Home,29,Florida,21,Texas
-2025,6,week06,2025-10-04,team1Home,22,Florida State,28,Miami - Florida
-2025,6,week06,2025-10-04,team1Home,20,Fresno State,17,Nevada - Reno
-2025,6,week06,2025-10-04,team1Home,35,Georgia,14,Kentucky
-2025,6,week06,2025-10-04,team1Home,7,Georgia State,14,James Madison
-2025,6,week06,2025-10-04,team1Home,11,Houston,35,Texas Tech
-2025,6,week06,2025-10-04,team1Home,27,Louisville,30,Virginia
-2025,6,week06,2025-10-04,team1Home,20,Maryland,24,Washington
-2025,6,week06,2025-10-04,team1Home,45,Memphis,7,Tulsa
-2025,6,week06,2025-10-04,team1Home,24,Michigan,10,Wisconsin
-2025,6,week06,2025-10-04,team1Home,34,Navy,31,Air Force
-2025,6,week06,2025-10-04,team1Home,38,Nebraska,27,Michigan State
-2025,6,week06,2025-10-04,team1Home,56,North Carolina State,10,Campbell
-2025,6,week06,2025-10-04,team1Home,10,North Carolina,38,Clemson
-2025,6,week06,2025-10-04,team1Home,42,Northwestern,7,Northeast Louisiana
-2025,6,week06,2025-10-04,team1Home,28,Notre Dame,7,Boise State
-2025,6,week06,2025-10-04,team1Home,42,Ohio State,3,Minnesota
-2025,6,week06,2025-10-04,team1Home,44,Oklahoma,0,Kent State
-2025,6,week06,2025-10-04,team1Home,47,Old Dominion,7,Coastal Carolina
-2025,6,week06,2025-10-04,team1Home,48,Pittsburgh,7,Boston College
-2025,6,week06,2025-10-04,team1Home,27,Purdue,43,Illinois
-2025,6,week06,2025-10-04,team1Home,21,Rice,27,Florida Atlantic
-2025,6,week06,2025-10-04,team1Home,31,Southern Methodist,18,Syracuse
-2025,6,week06,2025-10-04,team1Home,35,Texas Christian,21,Colorado
-2025,6,week06,2025-10-04,team1Home,27,Temple,21,Texas - San Antonio
-2025,6,week06,2025-10-04,team1Home,31,Texas A&M,9,Mississippi State
-2025,6,week06,2025-10-04,team1Home,31,Troy State,24,South Alabama
-2025,6,week06,2025-10-04,team1Home,13,Alabama - Birmingham,31,Army
-2025,6,week06,2025-10-04,team1Home,20,Central Florida,27,Kansas
-2025,6,week06,2025-10-04,team1Home,42,California - Los Angeles,37,Penn State
-2025,6,week06,2025-10-04,team1Home,23,Virginia Tech,30,Wake Forest
-2025,6,week06,2025-10-04,team1Home,17,Wyoming,31,Nevada - Las Vegas
-2025,6,week06,2025-10-04,team1Home,28,Akron,22,Central Michigan
-2025,6,week06,2025-10-04,team1Home,20,Ball State,14,Ohio
-2025,6,week06,2025-10-04,team1Home,31,Buffalo,30,Eastern Michigan
-2025,6,week06,2025-10-04,team1Home,3,Massachusetts,21,Western Michigan
-2025,6,week06,2025-10-04,team1Home,14,Northern Illinois,25,Miami - Ohio
-2025,6,week06,2025-10-04,team1Home,14,Saint Thomas - Minnesota,21,Butler
-2025,6,week06,2025-10-04,team1Home,52,Alabama State,35,Bethune - Cookman
-2025,6,week06,2025-10-04,team1Home,12,Albany,47,Stony Brook
-2025,6,week06,2025-10-04,team1Home,12,Alcorn State,13,Prairie View
-2025,6,week06,2025-10-04,team1Home,52,Abilene Christian,23,North Alabama
-2025,6,week06,2025-10-04,team1Home,36,Pennsylvania,24,Dartmouth
-2025,6,week06,2025-10-04,team1Home,28,Morehead State,35,Dayton
-2025,6,week06,2025-10-04,team1Home,49,Monmouth,38,Delaware State
-2025,6,week06,2025-10-04,team1Home,23,Central Arkansas,17,Utah Tech
-2025,6,week06,2025-10-04,team1Home,34,Duquesne,14,Stonehill
-2025,6,week06,2025-10-04,team1Home,31,Furman,22,East Tennessee State
-2025,6,week06,2025-10-04,team1Home,31,Eastern Illinois,7,Tennessee State
-2025,6,week06,2025-10-04,team1Home,35,Eastern Washington,27,Portland State
-2025,6,week06,2025-10-04,team1Home,3,Towson,17,Elon
-2025,6,week06,2025-10-04,team1Home,27,Georgetown,24,Morgan State
-2025,6,week06,2025-10-04,team1Home,41,Hampton,34,Norfolk State
-2025,6,week06,2025-10-04,team1Home,24,Holy Cross,59,Harvard
-2025,6,week06,2025-10-04,team1Home,38,Idaho State,42,Montana
-2025,6,week06,2025-10-04,team1Home,51,Texas Southern,7,Arkansas - Pine Bluff
-2025,6,week06,2025-10-04,team1Home,16,Illinois State,33,North Dakota State
-2025,6,week06,2025-10-04,team1Home,17,Incarnate Word,31,Stephen F. Austin
-2025,6,week06,2025-10-04,team1Home,55,Southern Illinois,27,Indiana State
-2025,6,week06,2025-10-04,neutral,57,Jackson State,24,Alabama A&M
-2025,6,week06,2025-10-04,team1Home,24,Lafayette,10,Fordham
-2025,6,week06,2025-10-04,team1Home,24,Lamar,17,Nicholls State
-2025,6,week06,2025-10-04,team1Home,14,Bryant,34,Maine
-2025,6,week06,2025-10-04,team1Home,19,Marist,14,San Diego
-2025,6,week06,2025-10-04,team1Home,0,McNeese State,38,Southeast Louisiana
-2025,6,week06,2025-10-04,team1Home,45,Mercer,21,Samford
-ERROR: missing game 2025,6,week06,2025-10-04,team1Home,-1,Mississippi Valley State,-1,Florida A&M
+WARNING: W Connecticut not found
+2025,7,week07,2025-10-08,team1Home,20,Middle Tennessee State,22,Missouri State
+2025,7,week07,2025-10-08,team1Home,8,Texas - El Paso,19,Liberty
+2025,7,week07,2025-10-09,team1Home,35,Georgia Southern,38,Southern Mississippi
+2025,7,week07,2025-10-09,team1Home,35,Kennesaw State,7,Louisiana Tech
+2025,7,week07,2025-10-09,team1Home,27,Sam Houston State,29,Jacksonville State
+2025,7,week07,2025-10-09,team1Home,26,Tulane,19,East Carolina
+2025,7,week07,2025-10-10,team1Home,36,North Texas,63,South Florida
+2025,7,week07,2025-10-10,team1Home,49,Colorado State,21,Fresno State
+2025,7,week07,2025-10-10,team1Home,38,Washington,19,Rutgers
+2025,7,week07,2025-10-11,team1Home,27,Arizona,33,Brigham Young
+2025,7,week07,2025-10-11,team1Home,24,Army,7,North Carolina - Charlotte
+2025,7,week07,2025-10-11,team1Home,10,Auburn,20,Georgia
+2025,7,week07,2025-10-11,team1Home,41,Boise State,25,New Mexico
+2025,7,week07,2025-10-11,team1Home,10,Boston College,41,Clemson
+2025,7,week07,2025-10-11,team1Home,20,Cincinnati,11,Central Florida
+2025,7,week07,2025-10-11,team1Home,23,Coastal Carolina,8,Northeast Louisiana
+2025,7,week07,2025-10-11,team1Home,24,Colorado,17,Iowa State
+2025,7,week07,2025-10-11,team1Home,53,Florida Atlantic,33,Alabama - Birmingham
+2025,7,week07,2025-10-11,team1Home,31,Florida State,34,Pittsburgh
+2025,7,week07,2025-10-11,team1Home,20,Georgia State,41,Appalachian State
+2025,7,week07,2025-10-11,team1Home,35,Georgia Tech,20,Virginia Tech
+2025,7,week07,2025-10-11,team1Home,44,Hawaii,26,Utah State
+2025,7,week07,2025-10-11,team1Home,16,Illinois,34,Ohio State
+2025,7,week07,2025-10-11,team1Home,24,James Madison,14,Louisiana - Lafayette
+2025,7,week07,2025-10-11,team1Home,41,Kansas State,28,Texas Christian
+2025,7,week07,2025-10-11,team1Home,20,Louisiana State,10,South Carolina
+2025,7,week07,2025-10-11,team1Home,48,Marshall,24,Old Dominion
+2025,7,week07,2025-10-11,team1Home,31,Maryland,34,Nebraska
+2025,7,week07,2025-10-11,team1Home,13,Michigan State,38,California - Los Angeles
+2025,7,week07,2025-10-11,team1Home,27,Minnesota,20,Purdue
+2025,7,week07,2025-10-11,team1Home,24,Missouri,27,Alabama
+2025,7,week07,2025-10-11,team1Home,10,Nevada - Reno,44,San Diego State
+2025,7,week07,2025-10-11,team1Home,36,Notre Dame,7,North Carolina State
+2025,7,week07,2025-10-11,team1Home,17,Oklahoma State,39,Houston
+2025,7,week07,2025-10-11,team1Home,24,Mississippi,21,Washington State
+2025,7,week07,2025-10-11,team1Home,20,Oregon,30,Indiana
+2025,7,week07,2025-10-11,team1Home,14,Oregon State,39,Wake Forest
+2025,7,week07,2025-10-11,team1Home,21,Penn State,22,Northwestern
+2025,7,week07,2025-10-11,team1Home,34,Southern Methodist,10,Stanford
+2025,7,week07,2025-10-11,team1Home,31,Temple,32,Navy
+2025,7,week07,2025-10-11,team1Home,34,Tennessee,31,Arkansas
+2025,7,week07,2025-10-11,neutral,23,Texas,6,Oklahoma
+2025,7,week07,2025-10-11,team1Home,34,Texas A&M,17,Florida
+2025,7,week07,2025-10-11,team1Home,41,Texas State - San Marcos,48,Troy State
+2025,7,week07,2025-10-11,team1Home,42,Texas Tech,17,Kansas
+2025,7,week07,2025-10-11,team1Home,51,Nevada - Las Vegas,48,Air Force
+2025,7,week07,2025-10-11,team1Home,31,Southern California,13,Michigan
+2025,7,week07,2025-10-11,team1Home,42,Utah,10,Arizona State
+2025,7,week07,2025-10-11,team1Home,61,Texas - San Antonio,13,Rice
+2025,7,week07,2025-10-11,team1Home,0,Wisconsin,37,Iowa
+2025,7,week07,2025-10-11,team1Home,35,Wyoming,28,San Jose State
+2025,7,week07,2025-10-11,team1Home,7,Akron,20,Miami - Ohio
+2025,7,week07,2025-10-11,team1Home,42,Western Michigan,0,Ball State
+2025,7,week07,2025-10-11,team1Home,28,Bowling Green,23,Toledo
+2025,7,week07,2025-10-11,team1Home,16,Eastern Michigan,10,Northern Illinois
+2025,7,week07,2025-10-11,team1Home,42,Kent State,6,Massachusetts
+2025,7,week07,2025-10-11,team1Home,25,Butler,31,Presbyterian
+2025,7,week07,2025-10-11,team1Home,38,Jackson State,34,Alabama State
+2025,7,week07,2025-10-11,team1Home,27,Weber State,55,Sacramento State
+2025,7,week07,2025-10-11,team1Home,21,Hampton,38,Campbell
+2025,7,week07,2025-10-11,team1Home,13,Charleston Southern,27,Tennessee Tech
+2025,7,week07,2025-10-11,team1Home,17,Dartmouth,16,Yale
+2025,7,week07,2025-10-11,team1Home,10,Valparaiso,41,Dayton
+2025,7,week07,2025-10-11,team1Home,23,Utah Tech,41,Tarleton State
+2025,7,week07,2025-10-11,team1Home,52,Duquesne,7,Saint Francis - Pennsylvania
+2025,7,week07,2025-10-11,team1Home,45,East Tennessee State,10,Virginia Military
+2025,7,week07,2025-10-11,team1Home,10,Eastern Illinois,21,Gardner - Webb
+2025,7,week07,2025-10-11,team1Home,34,Eastern Kentucky,20,Austin Peay
+2025,7,week07,2025-10-11,team1Home,21,Elon,29,Villanova
+2025,7,week07,2025-10-11,team1Home,52,Western Carolina,7,Furman
+2025,7,week07,2025-10-11,team1Home,20,Grambling,21,Texas Southern
+2025,7,week07,2025-10-11,team1Home,20,Houston Christian,17,Northwestern State
+2025,7,week07,2025-10-11,team1Home,33,Idaho,49,Northern Colorado
+2025,7,week07,2025-10-11,team1Home,48,Montana State,14,Idaho State
+2025,7,week07,2025-10-11,team1Home,32,Murray State,46,Illinois State
+2025,7,week07,2025-10-11,team1Home,14,Indiana State,19,South Dakota
+2025,7,week07,2025-10-11,team1Home,62,Lafayette,24,Bucknell
+2025,7,week07,2025-10-11,team1Home,23,Texas A&M-Commerce,33,Lamar
+2025,7,week07,2025-10-11,team1Home,13,Merrimack,20,Maine
+2025,7,week07,2025-10-11,team1Home,28,Pennsylvania,9,Marist
+2025,7,week07,2025-10-11,team1Home,14,Princeton,38,Mercer
+2025,7,week07,2025-10-11,team1Home,45,Alabama A&M,25,Mississippi Valley State
+2025,7,week07,2025-10-11,team1Home,31,Towson,42,Monmouth
+2025,7,week07,2025-10-11,team1Home,21,North Alabama,49,Central Arkansas
+2025,7,week07,2025-10-11,team1Home,16,North Carolina A&T,22,South Carolina State
+2025,7,week07,2025-10-11,team1Home,7,Florida A&M,45,North Carolina Central
+2025,7,week07,2025-10-11,team1Home,45,North Dakota State,17,Southern Illinois
+2025,7,week07,2025-10-11,team1Home,45,California - Davis,24,Northern Arizona
+2025,7,week07,2025-10-11,team1Home,38,Rhode Island,27,New Hampshire
+2025,7,week07,2025-10-11,team1Home,12,Robert Morris,24,Central Connecticut
+2025,7,week07,2025-10-11,team1Home,28,Southeast Missouri State,12,Tennessee State
+2025,7,week07,2025-10-11,team1Home,45,Bethune - Cookman,14,Southern
+2025,7,week07,2025-10-11,team1Home,21,Stetson,14,Morehead State
+ERROR: missing game 2025,7,week07,2025-10-11,team1Home,-1,Stonehill,-1,Long Island
 
-2025,6,week06,2025-10-04,team1Home,-1,Mississippi Valley State,-1,Florida A&M
-2025,6,week06,2025-10-04,team1Home,38,William & Mary,34,North Carolina A&T
-2025,6,week06,2025-10-04,team1Home,10,Northwestern State,40,Texas A&M-Commerce
-2025,6,week06,2025-10-04,team1Home,24,Merrimack,7,Robert Morris
-2025,6,week06,2025-10-04,team1Home,49,South Carolina State,6,Savannah State
-2025,6,week06,2025-10-04,team1Home,49,South Dakota,24,Murray State
-2025,6,week06,2025-10-04,team1Home,30,Youngstown State,35,South Dakota State
-2025,6,week06,2025-10-04,team1Home,52,Tarleton State,42,Southern Utah
-2025,6,week06,2025-10-04,team1Home,35,Stetson,32,Davidson
-2025,6,week06,2025-10-04,team1Home,14,Virginia Military,21,Tennessee - Chattanooga
-2025,6,week06,2025-10-04,team1Home,30,Lindenwood,14,Tennessee - Martin
-2025,6,week06,2025-10-04,team1Home,66,Tennessee Tech,20,Western Illinois
-2025,6,week06,2025-10-04,team1Home,7,New Hampshire,37,Villanova
-2025,6,week06,2025-10-04,team1Home,21,Wofford,23,Western Carolina
-2025,6,week06,2025-10-04,team1Home,30,Gardner - Webb,27,Charleston Southern
-2025,6,week06,2025-10-04,team1Home,33,Bucknell,28,Richmond
-2025,6,week06,2025-10-04,team1Home,28,Brown,21,Rhode Island
-2025,6,week06,2025-10-04,team1Home,41,Drake,0,Valparaiso
-2025,6,week06,2025-10-04,team1Home,42,Central Connecticut,35,Sacred Heart
-2025,6,week06,2025-10-04,team1Home,7,Northern Iowa,35,North Dakota
-2025,6,week06,2025-10-04,team1Home,10,Northern Arizona,34,Montana State
-2025,6,week06,2025-10-04,team1Home,27,California Poly,34,California - Davis
-2025,6,week06,2025-10-04,team1Home,17,Princeton,10,Columbia
-2025,6,week06,2025-10-04,team1Home,21,Cornell,41,Colgate
-2025,6,week06,2025-10-04,team1Home,31,Lehigh,13,Yale
+2025,7,week07,2025-10-11,team1Home,-1,Stonehill,-1,Long Island
+2025,7,week07,2025-10-11,team1Home,32,Tennessee - Martin,31,Western Illinois
+2025,7,week07,2025-10-11,team1Home,31,Wofford,14,Norfolk State
+2025,7,week07,2025-10-11,team1Home,35,North Dakota,17,Youngstown State
+2025,7,week07,2025-10-11,team1Home,19,Bryant,29,Brown
+2025,7,week07,2025-10-11,team1Home,13,Davidson,57,Saint Thomas - Minnesota
+2025,7,week07,2025-10-11,team1Home,16,San Diego,19,Drake
+2025,7,week07,2025-10-11,team1Home,34,Harvard,10,Cornell
+2025,7,week07,2025-10-11,team1Home,31,South Dakota State,3,Northern Iowa
+2025,7,week07,2025-10-11,team1Home,28,Montana,9,California Poly
+2025,7,week07,2025-10-11,team1Home,44,Morgan State,6,Houston Christian
+2025,7,week07,2025-10-11,team1Home,7,Columbia,31,Lehigh
+2025,7,week07,2025-10-11,team1Home,19,Colgate,24,Richmond
+2025,7,week07,2025-10-11,team1Home,32,Sacred Heart,14,Howard
