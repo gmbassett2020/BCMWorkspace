@@ -7,7 +7,7 @@
 # to remove warnings about unused scores).
 
 set year = 2025
-set round = week08
+set round = week09
 set schedFile = ../colI-seasons-2020_2025.csv
 set scoreFile = tmp-score-2025-in.txt
 #set scoreFile = massey_score-2024.txt
@@ -17,7 +17,6 @@ set outFile = tmp-score-2025-out.txt
 #convscorescol.pl $year $round $schedFile $scoreFile > $outFile
 # just the scores for the week specified:
 convscorescol.pl $year $round $schedFile $scoreFile | grep -v ::: > all_out.txt
-WARNING > $outFile
 grep -v WARNING all_out.txt > $outFile
 echo "::: WARNINGS:"
 grep WARNING all_out.txt
@@ -25,7 +24,7 @@ echo "::: ERRORS:"
 grep ERROR all_out.txt
 echo ""
 
-echo "Searching for any ERRORs in $outFile (Doing 'grep ERROR $outFile'.  Okay if no lines follow.):"
+echo "Searching for any ERRORs in $outFile (Okay if no lines follow.):"
 grep ERROR $outFile
 
 # merge back $outFile into $schedFile
