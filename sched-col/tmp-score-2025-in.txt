@@ -1,113 +1,110 @@
-2025-10-21  Kennesaw                 45 @Florida Intl             26            
-2025-10-21  WKU                      28 @Louisiana Tech           27 O1         
-2025-10-22  Missouri St              24 @New Mexico St            17 O1         
-2025-10-22 @Delaware                 31  MTSU                     28            
-2025-10-23  South Alabama            38 @Georgia St               31            
-2025-10-24 @Virginia Tech            42  California               34 O2         
-2025-10-24  North Texas              54 @Charlotte                20            
-2025-10-24  Boise St                 24 @Nevada                    3            
-2025-10-24  Montana                  49 @CS Sacramento            35            
-2025-10-24 @Dartmouth                49  Columbia                  3            
-2025-10-25  Houston                  24 @Arizona St               16            
-2025-10-25  Auburn                   33 @Arkansas                 24            
-2025-10-25 @Arkansas St              34  Ga Southern              24            
-2025-10-25 @Cincinnati               41  Baylor                   20            
-2025-10-25  San Diego St             23 @Fresno St                 0            
-2025-10-25 @Georgia Tech             41  Syracuse                 16            
-2025-10-25 @Indiana                  56  UCLA                      6            
-2025-10-25 @Iowa                     41  Minnesota                 3            
-2025-10-25  BYU                      41 @Iowa St                  27            
-2025-10-25  Kansas St                42 @Kansas                   17            
-2025-10-25  Tennessee                56 @Kentucky                 34            
-2025-10-25 @Louisville               38  Boston College           24            
-2025-10-25  Texas A&M                49 @LSU                      25            
-2025-10-25 @Memphis                  34  South Florida            31            
-2025-10-25 @Miami FL                 42  Stanford                  7            
-2025-10-25  Michigan                 31 @Michigan St              20            
-2025-10-25  Texas                    45 @Mississippi St           38 O1         
-2025-10-25 @Navy                     42  FL Atlantic              32            
-2025-10-25 @Nebraska                 28  Northwestern             21            
-2025-10-25 @New Mexico               33  Utah St                  14            
-2025-10-25  Virginia                 17 @North Carolina           16 O1         
-2025-10-25  Mississippi              34 @Oklahoma                 26            
-2025-10-25 @Old Dominion             24  Appalachian St           21            
-2025-10-25 @Oregon                   21  Wisconsin                 7            
-2025-10-25 @Pittsburgh               53  NC State                 34            
-2025-10-25  Rutgers                  27 @Purdue                   24            
-2025-10-25 @Rice                     37  Connecticut              34 O2         
-2025-10-25  Alabama                  29 @South Carolina           22            
-2025-10-25 @Southern Miss            49  ULM                      21            
-2025-10-25 @Texas Tech               42  Oklahoma St               0            
-2025-10-25 @Troy                     35  Louisiana                23            
-2025-10-25  Temple                   38 @Tulsa                    37 O1         
-2025-10-25 @Utah                     53  Colorado                  7            
-2025-10-25 @Vanderbilt               17  Missouri                 10            
-2025-10-25 @Wake Forest              13  SMU                      12            
-2025-10-25 @Washington               42  Illinois                 25            
-2025-10-25 @Washington St            28  Toledo                    7            
-2025-10-25  TCU                      23 @West Virginia            17            
-2025-10-25 @Wyoming                  28  Colorado St               0            
-2025-10-25  Akron                    24 @Buffalo                  16            
-2025-10-25 @N Illinois               21  Ball St                   7            
-2025-10-25 @Kent                     24  Bowling Green            21            
-2025-10-25 @C Michigan               38  Massachusetts            13            
-2025-10-25  Ohio                     28 @E Michigan               21            
-2025-10-25 @Miami OH                 26  W Michigan               17            
-2025-10-25  Alabama St               56  Alabama A&M              13           Birmingham AL 
-2025-10-25 @NC A&T                   28  Campbell                 24            
-2025-10-25 @Villanova                29  SUNY Albany              16            
-2025-10-25 @Charleston So            17  E Illinois               16            
-2025-10-25 @Furman                   24  Citadel                  14            
-2025-10-25 @Alcorn St                32  MS Valley St             10            
-2025-10-25 @Dayton                   35  Presbyterian             19            
-2025-10-25  Delaware St              35 @NC Central               26            
-2025-10-25  Southern Utah            28 @Utah Tech                 7            
-2025-10-25 @Wagner                   24  Duquesne                 13            
-2025-10-25 @ETSU                     14  Wofford                  10            
-2025-10-25  Tarleton St              31 @E Kentucky                7            
-2025-10-25  E Washington             23 @Weber St                 20            
-2025-10-25 @Maine                    35  Elon                     14            
-2025-10-25  Gardner Webb             48 @Lindenwood               20            
-2025-10-25  Georgetown               31 @Bucknell                 24            
-2025-10-25  Grambling                26  Jackson St               24           Las Vegas NV 
-2025-10-25  Monmouth NJ              28 @Hampton                  10            
-2025-10-25  Colgate                  29 @Holy Cross               28            
-2025-10-25  Northern Arizona         31 @Idaho St                 18            
-2025-10-25 @Bethune-Cookman          31  Ark Pine Bluff           14            
-2025-10-25  Illinois St              21 @South Dakota             13            
-2025-10-25 @North Dakota             46  Indiana St               17            
-2025-10-25  Lamar                    41 @Northwestern LA          14            
-2025-10-25  Drake                    31 @Marist                   17            
-2025-10-25 @Austin Peay              56  North Alabama            28            
-2025-10-25 @Nicholls St              31  McNeese St                7            
-2025-10-25 @Mercer                   62  VMI                       0            
-2025-10-25  N Dakota St              38 @S Dakota St               7            
-2025-10-25  UC Davis                 27 @N Colorado               16            
-2025-10-25 @Idaho                    45  Portland St               6            
-2025-10-25 @Prairie View             38  Lincoln CA                0            
-2025-10-25 @Rhode Island             38  Bryant                   17            
-2025-10-25  Robert Morris            24 @St Francis PA            14            
-2025-10-25  Chattanooga              49 @Samford                  13            
-2025-10-25 @Tennessee Tech           42  SE Missouri St           23            
-2025-10-25  SE Louisiana             38 @Houston Chr              14            
-2025-10-25  Florida A&M              43 @Southern Univ            35            
-2025-10-25  St Thomas MN             52 @Stetson                  10            
-2025-10-25  Stonehill                22 @Mercyhurst               15            
-2025-10-25 @Stony Brook              27  Towson                   19            
-2025-10-25  W Illinois               17 @Tennessee St             16            
-2025-10-25  SF Austin                31 @East Texas A&M           21            
-2025-10-25 @New Hampshire            34  William & Mary           24            
-2025-10-25 @Youngstown St            51  Murray St                17            
-2025-10-25  San Diego                40 @Davidson                 28            
-2025-10-25 @West Georgia             18  Cent Arkansas            17            
-2025-10-25  S Carolina St            51 @Norfolk St               20            
-2025-10-25 @Cornell                  30  Brown                    24 O2         
-2025-10-25 @UTRGV                    56  Incarnate Word           28            
-2025-10-25  Morehead St              17 @Valparaiso               13            
-2025-10-25  Montana St               34 @Cal Poly                 17            
-2025-10-25  Lehigh                   27 @Fordham                   6            
-2025-10-25  Harvard                  35 @Princeton                14            
-2025-10-25 @S Illinois               31  Northern Iowa            17            
-2025-10-25 @Howard                   33  Morgan St                27 O1         
-2025-10-25 @LIU Post                 38  New Haven                16            
-2025-10-25 @Yale                     35  Penn                     13            
+2025-10-28 @Kennesaw                 33  UTEP                     20            
+2025-10-28  James Madison            52 @Texas St                 20            
+2025-10-29  Jacksonville St          24 @MTSU                     21            
+2025-10-29 @Missouri St              28  Florida Intl             21            
+2025-10-30 @Coastal Car              44  Marshall                 27            
+2025-10-30 @UT San Antonio           48  Tulane                   26            
+2025-10-30  Delaware St              27  Norfolk St               20           Philadelphia PA 
+2025-10-31 @Louisiana Tech           55  Sam Houston St           14            
+2025-10-31  Memphis                  38 @Rice                     14            
+2025-10-31  North Carolina           27 @Syracuse                 10            
+2025-10-31  Idaho                    35 @Northern Arizona         32 O1         
+2025-10-31 @Penn                     28  Brown                    21            
+2025-11-01  Army                     20 @Air Force                17            
+2025-11-01  Mississippi St           38 @Arkansas                 35            
+2025-11-01  Kentucky                 10 @Auburn                    3            
+2025-11-01 @Baylor                   30  UCF                       3            
+2025-11-01  Fresno St                30 @Boise St                  7            
+2025-11-01  Notre Dame               25 @Boston College           10            
+2025-11-01  Virginia                 31 @California               21            
+2025-11-01  Duke                     46 @Clemson                  45            
+2025-11-01  Arizona                  52 @Colorado                 17            
+2025-11-01 @Connecticut              38  UAB                      19            
+2025-11-01  Georgia                  24  Florida                  20           Jacksonville FL 
+2025-11-01 @Florida St               42  Wake Forest               7            
+2025-11-01  West Virginia            45 @Houston                  35            
+2025-11-01 @Illinois                 35  Rutgers                  13            
+2025-11-01  Arizona St               24 @Iowa St                  19            
+2025-11-01 @Kansas                   38  Oklahoma St              21            
+2025-11-01  Texas Tech               43 @Kansas St                20            
+2025-11-01  Old Dominion             31 @ULM                       6            
+2025-11-01  Indiana                  55 @Maryland                 10            
+2025-11-01 @Michigan                 21  Purdue                   16            
+2025-11-01 @Minnesota                23  Michigan St              20 O1         
+2025-11-01  USC                      21 @Nebraska                 17            
+2025-11-01 @NC State                 48  Georgia Tech             36            
+2025-11-01 @North Texas              31  Navy                     17            
+2025-11-01 @Ohio St                  38  Penn St                  14            
+2025-11-01 @Mississippi              30  South Carolina           14            
+2025-11-01 @Oregon St                10  Washington St             7            
+2025-11-01 @San Diego St             24  Wyoming                   7            
+2025-11-01 @San Jose St              45  Hawaii                   38            
+2025-11-01  Louisiana                31 @South Alabama            22            
+2025-11-01 @SMU                      26  Miami FL                 20 O1         
+2025-11-01  Pittsburgh               35 @Stanford                 20            
+2025-11-01  East Carolina            45 @Temple                   14            
+2025-11-01  Oklahoma                 33 @Tennessee                27            
+2025-11-01 @Texas                    34  Vanderbilt               31            
+2025-11-01  Arkansas St              23 @Troy                     10            
+2025-11-01  New Mexico               40 @UNLV                     35            
+2025-11-01 @Utah                     45  Cincinnati               14            
+2025-11-01  Louisville               28 @Virginia Tech            16            
+2025-11-01 @WKU                      35  New Mexico St            16            
+2025-11-01 @Liberty                  59  Delaware                 30            
+2025-11-01  Buffalo                  28 @Bowling Green             3            
+2025-11-01 @W Michigan               24  C Michigan               21            
+2025-11-01  Drake                    24 @Butler                   19            
+2025-11-01  Alabama St               31 @Prairie View             28            
+2025-11-01  CS Sacramento            35 @E Washington             13            
+2025-11-01 @William & Mary           37  SUNY Albany               7            
+2025-11-01  Charleston So            23 @SE Missouri St           17            
+2025-11-01  Alcorn St                33 @TX Southern              14            
+2025-11-01 @Abilene Chr              31  Tarleton St              28            
+2025-11-01 @Harvard                  31  Dartmouth                10            
+2025-11-01 @San Diego                31  Dayton                   13            
+2025-11-01 @Utah Tech                34  North Alabama            33 O1         
+2025-11-01  E Kentucky               34 @Cent Arkansas            13            
+2025-11-01  Mercer                   52 @Furman                   28            
+2025-11-01 @Tennessee Tech           27  Gardner Webb             21            
+2025-11-01 @Lehigh                   41  Georgetown                0            
+2025-11-01 @Grambling                13  Alabama A&M              10            
+2025-11-01 @Nicholls St              31  Houston Chr               7            
+2025-11-01  Idaho St                 38 @UC Davis                 36            
+2025-11-01 @Ark Pine Bluff           40  Southern Univ            21            
+2025-11-01 @Illinois St              31  Northern Iowa            16            
+2025-11-01 @Incarnate Word           24  Lamar                    17            
+2025-11-01  Indiana St               24 @S Dakota St              12            
+2025-11-01  Jackson St               41 @Florida A&M              16            
+2025-11-01  Lafayette                21 @Holy Cross               13            
+2025-11-01 @Maine                    28  Stony Brook              21            
+2025-11-01 @St Thomas MN             45  Marist                    0            
+2025-11-01 @Southern Utah            33  Austin Peay              17            
+2025-11-01 @McNeese St               50  Northwestern LA           3            
+2025-11-01 @Bethune-Cookman          42  MS Valley St             34            
+2025-11-01  Monmouth NJ              35 @Bryant                    7            
+2025-11-01  Towson                   62 @NC A&T                    9            
+2025-11-01  NC Central               35 @Howard                   14            
+2025-11-01 @N Dakota St              38  Youngstown St            30            
+2025-11-01  Montana St               55 @N Colorado                7            
+2025-11-01  Portland St              40 @Cal Poly                 35            
+2025-11-01  Robert Morris            20 @Stonehill                17            
+2025-11-01  Wagner                   23 @St Francis PA            20            
+2025-11-01 @Wofford                  26  Samford                  16            
+2025-11-01 @South Dakota             26  North Dakota             21            
+2025-11-01 @SE Louisiana             59  East Texas A&M           14            
+2025-11-01  W Carolina               35 @Chattanooga              28            
+2025-11-01  TN Martin                27 @E Illinois               20 O1         
+2025-11-01  Lindenwood               35 @Tennessee St             13            
+2025-11-01 @Citadel                  35  VMI                      24            
+2025-11-01 @Morehead St              28  Davidson                 24            
+2025-11-01 @S Carolina St            36  Morgan St                30            
+2025-11-01 @SF Austin                41  UTRGV                    17            
+2025-11-01 @Presbyterian             43  Valparaiso               14            
+2025-11-01 @Central Conn             10  LIU Post                  7            
+2025-11-01  S Illinois               27 @Murray St                 7            
+2025-11-01  Montana                  38 @Weber St                 17            
+2025-11-01 @Cornell                  20  Princeton                17            
+2025-11-01 @Yale                     24  Columbia                 10            
+2025-11-01 @Richmond                 17  Fordham                  14            
+2025-11-01 @Colgate                  23  Merrimack                20 O1         
+2025-11-01 @Sacred Heart             35  New Haven                20            
