@@ -6617,35 +6617,35 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2025,9,week10,2025-11-09,team1Home,22,Washington,44,Detroit
 2025,9,week10,2025-11-09,team1Home,25,Los Angeles Chargers,10,Pittsburgh
 2025,9,week10,2025-11-10,team1Home,7,Green Bay,10,Philadelphia
-2025,10,week11,2025-11-13,team1Home,-1,New England,-1,New York Jets
-2025,10,week11,2025-11-16,team1Home,-1,Miami,-1,Washington
-2025,10,week11,2025-11-16,team1Home,-1,New York Giants,-1,Green Bay
-2025,10,week11,2025-11-16,team1Home,-1,Tennessee,-1,Houston
-2025,10,week11,2025-11-16,team1Home,-1,Minnesota,-1,Chicago
-2025,10,week11,2025-11-16,team1Home,-1,Atlanta,-1,Carolina
-2025,10,week11,2025-11-16,team1Home,-1,Jacksonville,-1,Los Angeles Chargers
-2025,10,week11,2025-11-16,team1Home,-1,Pittsburgh,-1,Cincinnati
-2025,10,week11,2025-11-16,team1Home,-1,Buffalo,-1,Tampa Bay
-2025,10,week11,2025-11-16,team1Home,-1,Arizona,-1,San Francisco
-2025,10,week11,2025-11-16,team1Home,-1,Los Angeles Rams,-1,Seattle
-2025,10,week11,2025-11-16,team1Home,-1,Denver,-1,Kansas City
-2025,10,week11,2025-11-16,team1Home,-1,Cleveland,-1,Baltimore
-2025,10,week11,2025-11-16,team1Home,-1,Philadelphia,-1,Detroit
-2025,10,week11,2025-11-17,team1Home,-1,Las Vegas,-1,Dallas
-2025,11,week12,2025-11-20,team1Home,-1,Houston,-1,Buffalo
-2025,11,week12,2025-11-23,team1Home,-1,Green Bay,-1,Minnesota
-2025,11,week12,2025-11-23,team1Home,-1,Detroit,-1,New York Giants
-2025,11,week12,2025-11-23,team1Home,-1,Tennessee,-1,Seattle
-2025,11,week12,2025-11-23,team1Home,-1,Kansas City,-1,Indianapolis
-2025,11,week12,2025-11-23,team1Home,-1,Cincinnati,-1,New England
-2025,11,week12,2025-11-23,team1Home,-1,Baltimore,-1,New York Jets
-2025,11,week12,2025-11-23,team1Home,-1,Chicago,-1,Pittsburgh
-2025,11,week12,2025-11-23,team1Home,-1,Las Vegas,-1,Cleveland
-2025,11,week12,2025-11-23,team1Home,-1,Arizona,-1,Jacksonville
-2025,11,week12,2025-11-23,team1Home,-1,Dallas,-1,Philadelphia
-2025,11,week12,2025-11-23,team1Home,-1,New Orleans,-1,Atlanta
-2025,11,week12,2025-11-23,team1Home,-1,Los Angeles Rams,-1,Tampa Bay
-2025,11,week12,2025-11-24,team1Home,-1,San Francisco,-1,Carolina
+2025,10,week11,2025-11-13,team1Home,27,New England,14,New York Jets
+2025,10,week11,2025-11-16,team1Home,16,Miami,13,Washington
+2025,10,week11,2025-11-16,team1Home,20,New York Giants,27,Green Bay
+2025,10,week11,2025-11-16,team1Home,13,Tennessee,16,Houston
+2025,10,week11,2025-11-16,team1Home,17,Minnesota,19,Chicago
+2025,10,week11,2025-11-16,team1Home,27,Atlanta,30,Carolina
+2025,10,week11,2025-11-16,team1Home,35,Jacksonville,6,Los Angeles Chargers
+2025,10,week11,2025-11-16,team1Home,34,Pittsburgh,12,Cincinnati
+2025,10,week11,2025-11-16,team1Home,44,Buffalo,32,Tampa Bay
+2025,10,week11,2025-11-16,team1Home,22,Arizona,41,San Francisco
+2025,10,week11,2025-11-16,team1Home,21,Los Angeles Rams,19,Seattle
+2025,10,week11,2025-11-16,team1Home,22,Denver,19,Kansas City
+2025,10,week11,2025-11-16,team1Home,16,Cleveland,23,Baltimore
+2025,10,week11,2025-11-16,team1Home,16,Philadelphia,9,Detroit
+2025,10,week11,2025-11-17,team1Home,16,Las Vegas,33,Dallas
+2025,11,week12,2025-11-20,team1Home,23,Houston,19,Buffalo
+2025,11,week12,2025-11-23,team1Home,23,Green Bay,6,Minnesota
+2025,11,week12,2025-11-23,team1Home,34,Detroit,27,New York Giants
+2025,11,week12,2025-11-23,team1Home,24,Tennessee,30,Seattle
+2025,11,week12,2025-11-23,team1Home,23,Kansas City,20,Indianapolis
+2025,11,week12,2025-11-23,team1Home,20,Cincinnati,26,New England
+2025,11,week12,2025-11-23,team1Home,23,Baltimore,10,New York Jets
+2025,11,week12,2025-11-23,team1Home,31,Chicago,28,Pittsburgh
+2025,11,week12,2025-11-23,team1Home,10,Las Vegas,24,Cleveland
+2025,11,week12,2025-11-23,team1Home,24,Arizona,27,Jacksonville
+2025,11,week12,2025-11-23,team1Home,24,Dallas,21,Philadelphia
+2025,11,week12,2025-11-23,team1Home,10,New Orleans,24,Atlanta
+2025,11,week12,2025-11-23,team1Home,34,Los Angeles Rams,7,Tampa Bay
+2025,11,week12,2025-11-24,team1Home,20,San Francisco,9,Carolina
 2025,12,week13,2025-11-27,team1Home,-1,Detroit,-1,Green Bay
 2025,12,week13,2025-11-27,team1Home,-1,Dallas,-1,Kansas City
 2025,12,week13,2025-11-27,team1Home,-1,Baltimore,-1,Cincinnati
