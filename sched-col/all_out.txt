@@ -1,78 +1,63 @@
-WARNING: Tuskegee not found
-2025,14,week14,2025-11-25,team1Home,14,Massachusetts,45,Bowling Green
-2025,14,week14,2025-11-25,team1Home,21,Eastern Michigan,31,Western Michigan
-2025,14,week14,2025-11-27,team1Home,17,Memphis,28,Navy
-2025,14,week14,2025-11-28,team1Home,16,Nebraska,40,Iowa
-2025,14,week14,2025-11-28,team1Home,24,Texas - San Antonio,27,Army
-2025,14,week14,2025-11-28,team1Home,7,Arizona State,23,Arizona
-2025,14,week14,2025-11-28,team1Home,21,Colorado State,42,Air Force
-2025,14,week14,2025-11-28,team1Home,9,Georgia Tech,16,Georgia
-2025,14,week14,2025-11-28,team1Home,21,Kansas,31,Utah
-2025,14,week14,2025-11-28,team1Home,19,Mississippi State,38,Mississippi
-2025,14,week14,2025-11-28,team1Home,23,New Mexico,17,San Diego State
-2025,14,week14,2025-11-28,team1Home,3,Purdue,56,Indiana
-2025,14,week14,2025-11-28,team1Home,27,Texas,17,Texas A&M
-2025,14,week14,2025-11-28,team1Home,24,Utah State,25,Boise State
-2025,14,week14,2025-11-28,team1Home,26,Buffalo,31,Ohio
-2025,14,week14,2025-11-28,team1Home,31,Northern Illinois,35,Kent State
-2025,14,week14,2025-11-29,team1Home,52,North Texas,25,Temple
-2025,14,week14,2025-11-29,team1Home,29,Appalachian State,30,Arkansas State
-2025,14,week14,2025-11-29,team1Home,17,Arkansas,31,Missouri
-2025,14,week14,2025-11-29,team1Home,20,Auburn,27,Alabama
-2025,14,week14,2025-11-29,team1Home,24,Baylor,31,Houston
-2025,14,week14,2025-11-29,team1Home,41,Brigham Young,21,Central Florida
-2025,14,week14,2025-11-29,team1Home,38,California,35,Southern Methodist
-2025,14,week14,2025-11-29,team1Home,10,Coastal Carolina,59,James Madison
-2025,14,week14,2025-11-29,team1Home,49,Duke,32,Wake Forest
-2025,14,week14,2025-11-29,team1Home,3,Florida Atlantic,42,East Carolina
-2025,14,week14,2025-11-29,team1Home,40,Florida,21,Florida State
-2025,14,week14,2025-11-29,team1Home,27,Hawaii,7,Wyoming
-2025,14,week14,2025-11-29,team1Home,20,Illinois,13,Northwestern
-2025,14,week14,2025-11-29,team1Home,37,Jacksonville State,34,Western Kentucky
-2025,14,week14,2025-11-29,team1Home,24,Kansas State,14,Colorado
-2025,14,week14,2025-11-29,team1Home,42,Liberty,48,Kennesaw State
-2025,14,week14,2025-11-29,team1Home,30,Louisiana - Lafayette,27,Northeast Louisiana
-2025,14,week14,2025-11-29,team1Home,41,Louisville,0,Kentucky
-2025,14,week14,2025-11-29,team1Home,19,Marshall,24,Georgia Southern
-2025,14,week14,2025-11-29,team1Home,9,Michigan,27,Ohio State
-2025,14,week14,2025-11-29,team1Home,38,Michigan State,28,Maryland
-2025,14,week14,2025-11-29,team1Home,17,Minnesota,7,Wisconsin
-2025,14,week14,2025-11-29,team1Home,30,Missouri State,42,Louisiana Tech
-2025,14,week14,2025-11-29,team1Home,17,Nevada - Reno,42,Nevada - Las Vegas
-2025,14,week14,2025-11-29,team1Home,24,New Mexico State,31,Middle Tennessee State
-2025,14,week14,2025-11-29,team1Home,42,North Carolina State,19,North Carolina
-2025,14,week14,2025-11-29,team1Home,17,Oklahoma,13,Louisiana State
-2025,14,week14,2025-11-29,team1Home,13,Oklahoma State,20,Iowa State
-2025,14,week14,2025-11-29,team1Home,27,Old Dominion,10,Georgia State
-2025,14,week14,2025-11-29,team1Home,7,Pittsburgh,38,Miami - Florida
-2025,14,week14,2025-11-29,team1Home,36,Rutgers,40,Penn State
-2025,14,week14,2025-11-29,team1Home,16,Sam Houston State,56,Florida International
-2025,14,week14,2025-11-29,team1Home,14,San Jose State,41,Fresno State
-2025,14,week14,2025-11-29,team1Home,14,South Carolina,28,Clemson
-2025,14,week14,2025-11-29,team1Home,52,South Florida,3,Rice
-2025,14,week14,2025-11-29,team1Home,18,Southern Mississippi,28,Troy State
-2025,14,week14,2025-11-29,team1Home,20,Stanford,49,Notre Dame
-2025,14,week14,2025-11-29,team1Home,12,Syracuse,34,Boston College
-2025,14,week14,2025-11-29,team1Home,45,Texas Christian,23,Cincinnati
-2025,14,week14,2025-11-29,team1Home,24,Tennessee,45,Vanderbilt
-2025,14,week14,2025-11-29,team1Home,49,Texas State - San Marcos,26,South Alabama
-2025,14,week14,2025-11-29,team1Home,27,Tulane,0,North Carolina - Charlotte
-2025,14,week14,2025-11-29,team1Home,24,Tulsa,31,Alabama - Birmingham
-2025,14,week14,2025-11-29,neutral,29,Southern California,10,California - Los Angeles
-2025,14,week14,2025-11-29,team1Home,27,Virginia,7,Virginia Tech
-2025,14,week14,2025-11-29,team1Home,14,Washington,26,Oregon
-2025,14,week14,2025-11-29,team1Home,32,Washington State,8,Oregon State
-2025,14,week14,2025-11-29,team1Home,0,West Virginia,49,Texas Tech
-2025,14,week14,2025-11-29,team1Home,61,Delaware,31,Texas - El Paso
-2025,14,week14,2025-11-29,team1Home,3,Central Michigan,21,Toledo
-2025,14,week14,2025-11-29,team1Home,45,Miami - Ohio,24,Ball State
-2025,14,week14,2025-11-29,neutral,28,Southern,27,Grambling
-2025,14,week14,2025-11-29,team1Home,35,Mississippi Valley State,31,Florida A&M
-2025,14,week14,2025-11-29,team1Home,27,Rhode Island,19,Central Connecticut
-2025,14,week14,2025-11-29,team1Home,52,Villanova,7,Harvard
-2025,14,week14,2025-11-29,team1Home,42,Youngstown State,43,Yale
-2025,14,week14,2025-11-29,team1Home,3,Southeast Louisiana,21,Illinois State
-2025,14,week14,2025-11-29,team1Home,6,Tennessee Tech,31,North Dakota
-2025,14,week14,2025-11-29,team1Home,38,Abilene Christian,20,Lamar
-2025,14,week14,2025-11-29,team1Home,38,South Dakota,17,Drake
-2025,14,week14,2025-11-29,team1Home,41,South Dakota State,3,New Hampshire
+2025,15,week15,2025-12-05,team1Home,15,Jacksonville State,19,Kennesaw State
+2025,15,week15,2025-12-05,team1Home,31,James Madison,14,Troy State
+2025,15,week15,2025-12-05,team1Home,34,Tulane,21,North Texas
+2025,15,week15,2025-12-05,team1Home,38,Boise State,21,Nevada - Las Vegas
+2025,15,week15,2025-12-06,neutral,34,Texas Tech,7,Brigham Young
+2025,15,week15,2025-12-06,neutral,23,Western Michigan,13,Miami - Ohio
+2025,15,week15,2025-12-06,neutral,28,Georgia,7,Alabama
+2025,15,week15,2025-12-06,neutral,10,Ohio State,13,Indiana
+2025,15,week15,2025-12-06,neutral,20,Virginia,27,Duke
+2025,15,week15,2025-12-06,team1Home,7,Lehigh,14,Villanova
+2025,15,week15,2025-12-06,team1Home,0,Mercer,47,South Dakota
+2025,15,week15,2025-12-06,team1Home,28,North Dakota State,29,Illinois State
+2025,15,week15,2025-12-06,team1Home,31,Tarleton State,13,North Dakota
+2025,15,week15,2025-12-06,team1Home,41,Stephen F. Austin,34,Abilene Christian
+2025,15,week15,2025-12-06,team1Home,21,Montana State,13,Yale
+2025,15,week15,2025-12-06,team1Home,50,Montana,29,South Dakota State
+2025,15,week15,2025-12-06,team1Home,47,California - Davis,26,Rhode Island
+WARNING: unused Alabama/Oklahoma scores 0 0
+WARNING: unused Appalachian State/Georgia Southern scores 0 0
+WARNING: unused Arizona State/Duke scores 0 0
+WARNING: unused Arizona/Southern Methodist scores 0 0
+WARNING: unused Arkansas State/Missouri State scores 0 0
+WARNING: unused Army/Connecticut scores 0 0
+WARNING: unused Army/Navy scores 0 0
+WARNING: unused Boise State/Washington scores 0 0
+WARNING: unused Brigham Young/Georgia Tech scores 0 0
+WARNING: unused California/Hawaii scores 0 0
+WARNING: unused Central Michigan/Northwestern scores 0 0
+WARNING: unused Cincinnati/Navy scores 0 0
+WARNING: unused Clemson/Penn State scores 0 0
+WARNING: unused Coastal Carolina/Louisiana Tech scores 0 0
+WARNING: unused Delaware/Louisiana - Lafayette scores 0 0
+WARNING: unused East Carolina/Pittsburgh scores 0 0
+WARNING: unused Florida International/Texas - San Antonio scores 0 0
+WARNING: unused Fresno State/Miami - Ohio scores 0 0
+WARNING: unused Illinois State/California - Davis scores 0 0
+WARNING: unused Illinois/Tennessee scores 0 0
+WARNING: unused Iowa/Vanderbilt scores 0 0
+WARNING: unused Jacksonville State/Troy State scores 0 0
+WARNING: unused James Madison/Oregon scores 0 0
+WARNING: unused Kennesaw State/Western Michigan scores 0 0
+WARNING: unused Louisiana State/Houston scores 0 0
+WARNING: unused Louisville/Toledo scores 0 0
+WARNING: unused Memphis/North Carolina State scores 0 0
+WARNING: unused Miami - Florida/Texas A&M scores 0 0
+WARNING: unused Michigan/Texas scores 0 0
+WARNING: unused Minnesota/New Mexico scores 0 0
+WARNING: unused Mississippi State/Wake Forest scores 0 0
+WARNING: unused Missouri/Virginia scores 0 0
+WARNING: unused Nebraska/Utah scores 0 0
+WARNING: unused Nevada - Las Vegas/Ohio scores 0 0
+WARNING: unused North Texas/San Diego State scores 0 0
+WARNING: unused Old Dominion/South Florida scores 0 0
+WARNING: unused Prairie View/Jackson State scores 23 21
+WARNING: unused Prairie View/South Carolina State scores 0 0
+WARNING: unused Rice/Texas State - San Marcos scores 0 0
+WARNING: unused South Dakota/Montana scores 0 0
+WARNING: unused Southern Mississippi/Western Kentucky scores 0 0
+WARNING: unused Stephen F. Austin/Montana State scores 0 0
+WARNING: unused Texas Christian/Southern California scores 0 0
+WARNING: unused Tulane/Mississippi scores 0 0
+WARNING: unused Utah State/Washington State scores 0 0
+WARNING: unused Villanova/Tarleton State scores 0 0

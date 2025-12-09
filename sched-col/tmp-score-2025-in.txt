@@ -1,78 +1,63 @@
-2025-11-25  Bowling Green            45 @Massachusetts            14            
-2025-11-25  W Michigan               31 @E Michigan               21            
-2025-11-27  Navy                     28 @Memphis                  17            
-2025-11-27 @Alabama St               58  Tuskegee                 21            
-2025-11-28  Iowa                     40 @Nebraska                 16            
-2025-11-28 @North Texas              52  Temple                   25            
-2025-11-28  Arizona                  23 @Arizona St                7            
-2025-11-28  Air Force                42 @Colorado St              21            
-2025-11-28  Georgia                  16 @Georgia Tech              9            
-2025-11-28  Utah                     31 @Kansas                   21            
-2025-11-28  Mississippi              38 @Mississippi St           19          Egg Bowl  
-2025-11-28 @New Mexico               23  San Diego St             17 O2         
-2025-11-28  Indiana                  56 @Purdue                    3            
-2025-11-28 @Texas                    27  Texas A&M                17            
-2025-11-28  Boise St                 25 @Utah St                  24            
-2025-11-28  Ohio                     31 @Buffalo                  26            
-2025-11-28  Kent                     35 @N Illinois               31            
-2025-11-29  Army                     27 @UT San Antonio           24            
-2025-11-29  Arkansas St              30 @Appalachian St           29            
-2025-11-29  Missouri                 31 @Arkansas                 17            
-2025-11-29  Alabama                  27 @Auburn                   20          Iron Bowl  
-2025-11-29  Houston                  31 @Baylor                   24            
-2025-11-29 @BYU                      41  UCF                      21            
-2025-11-29 @California               38  SMU                      35            
-2025-11-29  James Madison            59 @Coastal Car              10            
-2025-11-29 @Duke                     49  Wake Forest              32            
-2025-11-29  East Carolina            42 @FL Atlantic               3            
-2025-11-29 @Florida                  40  Florida St               21            
-2025-11-29 @Hawaii                   27  Wyoming                   7            
-2025-11-29 @Illinois                 20  Northwestern             13            
-2025-11-29 @Jacksonville St          37  WKU                      34            
-2025-11-29 @Kansas St                24  Colorado                 14            
-2025-11-29  Kennesaw                 48 @Liberty                  42 O2         
-2025-11-29 @Louisiana                30  ULM                      27 O1         
-2025-11-29 @Louisville               41  Kentucky                  0          Governor's Cup  
-2025-11-29  Ga Southern              24 @Marshall                 19            
-2025-11-29  Ohio St                  27 @Michigan                  9            
-2025-11-29 @Michigan St              38  Maryland                 28           Detroit MI 
-2025-11-29 @Minnesota                17  Wisconsin                 7          Paul Bunyan's Axe  
-2025-11-29  Louisiana Tech           42 @Missouri St              30            
-2025-11-29  UNLV                     42 @Nevada                   17            
-2025-11-29  MTSU                     31 @New Mexico St            24 O1         
-2025-11-29 @NC State                 42  North Carolina           19            
-2025-11-29 @Oklahoma                 17  LSU                      13            
-2025-11-29  Iowa St                  20 @Oklahoma St              13            
-2025-11-29 @Old Dominion             27  Georgia St               10            
-2025-11-29  Miami FL                 38 @Pittsburgh                7            
-2025-11-29  Penn St                  40 @Rutgers                  36            
-2025-11-29  Florida Intl             56 @Sam Houston St           16            
-2025-11-29  Fresno St                41 @San Jose St              14            
-2025-11-29  Clemson                  28 @South Carolina           14          Palmetto Bowl  
-2025-11-29 @South Florida            52  Rice                      3            
-2025-11-29  Troy                     28 @Southern Miss            18            
-2025-11-29  Notre Dame               49 @Stanford                 20            
-2025-11-29  Boston College           34 @Syracuse                 12            
-2025-11-29 @TCU                      45  Cincinnati               23            
-2025-11-29  Vanderbilt               45 @Tennessee                24            
-2025-11-29 @Texas St                 49  South Alabama            26            
-2025-11-29 @Tulane                   27  Charlotte                 0            
-2025-11-29  UAB                      31 @Tulsa                    24            
-2025-11-29  USC                      29  UCLA                     10          Victory Bell Los Angeles, CA 
-2025-11-29 @Virginia                 27  Virginia Tech             7          Commonwealth Cup  
-2025-11-29  Oregon                   26 @Washington               14            
-2025-11-29 @Washington St            32  Oregon St                 8            
-2025-11-29  Texas Tech               49 @West Virginia             0            
-2025-11-29 @Delaware                 61  UTEP                     31            
-2025-11-29  Toledo                   21 @C Michigan                3            
-2025-11-29 @Miami OH                 45  Ball St                  24            
-2025-11-29  Southern Univ            28  Grambling                27           New Orleans LA 
-2025-11-29 @MS Valley St             35  Florida A&M              31            
-2025-11-29 @Rhode Island             27  Central Conn             19 P          
-2025-11-29 @Villanova                52  Harvard                   7 P          
-2025-11-29  Yale                     43 @Youngstown St            42 P          
-2025-11-29  Illinois St              21 @SE Louisiana              3 P          
-2025-11-29  North Dakota             31 @Tennessee Tech            6 P          
-2025-11-29 @Abilene Chr              38  Lamar                    20 P          
-2025-11-29 @South Dakota             38  Drake                    17 P          
-2025-11-29 @S Dakota St              41  New Hampshire             3 P          
+2025-12-05  Kennesaw                 19 @Jacksonville St          15 P        Conference USA Championship  
+2025-12-05 @James Madison            31  Troy                     14 P        Sun Belt Championship  
+2025-12-05 @Tulane                   34  North Texas              21 P        American Athletic Championship  
+2025-12-05 @Boise St                 38  UNLV                     21 P        Mountain West Championship  
+2025-12-06  Texas Tech               34  BYU                       7 P        Big 12 Championship Arlington TX 
+2025-12-06  W Michigan               23  Miami OH                 13 P        MAC Championship Detroit MI 
+2025-12-06  Georgia                  28  Alabama                   7 P        SEC Championship Atlanta GA 
+2025-12-06  Indiana                  13  Ohio St                  10 P        Big Ten Championship Indianapolis IN 
+2025-12-06  Duke                     27  Virginia                 20 PO1      ACC Championship Charlotte NC 
+2025-12-06  Villanova                14 @Lehigh                    7 P          
+2025-12-06  South Dakota             47 @Mercer                    0 P          
+2025-12-06  Illinois St              29 @N Dakota St              28 P          
+2025-12-06 @Tarleton St              31  North Dakota             13 P          
+2025-12-06 @SF Austin                41  Abilene Chr              34 P          
+2025-12-06 @Montana St               21  Yale                     13 P          
+2025-12-06 @Montana                  50  S Dakota St              29 P          
+2025-12-06 @UC Davis                 47  Rhode Island             26 P          
+2025-12-06  Prairie View             23 @Jackson St               21 P        SWAC Championship  
+2025-12-12  SF Austin                 0 @Montana St                0 SchP       
+2025-12-13  Illinois St               0 @UC Davis                  0 SchP       
+2025-12-13  Villanova                 0 @Tarleton St               0 SchP       
+2025-12-13  South Dakota              0 @Montana                   0 SchP       
+2025-12-13  Prairie View              0  S Carolina St             0 Sch      Celebration Bowl Atlanta, GA 
+2025-12-13  Boise St                  0  Washington                0 Sch      LA Bowl Inglewood, CA 
+2025-12-13  Army                      0  Navy                      0 Sch       Baltimore MD 
+2025-12-16  Jacksonville St           0  Troy                      0 Sch      Veterans Bowl Montgomery, AL 
+2025-12-17  Old Dominion              0  South Florida             0 Sch      Cure Bowl Orlando, FL 
+2025-12-17  Delaware                  0  Louisiana                 0 Sch      68 Ventures Bowl Mobile, AL 
+2025-12-18  Arkansas St               0  Missouri St               0 Sch      Xbox Bowl Frisco, TX 
+2025-12-19  Kennesaw                  0  W Michigan                0 Sch      Myrtle Beach Bowl Conway, SC 
+2025-12-19  Alabama                   0 @Oklahoma                  0 SchP     CFP  
+2025-12-19  Memphis                   0  NC State                  0 Sch      Gasparilla Bowl Tampa, FL 
+2025-12-20  Miami FL                  0 @Texas A&M                 0 SchP     CFP  
+2025-12-20  Tulane                    0 @Mississippi               0 SchP     CFP  
+2025-12-20  James Madison             0 @Oregon                    0 SchP     CFP  
+2025-12-22  Utah St                   0  Washington St             0 Sch      Potato Bowl Boise, ID 
+2025-12-23  Southern Miss             0  WKU                       0 Sch      New Orleans Bowl New Orleans, LA 
+2025-12-23  Louisville                0  Toledo                    0 Sch      Boca Raton Bowl Boca Raton, FL 
+2025-12-23  UNLV                      0  Ohio                      0 Sch      Frisco Bowl Frisco, TX 
+2025-12-24  California                0 @Hawaii                    0 Sch      Hawaii Bowl Honolulu, HI 
+2025-12-26  C Michigan                0  Northwestern              0 Sch      GameAbove Bowl Detroit, MI 
+2025-12-26  Minnesota                 0  New Mexico                0 Sch      Rate Bowl Phoenix, AZ 
+2025-12-26  Florida Intl              0  UT San Antonio            0 Sch      First Responder Bowl Dallas, TX 
+2025-12-27  Army                      0  Connecticut               0 Sch      Fenway Bowl Boston, MA 
+2025-12-27  Fresno St                 0  Miami OH                  0 Sch      Arizona Bowl Tucson, AZ 
+2025-12-27  North Texas               0  San Diego St              0 Sch      New Mexico Bowl Albuquerque, NM 
+2025-12-27  LSU                       0 @Houston                   0 Sch      Texas Bowl Houston, TX 
+2025-12-27  East Carolina             0  Pittsburgh                0 Sch      Military Bowl Annapolis, MD 
+2025-12-27  Clemson                   0  Penn St                   0 Sch      Pinstripe Bowl Bronx, NY 
+2025-12-27  BYU                       0  Georgia Tech              0 Sch      Pop-Tarts Bowl Orlando, FL 
+2025-12-27  Missouri                  0  Virginia                  0 Sch      Gator Bowl Jacksonville, FL 
+2025-12-29  Appalachian St            0  Ga Southern               0 Sch      Birmingham Bowl Birmingham, AL 
+2025-12-30  Coastal Car               0  Louisiana Tech            0 Sch      Independence Bowl Shreveport, LA 
+2025-12-30  Illinois                  0 @Tennessee                 0 Sch      Music City Bowl Nashville, TN 
+2025-12-30  TCU                       0  USC                       0 Sch      Alamo Bowl San Antonio, TX 
+2025-12-31  Iowa                      0  Vanderbilt                0 Sch      ReliaQuest Bowl Tampa, FL 
+2025-12-31  Michigan                  0  Texas                     0 Sch      Citrus Bowl Orlando, FL 
+2025-12-31  Nebraska                  0  Utah                      0 Sch      Las Vegas Bowl Las Vegas, NV 
+2025-12-31  Arizona St                0  Duke                      0 Sch      Sun Bowl El Paso, TX 
+2026-01-02  Cincinnati                0  Navy                      0 Sch      Liberty Bowl Memphis, TN 
+2026-01-02  Rice                      0  Texas St                  0 Sch      Armed Forces Bowl Ft Worth, TX 
+2026-01-02  Mississippi St            0  Wake Forest               0 Sch      Mayo Bowl Charlotte, NC 
+2026-01-02  Arizona                   0  SMU                       0 Sch      Holiday Bowl San Diego, CA 

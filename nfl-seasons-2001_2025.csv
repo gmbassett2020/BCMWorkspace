@@ -6662,20 +6662,20 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2025,12,week13,2025-11-30,team1Home,7,Pittsburgh,26,Buffalo
 2025,12,week13,2025-11-30,team1Home,26,Washington,27,Denver
 2025,12,week13,2025-12-01,team1Home,33,New England,15,New York Giants
-2025,13,week14,2025-12-04,team1Home,-1,Detroit,-1,Dallas
-2025,13,week14,2025-12-07,team1Home,-1,Atlanta,-1,Seattle
-2025,13,week14,2025-12-07,team1Home,-1,Cleveland,-1,Tennessee
-2025,13,week14,2025-12-07,team1Home,-1,Green Bay,-1,Chicago
-2025,13,week14,2025-12-07,team1Home,-1,Minnesota,-1,Washington
-2025,13,week14,2025-12-07,team1Home,-1,Baltimore,-1,Pittsburgh
-2025,13,week14,2025-12-07,team1Home,-1,New York Jets,-1,Miami
-2025,13,week14,2025-12-07,team1Home,-1,Tampa Bay,-1,New Orleans
-2025,13,week14,2025-12-07,team1Home,-1,Jacksonville,-1,Indianapolis
-2025,13,week14,2025-12-07,team1Home,-1,Las Vegas,-1,Denver
-2025,13,week14,2025-12-07,team1Home,-1,Buffalo,-1,Cincinnati
-2025,13,week14,2025-12-07,team1Home,-1,Arizona,-1,Los Angeles Rams
-2025,13,week14,2025-12-07,team1Home,-1,Kansas City,-1,Houston
-2025,13,week14,2025-12-08,team1Home,-1,Los Angeles Chargers,-1,Philadelphia
+2025,13,week14,2025-12-04,team1Home,44,Detroit,30,Dallas
+2025,13,week14,2025-12-07,team1Home,9,Atlanta,37,Seattle
+2025,13,week14,2025-12-07,team1Home,29,Cleveland,31,Tennessee
+2025,13,week14,2025-12-07,team1Home,28,Green Bay,21,Chicago
+2025,13,week14,2025-12-07,team1Home,31,Minnesota,0,Washington
+2025,13,week14,2025-12-07,team1Home,22,Baltimore,27,Pittsburgh
+2025,13,week14,2025-12-07,team1Home,10,New York Jets,34,Miami
+2025,13,week14,2025-12-07,team1Home,20,Tampa Bay,24,New Orleans
+2025,13,week14,2025-12-07,team1Home,36,Jacksonville,19,Indianapolis
+2025,13,week14,2025-12-07,team1Home,17,Las Vegas,24,Denver
+2025,13,week14,2025-12-07,team1Home,39,Buffalo,34,Cincinnati
+2025,13,week14,2025-12-07,team1Home,17,Arizona,45,Los Angeles Rams
+2025,13,week14,2025-12-07,team1Home,10,Kansas City,20,Houston
+2025,13,week14,2025-12-08,team1Home,22,Los Angeles Chargers,19,Philadelphia
 2025,14,week15,2025-12-11,team1Home,-1,Tampa Bay,-1,Atlanta
 2025,14,week15,2025-12-14,team1Home,-1,Chicago,-1,Cleveland
 2025,14,week15,2025-12-14,team1Home,-1,Houston,-1,Arizona

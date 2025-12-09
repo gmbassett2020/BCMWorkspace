@@ -1,16 +1,14 @@
-2025,12,week13,2025-11-27,team1Home,24,Detroit,31,Green Bay
-2025,12,week13,2025-11-27,team1Home,31,Dallas,28,Kansas City
-2025,12,week13,2025-11-27,team1Home,14,Baltimore,32,Cincinnati
-2025,12,week13,2025-11-28,team1Home,15,Philadelphia,24,Chicago
-2025,12,week13,2025-11-30,team1Home,27,New York Jets,24,Atlanta
-2025,12,week13,2025-11-30,team1Home,31,Carolina,28,Los Angeles Rams
-2025,12,week13,2025-11-30,team1Home,21,Miami,17,New Orleans
-2025,12,week13,2025-11-30,team1Home,20,Tampa Bay,17,Arizona
-2025,12,week13,2025-11-30,team1Home,3,Tennessee,25,Jacksonville
-2025,12,week13,2025-11-30,team1Home,8,Cleveland,26,San Francisco
-2025,12,week13,2025-11-30,team1Home,16,Indianapolis,20,Houston
-2025,12,week13,2025-11-30,team1Home,26,Seattle,0,Minnesota
-2025,12,week13,2025-11-30,team1Home,31,Los Angeles Chargers,14,Las Vegas
-2025,12,week13,2025-11-30,team1Home,7,Pittsburgh,26,Buffalo
-2025,12,week13,2025-11-30,team1Home,26,Washington,27,Denver
-2025,12,week13,2025-12-01,team1Home,33,New England,15,New York Giants
+2025,13,week14,2025-12-04,team1Home,44,Detroit,30,Dallas
+2025,13,week14,2025-12-07,team1Home,9,Atlanta,37,Seattle
+2025,13,week14,2025-12-07,team1Home,29,Cleveland,31,Tennessee
+2025,13,week14,2025-12-07,team1Home,28,Green Bay,21,Chicago
+2025,13,week14,2025-12-07,team1Home,31,Minnesota,0,Washington
+2025,13,week14,2025-12-07,team1Home,22,Baltimore,27,Pittsburgh
+2025,13,week14,2025-12-07,team1Home,10,New York Jets,34,Miami
+2025,13,week14,2025-12-07,team1Home,20,Tampa Bay,24,New Orleans
+2025,13,week14,2025-12-07,team1Home,36,Jacksonville,19,Indianapolis
+2025,13,week14,2025-12-07,team1Home,17,Las Vegas,24,Denver
+2025,13,week14,2025-12-07,team1Home,39,Buffalo,34,Cincinnati
+2025,13,week14,2025-12-07,team1Home,17,Arizona,45,Los Angeles Rams
+2025,13,week14,2025-12-07,team1Home,10,Kansas City,20,Houston
+2025,13,week14,2025-12-08,team1Home,22,Los Angeles Chargers,19,Philadelphia
