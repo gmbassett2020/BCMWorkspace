@@ -6708,22 +6708,22 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2025,15,week16,2025-12-21,team1Home,24,Detroit,29,Pittsburgh
 2025,15,week16,2025-12-21,team1Home,21,Miami,45,Cincinnati
 2025,15,week16,2025-12-22,team1Home,27,Indianapolis,48,San Francisco
-2025,16,week17,2025-12-25,team1Home,-1,Washington,-1,Dallas
-2025,16,week17,2025-12-25,team1Home,-1,Minnesota,-1,Detroit
-2025,16,week17,2025-12-25,team1Home,-1,Kansas City,-1,Denver
-2025,16,week17,2025-12-28,team1Home,-1,Miami,-1,Tampa Bay
-2025,16,week17,2025-12-28,team1Home,-1,Indianapolis,-1,Jacksonville
-2025,16,week17,2025-12-28,team1Home,-1,Cleveland,-1,Pittsburgh
-2025,16,week17,2025-12-28,team1Home,-1,New York Jets,-1,New England
-2025,16,week17,2025-12-28,team1Home,-1,Tennessee,-1,New Orleans
-2025,16,week17,2025-12-28,team1Home,-1,Cincinnati,-1,Arizona
-2025,16,week17,2025-12-28,team1Home,-1,Green Bay,-1,Baltimore
-2025,16,week17,2025-12-28,team1Home,-1,Carolina,-1,Seattle
-2025,16,week17,2025-12-28,team1Home,-1,Los Angeles Chargers,-1,Houston
-2025,16,week17,2025-12-28,team1Home,-1,Las Vegas,-1,New York Giants
-2025,16,week17,2025-12-28,team1Home,-1,Buffalo,-1,Philadelphia
-2025,16,week17,2025-12-28,team1Home,-1,San Francisco,-1,Chicago
-2025,16,week17,2025-12-29,team1Home,-1,Atlanta,-1,Los Angeles Rams
+2025,16,week17,2025-12-25,team1Home,23,Washington,30,Dallas
+2025,16,week17,2025-12-25,team1Home,23,Minnesota,10,Detroit
+2025,16,week17,2025-12-25,team1Home,13,Kansas City,20,Denver
+2025,16,week17,2025-12-28,team1Home,20,Miami,17,Tampa Bay
+2025,16,week17,2025-12-28,team1Home,17,Indianapolis,23,Jacksonville
+2025,16,week17,2025-12-28,team1Home,13,Cleveland,6,Pittsburgh
+2025,16,week17,2025-12-28,team1Home,10,New York Jets,42,New England
+2025,16,week17,2025-12-28,team1Home,26,Tennessee,34,New Orleans
+2025,16,week17,2025-12-28,team1Home,37,Cincinnati,14,Arizona
+2025,16,week17,2025-12-28,team1Home,24,Green Bay,41,Baltimore
+2025,16,week17,2025-12-28,team1Home,10,Carolina,27,Seattle
+2025,16,week17,2025-12-28,team1Home,16,Los Angeles Chargers,20,Houston
+2025,16,week17,2025-12-28,team1Home,10,Las Vegas,34,New York Giants
+2025,16,week17,2025-12-28,team1Home,12,Buffalo,13,Philadelphia
+2025,16,week17,2025-12-28,team1Home,42,San Francisco,38,Chicago
+2025,16,week17,2025-12-29,team1Home,27,Atlanta,24,Los Angeles Rams
 2025,17,week18,2025-01-04,team1Home,-1,Atlanta,-1,New Orleans
 2025,17,week18,2025-01-04,team1Home,-1,Buffalo,-1,New York Jets
 2025,17,week18,2025-01-04,team1Home,-1,Jacksonville,-1,Tennessee
