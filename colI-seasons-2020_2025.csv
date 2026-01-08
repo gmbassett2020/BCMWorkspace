@@ -8311,55 +8311,58 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2025,15,week15,2025-12-06,team1Home,50,Montana,29,South Dakota State
 2025,15,week15,2025-12-06,team1Home,47,California - Davis,26,Rhode Island
 2025,15,week15,2025-12-06,team1Home,21,Jackson State,23,Prairie View
-2025,16,weeke1,2025-12-12,team1Home,-1,Montana State,-1,Stephen F. Austin
-2025,16,weeke1,2025-12-13,team1Home,-1,California - Davis,-1,Illinois State
-2025,16,weeke1,2025-12-13,team1Home,-1,Tarleton State,-1,Villanova
-2025,16,weeke1,2025-12-13,team1Home,-1,Montana,-1,South Dakota
-2025,16,weeke1,2025-12-13,neutral,-1,South Carolina State,-1,Prairie View
-2025,16,weeke1,2025-12-13,neutral,-1,Washington,-1,Boise State
-2025,16,weeke1,2025-12-13,neutral,-1,Navy,-1,Army
-2025,16,weeke1,2025-12-16,neutral,-1,Troy State,-1,Jacksonville State
-2025,16,weeke1,2025-12-17,neutral,-1,South Florida,-1,Old Dominion
-2025,16,weeke1,2025-12-17,neutral,-1,Louisiana - Lafayette,-1,Delaware
-2025,16,weeke1,2025-12-18,neutral,-1,Missouri State,-1,Arkansas State
-2025,16,weeke1,2025-12-19,neutral,-1,Western Michigan,-1,Kennesaw State
-2025,16,weeke1,2025-12-19,team1Home,-1,Oklahoma,-1,Alabama
-2025,16,weeke1,2025-12-19,neutral,-1,North Carolina State,-1,Memphis
-2025,16,weeke1,2025-12-20,team1Home,-1,Texas A&M,-1,Miami - Florida
-2025,16,weeke1,2025-12-20,team1Home,-1,Mississippi,-1,Tulane
-2025,16,weeke1,2025-12-20,team1Home,-1,Oregon,-1,James Madison
-2025,16,weeke1,2025-12-22,neutral,-1,Washington State,-1,Utah State
-2025,16,weeke1,2025-12-23,neutral,-1,Western Kentucky,-1,Southern Mississippi
-2025,16,weeke1,2025-12-23,neutral,-1,Toledo,-1,Louisville
-2025,16,weeke1,2025-12-23,neutral,-1,Ohio,-1,Nevada - Las Vegas
-2025,16,weeke1,2025-12-24,team1Home,-1,Hawaii,-1,California
-2025,16,weeke1,2025-12-26,neutral,-1,Northwestern,-1,Central Michigan
-2025,16,weeke1,2025-12-26,neutral,-1,New Mexico,-1,Minnesota
-2025,16,weeke1,2025-12-26,neutral,-1,Texas - San Antonio,-1,Florida International
-2025,16,weeke1,2025-12-27,neutral,-1,Connecticut,-1,Army
-2025,16,weeke1,2025-12-27,neutral,-1,Miami - Ohio,-1,Fresno State
-2025,16,weeke1,2025-12-27,neutral,-1,San Diego State,-1,North Texas
-2025,16,weeke1,2025-12-27,team1Home,-1,Houston,-1,Louisiana State
-2025,16,weeke1,2025-12-27,neutral,-1,Pittsburgh,-1,East Carolina
-2025,16,weeke1,2025-12-27,neutral,-1,Penn State,-1,Clemson
-2025,16,weeke1,2025-12-27,neutral,-1,Georgia Tech,-1,Brigham Young
-2025,16,weeke1,2025-12-27,neutral,-1,Virginia,-1,Missouri
-2025,16,weeke1,2025-12-29,neutral,-1,Georgia Southern,-1,Appalachian State
-2025,16,weeke1,2025-12-30,neutral,-1,Louisiana Tech,-1,Coastal Carolina
-2025,16,weeke1,2025-12-30,team1Home,-1,Tennessee,-1,Illinois
-2025,16,weeke1,2025-12-30,neutral,-1,Southern California,-1,Texas Christian
-2025,16,weeke1,2025-12-31,neutral,-1,Vanderbilt,-1,Iowa
-2025,16,weeke1,2025-12-31,neutral,-1,Texas,-1,Michigan
-2025,16,weeke1,2025-12-31,neutral,-1,Utah,-1,Nebraska
-2025,16,weeke1,2025-12-31,neutral,-1,Duke,-1,Arizona State
-2025,16,weeke1,2026-01-02,neutral,-1,Navy,-1,Cincinnati
-2025,16,weeke1,2026-01-02,neutral,-1,Texas State - San Marcos,-1,Rice
-2025,16,weeke1,2026-01-02,neutral,-1,Wake Forest,-1,Mississippi State
-2025,16,weeke1,2026-01-02,neutral,-1,Southern Methodist,-1,Arizona
-2025,17,weeke2,2025-12-31,neutral,-1,Ohio State,-1,TBD
-2025,17,weeke2,2026-01-01,neutral,-1,Texas Tech,-1,TBD
-2025,17,weeke2,2026-01-01,neutral,-1,Indiana,-1,TBD
-2025,17,weeke2,2026-01-01,neutral,-1,Georgia,-1,TBD
-2025,18,weeke3,2026-01-08,neutral,-1,TBD,-1,TBD
-2025,18,weeke3,2026-01-09,neutral,-1,TBD,-1,TBD
+2025,16,weeke1,2025-12-12,team1Home,44,Montana State,28,Stephen F. Austin
+2025,16,weeke1,2025-12-13,team1Home,31,California - Davis,42,Illinois State
+2025,16,weeke1,2025-12-13,team1Home,21,Tarleton State,26,Villanova
+2025,16,weeke1,2025-12-13,team1Home,52,Montana,22,South Dakota
+2025,16,weeke1,2025-12-13,neutral,40,South Carolina State,38,Prairie View
+2025,16,weeke1,2025-12-13,neutral,38,Washington,10,Boise State
+2025,16,weeke1,2025-12-13,neutral,17,Navy,16,Army
+2025,16,weeke1,2025-12-16,neutral,13,Troy State,17,Jacksonville State
+2025,16,weeke1,2025-12-17,neutral,10,South Florida,24,Old Dominion
+2025,16,weeke1,2025-12-17,neutral,13,Louisiana - Lafayette,20,Delaware
+2025,16,weeke1,2025-12-18,neutral,28,Missouri State,34,Arkansas State
+2025,16,weeke1,2025-12-19,neutral,41,Western Michigan,6,Kennesaw State
+2025,16,weeke1,2025-12-19,team1Home,24,Oklahoma,34,Alabama
+2025,16,weeke1,2025-12-19,neutral,31,North Carolina State,7,Memphis
+2025,16,weeke1,2025-12-20,team1Home,3,Texas A&M,10,Miami - Florida
+2025,16,weeke1,2025-12-20,team1Home,41,Mississippi,10,Tulane
+2025,16,weeke1,2025-12-20,team1Home,51,Oregon,34,James Madison
+2025,16,weeke1,2025-12-20,team1Home,14,Villanova,30,Illinois State
+2025,16,weeke1,2025-12-20,team1Home,48,Montana State,23,Montana
+2025,16,weeke1,2025-12-22,neutral,34,Washington State,21,Utah State
+2025,16,weeke1,2025-12-23,neutral,27,Western Kentucky,16,Southern Mississippi
+2025,16,weeke1,2025-12-23,neutral,22,Toledo,27,Louisville
+2025,16,weeke1,2025-12-23,neutral,17,Ohio,10,Nevada - Las Vegas
+2025,16,weeke1,2025-12-24,team1Home,35,Hawaii,31,California
+2025,16,weeke1,2025-12-26,neutral,34,Northwestern,7,Central Michigan
+2025,16,weeke1,2025-12-26,neutral,17,New Mexico,20,Minnesota
+2025,16,weeke1,2025-12-26,neutral,57,Texas - San Antonio,20,Florida International
+2025,16,weeke1,2025-12-27,neutral,16,Connecticut,41,Army
+2025,16,weeke1,2025-12-27,neutral,3,Miami - Ohio,18,Fresno State
+2025,16,weeke1,2025-12-27,neutral,47,San Diego State,49,North Texas
+2025,16,weeke1,2025-12-27,team1Home,38,Houston,35,Louisiana State
+2025,16,weeke1,2025-12-27,neutral,17,Pittsburgh,23,East Carolina
+2025,16,weeke1,2025-12-27,neutral,22,Penn State,10,Clemson
+2025,16,weeke1,2025-12-27,neutral,21,Georgia Tech,25,Brigham Young
+2025,16,weeke1,2025-12-27,neutral,13,Virginia,7,Missouri
+2025,16,weeke1,2025-12-29,neutral,29,Georgia Southern,10,Appalachian State
+2025,16,weeke1,2025-12-30,neutral,23,Louisiana Tech,14,Coastal Carolina
+2025,16,weeke1,2025-12-30,team1Home,28,Tennessee,30,Illinois
+2025,16,weeke1,2025-12-30,neutral,27,Southern California,30,Texas Christian
+2025,16,weeke1,2025-12-31,neutral,27,Vanderbilt,34,Iowa
+2025,16,weeke1,2025-12-31,neutral,41,Texas,27,Michigan
+2025,16,weeke1,2025-12-31,neutral,44,Utah,22,Nebraska
+2025,16,weeke1,2025-12-31,neutral,42,Duke,39,Arizona State
+2025,16,weeke1,2026-01-02,neutral,35,Navy,13,Cincinnati
+2025,16,weeke1,2026-01-02,neutral,41,Texas State - San Marcos,10,Rice
+2025,16,weeke1,2026-01-02,neutral,43,Wake Forest,29,Mississippi State
+2025,16,weeke1,2026-01-02,neutral,24,Southern Methodist,19,Arizona
+2025,17,weeke2,2025-12-31,neutral,14,Ohio State,24,Miami - Florida
+2025,17,weeke2,2026-01-01,neutral,0,Texas Tech,23,Oregon
+2025,17,weeke2,2026-01-01,neutral,38,Indiana,3,Alabama
+2025,17,weeke2,2026-01-01,neutral,34,Georgia,39,Mississippi
+2025,17,weeke2,2026-01-05,neutral,35,Montana State,34,Illinois State
+2025,18,weeke3,2026-01-08,neutral,-1,Miami - Florida,-1,Mississippi
+2025,18,weeke3,2026-01-09,neutral,-1,Indiana,-1,Oregon
 2025,19,weeke4,2026-01-19,neutral,-1,TBD,-1,TBD

@@ -1,52 +1,5 @@
-2025,16,weeke1,2025-12-12,team1Home,-1,Montana State,-1,Stephen F. Austin
-2025,16,weeke1,2025-12-13,team1Home,-1,California - Davis,-1,Illinois State
-2025,16,weeke1,2025-12-13,team1Home,-1,Tarleton State,-1,Villanova
-2025,16,weeke1,2025-12-13,team1Home,-1,Montana,-1,South Dakota
-2025,16,weeke1,2025-12-13,neutral,-1,South Carolina State,-1,Prairie View
-2025,16,weeke1,2025-12-13,neutral,-1,Washington,-1,Boise State
-2025,16,weeke1,2025-12-13,neutral,-1,Navy,-1,Army
-2025,16,weeke1,2025-12-16,neutral,-1,Troy State,-1,Jacksonville State
-2025,16,weeke1,2025-12-17,neutral,-1,South Florida,-1,Old Dominion
-2025,16,weeke1,2025-12-17,neutral,-1,Louisiana - Lafayette,-1,Delaware
-2025,16,weeke1,2025-12-18,neutral,-1,Missouri State,-1,Arkansas State
-2025,16,weeke1,2025-12-19,neutral,-1,Western Michigan,-1,Kennesaw State
-2025,16,weeke1,2025-12-19,team1Home,-1,Oklahoma,-1,Alabama
-2025,16,weeke1,2025-12-19,neutral,-1,North Carolina State,-1,Memphis
-2025,16,weeke1,2025-12-20,team1Home,-1,Texas A&M,-1,Miami - Florida
-2025,16,weeke1,2025-12-20,team1Home,-1,Mississippi,-1,Tulane
-2025,16,weeke1,2025-12-20,team1Home,-1,Oregon,-1,James Madison
-2025,16,weeke1,2025-12-22,neutral,-1,Washington State,-1,Utah State
-2025,16,weeke1,2025-12-23,neutral,-1,Western Kentucky,-1,Southern Mississippi
-2025,16,weeke1,2025-12-23,neutral,-1,Toledo,-1,Louisville
-2025,16,weeke1,2025-12-23,neutral,-1,Ohio,-1,Nevada - Las Vegas
-2025,16,weeke1,2025-12-24,team1Home,-1,Hawaii,-1,California
-2025,16,weeke1,2025-12-26,neutral,-1,Northwestern,-1,Central Michigan
-2025,16,weeke1,2025-12-26,neutral,-1,New Mexico,-1,Minnesota
-2025,16,weeke1,2025-12-26,neutral,-1,Texas - San Antonio,-1,Florida International
-2025,16,weeke1,2025-12-27,neutral,-1,Connecticut,-1,Army
-2025,16,weeke1,2025-12-27,neutral,-1,Miami - Ohio,-1,Fresno State
-2025,16,weeke1,2025-12-27,neutral,-1,San Diego State,-1,North Texas
-2025,16,weeke1,2025-12-27,team1Home,-1,Houston,-1,Louisiana State
-2025,16,weeke1,2025-12-27,neutral,-1,Pittsburgh,-1,East Carolina
-2025,16,weeke1,2025-12-27,neutral,-1,Penn State,-1,Clemson
-2025,16,weeke1,2025-12-27,neutral,-1,Georgia Tech,-1,Brigham Young
-2025,16,weeke1,2025-12-27,neutral,-1,Virginia,-1,Missouri
-2025,16,weeke1,2025-12-29,neutral,-1,Georgia Southern,-1,Appalachian State
-2025,16,weeke1,2025-12-30,neutral,-1,Louisiana Tech,-1,Coastal Carolina
-2025,16,weeke1,2025-12-30,team1Home,-1,Tennessee,-1,Illinois
-2025,16,weeke1,2025-12-30,neutral,-1,Southern California,-1,Texas Christian
-2025,16,weeke1,2025-12-31,neutral,-1,Vanderbilt,-1,Iowa
-2025,16,weeke1,2025-12-31,neutral,-1,Texas,-1,Michigan
-2025,16,weeke1,2025-12-31,neutral,-1,Utah,-1,Nebraska
-2025,16,weeke1,2025-12-31,neutral,-1,Duke,-1,Arizona State
-2025,16,weeke1,2026-01-02,neutral,-1,Navy,-1,Cincinnati
-2025,16,weeke1,2026-01-02,neutral,-1,Texas State - San Marcos,-1,Rice
-2025,16,weeke1,2026-01-02,neutral,-1,Wake Forest,-1,Mississippi State
-2025,16,weeke1,2026-01-02,neutral,-1,Southern Methodist,-1,Arizona
-2025,17,weeke2,2025-12-31,neutral,-1,Ohio State,-1,TBD
-2025,17,weeke2,2026-01-01,neutral,-1,Texas Tech,-1,TBD
-2025,17,weeke2,2026-01-01,neutral,-1,Indiana,-1,TBD
-2025,17,weeke2,2026-01-01,neutral,-1,Georgia,-1,TBD
-2025,18,weeke3,2026-01-08,neutral,-1,TBD,-1,TBD
-2025,18,weeke3,2026-01-09,neutral,-1,TBD,-1,TBD
-2025,19,weeke4,2026-01-19,neutral,-1,TBD,-1,TBD
+2025-12-31  Miami FL                 24  Ohio St                  14 P        Cotton Bowl, CFP QF Arlington, TX 
+2026-01-01  Oregon                   23  Texas Tech                0 P        Orange Bowl, CFP QF Miami Gardens, FL 
+2026-01-01  Indiana                  38  Alabama                   3 P        Rose Bowl, CFP QF Pasadena, CA 
+2026-01-01  Mississippi              39  Georgia                  34 P        Sugar Bowl, CFP QF New Orleans, LA 
+2026-01-05  Montana St               35  Illinois St              34 PO1      FCS Championship Nashville, TN 
