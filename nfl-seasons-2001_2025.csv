@@ -6740,9 +6740,13 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2025,17,week18,2026-01-04,team1Home,34,New York Giants,17,Dallas
 2025,17,week18,2026-01-04,team1Home,26,Pittsburgh,24,Baltimore
 2025,17,week18,2026-01-04,team1Home,3,San Francisco,13,Seattle
-2025,18,weeke1,2026-01-10,team1Home,-1,Carolina,-1,Los Angeles Rams
-2025,18,weeke1,2026-01-10,team1Home,-1,Chicago,-1,Green Bay
-2025,18,weeke1,2026-01-11,team1Home,-1,Jacksonville,-1,Buffalo
-2025,18,weeke1,2026-01-11,team1Home,-1,Philadelphia,-1,San Francisco
-2025,18,weeke1,2026-01-11,team1Home,-1,New England,-1,Los Angeles Chargers
-2025,18,weeke1,2026-01-12,team1Home,-1,Pittsburgh,-1,Houston
+2025,18,weeke1,2026-01-10,team1Home,31,Carolina,34,Los Angeles Rams
+2025,18,weeke1,2026-01-10,team1Home,31,Chicago,27,Green Bay
+2025,18,weeke1,2026-01-11,team1Home,24,Jacksonville,27,Buffalo
+2025,18,weeke1,2026-01-11,team1Home,19,Philadelphia,23,San Francisco
+2025,18,weeke1,2026-01-11,team1Home,16,New England,3,Los Angeles Chargers
+2025,18,weeke1,2026-01-12,team1Home,6,Pittsburgh,30,Houston
+2025,19,weeke2,2026-01-17,team1Home,-1,Denver,-1,Buffalo
+2025,19,weeke2,2026-01-17,team1Home,-1,Seattle,-1,San Francisco
+2025,19,weeke2,2026-01-18,team1Home,-1,New England,-1,Houston
+2025,19,weeke2,2026-01-18,team1Home,-1,Chicago,-1,Los Angeles Rams
