@@ -6750,6 +6750,6 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2025,19,weeke2,2026-01-17,team1Home,41,Seattle,6,San Francisco
 2025,19,weeke2,2026-01-18,team1Home,28,New England,16,Houston
 2025,19,weeke2,2026-01-18,team1Home,17,Chicago,20,Los Angeles Rams
-2025,20,weeke3,2026-01-25,team1Home,-1,Denver,-1,New England
-2025,20,weeke3,2026-01-25,team1Home,-1,Seattle,-1,Los Angeles Rams
-2025,21,weeke4,2026-02-08,team1Home,-1,TBD,-1,TBD
+2025,20,weeke3,2026-01-25,team1Home,7,Denver,10,New England
+2025,20,weeke3,2026-01-25,team1Home,31,Seattle,27,Los Angeles Rams
+2025,21,weeke4,2026-02-08,neutral,-1,New England,-1,Seattle
