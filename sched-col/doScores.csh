@@ -6,12 +6,12 @@
 # Trim down tmp-score-2023-in.txt to only include the current week (to avoid collisions of team1/team2 and
 # to remove warnings about unused scores).
 
-set year = 2025
-set round = weeke2
-set schedFile = ../colI-seasons-2020_2025.csv
-set scoreFile = tmp-score-2025-in.txt
+set year = 2026
+set round = weekb0
+set schedFile = ../colI-seasons-2020_2026.csv
+set scoreFile = tmp-score-2026-in.txt
 #set scoreFile = massey_score-2024.txt
-set outFile = tmp-score-2025-out.txt
+set outFile = tmp-score-2026-out.txt
 
 # with all diagnostics:
 #convscorescol.pl $year $round $schedFile $scoreFile > $outFile

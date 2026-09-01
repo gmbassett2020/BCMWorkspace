@@ -1,5 +1,1613 @@
-2025,17,weeke2,2025-12-31,neutral,14,Ohio State,24,Miami - Florida
-2025,17,weeke2,2026-01-01,neutral,0,Texas Tech,23,Oregon
-2025,17,weeke2,2026-01-01,neutral,38,Indiana,3,Alabama
-2025,17,weeke2,2026-01-01,neutral,34,Georgia,39,Mississippi
-2025,17,weeke2,2026-01-05,neutral,35,Montana State,34,Illinois State
+WARNING: Northwestern IA not found
+WARNING: Louisiana Chr not found
+WARNING: UVA-Wise not found
+WARNING: SD Mines not found
+WARNING: Glenville St not found
+WARNING: OH Dominican not found
+WARNING: Concord not found
+WARNING: Winona St not found
+WARNING: Georgetown KY not found
+WARNING: Clark Atlanta not found
+WARNING: Fairmont St not found
+WARNING: Morehouse not found
+WARNING: Permian Basin not found
+WARNING: Lawrence Tech not found
+WARNING: Albany GA not found
+WARNING: Anderson SC not found
+WARNING: Miles not found
+WARNING: Panhandle St not found
+WARNING: Roosevelt not found
+WARNING: St Francis IL not found
+WARNING: Franklin Pierce not found
+WARNING: Lane not found
+WARNING: Tusculum not found
+WARNING: Central St OH not found
+WARNING: Edward Waters not found
+WARNING: Kentucky St not found
+WARNING: TX Wesleyan not found
+WARNING: Kentucky Chr not found
+WARNING: Eliz. City St not found
+WARNING: WV State not found
+WARNING: Webber not found
+WARNING: S Connecticut not found
+WARNING: Miles not found
+WARNING: C Washington not found
+WARNING: Franklin not found
+WARNING: Thomas More not found
+WARNING: Ark Baptist not found
+WARNING: Lincoln PA not found
+WARNING: Virginia St not found
+WARNING: C Oklahoma not found
+WARNING: Bowie St not found
+WARNING: N Michigan not found
+WARNING: Dickinson not found
+WARNING: Kentucky Chr not found
+WARNING: Point not found
+WARNING: Delta St not found
+WARNING: Central St OH not found
+WARNING: Tuskegee not found
+WARNING: NE Oklahoma not found
+WARNING: Glenville St not found
+WARNING: Louisiana Chr not found
+WARNING: Bowie St not found
+WARNING: NE Oklahoma not found
+WARNING: Fort Valley St not found
+WARNING: Rio Grande not found
+WARNING: Ark Baptist not found
+WARNING: American Intl not found
+WARNING: NE Oklahoma not found
+WARNING: Franklin Pierce not found
+WARNING: Morehouse not found
+WARNING: West Alabama not found
+WARNING: Ft Lauderdale not found
+WARNING: Tuskegee not found
+2026,0,weekb0,2026-08-27,team1Home,20,Lindenwood,17,Charleston Southern
+2026,0,weekb0,2026-08-27,team1Home,14,Murray State,28,Eastern Illinois
+2026,0,weekb0,2026-08-27,team1Home,18,Towson,21,Maine
+2026,0,weekb0,2026-08-27,team1Home,35,Austin Peay,17,Gardner - Webb
+2026,0,weekb0,2026-08-27,team1Home,44,Nicholls State,10,Mississippi Valley State
+2026,0,weekb0,2026-08-27,team1Home,42,North Dakota,21,Long Island
+2026,0,weekb0,2026-08-27,team1Home,28,Southeast Louisiana,34,Houston Christian
+2026,0,weekb0,2026-08-27,team1Home,41,Delaware State,34,Stony Brook
+2026,0,weekb0,2026-08-27,team1Home,10,West Georgia,24,Tennessee - Chattanooga
+2026,0,weekb0,2026-08-27,team1Home,43,Youngstown State,10,Mercyhurst
+2026,0,weekb0,2026-08-27,team1Home,24,Tennessee - Martin,36,Central Arkansas
+2026,0,weekb0,2026-08-27,team1Home,34,West Florida,31,Southern Illinois
+2026,0,weekb0,2026-08-28,team1Home,28,Albany,14,New Hampshire
+2026,0,weekb0,2026-08-28,team1Home,14,Fordham,24,Colgate
+2026,0,weekb0,2026-08-28,team1Home,38,California Poly,34,Idaho
+2026,0,weekb0,2026-08-28,team1Home,22,New Haven,21,Marist
+2026,0,weekb0,2026-08-28,team1Home,7,Merrimack,34,Rhode Island
+2026,0,weekb0,2026-08-28,team1Home,29,Northern Colorado,30,Weber State
+2026,0,weekb0,2026-08-29,team1Home,34,Florida State,17,New Mexico State
+2026,0,weekb0,2026-08-29,neutral,10,Texas Christian,15,North Carolina
+2026,0,weekb0,2026-08-29,neutral,8,North Carolina State,34,Virginia
+2026,0,weekb0,2026-08-29,team1Home,37,Stanford,27,Hawaii
+2026,0,weekb0,2026-08-29,team1Home,21,Nevada - Las Vegas,27,Memphis
+2026,0,weekb0,2026-08-29,neutral,17,Southern,30,Alabama State
+2026,0,weekb0,2026-08-29,team1Home,37,East Tennessee State,49,Campbell
+2026,0,weekb0,2026-08-29,team1Home,42,Wofford,14,The Citadel
+2026,0,weekb0,2026-08-29,team1Home,0,Utah Tech,54,Montana State
+2026,0,weekb0,2026-08-29,team1Home,45,Western Carolina,21,Eastern Kentucky
+2026,0,weekb0,2026-08-29,team1Home,34,Northern Arizona,27,Eastern Washington
+2026,0,weekb0,2026-08-29,team1Home,45,Hampton,0,Houston Christian
+2026,0,weekb0,2026-08-29,team1Home,10,Holy Cross,35,Lehigh
+2026,0,weekb0,2026-08-29,team1Home,21,Indiana State,23,Southeast Missouri State
+2026,0,weekb0,2026-08-29,team1Home,24,Tennessee State,26,Jackson State
+2026,0,weekb0,2026-08-29,team1Home,33,North Dakota State,7,Jacksonville State
+2026,0,weekb0,2026-08-29,team1Home,21,Lamar,14,Abilene Christian
+2026,0,weekb0,2026-08-29,team1Home,27,McNeese State,38,Stephen F. Austin
+2026,0,weekb0,2026-08-29,team1Home,38,Tennessee Tech,14,Monmouth
+2026,0,weekb0,2026-08-29,team1Home,7,North Carolina A&T,17,Morgan State
+2026,0,weekb0,2026-08-29,team1Home,56,Norfolk State,0,Winston-Salem
+2026,0,weekb0,2026-08-29,neutral,10,Samford,22,North Alabama
+2026,0,weekb0,2026-08-29,team1Home,42,Texas Southern,30,North Carolina Central
+2026,0,weekb0,2026-08-29,team1Home,24,Portland State,31,California - Davis
+2026,0,weekb0,2026-08-29,team1Home,49,Tarleton State,30,Prairie View
+2026,0,weekb0,2026-08-29,team1Home,7,Wagner,28,Robert Morris
+2026,0,weekb0,2026-08-29,team1Home,87,South Carolina State,0,Savannah State
+2026,0,weekb0,2026-08-29,team1Home,59,South Dakota,20,Central Connecticut
+2026,0,weekb0,2026-08-29,team1Home,28,Montana,21,Southern Utah
+2026,0,weekb0,2026-08-29,team1Home,6,Stonehill,24,Bryant
+2026,0,weekb0,2026-08-29,team1Home,32,Villanova,35,William & Mary
+2026,0,weekb0,2026-08-29,team1Home,38,Idaho State,10,Virginia Military
+2026,0,weekb0,2026-08-29,team1Home,28,Eastern Michigan,17,Sacramento State
+2026,0,weekb0,2026-08-29,team1Home,42,Southern California,26,San Jose State
+2026,0,weekb0,2026-08-29,team1Home,70,South Dakota State,7,Stetson
+2026,0,weekb0,2026-08-29,neutral,24,Alabama A&M,31,Howard
+2026,0,weekb0,2026-08-29,team1Home,35,Richmond,14,Bucknell
+2026,0,weekb0,2026-08-29,team1Home,23,Mercer,15,East Texas A&M
+WARNING: unused Abilene Christian/Austin Peay scores 0 0
+WARNING: unused Abilene Christian/Idaho scores 0 0
+WARNING: unused Abilene Christian/North Alabama scores 0 0
+WARNING: unused Abilene Christian/Tarleton State scores 0 0
+WARNING: unused Abilene Christian/Texas Tech scores 0 0
+WARNING: unused Air Force/Army scores 0 0
+WARNING: unused Air Force/Nevada - Reno scores 0 0
+WARNING: unused Air Force/New Mexico scores 0 0
+WARNING: unused Air Force/Northern Illinois scores 0 0
+WARNING: unused Air Force/Wyoming scores 0 0
+WARNING: unused Akron/Central Michigan scores 0 0
+WARNING: unused Akron/Kent State scores 0 0
+WARNING: unused Akron/Massachusetts scores 0 0
+WARNING: unused Akron/Miami - Ohio scores 0 0
+WARNING: unused Akron/Minnesota scores 0 0
+WARNING: unused Akron/Wake Forest scores 0 0
+WARNING: unused Alabama - Birmingham/Illinois scores 0 0
+WARNING: unused Alabama - Birmingham/Louisiana - Lafayette scores 0 0
+WARNING: unused Alabama - Birmingham/Memphis scores 0 0
+WARNING: unused Alabama - Birmingham/North Texas scores 0 0
+WARNING: unused Alabama - Birmingham/South Florida scores 0 0
+WARNING: unused Alabama - Birmingham/Temple scores 0 0
+WARNING: unused Alabama A&M/Alabama State scores 0 0
+WARNING: unused Alabama A&M/Florida A&M scores 0 0
+WARNING: unused Alabama A&M/Jackson State scores 0 0
+WARNING: unused Alabama A&M/Mississippi Valley State scores 0 0
+WARNING: unused Alabama A&M/Prairie View scores 0 0
+WARNING: unused Alabama State/Arkansas - Pine Bluff scores 0 0
+WARNING: unused Alabama State/Bethune - Cookman scores 0 0
+WARNING: unused Alabama State/Texas Southern scores 0 0
+WARNING: unused Alabama State/Troy State scores 0 0
+WARNING: unused Alabama/Kentucky scores 0 0
+WARNING: unused Alabama/Louisiana State scores 0 0
+WARNING: unused Alabama/Mississippi State scores 0 0
+WARNING: unused Alabama/Tennessee scores 0 0
+WARNING: unused Alabama/Vanderbilt scores 0 0
+WARNING: unused Albany/Bryant scores 0 0
+WARNING: unused Albany/Buffalo scores 0 0
+WARNING: unused Albany/Long Island scores 0 0
+WARNING: unused Albany/North Carolina A&T scores 0 0
+WARNING: unused Albany/Princeton scores 0 0
+WARNING: unused Albany/Rhode Island scores 0 0
+WARNING: unused Albany/Stony Brook scores 0 0
+WARNING: unused Alcorn State/Arkansas - Pine Bluff scores 0 0
+WARNING: unused Alcorn State/Grambling scores 0 0
+WARNING: unused Alcorn State/Mississippi Valley State scores 0 0
+WARNING: unused Alcorn State/North Alabama scores 0 0
+WARNING: unused Alcorn State/Prairie View scores 0 0
+WARNING: unused Alcorn State/Southern scores 0 0
+WARNING: unused Alcorn State/Southern Mississippi scores 0 0
+WARNING: unused Appalachian State/Coastal Carolina scores 0 0
+WARNING: unused Appalachian State/East Carolina scores 0 0
+WARNING: unused Appalachian State/Georgia Southern scores 0 0
+WARNING: unused Appalachian State/Marshall scores 0 0
+WARNING: unused Appalachian State/North Carolina State scores 0 0
+WARNING: unused Appalachian State/South Alabama scores 0 0
+WARNING: unused Arizona State/Arizona scores 0 0
+WARNING: unused Arizona State/Brigham Young scores 0 0
+WARNING: unused Arizona State/Central Florida scores 0 0
+WARNING: unused Arizona State/Kansas scores 0 0
+WARNING: unused Arizona State/Texas A&M scores 0 0
+WARNING: unused Arizona State/Texas Tech scores 0 0
+WARNING: unused Arizona/Brigham Young scores 0 0
+WARNING: unused Arizona/Kansas State scores 0 0
+WARNING: unused Arizona/Texas Tech scores 0 0
+WARNING: unused Arizona/Washington State scores 0 0
+WARNING: unused Arizona/West Virginia scores 0 0
+WARNING: unused Arkansas - Pine Bluff/Florida A&M scores 0 0
+WARNING: unused Arkansas - Pine Bluff/Grambling scores 0 0
+WARNING: unused Arkansas - Pine Bluff/Missouri scores 0 0
+WARNING: unused Arkansas - Pine Bluff/Southern scores 0 0
+WARNING: unused Arkansas - Pine Bluff/Texas Southern scores 0 0
+WARNING: unused Arkansas State/Coastal Carolina scores 0 0
+WARNING: unused Arkansas State/Louisiana - Lafayette scores 0 0
+WARNING: unused Arkansas State/Louisiana Tech scores 0 0
+WARNING: unused Arkansas State/Memphis scores 0 0
+WARNING: unused Arkansas State/Southern Mississippi scores 0 0
+WARNING: unused Arkansas State/Texas Christian scores 0 0
+WARNING: unused Arkansas/Auburn scores 0 0
+WARNING: unused Arkansas/Texas scores 0 0
+WARNING: unused Arkansas/Texas A&M scores 0 0
+WARNING: unused Arkansas/Utah scores 0 0
+WARNING: unused Arkansas/Vanderbilt scores 0 0
+WARNING: unused Army/Louisiana Tech scores 0 0
+WARNING: unused Army/Memphis scores 0 0
+WARNING: unused Army/Navy scores 0 0
+WARNING: unused Army/Rice scores 0 0
+WARNING: unused Army/Temple scores 0 0
+WARNING: unused Army/Tulsa scores 0 0
+WARNING: unused Auburn/Alabama scores 0 0
+WARNING: unused Auburn/Baylor scores 0 0
+WARNING: unused Auburn/Georgia scores 0 0
+WARNING: unused Auburn/Mississippi scores 0 0
+WARNING: unused Auburn/Mississippi State scores 0 0
+WARNING: unused Auburn/Tennessee scores 0 0
+WARNING: unused Austin Peay/Central Arkansas scores 0 0
+WARNING: unused Austin Peay/North Alabama scores 0 0
+WARNING: unused Austin Peay/Vanderbilt scores 0 0
+WARNING: unused Austin Peay/West Florida scores 0 0
+WARNING: unused Austin Peay/West Georgia scores 0 0
+WARNING: unused Ball State/Bowling Green scores 0 0
+WARNING: unused Ball State/Kent State scores 0 0
+WARNING: unused Ball State/Liberty scores 0 0
+WARNING: unused Ball State/Massachusetts scores 0 0
+WARNING: unused Ball State/Northwestern scores 0 0
+WARNING: unused Ball State/Ohio scores 0 0
+WARNING: unused Ball State/Ohio State scores 0 0
+WARNING: unused Baylor/Arizona State scores 0 0
+WARNING: unused Baylor/Brigham Young scores 0 0
+WARNING: unused Baylor/Central Florida scores 0 0
+WARNING: unused Baylor/Houston scores 0 0
+WARNING: unused Baylor/Kansas scores 0 0
+WARNING: unused Bethune - Cookman/Alabama A&M scores 0 0
+WARNING: unused Bethune - Cookman/Arkansas - Pine Bluff scores 0 0
+WARNING: unused Bethune - Cookman/Central Florida scores 0 0
+WARNING: unused Bethune - Cookman/Florida A&M scores 0 0
+WARNING: unused Bethune - Cookman/Mississippi Valley State scores 0 0
+WARNING: unused Bethune - Cookman/Southern scores 0 0
+WARNING: unused Boise State/Colorado State scores 0 0
+WARNING: unused Boise State/Fresno State scores 0 0
+WARNING: unused Boise State/Oregon scores 0 0
+WARNING: unused Boise State/Utah State scores 0 0
+WARNING: unused Boise State/Washington State scores 0 0
+WARNING: unused Boise State/Western Michigan scores 0 0
+WARNING: unused Boston College/Cincinnati scores 0 0
+WARNING: unused Boston College/Duke scores 0 0
+WARNING: unused Boston College/Georgia Tech scores 0 0
+WARNING: unused Boston College/Miami - Florida scores 0 0
+WARNING: unused Boston College/Notre Dame scores 0 0
+WARNING: unused Boston College/Southern Methodist scores 0 0
+WARNING: unused Bowling Green/Buffalo scores 0 0
+WARNING: unused Bowling Green/Iowa State scores 0 0
+WARNING: unused Bowling Green/Miami - Ohio scores 0 0
+WARNING: unused Bowling Green/Nebraska scores 0 0
+WARNING: unused Bowling Green/Toledo scores 0 0
+WARNING: unused Bowling Green/Western Michigan scores 0 0
+WARNING: unused Brigham Young/Central Florida scores 0 0
+WARNING: unused Brigham Young/Colorado State scores 0 0
+WARNING: unused Brigham Young/Kansas scores 0 0
+WARNING: unused Brigham Young/Texas Christian scores 0 0
+WARNING: unused Brigham Young/Utah scores 0 0
+WARNING: unused Brown/Dartmouth scores 0 0
+WARNING: unused Brown/New Haven scores 0 0
+WARNING: unused Brown/Princeton scores 0 0
+WARNING: unused Brown/Rhode Island scores 0 0
+WARNING: unused Brown/Yale scores 0 0
+WARNING: unused Bryant/Army scores 0 0
+WARNING: unused Bryant/Brown scores 0 0
+WARNING: unused Bryant/Hampton scores 0 0
+WARNING: unused Bryant/Maine scores 0 0
+WARNING: unused Bryant/Monmouth scores 0 0
+WARNING: unused Bryant/Sacred Heart scores 0 0
+WARNING: unused Bucknell/Georgetown scores 0 0
+WARNING: unused Bucknell/Holy Cross scores 0 0
+WARNING: unused Bucknell/Lehigh scores 0 0
+WARNING: unused Bucknell/Pittsburgh scores 0 0
+WARNING: unused Bucknell/Virginia Military scores 0 0
+WARNING: unused Bucknell/William & Mary scores 0 0
+WARNING: unused Buffalo/Akron scores 0 0
+WARNING: unused Buffalo/Ball State scores 0 0
+WARNING: unused Buffalo/Florida International scores 0 0
+WARNING: unused Buffalo/Miami - Ohio scores 0 0
+WARNING: unused Buffalo/Penn State scores 0 0
+WARNING: unused Buffalo/Toledo scores 0 0
+WARNING: unused Butler/Drake scores 0 0
+WARNING: unused Butler/Marist scores 0 0
+WARNING: unused Butler/Montana State scores 0 0
+WARNING: unused Butler/Presbyterian scores 0 0
+WARNING: unused Butler/Valparaiso scores 0 0
+WARNING: unused California - Davis/Idaho scores 0 0
+WARNING: unused California - Davis/San Diego scores 0 0
+WARNING: unused California - Davis/Southern Methodist scores 0 0
+WARNING: unused California - Davis/Southern Utah scores 0 0
+WARNING: unused California - Davis/Weber State scores 0 0
+WARNING: unused California - Los Angeles/California scores 0 0
+WARNING: unused California - Los Angeles/Maryland scores 0 0
+WARNING: unused California - Los Angeles/Michigan scores 0 0
+WARNING: unused California - Los Angeles/Minnesota scores 0 0
+WARNING: unused California - Los Angeles/Oregon scores 0 0
+WARNING: unused California Poly/California - Davis scores 0 0
+WARNING: unused California Poly/Eastern Washington scores 0 0
+WARNING: unused California Poly/Idaho State scores 0 0
+WARNING: unused California Poly/Montana State scores 0 0
+WARNING: unused California Poly/Northern Colorado scores 0 0
+WARNING: unused California Poly/San Jose State scores 0 0
+WARNING: unused California/Nevada - Las Vegas scores 0 0
+WARNING: unused California/North Carolina State scores 0 0
+WARNING: unused California/Southern Methodist scores 0 0
+WARNING: unused California/Syracuse scores 0 0
+WARNING: unused California/Virginia scores 0 0
+WARNING: unused Campbell/Albany scores 0 0
+WARNING: unused Campbell/Elon scores 0 0
+WARNING: unused Campbell/Florida scores 0 0
+WARNING: unused Campbell/Hampton scores 0 0
+WARNING: unused Campbell/Maine scores 0 0
+WARNING: unused Campbell/North Carolina Central scores 0 0
+WARNING: unused Central Arkansas/Abilene Christian scores 0 0
+WARNING: unused Central Arkansas/Eastern Kentucky scores 0 0
+WARNING: unused Central Arkansas/Florida State scores 0 0
+WARNING: unused Central Arkansas/Southeast Missouri State scores 0 0
+WARNING: unused Central Arkansas/Tarleton State scores 0 0
+WARNING: unused Central Connecticut/Long Island scores 0 0
+WARNING: unused Central Connecticut/Mercyhurst scores 0 0
+WARNING: unused Central Connecticut/Montana State scores 0 0
+WARNING: unused Central Connecticut/Stonehill scores 0 0
+WARNING: unused Central Connecticut/Toledo scores 0 0
+WARNING: unused Central Florida/Colorado scores 0 0
+WARNING: unused Central Florida/Houston scores 0 0
+WARNING: unused Central Florida/Kansas scores 0 0
+WARNING: unused Central Florida/Oklahoma State scores 0 0
+WARNING: unused Central Florida/Pittsburgh scores 0 0
+WARNING: unused Central Michigan/Ball State scores 0 0
+WARNING: unused Central Michigan/Buffalo scores 0 0
+WARNING: unused Central Michigan/Eastern Michigan scores 0 0
+WARNING: unused Central Michigan/Miami - Florida scores 0 0
+WARNING: unused Central Michigan/New Mexico scores 0 0
+WARNING: unused Central Michigan/Ohio scores 0 0
+WARNING: unused Charleston Southern/Clemson scores 0 0
+WARNING: unused Charleston Southern/Eastern Illinois scores 0 0
+WARNING: unused Charleston Southern/Georgia Southern scores 0 0
+WARNING: unused Charleston Southern/Tennessee State scores 0 0
+WARNING: unused Charleston Southern/The Citadel scores 0 0
+WARNING: unused Chicago State/Butler scores 0 0
+WARNING: unused Chicago State/Lindenwood scores 0 0
+WARNING: unused Chicago State/North Carolina A&T scores 0 0
+WARNING: unused Chicago State/Southern Utah scores 0 0
+WARNING: unused Chicago State/Tarleton State scores 0 0
+WARNING: unused Chicago State/Tennessee - Martin scores 0 0
+WARNING: unused Cincinnati/Arizona scores 0 0
+WARNING: unused Cincinnati/Brigham Young scores 0 0
+WARNING: unused Cincinnati/Houston scores 0 0
+WARNING: unused Cincinnati/Iowa State scores 0 0
+WARNING: unused Cincinnati/West Virginia scores 0 0
+WARNING: unused Clemson/California scores 0 0
+WARNING: unused Clemson/Duke scores 0 0
+WARNING: unused Clemson/Florida State scores 0 0
+WARNING: unused Clemson/Louisiana State scores 0 0
+WARNING: unused Clemson/Syracuse scores 0 0
+WARNING: unused Coastal Carolina/Delaware scores 0 0
+WARNING: unused Coastal Carolina/Georgia State scores 0 0
+WARNING: unused Coastal Carolina/James Madison scores 0 0
+WARNING: unused Coastal Carolina/Louisiana - Lafayette scores 0 0
+WARNING: unused Coastal Carolina/Marshall scores 0 0
+WARNING: unused Coastal Carolina/West Virginia scores 0 0
+WARNING: unused Colgate/Bucknell scores 0 0
+WARNING: unused Colgate/Central Michigan scores 0 0
+WARNING: unused Colgate/Harvard scores 0 0
+WARNING: unused Colgate/Lehigh scores 0 0
+WARNING: unused Colgate/Richmond scores 0 0
+WARNING: unused Colgate/Villanova scores 0 0
+WARNING: unused Colorado State/Fresno State scores 0 0
+WARNING: unused Colorado State/Texas - San Antonio scores 0 0
+WARNING: unused Colorado State/Texas State - San Marcos scores 0 0
+WARNING: unused Colorado State/Utah State scores 0 0
+WARNING: unused Colorado State/Washington State scores 0 0
+WARNING: unused Colorado/Arizona State scores 0 0
+WARNING: unused Colorado/Baylor scores 0 0
+WARNING: unused Colorado/Cincinnati scores 0 0
+WARNING: unused Colorado/Georgia Tech scores 0 0
+WARNING: unused Colorado/Northwestern scores 0 0
+WARNING: unused Colorado/Oklahoma State scores 0 0
+WARNING: unused Columbia/Brown scores 0 0
+WARNING: unused Columbia/Georgetown scores 0 0
+WARNING: unused Columbia/Harvard scores 0 0
+WARNING: unused Columbia/Marist scores 0 0
+WARNING: unused Columbia/Pennsylvania scores 0 0
+WARNING: unused Connecticut/Air Force scores 0 0
+WARNING: unused Connecticut/Miami - Ohio scores 0 0
+WARNING: unused Connecticut/Southern Mississippi scores 0 0
+WARNING: unused Connecticut/Temple scores 0 0
+WARNING: unused Connecticut/Wyoming scores 0 0
+WARNING: unused Cornell/Brown scores 0 0
+WARNING: unused Cornell/Colgate scores 0 0
+WARNING: unused Cornell/Columbia scores 0 0
+WARNING: unused Cornell/Georgetown scores 0 0
+WARNING: unused Cornell/Princeton scores 0 0
+WARNING: unused Dartmouth/Columbia scores 0 0
+WARNING: unused Dartmouth/Cornell scores 0 0
+WARNING: unused Dartmouth/Lehigh scores 0 0
+WARNING: unused Dartmouth/Princeton scores 0 0
+WARNING: unused Dartmouth/Yale scores 0 0
+WARNING: unused Davidson/Dayton scores 0 0
+WARNING: unused Davidson/Presbyterian scores 0 0
+WARNING: unused Davidson/Saint Thomas - Minnesota scores 0 0
+WARNING: unused Davidson/San Diego scores 0 0
+WARNING: unused Dayton/Butler scores 0 0
+WARNING: unused Dayton/Drake scores 0 0
+WARNING: unused Dayton/Eastern Kentucky scores 0 0
+WARNING: unused Dayton/Presbyterian scores 0 0
+WARNING: unused Dayton/Stetson scores 0 0
+WARNING: unused Delaware State/Albany scores 0 0
+WARNING: unused Delaware State/Howard scores 0 0
+WARNING: unused Delaware State/Norfolk State scores 0 0
+WARNING: unused Delaware State/South Carolina State scores 0 0
+WARNING: unused Delaware State/South Florida scores 0 0
+WARNING: unused Delaware State/William & Mary scores 0 0
+WARNING: unused Delaware/Kennesaw State scores 0 0
+WARNING: unused Delaware/Middle Tennessee State scores 0 0
+WARNING: unused Delaware/New Mexico State scores 0 0
+WARNING: unused Delaware/Vanderbilt scores 0 0
+WARNING: unused Delaware/Virginia scores 0 0
+WARNING: unused Delaware/Western Kentucky scores 0 0
+WARNING: unused Drake/Davidson scores 0 0
+WARNING: unused Drake/Montana scores 0 0
+WARNING: unused Drake/Morehead State scores 0 0
+WARNING: unused Drake/Northern Iowa scores 0 0
+WARNING: unused Drake/Saint Thomas - Minnesota scores 0 0
+WARNING: unused Drake/Valparaiso scores 0 0
+WARNING: unused Duke/Georgia Tech scores 0 0
+WARNING: unused Duke/Illinois scores 0 0
+WARNING: unused Duke/Miami - Florida scores 0 0
+WARNING: unused Duke/North Carolina State scores 0 0
+WARNING: unused Duke/Virginia scores 0 0
+WARNING: unused Duke/Wake Forest scores 0 0
+WARNING: unused Duquesne/Air Force scores 0 0
+WARNING: unused Duquesne/Central Connecticut scores 0 0
+WARNING: unused Duquesne/New Haven scores 0 0
+WARNING: unused Duquesne/Stonehill scores 0 0
+WARNING: unused Duquesne/Washington State scores 0 0
+WARNING: unused Duquesne/Youngstown State scores 0 0
+WARNING: unused East Carolina/Alabama scores 0 0
+WARNING: unused East Carolina/Alabama - Birmingham scores 0 0
+WARNING: unused East Carolina/Army scores 0 0
+WARNING: unused East Carolina/Memphis scores 0 0
+WARNING: unused East Carolina/North Carolina - Charlotte scores 0 0
+WARNING: unused East Carolina/Old Dominion scores 0 0
+WARNING: unused East Tennessee State/Mercer scores 0 0
+WARNING: unused East Tennessee State/North Carolina scores 0 0
+WARNING: unused East Tennessee State/The Citadel scores 0 0
+WARNING: unused East Tennessee State/Virginia Military scores 0 0
+WARNING: unused East Tennessee State/Wofford scores 0 0
+WARNING: unused East Texas A&M/Houston Christian scores 0 0
+WARNING: unused East Texas A&M/Lamar scores 0 0
+WARNING: unused East Texas A&M/McNeese State scores 0 0
+WARNING: unused East Texas A&M/Nicholls State scores 0 0
+WARNING: unused East Texas A&M/Stephen F. Austin scores 0 0
+WARNING: unused East Texas A&M/Tulsa scores 0 0
+WARNING: unused Eastern Illinois/Gardner - Webb scores 0 0
+WARNING: unused Eastern Illinois/Illinois State scores 0 0
+WARNING: unused Eastern Illinois/Minnesota scores 0 0
+WARNING: unused Eastern Illinois/South Dakota State scores 0 0
+WARNING: unused Eastern Illinois/Tennessee - Martin scores 0 0
+WARNING: unused Eastern Illinois/Tennessee State scores 0 0
+WARNING: unused Eastern Kentucky/Abilene Christian scores 0 0
+WARNING: unused Eastern Kentucky/Austin Peay scores 0 0
+WARNING: unused Eastern Kentucky/Jacksonville State scores 0 0
+WARNING: unused Eastern Kentucky/Tarleton State scores 0 0
+WARNING: unused Eastern Kentucky/Tennessee Tech scores 0 0
+WARNING: unused Eastern Michigan/Akron scores 0 0
+WARNING: unused Eastern Michigan/Massachusetts scores 0 0
+WARNING: unused Eastern Michigan/Michigan State scores 0 0
+WARNING: unused Eastern Michigan/Ohio scores 0 0
+WARNING: unused Eastern Michigan/Western Michigan scores 0 0
+WARNING: unused Eastern Michigan/Wisconsin scores 0 0
+WARNING: unused Eastern Washington/California - Davis scores 0 0
+WARNING: unused Eastern Washington/Idaho scores 0 0
+WARNING: unused Eastern Washington/South Dakota scores 0 0
+WARNING: unused Eastern Washington/Utah Tech scores 0 0
+WARNING: unused Eastern Washington/Washington scores 0 0
+WARNING: unused Elon/Davidson scores 0 0
+WARNING: unused Elon/New Hampshire scores 0 0
+WARNING: unused Elon/North Carolina A&T scores 0 0
+WARNING: unused Elon/Rhode Island scores 0 0
+WARNING: unused Elon/Stanford scores 0 0
+WARNING: unused Elon/Towson scores 0 0
+WARNING: unused Florida A&M/Alabama State scores 0 0
+WARNING: unused Florida A&M/Alcorn State scores 0 0
+WARNING: unused Florida A&M/Jackson State scores 0 0
+WARNING: unused Florida A&M/Miami - Florida scores 0 0
+WARNING: unused Florida A&M/South Carolina State scores 0 0
+WARNING: unused Florida Atlantic/Army scores 0 0
+WARNING: unused Florida Atlantic/East Carolina scores 0 0
+WARNING: unused Florida Atlantic/Florida scores 0 0
+WARNING: unused Florida Atlantic/North Texas scores 0 0
+WARNING: unused Florida Atlantic/Northeast Louisiana scores 0 0
+WARNING: unused Florida Atlantic/Tulsa scores 0 0
+WARNING: unused Florida International/Delaware scores 0 0
+WARNING: unused Florida International/Florida Atlantic scores 0 0
+WARNING: unused Florida International/Jacksonville State scores 0 0
+WARNING: unused Florida International/Kennesaw State scores 0 0
+WARNING: unused Florida International/Liberty scores 0 0
+WARNING: unused Florida International/South Florida scores 0 0
+WARNING: unused Florida State/Alabama scores 0 0
+WARNING: unused Florida State/Boston College scores 0 0
+WARNING: unused Florida State/Louisville scores 0 0
+WARNING: unused Florida State/Miami - Florida scores 0 0
+WARNING: unused Florida State/Pittsburgh scores 0 0
+WARNING: unused Florida/Auburn scores 0 0
+WARNING: unused Florida/Florida State scores 0 0
+WARNING: unused Florida/Georgia scores 0 0
+WARNING: unused Florida/Kentucky scores 0 0
+WARNING: unused Florida/Missouri scores 0 0
+WARNING: unused Florida/Texas scores 0 0
+WARNING: unused Fordham/Bucknell scores 0 0
+WARNING: unused Fordham/Coastal Carolina scores 0 0
+WARNING: unused Fordham/Holy Cross scores 0 0
+WARNING: unused Fordham/Lehigh scores 0 0
+WARNING: unused Fordham/North Dakota State scores 0 0
+WARNING: unused Fordham/William & Mary scores 0 0
+WARNING: unused Fresno State/San Diego State scores 0 0
+WARNING: unused Fresno State/San Jose State scores 0 0
+WARNING: unused Fresno State/Southern California scores 0 0
+WARNING: unused Fresno State/Texas State - San Marcos scores 0 0
+WARNING: unused Fresno State/Utah State scores 0 0
+WARNING: unused Fresno State/Washington State scores 0 0
+WARNING: unused Furman/Mercer scores 0 0
+WARNING: unused Furman/Richmond scores 0 0
+WARNING: unused Furman/Tennessee scores 0 0
+WARNING: unused Furman/Tennessee Tech scores 0 0
+WARNING: unused Furman/The Citadel scores 0 0
+WARNING: unused Furman/Virginia Military scores 0 0
+WARNING: unused Gardner - Webb/Charleston Southern scores 0 0
+WARNING: unused Gardner - Webb/Liberty scores 0 0
+WARNING: unused Gardner - Webb/Marshall scores 0 0
+WARNING: unused Gardner - Webb/Southeast Missouri State scores 0 0
+WARNING: unused Gardner - Webb/Tennessee - Martin scores 0 0
+WARNING: unused Gardner - Webb/Western Illinois scores 0 0
+WARNING: unused Gardner - Webb/Wofford scores 0 0
+WARNING: unused Georgetown/Colgate scores 0 0
+WARNING: unused Georgetown/Fordham scores 0 0
+WARNING: unused Georgetown/Richmond scores 0 0
+WARNING: unused Georgetown/Villanova scores 0 0
+WARNING: unused Georgetown/William & Mary scores 0 0
+WARNING: unused Georgia Southern/Clemson scores 0 0
+WARNING: unused Georgia Southern/Coastal Carolina scores 0 0
+WARNING: unused Georgia Southern/Georgia State scores 0 0
+WARNING: unused Georgia Southern/Jacksonville State scores 0 0
+WARNING: unused Georgia Southern/Old Dominion scores 0 0
+WARNING: unused Georgia Southern/Troy State scores 0 0
+WARNING: unused Georgia State/Appalachian State scores 0 0
+WARNING: unused Georgia State/Arkansas State scores 0 0
+WARNING: unused Georgia State/Central Florida scores 0 0
+WARNING: unused Georgia State/James Madison scores 0 0
+WARNING: unused Georgia State/Kennesaw State scores 0 0
+WARNING: unused Georgia State/Marshall scores 0 0
+WARNING: unused Georgia Tech/Clemson scores 0 0
+WARNING: unused Georgia Tech/Georgia scores 0 0
+WARNING: unused Georgia Tech/Pittsburgh scores 0 0
+WARNING: unused Georgia Tech/Stanford scores 0 0
+WARNING: unused Georgia Tech/Virginia Tech scores 0 0
+WARNING: unused Georgia/Alabama scores 0 0
+WARNING: unused Georgia/Arkansas scores 0 0
+WARNING: unused Georgia/Mississippi scores 0 0
+WARNING: unused Georgia/South Carolina scores 0 0
+WARNING: unused Grambling/Alabama A&M scores 0 0
+WARNING: unused Grambling/Bethune - Cookman scores 0 0
+WARNING: unused Grambling/Prairie View scores 0 0
+WARNING: unused Grambling/Southern scores 0 0
+WARNING: unused Grambling/Texas Christian scores 0 0
+WARNING: unused Grambling/Texas Southern scores 0 0
+WARNING: unused Hampton/Elon scores 0 0
+WARNING: unused Hampton/Howard scores 0 0
+WARNING: unused Hampton/Maryland scores 0 0
+WARNING: unused Hampton/Norfolk State scores 0 0
+WARNING: unused Hampton/Sacred Heart scores 0 0
+WARNING: unused Hampton/Stony Brook scores 0 0
+WARNING: unused Hampton/Towson scores 0 0
+WARNING: unused Harvard/Brown scores 0 0
+WARNING: unused Harvard/Cornell scores 0 0
+WARNING: unused Harvard/Dartmouth scores 0 0
+WARNING: unused Harvard/New Hampshire scores 0 0
+WARNING: unused Harvard/Pennsylvania scores 0 0
+WARNING: unused Harvard/Yale scores 0 0
+WARNING: unused Hawaii/Arizona State scores 0 0
+WARNING: unused Hawaii/Nevada - Reno scores 0 0
+WARNING: unused Hawaii/Northern Illinois scores 0 0
+WARNING: unused Hawaii/Texas - El Paso scores 0 0
+WARNING: unused Hawaii/Wyoming scores 0 0
+WARNING: unused Holy Cross/Colgate scores 0 0
+WARNING: unused Holy Cross/Georgetown scores 0 0
+WARNING: unused Holy Cross/Harvard scores 0 0
+WARNING: unused Holy Cross/Lafayette scores 0 0
+WARNING: unused Holy Cross/Miami - Ohio scores 0 0
+WARNING: unused Holy Cross/William & Mary scores 0 0
+WARNING: unused Houston Christian/Bethune - Cookman scores 0 0
+WARNING: unused Houston Christian/Chicago State scores 0 0
+WARNING: unused Houston Christian/Incarnate Word scores 0 0
+WARNING: unused Houston Christian/Lamar scores 0 0
+WARNING: unused Houston Christian/Morgan State scores 0 0
+WARNING: unused Houston Christian/Norfolk State scores 0 0
+WARNING: unused Houston Christian/North Texas scores 0 0
+WARNING: unused Houston Christian/Northwestern State scores 0 0
+WARNING: unused Houston Christian/Rice scores 0 0
+WARNING: unused Houston Christian/Stephen F. Austin scores 0 0
+WARNING: unused Houston/Colorado scores 0 0
+WARNING: unused Houston/Georgia Southern scores 0 0
+WARNING: unused Houston/Kansas State scores 0 0
+WARNING: unused Houston/Texas Tech scores 0 0
+WARNING: unused Houston/Utah scores 0 0
+WARNING: unused Houston/West Virginia scores 0 0
+WARNING: unused Howard/Indiana scores 0 0
+WARNING: unused Howard/Morgan State scores 0 0
+WARNING: unused Howard/Norfolk State scores 0 0
+WARNING: unused Howard/North Carolina Central scores 0 0
+WARNING: unused Howard/Pennsylvania scores 0 0
+WARNING: unused Howard/Rutgers scores 0 0
+WARNING: unused Idaho State/Montana scores 0 0
+WARNING: unused Idaho State/Southern Utah scores 0 0
+WARNING: unused Idaho State/Utah State scores 0 0
+WARNING: unused Idaho State/Utah Tech scores 0 0
+WARNING: unused Idaho State/Weber State scores 0 0
+WARNING: unused Idaho/Idaho State scores 0 0
+WARNING: unused Idaho/Montana scores 0 0
+WARNING: unused Idaho/Portland State scores 0 0
+WARNING: unused Idaho/Utah scores 0 0
+WARNING: unused Idaho/Weber State scores 0 0
+WARNING: unused Illinois State/North Dakota scores 0 0
+WARNING: unused Illinois State/Northern Illinois scores 0 0
+WARNING: unused Illinois State/Northern Iowa scores 0 0
+WARNING: unused Illinois State/Southern Illinois scores 0 0
+WARNING: unused Illinois State/Western Illinois scores 0 0
+WARNING: unused Illinois State/Youngstown State scores 0 0
+WARNING: unused Illinois/California - Los Angeles scores 0 0
+WARNING: unused Illinois/Maryland scores 0 0
+WARNING: unused Illinois/Michigan State scores 0 0
+WARNING: unused Illinois/Northwestern scores 0 0
+WARNING: unused Illinois/Ohio State scores 0 0
+WARNING: unused Incarnate Word/East Texas A&M scores 0 0
+WARNING: unused Incarnate Word/Lamar scores 0 0
+WARNING: unused Incarnate Word/Northern Arizona scores 0 0
+WARNING: unused Incarnate Word/Southeast Louisiana scores 0 0
+WARNING: unused Incarnate Word/Stephen F. Austin scores 0 0
+WARNING: unused Incarnate Word/Texas State - San Marcos scores 0 0
+WARNING: unused Indiana State/Eastern Illinois scores 0 0
+WARNING: unused Indiana State/Illinois State scores 0 0
+WARNING: unused Indiana State/Northern Iowa scores 0 0
+WARNING: unused Indiana State/Purdue scores 0 0
+WARNING: unused Indiana State/South Dakota scores 0 0
+WARNING: unused Indiana State/South Dakota State scores 0 0
+WARNING: unused Indiana/Michigan scores 0 0
+WARNING: unused Indiana/Nebraska scores 0 0
+WARNING: unused Indiana/Rutgers scores 0 0
+WARNING: unused Indiana/Washington scores 0 0
+WARNING: unused Iowa State/Arizona scores 0 0
+WARNING: unused Iowa State/Baylor scores 0 0
+WARNING: unused Iowa State/Brigham Young scores 0 0
+WARNING: unused Iowa State/Central Florida scores 0 0
+WARNING: unused Iowa State/Iowa scores 0 0
+WARNING: unused Iowa/Illinois scores 0 0
+WARNING: unused Iowa/Michigan scores 0 0
+WARNING: unused Iowa/Minnesota scores 0 0
+WARNING: unused Iowa/Northwestern scores 0 0
+WARNING: unused Iowa/Washington scores 0 0
+WARNING: unused Jackson State/Alabama State scores 0 0
+WARNING: unused Jackson State/Alcorn State scores 0 0
+WARNING: unused Jackson State/Bethune - Cookman scores 0 0
+WARNING: unused Jackson State/Grambling scores 0 0
+WARNING: unused Jacksonville State/Delaware scores 0 0
+WARNING: unused Jacksonville State/Kennesaw State scores 0 0
+WARNING: unused Jacksonville State/New Mexico State scores 0 0
+WARNING: unused Jacksonville State/Ohio scores 0 0
+WARNING: unused Jacksonville State/Western Kentucky scores 0 0
+WARNING: unused James Madison/Appalachian State scores 0 0
+WARNING: unused James Madison/Connecticut scores 0 0
+WARNING: unused James Madison/Georgia Southern scores 0 0
+WARNING: unused James Madison/Old Dominion scores 0 0
+WARNING: unused James Madison/San Diego State scores 0 0
+WARNING: unused James Madison/Southern Mississippi scores 0 0
+WARNING: unused Kansas State/Arizona State scores 0 0
+WARNING: unused Kansas State/Cincinnati scores 0 0
+WARNING: unused Kansas State/Colorado scores 0 0
+WARNING: unused Kansas State/Iowa State scores 0 0
+WARNING: unused Kansas State/Texas Christian scores 0 0
+WARNING: unused Kansas/Kansas State scores 0 0
+WARNING: unused Kansas/Oklahoma State scores 0 0
+WARNING: unused Kansas/Texas Christian scores 0 0
+WARNING: unused Kansas/Utah scores 0 0
+WARNING: unused Kansas/West Virginia scores 0 0
+WARNING: unused Kennesaw State/Arkansas State scores 0 0
+WARNING: unused Kennesaw State/Middle Tennessee State scores 0 0
+WARNING: unused Kennesaw State/Missouri State scores 0 0
+WARNING: unused Kennesaw State/Sam Houston State scores 0 0
+WARNING: unused Kennesaw State/Tennessee scores 0 0
+WARNING: unused Kennesaw State/Western Kentucky scores 0 0
+WARNING: unused Kent State/Bowling Green scores 0 0
+WARNING: unused Kent State/Eastern Michigan scores 0 0
+WARNING: unused Kent State/Ohio State scores 0 0
+WARNING: unused Kent State/Sacramento State scores 0 0
+WARNING: unused Kent State/South Carolina scores 0 0
+WARNING: unused Kent State/South Florida scores 0 0
+WARNING: unused Kent State/Western Michigan scores 0 0
+WARNING: unused Kentucky/Missouri scores 0 0
+WARNING: unused Kentucky/Oklahoma scores 0 0
+WARNING: unused Kentucky/South Carolina scores 0 0
+WARNING: unused Kentucky/Tennessee scores 0 0
+WARNING: unused Kentucky/Texas A&M scores 0 0
+WARNING: unused Lafayette/Bucknell scores 0 0
+WARNING: unused Lafayette/Colgate scores 0 0
+WARNING: unused Lafayette/Columbia scores 0 0
+WARNING: unused Lafayette/Connecticut scores 0 0
+WARNING: unused Lafayette/Fordham scores 0 0
+WARNING: unused Lafayette/William & Mary scores 0 0
+WARNING: unused Lamar/Idaho scores 0 0
+WARNING: unused Lamar/Louisiana - Lafayette scores 0 0
+WARNING: unused Lamar/McNeese State scores 0 0
+WARNING: unused Lamar/Nicholls State scores 0 0
+WARNING: unused Lamar/Southeast Louisiana scores 0 0
+WARNING: unused Lamar/Texas - Rio Grande Valley scores 0 0
+WARNING: unused Lehigh/Cornell scores 0 0
+WARNING: unused Lehigh/Georgetown scores 0 0
+WARNING: unused Lehigh/Lafayette scores 0 0
+WARNING: unused Lehigh/Pennsylvania scores 0 0
+WARNING: unused Lehigh/Richmond scores 0 0
+WARNING: unused Lehigh/Villanova scores 0 0
+WARNING: unused Liberty/Coastal Carolina scores 0 0
+WARNING: unused Liberty/Delaware scores 0 0
+WARNING: unused Liberty/James Madison scores 0 0
+WARNING: unused Liberty/Kennesaw State scores 0 0
+WARNING: unused Liberty/Missouri State scores 0 0
+WARNING: unused Liberty/New Mexico State scores 0 0
+WARNING: unused Lindenwood/Eastern Illinois scores 0 0
+WARNING: unused Lindenwood/Eastern Michigan scores 0 0
+WARNING: unused Lindenwood/Gardner - Webb scores 0 0
+WARNING: unused Lindenwood/Missouri State scores 0 0
+WARNING: unused Lindenwood/Stony Brook scores 0 0
+WARNING: unused Lindenwood/Tennessee - Martin scores 0 0
+WARNING: unused Long Island/Duquesne scores 0 0
+WARNING: unused Long Island/Florida International scores 0 0
+WARNING: unused Long Island/Kansas scores 0 0
+WARNING: unused Long Island/New Haven scores 0 0
+WARNING: unused Long Island/Robert Morris scores 0 0
+WARNING: unused Long Island/Wagner scores 0 0
+WARNING: unused Louisiana - Lafayette/Georgia State scores 0 0
+WARNING: unused Louisiana - Lafayette/Louisiana Tech scores 0 0
+WARNING: unused Louisiana - Lafayette/North Carolina - Charlotte scores 0 0
+WARNING: unused Louisiana - Lafayette/Northeast Louisiana scores 0 0
+WARNING: unused Louisiana - Lafayette/Southern California scores 0 0
+WARNING: unused Louisiana - Lafayette/Southern Mississippi scores 0 0
+WARNING: unused Louisiana State/Arkansas scores 0 0
+WARNING: unused Louisiana State/Auburn scores 0 0
+WARNING: unused Louisiana State/Kentucky scores 0 0
+WARNING: unused Louisiana State/Mississippi scores 0 0
+WARNING: unused Louisiana State/Tennessee scores 0 0
+WARNING: unused Louisiana Tech/Baylor scores 0 0
+WARNING: unused Louisiana Tech/Georgia Southern scores 0 0
+WARNING: unused Louisiana Tech/Louisiana State scores 0 0
+WARNING: unused Louisiana Tech/Northeast Louisiana scores 0 0
+WARNING: unused Louisiana Tech/South Alabama scores 0 0
+WARNING: unused Louisiana Tech/Troy State scores 0 0
+WARNING: unused Louisville/Georgia Tech scores 0 0
+WARNING: unused Louisville/Kentucky scores 0 0
+WARNING: unused Louisville/Mississippi scores 0 0
+WARNING: unused Louisville/North Carolina scores 0 0
+WARNING: unused Louisville/North Carolina State scores 0 0
+WARNING: unused Louisville/Syracuse scores 0 0
+WARNING: unused Maine/Albany scores 0 0
+WARNING: unused Maine/Appalachian State scores 0 0
+WARNING: unused Maine/Boston College scores 0 0
+WARNING: unused Maine/Elon scores 0 0
+WARNING: unused Maine/Rhode Island scores 0 0
+WARNING: unused Marist/Davidson scores 0 0
+WARNING: unused Marist/Drake scores 0 0
+WARNING: unused Marist/Lafayette scores 0 0
+WARNING: unused Marist/San Diego scores 0 0
+WARNING: unused Marist/Stetson scores 0 0
+WARNING: unused Marshall/Georgia Southern scores 0 0
+WARNING: unused Marshall/James Madison scores 0 0
+WARNING: unused Marshall/Missouri State scores 0 0
+WARNING: unused Marshall/Northeast Louisiana scores 0 0
+WARNING: unused Marshall/Old Dominion scores 0 0
+WARNING: unused Marshall/Penn State scores 0 0
+WARNING: unused Maryland/Connecticut scores 0 0
+WARNING: unused Maryland/Nebraska scores 0 0
+WARNING: unused Maryland/Ohio State scores 0 0
+WARNING: unused Maryland/Purdue scores 0 0
+WARNING: unused Maryland/Southern California scores 0 0
+WARNING: unused Massachusetts/Bowling Green scores 0 0
+WARNING: unused Massachusetts/Buffalo scores 0 0
+WARNING: unused Massachusetts/Connecticut scores 0 0
+WARNING: unused Massachusetts/Rutgers scores 0 0
+WARNING: unused Massachusetts/Sacramento State scores 0 0
+WARNING: unused Massachusetts/Toledo scores 0 0
+WARNING: unused McNeese State/Houston Christian scores 0 0
+WARNING: unused McNeese State/Incarnate Word scores 0 0
+WARNING: unused McNeese State/Louisiana State scores 0 0
+WARNING: unused McNeese State/Northwestern State scores 0 0
+WARNING: unused McNeese State/Southeast Louisiana scores 0 0
+WARNING: unused McNeese State/Texas - Rio Grande Valley scores 0 0
+WARNING: unused Memphis/Boise State scores 0 0
+WARNING: unused Memphis/Navy scores 0 0
+WARNING: unused Memphis/North Carolina - Charlotte scores 0 0
+WARNING: unused Memphis/South Florida scores 0 0
+WARNING: unused Memphis/Tulane scores 0 0
+WARNING: unused Mercer/Abilene Christian scores 0 0
+WARNING: unused Mercer/Georgia Tech scores 0 0
+WARNING: unused Mercer/Samford scores 0 0
+WARNING: unused Mercer/Tennessee - Chattanooga scores 0 0
+WARNING: unused Mercer/Tennessee Tech scores 0 0
+WARNING: unused Mercer/Virginia Military scores 0 0
+WARNING: unused Mercyhurst/Duquesne scores 0 0
+WARNING: unused Mercyhurst/Long Island scores 0 0
+WARNING: unused Mercyhurst/New Mexico scores 0 0
+WARNING: unused Mercyhurst/New Mexico State scores 0 0
+WARNING: unused Mercyhurst/Robert Morris scores 0 0
+WARNING: unused Mercyhurst/Stonehill scores 0 0
+WARNING: unused Mercyhurst/Western Kentucky scores 0 0
+WARNING: unused Merrimack/Dartmouth scores 0 0
+WARNING: unused Merrimack/Delaware scores 0 0
+WARNING: unused Merrimack/Maine scores 0 0
+WARNING: unused Merrimack/Monmouth scores 0 0
+WARNING: unused Merrimack/Tarleton State scores 0 0
+WARNING: unused Merrimack/Wake Forest scores 0 0
+WARNING: unused Merrimack/Yale scores 0 0
+WARNING: unused Miami - Florida/Clemson scores 0 0
+WARNING: unused Miami - Florida/North Carolina scores 0 0
+WARNING: unused Miami - Florida/Notre Dame scores 0 0
+WARNING: unused Miami - Florida/Stanford scores 0 0
+WARNING: unused Miami - Florida/Wake Forest scores 0 0
+WARNING: unused Miami - Ohio/Central Michigan scores 0 0
+WARNING: unused Miami - Ohio/Cincinnati scores 0 0
+WARNING: unused Miami - Ohio/Kent State scores 0 0
+WARNING: unused Miami - Ohio/Massachusetts scores 0 0
+WARNING: unused Miami - Ohio/Pittsburgh scores 0 0
+WARNING: unused Miami - Ohio/Western Michigan scores 0 0
+WARNING: unused Michigan State/California - Los Angeles scores 0 0
+WARNING: unused Michigan State/Michigan scores 0 0
+WARNING: unused Michigan State/Notre Dame scores 0 0
+WARNING: unused Michigan State/Rutgers scores 0 0
+WARNING: unused Michigan State/Wisconsin scores 0 0
+WARNING: unused Michigan/Minnesota scores 0 0
+WARNING: unused Michigan/Ohio State scores 0 0
+WARNING: unused Michigan/Oregon scores 0 0
+WARNING: unused Michigan/Rutgers scores 0 0
+WARNING: unused Middle Tennessee State/Florida International scores 0 0
+WARNING: unused Middle Tennessee State/Jacksonville State scores 0 0
+WARNING: unused Middle Tennessee State/Kansas scores 0 0
+WARNING: unused Middle Tennessee State/Liberty scores 0 0
+WARNING: unused Middle Tennessee State/Marshall scores 0 0
+WARNING: unused Middle Tennessee State/Sam Houston State scores 0 0
+WARNING: unused Minnesota/Indiana scores 0 0
+WARNING: unused Minnesota/Penn State scores 0 0
+WARNING: unused Minnesota/Purdue scores 0 0
+WARNING: unused Minnesota/Washington scores 0 0
+WARNING: unused Minnesota/Wisconsin scores 0 0
+WARNING: unused Mississippi State/Louisiana State scores 0 0
+WARNING: unused Mississippi State/Minnesota scores 0 0
+WARNING: unused Mississippi State/Mississippi scores 0 0
+WARNING: unused Mississippi State/South Carolina scores 0 0
+WARNING: unused Mississippi State/Texas scores 0 0
+WARNING: unused Mississippi Valley State/Alabama State scores 0 0
+WARNING: unused Mississippi Valley State/Florida A&M scores 0 0
+WARNING: unused Mississippi Valley State/Jackson State scores 0 0
+WARNING: unused Mississippi Valley State/Sacramento State scores 0 0
+WARNING: unused Mississippi Valley State/Texas Southern scores 0 0
+WARNING: unused Mississippi/Florida scores 0 0
+WARNING: unused Mississippi/Oklahoma scores 0 0
+WARNING: unused Mississippi/Texas scores 0 0
+WARNING: unused Mississippi/Vanderbilt scores 0 0
+WARNING: unused Missouri State/Delaware scores 0 0
+WARNING: unused Missouri State/Florida International scores 0 0
+WARNING: unused Missouri State/Jacksonville State scores 0 0
+WARNING: unused Missouri State/Southern Methodist scores 0 0
+WARNING: unused Missouri State/Texas A&M scores 0 0
+WARNING: unused Missouri State/Western Kentucky scores 0 0
+WARNING: unused Missouri/Arkansas scores 0 0
+WARNING: unused Missouri/Georgia scores 0 0
+WARNING: unused Missouri/Kansas scores 0 0
+WARNING: unused Missouri/Mississippi scores 0 0
+WARNING: unused Missouri/Mississippi State scores 0 0
+WARNING: unused Monmouth/Albany scores 0 0
+WARNING: unused Monmouth/Campbell scores 0 0
+WARNING: unused Monmouth/Dartmouth scores 0 0
+WARNING: unused Monmouth/Hampton scores 0 0
+WARNING: unused Monmouth/New Hampshire scores 0 0
+WARNING: unused Monmouth/Western Michigan scores 0 0
+WARNING: unused Montana State/Eastern Washington scores 0 0
+WARNING: unused Montana State/Idaho scores 0 0
+WARNING: unused Montana State/Idaho State scores 0 0
+WARNING: unused Montana State/Nevada - Reno scores 0 0
+WARNING: unused Montana State/Northern Colorado scores 0 0
+WARNING: unused Montana/California - Davis scores 0 0
+WARNING: unused Montana/Eastern Washington scores 0 0
+WARNING: unused Montana/Montana State scores 0 0
+WARNING: unused Montana/Northern Arizona scores 0 0
+WARNING: unused Montana/Oregon State scores 0 0
+WARNING: unused Morehead State/Austin Peay scores 0 0
+WARNING: unused Morehead State/Butler scores 0 0
+WARNING: unused Morehead State/Davidson scores 0 0
+WARNING: unused Morehead State/Dayton scores 0 0
+WARNING: unused Morehead State/Marist scores 0 0
+WARNING: unused Morehead State/Western Illinois scores 0 0
+WARNING: unused Morgan State/Arizona State scores 0 0
+WARNING: unused Morgan State/Delaware State scores 0 0
+WARNING: unused Morgan State/North Carolina Central scores 0 0
+WARNING: unused Morgan State/Tennessee State scores 0 0
+WARNING: unused Morgan State/Towson scores 0 0
+WARNING: unused Morgan State/Villanova scores 0 0
+WARNING: unused Murray State/Illinois State scores 0 0
+WARNING: unused Murray State/Indiana State scores 0 0
+WARNING: unused Murray State/Middle Tennessee State scores 0 0
+WARNING: unused Murray State/North Dakota scores 0 0
+WARNING: unused Murray State/Oklahoma State scores 0 0
+WARNING: unused Murray State/South Dakota State scores 0 0
+WARNING: unused Navy/Air Force scores 0 0
+WARNING: unused Navy/Alabama - Birmingham scores 0 0
+WARNING: unused Navy/Florida Atlantic scores 0 0
+WARNING: unused Navy/North Carolina - Charlotte scores 0 0
+WARNING: unused Navy/Notre Dame scores 0 0
+WARNING: unused Navy/Texas - San Antonio scores 0 0
+WARNING: unused Nebraska/Illinois scores 0 0
+WARNING: unused Nebraska/Iowa scores 0 0
+WARNING: unused Nebraska/Michigan State scores 0 0
+WARNING: unused Nebraska/Oregon scores 0 0
+WARNING: unused Nebraska/Rutgers scores 0 0
+WARNING: unused Nevada - Las Vegas/Air Force scores 0 0
+WARNING: unused Nevada - Las Vegas/Akron scores 0 0
+WARNING: unused Nevada - Las Vegas/Hawaii scores 0 0
+WARNING: unused Nevada - Las Vegas/New Mexico scores 0 0
+WARNING: unused Nevada - Las Vegas/North Texas scores 0 0
+WARNING: unused Nevada - Las Vegas/San Jose State scores 0 0
+WARNING: unused Nevada - Reno/California - Los Angeles scores 0 0
+WARNING: unused Nevada - Reno/Middle Tennessee State scores 0 0
+WARNING: unused Nevada - Reno/Nevada - Las Vegas scores 0 0
+WARNING: unused Nevada - Reno/North Dakota State scores 0 0
+WARNING: unused Nevada - Reno/Northern Illinois scores 0 0
+WARNING: unused Nevada - Reno/Texas - El Paso scores 0 0
+WARNING: unused New Hampshire/Maine scores 0 0
+WARNING: unused New Hampshire/Merrimack scores 0 0
+WARNING: unused New Hampshire/North Carolina A&T scores 0 0
+WARNING: unused New Hampshire/Sacred Heart scores 0 0
+WARNING: unused New Hampshire/Syracuse scores 0 0
+WARNING: unused New Haven/Austin Peay scores 0 0
+WARNING: unused New Haven/Central Connecticut scores 0 0
+WARNING: unused New Haven/Mercyhurst scores 0 0
+WARNING: unused New Haven/Merrimack scores 0 0
+WARNING: unused New Haven/Robert Morris scores 0 0
+WARNING: unused New Haven/South Dakota State scores 0 0
+WARNING: unused New Haven/Wagner scores 0 0
+WARNING: unused New Mexico State/Florida International scores 0 0
+WARNING: unused New Mexico State/Hawaii scores 0 0
+WARNING: unused New Mexico State/Middle Tennessee State scores 0 0
+WARNING: unused New Mexico State/Missouri State scores 0 0
+WARNING: unused New Mexico State/Sam Houston State scores 0 0
+WARNING: unused New Mexico/Hawaii scores 0 0
+WARNING: unused New Mexico/Nevada - Reno scores 0 0
+WARNING: unused New Mexico/New Mexico State scores 0 0
+WARNING: unused New Mexico/Oklahoma scores 0 0
+WARNING: unused New Mexico/San Jose State scores 0 0
+WARNING: unused New Mexico/Wyoming scores 0 0
+WARNING: unused Nicholls State/Houston Christian scores 0 0
+WARNING: unused Nicholls State/Incarnate Word scores 0 0
+WARNING: unused Nicholls State/Kansas State scores 0 0
+WARNING: unused Nicholls State/McNeese State scores 0 0
+WARNING: unused Nicholls State/Northwestern State scores 0 0
+WARNING: unused Nicholls State/Sam Houston State scores 0 0
+WARNING: unused Norfolk State/Chicago State scores 0 0
+WARNING: unused Norfolk State/Morgan State scores 0 0
+WARNING: unused Norfolk State/Old Dominion scores 0 0
+WARNING: unused Norfolk State/Robert Morris scores 0 0
+WARNING: unused Norfolk State/South Carolina State scores 0 0
+WARNING: unused Norfolk State/Virginia scores 0 0
+WARNING: unused North Alabama/Arkansas scores 0 0
+WARNING: unused North Alabama/Central Arkansas scores 0 0
+WARNING: unused North Alabama/Eastern Kentucky scores 0 0
+WARNING: unused North Alabama/Southeast Louisiana scores 0 0
+WARNING: unused North Alabama/West Georgia scores 0 0
+WARNING: unused North Carolina - Charlotte/Alabama - Birmingham scores 0 0
+WARNING: unused North Carolina - Charlotte/Appalachian State scores 0 0
+WARNING: unused North Carolina - Charlotte/Mississippi scores 0 0
+WARNING: unused North Carolina - Charlotte/North Texas scores 0 0
+WARNING: unused North Carolina - Charlotte/Temple scores 0 0
+WARNING: unused North Carolina - Charlotte/Tulsa scores 0 0
+WARNING: unused North Carolina A&T/Bryant scores 0 0
+WARNING: unused North Carolina A&T/Campbell scores 0 0
+WARNING: unused North Carolina A&T/Georgia State scores 0 0
+WARNING: unused North Carolina A&T/Hampton scores 0 0
+WARNING: unused North Carolina A&T/Monmouth scores 0 0
+WARNING: unused North Carolina A&T/North Carolina Central scores 0 0
+WARNING: unused North Carolina Central/Delaware State scores 0 0
+WARNING: unused North Carolina Central/East Carolina scores 0 0
+WARNING: unused North Carolina Central/Gardner - Webb scores 0 0
+WARNING: unused North Carolina Central/Norfolk State scores 0 0
+WARNING: unused North Carolina Central/South Carolina State scores 0 0
+WARNING: unused North Carolina State/Florida State scores 0 0
+WARNING: unused North Carolina State/North Carolina scores 0 0
+WARNING: unused North Carolina State/Stanford scores 0 0
+WARNING: unused North Carolina State/Vanderbilt scores 0 0
+WARNING: unused North Carolina/Clemson scores 0 0
+WARNING: unused North Carolina/Connecticut scores 0 0
+WARNING: unused North Carolina/Duke scores 0 0
+WARNING: unused North Carolina/Pittsburgh scores 0 0
+WARNING: unused North Carolina/Virginia scores 0 0
+WARNING: unused North Dakota State/Air Force scores 0 0
+WARNING: unused North Dakota State/Hawaii scores 0 0
+WARNING: unused North Dakota State/Nevada - Las Vegas scores 0 0
+WARNING: unused North Dakota State/New Mexico scores 0 0
+WARNING: unused North Dakota State/Sacramento State scores 0 0
+WARNING: unused North Dakota State/San Jose State scores 0 0
+WARNING: unused North Dakota/Indiana State scores 0 0
+WARNING: unused North Dakota/Nebraska scores 0 0
+WARNING: unused North Dakota/Northern Iowa scores 0 0
+WARNING: unused North Dakota/Portland State scores 0 0
+WARNING: unused North Dakota/South Dakota scores 0 0
+WARNING: unused North Dakota/Youngstown State scores 0 0
+WARNING: unused North Texas/Indiana scores 0 0
+WARNING: unused North Texas/Navy scores 0 0
+WARNING: unused North Texas/Texas - San Antonio scores 0 0
+WARNING: unused North Texas/Texas State - San Marcos scores 0 0
+WARNING: unused North Texas/Tulane scores 0 0
+WARNING: unused North Texas/Tulsa scores 0 0
+WARNING: unused Northeast Louisiana/Alabama - Birmingham scores 0 0
+WARNING: unused Northeast Louisiana/Appalachian State scores 0 0
+WARNING: unused Northeast Louisiana/Arkansas State scores 0 0
+WARNING: unused Northeast Louisiana/Mississippi State scores 0 0
+WARNING: unused Northeast Louisiana/South Alabama scores 0 0
+WARNING: unused Northeast Louisiana/Troy State scores 0 0
+WARNING: unused Northern Arizona/Arizona scores 0 0
+WARNING: unused Northern Arizona/California Poly scores 0 0
+WARNING: unused Northern Arizona/Idaho State scores 0 0
+WARNING: unused Northern Arizona/Montana State scores 0 0
+WARNING: unused Northern Arizona/Southern Utah scores 0 0
+WARNING: unused Northern Arizona/Utah Tech scores 0 0
+WARNING: unused Northern Colorado/California - Davis scores 0 0
+WARNING: unused Northern Colorado/Eastern Washington scores 0 0
+WARNING: unused Northern Colorado/Montana scores 0 0
+WARNING: unused Northern Colorado/Northern Arizona scores 0 0
+WARNING: unused Northern Colorado/Southern Utah scores 0 0
+WARNING: unused Northern Colorado/Wyoming scores 0 0
+WARNING: unused Northern Illinois/Arizona scores 0 0
+WARNING: unused Northern Illinois/Georgia State scores 0 0
+WARNING: unused Northern Illinois/Iowa scores 0 0
+WARNING: unused Northern Illinois/Nevada - Las Vegas scores 0 0
+WARNING: unused Northern Illinois/North Dakota State scores 0 0
+WARNING: unused Northern Illinois/San Jose State scores 0 0
+WARNING: unused Northern Illinois/Wyoming scores 0 0
+WARNING: unused Northern Iowa/Eastern Washington scores 0 0
+WARNING: unused Northern Iowa/Iowa scores 0 0
+WARNING: unused Northern Iowa/Murray State scores 0 0
+WARNING: unused Northern Iowa/South Dakota scores 0 0
+WARNING: unused Northern Iowa/Southern Illinois scores 0 0
+WARNING: unused Northern Iowa/Youngstown State scores 0 0
+WARNING: unused Northwestern State/East Texas A&M scores 0 0
+WARNING: unused Northwestern State/Incarnate Word scores 0 0
+WARNING: unused Northwestern State/Lamar scores 0 0
+WARNING: unused Northwestern State/Louisiana Tech scores 0 0
+WARNING: unused Northwestern State/Stephen F. Austin scores 0 0
+WARNING: unused Northwestern State/Weber State scores 0 0
+WARNING: unused Northwestern/Indiana scores 0 0
+WARNING: unused Northwestern/Michigan State scores 0 0
+WARNING: unused Northwestern/Minnesota scores 0 0
+WARNING: unused Northwestern/Ohio State scores 0 0
+WARNING: unused Northwestern/Oregon scores 0 0
+WARNING: unused Notre Dame/Brigham Young scores 0 0
+WARNING: unused Notre Dame/North Carolina scores 0 0
+WARNING: unused Notre Dame/Purdue scores 0 0
+WARNING: unused Notre Dame/Syracuse scores 0 0
+WARNING: unused Notre Dame/Wisconsin scores 0 0
+WARNING: unused Ohio State/Indiana scores 0 0
+WARNING: unused Ohio State/Iowa scores 0 0
+WARNING: unused Ohio State/Nebraska scores 0 0
+WARNING: unused Ohio State/Southern California scores 0 0
+WARNING: unused Ohio State/Texas scores 0 0
+WARNING: unused Ohio/Akron scores 0 0
+WARNING: unused Ohio/Kent State scores 0 0
+WARNING: unused Ohio/Miami - Ohio scores 0 0
+WARNING: unused Ohio/Nebraska scores 0 0
+WARNING: unused Ohio/Sacramento State scores 0 0
+WARNING: unused Ohio/South Alabama scores 0 0
+WARNING: unused Oklahoma State/Arizona State scores 0 0
+WARNING: unused Oklahoma State/Houston scores 0 0
+WARNING: unused Oklahoma State/Iowa State scores 0 0
+WARNING: unused Oklahoma State/Kansas State scores 0 0
+WARNING: unused Oklahoma State/Tulsa scores 0 0
+WARNING: unused Oklahoma State/West Virginia scores 0 0
+WARNING: unused Oklahoma/Florida scores 0 0
+WARNING: unused Oklahoma/Georgia scores 0 0
+WARNING: unused Oklahoma/Michigan scores 0 0
+WARNING: unused Oklahoma/Mississippi State scores 0 0
+WARNING: unused Oklahoma/Missouri scores 0 0
+WARNING: unused Oklahoma/Texas scores 0 0
+WARNING: unused Old Dominion/Appalachian State scores 0 0
+WARNING: unused Old Dominion/Coastal Carolina scores 0 0
+WARNING: unused Old Dominion/Connecticut scores 0 0
+WARNING: unused Old Dominion/Georgia State scores 0 0
+WARNING: unused Old Dominion/Louisiana Tech scores 0 0
+WARNING: unused Old Dominion/Virginia Tech scores 0 0
+WARNING: unused Oregon State/Boise State scores 0 0
+WARNING: unused Oregon State/Colorado State scores 0 0
+WARNING: unused Oregon State/Fresno State scores 0 0
+WARNING: unused Oregon State/Houston scores 0 0
+WARNING: unused Oregon State/Texas - El Paso scores 0 0
+WARNING: unused Oregon State/Washington State scores 0 0
+WARNING: unused Oregon/Illinois scores 0 0
+WARNING: unused Oregon/Michigan State scores 0 0
+WARNING: unused Oregon/Ohio State scores 0 0
+WARNING: unused Oregon/Oklahoma State scores 0 0
+WARNING: unused Oregon/Southern California scores 0 0
+WARNING: unused Penn State/Maryland scores 0 0
+WARNING: unused Penn State/Michigan scores 0 0
+WARNING: unused Penn State/Northwestern scores 0 0
+WARNING: unused Penn State/Temple scores 0 0
+WARNING: unused Penn State/Washington scores 0 0
+WARNING: unused Pennsylvania/Brown scores 0 0
+WARNING: unused Pennsylvania/Bucknell scores 0 0
+WARNING: unused Pennsylvania/Cornell scores 0 0
+WARNING: unused Pennsylvania/Dartmouth scores 0 0
+WARNING: unused Pennsylvania/Princeton scores 0 0
+WARNING: unused Pittsburgh/Boston College scores 0 0
+WARNING: unused Pittsburgh/California scores 0 0
+WARNING: unused Pittsburgh/Louisville scores 0 0
+WARNING: unused Pittsburgh/Miami - Florida scores 0 0
+WARNING: unused Pittsburgh/Virginia Tech scores 0 0
+WARNING: unused Portland State/Eastern Washington scores 0 0
+WARNING: unused Portland State/Idaho State scores 0 0
+WARNING: unused Portland State/Montana scores 0 0
+WARNING: unused Portland State/Northern Arizona scores 0 0
+WARNING: unused Portland State/Oregon scores 0 0
+WARNING: unused Portland State/San Diego State scores 0 0
+WARNING: unused Portland State/Weber State scores 0 0
+WARNING: unused Prairie View/Alabama State scores 0 0
+WARNING: unused Prairie View/Arkansas - Pine Bluff scores 0 0
+WARNING: unused Prairie View/Baylor scores 0 0
+WARNING: unused Prairie View/East Texas A&M scores 0 0
+WARNING: unused Prairie View/Mississippi Valley State scores 0 0
+WARNING: unused Presbyterian/Marist scores 0 0
+WARNING: unused Presbyterian/Mercer scores 0 0
+WARNING: unused Presbyterian/Morehead State scores 0 0
+WARNING: unused Presbyterian/Stetson scores 0 0
+WARNING: unused Presbyterian/Valparaiso scores 0 0
+WARNING: unused Presbyterian/Western Carolina scores 0 0
+WARNING: unused Princeton/Bryant scores 0 0
+WARNING: unused Princeton/Columbia scores 0 0
+WARNING: unused Princeton/Harvard scores 0 0
+WARNING: unused Princeton/Wagner scores 0 0
+WARNING: unused Princeton/Yale scores 0 0
+WARNING: unused Purdue/California - Los Angeles scores 0 0
+WARNING: unused Purdue/Illinois scores 0 0
+WARNING: unused Purdue/Indiana scores 0 0
+WARNING: unused Purdue/Iowa scores 0 0
+WARNING: unused Purdue/Penn State scores 0 0
+WARNING: unused Rhode Island/Bryant scores 0 0
+WARNING: unused Rhode Island/New Hampshire scores 0 0
+WARNING: unused Rhode Island/North Carolina A&T scores 0 0
+WARNING: unused Rhode Island/Stony Brook scores 0 0
+WARNING: unused Rhode Island/Temple scores 0 0
+WARNING: unused Rhode Island/Yale scores 0 0
+WARNING: unused Rice/East Carolina scores 0 0
+WARNING: unused Rice/Florida Atlantic scores 0 0
+WARNING: unused Rice/Fresno State scores 0 0
+WARNING: unused Rice/North Texas scores 0 0
+WARNING: unused Rice/Notre Dame scores 0 0
+WARNING: unused Rice/Temple scores 0 0
+WARNING: unused Richmond/Fordham scores 0 0
+WARNING: unused Richmond/Holy Cross scores 0 0
+WARNING: unused Richmond/Howard scores 0 0
+WARNING: unused Richmond/Lafayette scores 0 0
+WARNING: unused Richmond/North Carolina State scores 0 0
+WARNING: unused Richmond/Villanova scores 0 0
+WARNING: unused Robert Morris/Akron scores 0 0
+WARNING: unused Robert Morris/Buffalo scores 0 0
+WARNING: unused Robert Morris/Central Connecticut scores 0 0
+WARNING: unused Robert Morris/Duquesne scores 0 0
+WARNING: unused Robert Morris/Morgan State scores 0 0
+WARNING: unused Rutgers/Boston College scores 0 0
+WARNING: unused Rutgers/Maryland scores 0 0
+WARNING: unused Rutgers/Northwestern scores 0 0
+WARNING: unused Rutgers/Penn State scores 0 0
+WARNING: unused Rutgers/Wisconsin scores 0 0
+WARNING: unused Sacramento State/Ball State scores 0 0
+WARNING: unused Sacramento State/Bowling Green scores 0 0
+WARNING: unused Sacramento State/Central Michigan scores 0 0
+WARNING: unused Sacramento State/Fresno State scores 0 0
+WARNING: unused Sacramento State/Hawaii scores 0 0
+WARNING: unused Sacred Heart/Elon scores 0 0
+WARNING: unused Sacred Heart/Maine scores 0 0
+WARNING: unused Sacred Heart/Massachusetts scores 0 0
+WARNING: unused Sacred Heart/Merrimack scores 0 0
+WARNING: unused Sacred Heart/Monmouth scores 0 0
+WARNING: unused Sacred Heart/Stony Brook scores 0 0
+WARNING: unused Saint Thomas - Minnesota/Butler scores 0 0
+WARNING: unused Saint Thomas - Minnesota/Marist scores 0 0
+WARNING: unused Saint Thomas - Minnesota/North Dakota scores 0 0
+WARNING: unused Saint Thomas - Minnesota/Presbyterian scores 0 0
+WARNING: unused Saint Thomas - Minnesota/Valparaiso scores 0 0
+WARNING: unused Sam Houston State/Florida International scores 0 0
+WARNING: unused Sam Houston State/Jacksonville State scores 0 0
+WARNING: unused Sam Houston State/Liberty scores 0 0
+WARNING: unused Sam Houston State/Missouri State scores 0 0
+WARNING: unused Sam Houston State/Texas Tech scores 0 0
+WARNING: unused Sam Houston State/Troy State scores 0 0
+WARNING: unused Samford/Alabama - Birmingham scores 0 0
+WARNING: unused Samford/Auburn scores 0 0
+WARNING: unused Samford/East Tennessee State scores 0 0
+WARNING: unused Samford/Furman scores 0 0
+WARNING: unused Samford/Tennessee - Chattanooga scores 0 0
+WARNING: unused Samford/Tennessee Tech scores 0 0
+WARNING: unused San Diego State/Boise State scores 0 0
+WARNING: unused San Diego State/California - Los Angeles scores 0 0
+WARNING: unused San Diego State/Colorado State scores 0 0
+WARNING: unused San Diego State/Fresno State scores 0 0
+WARNING: unused San Diego State/Oregon State scores 0 0
+WARNING: unused San Diego State/Toledo scores 0 0
+WARNING: unused San Diego/Butler scores 0 0
+WARNING: unused San Diego/California Poly scores 0 0
+WARNING: unused San Diego/Dayton scores 0 0
+WARNING: unused San Diego/Drake scores 0 0
+WARNING: unused San Diego/Idaho State scores 0 0
+WARNING: unused San Diego/Saint Thomas - Minnesota scores 0 0
+WARNING: unused San Jose State/Air Force scores 0 0
+WARNING: unused San Jose State/Eastern Michigan scores 0 0
+WARNING: unused San Jose State/Hawaii scores 0 0
+WARNING: unused San Jose State/Nevada - Reno scores 0 0
+WARNING: unused San Jose State/Texas - El Paso scores 0 0
+WARNING: unused South Alabama/Arkansas State scores 0 0
+WARNING: unused South Alabama/Kentucky scores 0 0
+WARNING: unused South Alabama/Louisiana - Lafayette scores 0 0
+WARNING: unused South Alabama/Marshall scores 0 0
+WARNING: unused South Alabama/Southern Mississippi scores 0 0
+WARNING: unused South Alabama/Tulane scores 0 0
+WARNING: unused South Carolina State/Bethune - Cookman scores 0 0
+WARNING: unused South Carolina State/Charleston Southern scores 0 0
+WARNING: unused South Carolina State/Furman scores 0 0
+WARNING: unused South Carolina State/Howard scores 0 0
+WARNING: unused South Carolina State/Morgan State scores 0 0
+WARNING: unused South Carolina/Alabama scores 0 0
+WARNING: unused South Carolina/Arkansas scores 0 0
+WARNING: unused South Carolina/Clemson scores 0 0
+WARNING: unused South Carolina/Florida scores 0 0
+WARNING: unused South Carolina/Oklahoma scores 0 0
+WARNING: unused South Dakota State/Illinois State scores 0 0
+WARNING: unused South Dakota State/North Dakota scores 0 0
+WARNING: unused South Dakota State/Northern Iowa scores 0 0
+WARNING: unused South Dakota State/Northwestern scores 0 0
+WARNING: unused South Dakota State/Southern Illinois scores 0 0
+WARNING: unused South Dakota/Boise State scores 0 0
+WARNING: unused South Dakota/Illinois State scores 0 0
+WARNING: unused South Dakota/Murray State scores 0 0
+WARNING: unused South Dakota/Northern Colorado scores 0 0
+WARNING: unused South Dakota/South Dakota State scores 0 0
+WARNING: unused South Dakota/Youngstown State scores 0 0
+WARNING: unused South Florida/Army scores 0 0
+WARNING: unused South Florida/Bowling Green scores 0 0
+WARNING: unused South Florida/East Carolina scores 0 0
+WARNING: unused South Florida/Florida Atlantic scores 0 0
+WARNING: unused South Florida/Texas - San Antonio scores 0 0
+WARNING: unused Southeast Louisiana/East Texas A&M scores 0 0
+WARNING: unused Southeast Louisiana/Nicholls State scores 0 0
+WARNING: unused Southeast Louisiana/Northeast Louisiana scores 0 0
+WARNING: unused Southeast Louisiana/Northwestern State scores 0 0
+WARNING: unused Southeast Louisiana/South Alabama scores 0 0
+WARNING: unused Southeast Louisiana/Stephen F. Austin scores 0 0
+WARNING: unused Southeast Louisiana/Texas - Rio Grande Valley scores 0 0
+WARNING: unused Southeast Missouri State/Charleston Southern scores 0 0
+WARNING: unused Southeast Missouri State/Eastern Illinois scores 0 0
+WARNING: unused Southeast Missouri State/Iowa State scores 0 0
+WARNING: unused Southeast Missouri State/Lindenwood scores 0 0
+WARNING: unused Southeast Missouri State/Southern Illinois scores 0 0
+WARNING: unused Southeast Missouri State/Tennessee State scores 0 0
+WARNING: unused Southern California/California - Los Angeles scores 0 0
+WARNING: unused Southern California/Indiana scores 0 0
+WARNING: unused Southern California/Penn State scores 0 0
+WARNING: unused Southern California/Rutgers scores 0 0
+WARNING: unused Southern California/Wisconsin scores 0 0
+WARNING: unused Southern Illinois/Illinois scores 0 0
+WARNING: unused Southern Illinois/Indiana State scores 0 0
+WARNING: unused Southern Illinois/Murray State scores 0 0
+WARNING: unused Southern Illinois/North Dakota scores 0 0
+WARNING: unused Southern Illinois/Samford scores 0 0
+WARNING: unused Southern Illinois/South Dakota scores 0 0
+WARNING: unused Southern Methodist/Florida State scores 0 0
+WARNING: unused Southern Methodist/Louisville scores 0 0
+WARNING: unused Southern Methodist/Notre Dame scores 0 0
+WARNING: unused Southern Methodist/Stanford scores 0 0
+WARNING: unused Southern Methodist/Syracuse scores 0 0
+WARNING: unused Southern Mississippi/Auburn scores 0 0
+WARNING: unused Southern Mississippi/Louisiana Tech scores 0 0
+WARNING: unused Southern Mississippi/Northeast Louisiana scores 0 0
+WARNING: unused Southern Mississippi/Old Dominion scores 0 0
+WARNING: unused Southern Mississippi/Troy State scores 0 0
+WARNING: unused Southern Mississippi/Tulane scores 0 0
+WARNING: unused Southern Utah/Colorado State scores 0 0
+WARNING: unused Southern Utah/Idaho scores 0 0
+WARNING: unused Southern Utah/Portland State scores 0 0
+WARNING: unused Southern Utah/Saint Thomas - Minnesota scores 0 0
+WARNING: unused Southern Utah/Utah Tech scores 0 0
+WARNING: unused Southern/Florida A&M scores 0 0
+WARNING: unused Southern/Houston scores 0 0
+WARNING: unused Southern/Jackson State scores 0 0
+WARNING: unused Southern/Prairie View scores 0 0
+WARNING: unused Southern/Texas Southern scores 0 0
+WARNING: unused Stanford/California scores 0 0
+WARNING: unused Stanford/Duke scores 0 0
+WARNING: unused Stanford/Louisville scores 0 0
+WARNING: unused Stanford/Notre Dame scores 0 0
+WARNING: unused Stanford/Virginia Tech scores 0 0
+WARNING: unused Stanford/Wake Forest scores 0 0
+WARNING: unused Stephen F. Austin/Abilene Christian scores 0 0
+WARNING: unused Stephen F. Austin/Lamar scores 0 0
+WARNING: unused Stephen F. Austin/Nicholls State scores 0 0
+WARNING: unused Stephen F. Austin/Prairie View scores 0 0
+WARNING: unused Stephen F. Austin/Texas - Rio Grande Valley scores 0 0
+WARNING: unused Stetson/Bethune - Cookman scores 0 0
+WARNING: unused Stetson/California - Davis scores 0 0
+WARNING: unused Stetson/Davidson scores 0 0
+WARNING: unused Stetson/Morehead State scores 0 0
+WARNING: unused Stetson/Saint Thomas - Minnesota scores 0 0
+WARNING: unused Stetson/San Diego scores 0 0
+WARNING: unused Stonehill/Long Island scores 0 0
+WARNING: unused Stonehill/Massachusetts scores 0 0
+WARNING: unused Stonehill/New Hampshire scores 0 0
+WARNING: unused Stonehill/New Haven scores 0 0
+WARNING: unused Stonehill/Ohio scores 0 0
+WARNING: unused Stonehill/Robert Morris scores 0 0
+WARNING: unused Stonehill/Sacred Heart scores 0 0
+WARNING: unused Stony Brook/Ball State scores 0 0
+WARNING: unused Stony Brook/Bryant scores 0 0
+WARNING: unused Stony Brook/Campbell scores 0 0
+WARNING: unused Stony Brook/Fordham scores 0 0
+WARNING: unused Stony Brook/New Hampshire scores 0 0
+WARNING: unused Stony Brook/Towson scores 0 0
+WARNING: unused Syracuse/Boston College scores 0 0
+WARNING: unused Syracuse/Connecticut scores 0 0
+WARNING: unused Syracuse/North Carolina scores 0 0
+WARNING: unused Syracuse/North Carolina State scores 0 0
+WARNING: unused Syracuse/Pittsburgh scores 0 0
+WARNING: unused Syracuse/Virginia scores 0 0
+WARNING: unused Tarleton State/Austin Peay scores 0 0
+WARNING: unused Tarleton State/Bowling Green scores 0 0
+WARNING: unused Tarleton State/McNeese State scores 0 0
+WARNING: unused Tarleton State/North Alabama scores 0 0
+WARNING: unused Tarleton State/West Florida scores 0 0
+WARNING: unused Tarleton State/West Georgia scores 0 0
+WARNING: unused Temple/East Carolina scores 0 0
+WARNING: unused Temple/Memphis scores 0 0
+WARNING: unused Temple/Navy scores 0 0
+WARNING: unused Temple/South Florida scores 0 0
+WARNING: unused Temple/Toledo scores 0 0
+WARNING: unused Tennessee - Chattanooga/Alabama scores 0 0
+WARNING: unused Tennessee - Chattanooga/East Tennessee State scores 0 0
+WARNING: unused Tennessee - Chattanooga/Eastern Kentucky scores 0 0
+WARNING: unused Tennessee - Chattanooga/Furman scores 0 0
+WARNING: unused Tennessee - Chattanooga/The Citadel scores 0 0
+WARNING: unused Tennessee - Chattanooga/Western Carolina scores 0 0
+WARNING: unused Tennessee - Martin/Austin Peay scores 0 0
+WARNING: unused Tennessee - Martin/Charleston Southern scores 0 0
+WARNING: unused Tennessee - Martin/Memphis scores 0 0
+WARNING: unused Tennessee - Martin/Southeast Missouri State scores 0 0
+WARNING: unused Tennessee - Martin/Tennessee State scores 0 0
+WARNING: unused Tennessee - Martin/West Virginia scores 0 0
+WARNING: unused Tennessee - Martin/Western Illinois scores 0 0
+WARNING: unused Tennessee State/Alabama A&M scores 0 0
+WARNING: unused Tennessee State/Florida A&M scores 0 0
+WARNING: unused Tennessee State/Gardner - Webb scores 0 0
+WARNING: unused Tennessee State/Georgia scores 0 0
+WARNING: unused Tennessee State/Lindenwood scores 0 0
+WARNING: unused Tennessee State/Western Illinois scores 0 0
+WARNING: unused Tennessee Tech/East Tennessee State scores 0 0
+WARNING: unused Tennessee Tech/Mississippi State scores 0 0
+WARNING: unused Tennessee Tech/Tennessee - Chattanooga scores 0 0
+WARNING: unused Tennessee Tech/The Citadel scores 0 0
+WARNING: unused Tennessee Tech/Western Carolina scores 0 0
+WARNING: unused Tennessee Tech/Wofford scores 0 0
+WARNING: unused Tennessee/Arkansas scores 0 0
+WARNING: unused Tennessee/Georgia Tech scores 0 0
+WARNING: unused Tennessee/South Carolina scores 0 0
+WARNING: unused Tennessee/Texas A&M scores 0 0
+WARNING: unused Tennessee/Vanderbilt scores 0 0
+WARNING: unused Texas - El Paso/Air Force scores 0 0
+WARNING: unused Texas - El Paso/Michigan scores 0 0
+WARNING: unused Texas - El Paso/New Mexico scores 0 0
+WARNING: unused Texas - El Paso/North Dakota State scores 0 0
+WARNING: unused Texas - El Paso/Northern Illinois scores 0 0
+WARNING: unused Texas - El Paso/Oklahoma scores 0 0
+WARNING: unused Texas - Rio Grande Valley/Central Arkansas scores 0 0
+WARNING: unused Texas - Rio Grande Valley/East Texas A&M scores 0 0
+WARNING: unused Texas - Rio Grande Valley/Houston Christian scores 0 0
+WARNING: unused Texas - Rio Grande Valley/Incarnate Word scores 0 0
+WARNING: unused Texas - Rio Grande Valley/Nicholls State scores 0 0
+WARNING: unused Texas - Rio Grande Valley/Northwestern State scores 0 0
+WARNING: unused Texas - Rio Grande Valley/Texas - San Antonio scores 0 0
+WARNING: unused Texas - San Antonio/Alabama - Birmingham scores 0 0
+WARNING: unused Texas - San Antonio/Florida Atlantic scores 0 0
+WARNING: unused Texas - San Antonio/Rice scores 0 0
+WARNING: unused Texas - San Antonio/Texas scores 0 0
+WARNING: unused Texas - San Antonio/Texas State - San Marcos scores 0 0
+WARNING: unused Texas - San Antonio/Tulane scores 0 0
+WARNING: unused Texas A&M/Alabama scores 0 0
+WARNING: unused Texas A&M/Louisiana State scores 0 0
+WARNING: unused Texas A&M/Missouri scores 0 0
+WARNING: unused Texas A&M/Oklahoma scores 0 0
+WARNING: unused Texas A&M/South Carolina scores 0 0
+WARNING: unused Texas Christian/Arizona scores 0 0
+WARNING: unused Texas Christian/Baylor scores 0 0
+WARNING: unused Texas Christian/Central Florida scores 0 0
+WARNING: unused Texas Christian/Texas Tech scores 0 0
+WARNING: unused Texas Southern/Alabama A&M scores 0 0
+WARNING: unused Texas Southern/Alcorn State scores 0 0
+WARNING: unused Texas Southern/Florida Atlantic scores 0 0
+WARNING: unused Texas Southern/Prairie View scores 0 0
+WARNING: unused Texas Southern/Texas - El Paso scores 0 0
+WARNING: unused Texas State - San Marcos/Boise State scores 0 0
+WARNING: unused Texas State - San Marcos/Colorado State scores 0 0
+WARNING: unused Texas State - San Marcos/Oregon State scores 0 0
+WARNING: unused Texas State - San Marcos/San Diego State scores 0 0
+WARNING: unused Texas State - San Marcos/Texas scores 0 0
+WARNING: unused Texas Tech/Baylor scores 0 0
+WARNING: unused Texas Tech/Cincinnati scores 0 0
+WARNING: unused Texas Tech/Colorado scores 0 0
+WARNING: unused Texas Tech/Oklahoma State scores 0 0
+WARNING: unused Texas Tech/Oregon State scores 0 0
+WARNING: unused Texas/Louisiana State scores 0 0
+WARNING: unused Texas/Missouri scores 0 0
+WARNING: unused Texas/Tennessee scores 0 0
+WARNING: unused Texas/Texas A&M scores 0 0
+WARNING: unused The Citadel/Mercer scores 0 0
+WARNING: unused The Citadel/North Carolina - Charlotte scores 0 0
+WARNING: unused The Citadel/South Carolina State scores 0 0
+WARNING: unused The Citadel/Texas A&M scores 0 0
+WARNING: unused The Citadel/Virginia Military scores 0 0
+WARNING: unused The Citadel/Western Carolina scores 0 0
+WARNING: unused Toledo/Ball State scores 0 0
+WARNING: unused Toledo/Eastern Michigan scores 0 0
+WARNING: unused Toledo/Michigan State scores 0 0
+WARNING: unused Toledo/Ohio scores 0 0
+WARNING: unused Toledo/Sacramento State scores 0 0
+WARNING: unused Towson/Campbell scores 0 0
+WARNING: unused Towson/Delaware State scores 0 0
+WARNING: unused Towson/Monmouth scores 0 0
+WARNING: unused Towson/Navy scores 0 0
+WARNING: unused Towson/Rhode Island scores 0 0
+WARNING: unused Towson/Sacred Heart scores 0 0
+WARNING: unused Towson/South Carolina scores 0 0
+WARNING: unused Troy State/Arkansas State scores 0 0
+WARNING: unused Troy State/James Madison scores 0 0
+WARNING: unused Troy State/Louisiana - Lafayette scores 0 0
+WARNING: unused Troy State/Missouri scores 0 0
+WARNING: unused Troy State/South Alabama scores 0 0
+WARNING: unused Troy State/Utah State scores 0 0
+WARNING: unused Tulane/Army scores 0 0
+WARNING: unused Tulane/Duke scores 0 0
+WARNING: unused Tulane/Kansas State scores 0 0
+WARNING: unused Tulane/North Carolina - Charlotte scores 0 0
+WARNING: unused Tulane/Rice scores 0 0
+WARNING: unused Tulane/South Florida scores 0 0
+WARNING: unused Tulsa/Arkansas scores 0 0
+WARNING: unused Tulsa/Navy scores 0 0
+WARNING: unused Tulsa/Rice scores 0 0
+WARNING: unused Tulsa/Sam Houston State scores 0 0
+WARNING: unused Tulsa/Texas - San Antonio scores 0 0
+WARNING: unused Tulsa/Tulane scores 0 0
+WARNING: unused Utah State/Boise State scores 0 0
+WARNING: unused Utah State/Oregon State scores 0 0
+WARNING: unused Utah State/San Diego State scores 0 0
+WARNING: unused Utah State/Texas State - San Marcos scores 0 0
+WARNING: unused Utah State/Utah scores 0 0
+WARNING: unused Utah State/Washington scores 0 0
+WARNING: unused Utah Tech/Brigham Young scores 0 0
+WARNING: unused Utah Tech/California - Davis scores 0 0
+WARNING: unused Utah Tech/California Poly scores 0 0
+WARNING: unused Utah Tech/Montana scores 0 0
+WARNING: unused Utah Tech/Northern Colorado scores 0 0
+WARNING: unused Utah Tech/Portland State scores 0 0
+WARNING: unused Utah Tech/Weber State scores 0 0
+WARNING: unused Utah/Arizona scores 0 0
+WARNING: unused Utah/Cincinnati scores 0 0
+WARNING: unused Utah/Colorado scores 0 0
+WARNING: unused Utah/Iowa State scores 0 0
+WARNING: unused Utah/Texas Christian scores 0 0
+WARNING: unused Valparaiso/Dayton scores 0 0
+WARNING: unused Valparaiso/Indiana State scores 0 0
+WARNING: unused Valparaiso/Morehead State scores 0 0
+WARNING: unused Valparaiso/Murray State scores 0 0
+WARNING: unused Valparaiso/San Diego scores 0 0
+WARNING: unused Valparaiso/Stetson scores 0 0
+WARNING: unused Vanderbilt/Auburn scores 0 0
+WARNING: unused Vanderbilt/Florida scores 0 0
+WARNING: unused Vanderbilt/Georgia scores 0 0
+WARNING: unused Vanderbilt/Kentucky scores 0 0
+WARNING: unused Vanderbilt/Mississippi State scores 0 0
+WARNING: unused Villanova/Bucknell scores 0 0
+WARNING: unused Villanova/Fordham scores 0 0
+WARNING: unused Villanova/Holy Cross scores 0 0
+WARNING: unused Villanova/Lafayette scores 0 0
+WARNING: unused Villanova/Long Island scores 0 0
+WARNING: unused Villanova/Louisville scores 0 0
+WARNING: unused Virginia Military/Davidson scores 0 0
+WARNING: unused Virginia Military/Samford scores 0 0
+WARNING: unused Virginia Military/Tennessee - Chattanooga scores 0 0
+WARNING: unused Virginia Military/Tennessee Tech scores 0 0
+WARNING: unused Virginia Military/Virginia Tech scores 0 0
+WARNING: unused Virginia Military/Wofford scores 0 0
+WARNING: unused Virginia Tech/Boston College scores 0 0
+WARNING: unused Virginia Tech/California scores 0 0
+WARNING: unused Virginia Tech/Clemson scores 0 0
+WARNING: unused Virginia Tech/Maryland scores 0 0
+WARNING: unused Virginia Tech/Miami - Florida scores 0 0
+WARNING: unused Virginia Tech/Southern Methodist scores 0 0
+WARNING: unused Virginia/Florida State scores 0 0
+WARNING: unused Virginia/Southern Methodist scores 0 0
+WARNING: unused Virginia/Virginia Tech scores 0 0
+WARNING: unused Virginia/Wake Forest scores 0 0
+WARNING: unused Virginia/West Virginia scores 0 0
+WARNING: unused Wagner/California scores 0 0
+WARNING: unused Wagner/Central Connecticut scores 0 0
+WARNING: unused Wagner/Duquesne scores 0 0
+WARNING: unused Wagner/James Madison scores 0 0
+WARNING: unused Wagner/Mercyhurst scores 0 0
+WARNING: unused Wagner/Merrimack scores 0 0
+WARNING: unused Wagner/Stonehill scores 0 0
+WARNING: unused Wake Forest/California scores 0 0
+WARNING: unused Wake Forest/Georgia Tech scores 0 0
+WARNING: unused Wake Forest/Louisville scores 0 0
+WARNING: unused Wake Forest/North Carolina State scores 0 0
+WARNING: unused Wake Forest/Purdue scores 0 0
+WARNING: unused Wake Forest/Southern Methodist scores 0 0
+WARNING: unused Washington State/Kansas State scores 0 0
+WARNING: unused Washington State/Oregon State scores 0 0
+WARNING: unused Washington State/San Diego State scores 0 0
+WARNING: unused Washington State/Texas State - San Marcos scores 0 0
+WARNING: unused Washington State/Utah State scores 0 0
+WARNING: unused Washington State/Washington scores 0 0
+WARNING: unused Washington/Michigan State scores 0 0
+WARNING: unused Washington/Nebraska scores 0 0
+WARNING: unused Washington/Oregon scores 0 0
+WARNING: unused Washington/Purdue scores 0 0
+WARNING: unused Washington/Southern California scores 0 0
+WARNING: unused Weber State/California Poly scores 0 0
+WARNING: unused Weber State/Colorado scores 0 0
+WARNING: unused Weber State/Montana State scores 0 0
+WARNING: unused Weber State/Northern Arizona scores 0 0
+WARNING: unused Weber State/Southern Utah scores 0 0
+WARNING: unused West Florida/Abilene Christian scores 0 0
+WARNING: unused West Florida/Central Arkansas scores 0 0
+WARNING: unused West Florida/Eastern Kentucky scores 0 0
+WARNING: unused West Florida/North Alabama scores 0 0
+WARNING: unused West Florida/Southeast Missouri State scores 0 0
+WARNING: unused West Florida/West Georgia scores 0 0
+WARNING: unused West Georgia/Abilene Christian scores 0 0
+WARNING: unused West Georgia/Arkansas State scores 0 0
+WARNING: unused West Georgia/Central Arkansas scores 0 0
+WARNING: unused West Georgia/East Tennessee State scores 0 0
+WARNING: unused West Georgia/Eastern Kentucky scores 0 0
+WARNING: unused West Georgia/Kennesaw State scores 0 0
+WARNING: unused West Virginia/Iowa State scores 0 0
+WARNING: unused West Virginia/Texas Christian scores 0 0
+WARNING: unused West Virginia/Texas Tech scores 0 0
+WARNING: unused West Virginia/Utah scores 0 0
+WARNING: unused Western Carolina/Campbell scores 0 0
+WARNING: unused Western Carolina/Cincinnati scores 0 0
+WARNING: unused Western Carolina/East Tennessee State scores 0 0
+WARNING: unused Western Carolina/Furman scores 0 0
+WARNING: unused Western Carolina/Mercer scores 0 0
+WARNING: unused Western Carolina/Samford scores 0 0
+WARNING: unused Western Illinois/Charleston Southern scores 0 0
+WARNING: unused Western Illinois/Eastern Illinois scores 0 0
+WARNING: unused Western Illinois/Lindenwood scores 0 0
+WARNING: unused Western Illinois/North Alabama scores 0 0
+WARNING: unused Western Illinois/Southeast Missouri State scores 0 0
+WARNING: unused Western Illinois/Wisconsin scores 0 0
+WARNING: unused Western Kentucky/Georgia scores 0 0
+WARNING: unused Western Kentucky/Indiana scores 0 0
+WARNING: unused Western Kentucky/Liberty scores 0 0
+WARNING: unused Western Kentucky/Middle Tennessee State scores 0 0
+WARNING: unused Western Kentucky/Nevada - Reno scores 0 0
+WARNING: unused Western Kentucky/New Mexico State scores 0 0
+WARNING: unused Western Kentucky/Sam Houston State scores 0 0
+WARNING: unused Western Michigan/Akron scores 0 0
+WARNING: unused Western Michigan/Buffalo scores 0 0
+WARNING: unused Western Michigan/Central Michigan scores 0 0
+WARNING: unused Western Michigan/Michigan scores 0 0
+WARNING: unused Western Michigan/Rice scores 0 0
+WARNING: unused Western Michigan/Toledo scores 0 0
+WARNING: unused William & Mary/Colgate scores 0 0
+WARNING: unused William & Mary/Duke scores 0 0
+WARNING: unused William & Mary/Lehigh scores 0 0
+WARNING: unused William & Mary/North Carolina Central scores 0 0
+WARNING: unused William & Mary/Richmond scores 0 0
+WARNING: unused Wisconsin/California - Los Angeles scores 0 0
+WARNING: unused Wisconsin/Iowa scores 0 0
+WARNING: unused Wisconsin/Maryland scores 0 0
+WARNING: unused Wisconsin/Penn State scores 0 0
+WARNING: unused Wisconsin/Purdue scores 0 0
+WARNING: unused Wofford/Elon scores 0 0
+WARNING: unused Wofford/Furman scores 0 0
+WARNING: unused Wofford/Kent State scores 0 0
+WARNING: unused Wofford/Mississippi scores 0 0
+WARNING: unused Wofford/Samford scores 0 0
+WARNING: unused Wofford/Tennessee - Chattanooga scores 0 0
+WARNING: unused Wofford/Western Carolina scores 0 0
+WARNING: unused Wyoming/Central Michigan scores 0 0
+WARNING: unused Wyoming/Colorado State scores 0 0
+WARNING: unused Wyoming/Nevada - Las Vegas scores 0 0
+WARNING: unused Wyoming/North Dakota State scores 0 0
+WARNING: unused Wyoming/San Jose State scores 0 0
+WARNING: unused Wyoming/Texas - El Paso scores 0 0
+WARNING: unused Yale/Columbia scores 0 0
+WARNING: unused Yale/Cornell scores 0 0
+WARNING: unused Yale/Holy Cross scores 0 0
+WARNING: unused Yale/Pennsylvania scores 0 0
+WARNING: unused Youngstown State/Indiana State scores 0 0
+WARNING: unused Youngstown State/Kentucky scores 0 0
+WARNING: unused Youngstown State/Murray State scores 0 0
+WARNING: unused Youngstown State/South Dakota State scores 0 0
+WARNING: unused Youngstown State/Southern Illinois scores 0 0
