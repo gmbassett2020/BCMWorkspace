@@ -215,6 +215,10 @@ my @conv_list = (
     match_str	=> '^Charleston ?S',
   },
   {
+    name	=> "Chicago State",
+    match_str	=> '^Chicago ?St',
+  },
+  {
     name	=> "Cincinnati",
     match_str	=> '^Cincinnati$',
   },
@@ -309,6 +313,10 @@ my @conv_list = (
   {
     name	=> "Eastern Michigan",
     match_str	=> '^(East.?rn|East|E)\.? ?Mich',
+  },
+  {
+    name	=> "East Texas A&M",
+    match_str	=> '^(((East|E)\.? ?Texas ?A&M$)|((Texas|TX) ?A&M(-| )Commerce|East (Texas|TX) ?A&M))$',
   },
   {
     name	=> "Eastern Washington",
@@ -592,6 +600,10 @@ my @conv_list = (
     match_str	=> '^Mercer$',
   },
   {
+    name	=> "Mercyhurst",
+    match_str	=> '^Mercyhurst$',
+  },
+  {
     name	=> "Merrimack",
     match_str	=> '^Merrimack$',
   },
@@ -686,6 +698,10 @@ my @conv_list = (
   {
     name	=> "New Hampshire",
     match_str	=> '^New ?Hampshire$',
+  },
+  {
+    name	=> "New Haven",
+    match_str	=> '^New ?Haven$',
   },
   {
     name	=> "New Mexico",
@@ -1055,16 +1071,16 @@ my @conv_list = (
     match_str	=> '^Texas ?-? ?El ?Paso$|^UTEP$',
   },
   {
+    name	=> "Texas - Rio Grande Valley",
+    match_str	=> '^((Texas|UT) ?-? ?(Rio ?Grande ?Valley|RGV))$',
+  },
+  {
     name	=> "Texas - San Antonio",
     match_str	=> '^(Texas ?-? ?San ?Antonio|UTSA|UT San Antonio)$',
   },
   {
     name	=> "Texas A&M",
     match_str	=> '^Texas ?A&M$',
-  },
-  {
-    name	=> "Texas A&M-Commerce",
-    match_str	=> '^((Texas|TX) ?A&M(-| )Commerce|East (Texas|TX) ?A&M)$',
   },
   {
     name	=> "Texas Christian",
@@ -1157,6 +1173,14 @@ my @conv_list = (
   {
     name	=> "Weber State",
     match_str	=> '^Weber ?St',
+  },
+  {
+    name	=> "West Florida",
+    match_str	=> '^(West|W)\.? ?Florida',
+  },
+  {
+    name	=> "West Georgia",
+    match_str	=> '^(West|W)\.? ?Georgia',
   },
   {
     name	=> "West Texas A&M",
