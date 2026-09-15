@@ -6753,22 +6753,22 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2025,20,weeke3,2026-01-25,team1Home,7,Denver,10,New England
 2025,20,weeke3,2026-01-25,team1Home,31,Seattle,27,Los Angeles Rams
 2025,21,weeke4,2026-02-08,neutral,13,New England,29,Seattle
-2026,0,weekb1,2026-09-09,team1Home,-1,Seattle,-1,New England
-2026,0,weekb1,2026-09-10,team1Home,-1,Los Angeles Rams,-1,San Francisco
-2026,0,weekb1,2026-09-13,team1Home,-1,Carolina,-1,Chicago
-2026,0,weekb1,2026-09-13,team1Home,-1,Pittsburgh,-1,Atlanta
-2026,0,weekb1,2026-09-13,team1Home,-1,Cincinnati,-1,Tampa Bay
-2026,0,weekb1,2026-09-13,team1Home,-1,Detroit,-1,New Orleans
-2026,0,weekb1,2026-09-13,team1Home,-1,Indianapolis,-1,Baltimore
-2026,0,weekb1,2026-09-13,team1Home,-1,Tennessee,-1,New York Jets
-2026,0,weekb1,2026-09-13,team1Home,-1,Houston,-1,Buffalo
-2026,0,weekb1,2026-09-13,team1Home,-1,Jacksonville,-1,Cleveland
-2026,0,weekb1,2026-09-13,team1Home,-1,Las Vegas,-1,Miami
-2026,0,weekb1,2026-09-13,team1Home,-1,Philadelphia,-1,Washington
-2026,0,weekb1,2026-09-13,team1Home,-1,Los Angeles Chargers,-1,Arizona
-2026,0,weekb1,2026-09-13,team1Home,-1,Minnesota,-1,Green Bay
-2026,0,weekb1,2026-09-13,team1Home,-1,New York Giants,-1,Dallas
-2026,0,weekb1,2026-09-14,team1Home,-1,Kansas City,-1,Denver
+2026,0,weekb1,2026-09-09,team1Home,13,Seattle,10,New England
+2026,0,weekb1,2026-09-10,team1Home,7,Los Angeles Rams,27,San Francisco
+2026,0,weekb1,2026-09-13,team1Home,37,Carolina,59,Chicago
+2026,0,weekb1,2026-09-13,team1Home,20,Pittsburgh,13,Atlanta
+2026,0,weekb1,2026-09-13,team1Home,33,Cincinnati,27,Tampa Bay
+2026,0,weekb1,2026-09-13,team1Home,31,Detroit,30,New Orleans
+2026,0,weekb1,2026-09-13,team1Home,23,Indianapolis,41,Baltimore
+2026,0,weekb1,2026-09-13,team1Home,10,Tennessee,23,New York Jets
+2026,0,weekb1,2026-09-13,team1Home,31,Houston,36,Buffalo
+2026,0,weekb1,2026-09-13,team1Home,34,Jacksonville,10,Cleveland
+2026,0,weekb1,2026-09-13,team1Home,27,Las Vegas,13,Miami
+2026,0,weekb1,2026-09-13,team1Home,24,Philadelphia,22,Washington
+2026,0,weekb1,2026-09-13,team1Home,14,Los Angeles Chargers,26,Arizona
+2026,0,weekb1,2026-09-13,team1Home,39,Minnesota,22,Green Bay
+2026,0,weekb1,2026-09-13,team1Home,28,New York Giants,20,Dallas
+2026,0,weekb1,2026-09-14,team1Home,31,Kansas City,10,Denver
 2026,1,week02,2026-09-17,team1Home,-1,Buffalo,-1,Detroit
 2026,1,week02,2026-09-20,team1Home,-1,Chicago,-1,Minnesota
 2026,1,week02,2026-09-20,team1Home,-1,Atlanta,-1,Carolina

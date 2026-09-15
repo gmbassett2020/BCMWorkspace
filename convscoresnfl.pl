@@ -28,7 +28,8 @@ open OUT, ">$score_out_file" or die "ERROR opening score out file, $score_out_fi
 #my $foxSports = grep /FOX/, @score;
 #FIXME:
 my $foxSports = 0;
-my $yahoo2016 = 1;
+my $yahoo2016 = 0;
+my $yahoo2026 = 1;
 
 sub trim_game
 {
@@ -77,6 +78,41 @@ while (@score) {
        shift @score;
        shift @score;
        shift @score;
+       ($team1, $team2) = std_name_nfl($team1,$team2);
+       $scores{"$team1/$team2"} = "$score1 $score2";
+     }
+     else
+     {
+        shift @score;
+        @score = () if scalar(@score) < 8;
+     }
+  }
+  elsif ($yahoo2026)
+  {
+     my ($team1Line1, $team1Line2, $team1ScoreLine, $team2Line1, $team2Line2, $team2ScoreLine) = (0, 1, 3, 4, 5, 7);
+     if (($score[$team1Line1] !~ /\d/ || $score[$team1Line1] =~ /49ers/) && $score[$team1Line1] =~ /\S/
+      && $score[$team1Line2] =~ /\S/
+      && $score[$team1ScoreLine] =~ /^\s*\d+\s*$/ 
+      && ($score[$team2Line1] !~ /\d/ || $score[$team2Line1] =~ /49ers/) && $score[$team2Line1] =~ /\S/
+      && $score[$team2Line2] =~ /\S/
+      && $score[$team2ScoreLine] =~ /^\s*\d+\s*$/)
+     {
+       chomp($score[$team1Line1]);
+       chomp($score[$team1Line2]);
+       chomp($score[$team1ScoreLine]);
+       chomp($score[$team2Line1]);
+       chomp($score[$team2Line2]);
+       chomp($score[$team2ScoreLine]);
+       $score[$team1Line1] =~ s/\s*$score[$team1Line2]//;
+       my $team1 = $score[$team1Line1] . " " . $score[$team1Line2];
+       my $score1 = $score[$team1ScoreLine];
+       $score[$team2Line1] =~ s/\s*$score[$team2Line2]//;
+       my $team2 = $score[$team2Line1] . " " . $score[$team2Line2];
+       my $score2 = $score[$team2ScoreLine];
+       for (0 .. $team2ScoreLine)
+       {
+         shift @score;
+       }
        ($team1, $team2) = std_name_nfl($team1,$team2);
        $scores{"$team1/$team2"} = "$score1 $score2";
      }
