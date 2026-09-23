@@ -7,7 +7,7 @@
 # to remove warnings about unused scores).
 
 set year = 2026
-set round = week02
+set round = week03
 set schedFile = ../colI-seasons-2020_2026.csv
 set scoreFile = tmp-scores-in.txt
 #set scoreFile = massey_score-2024.txt
