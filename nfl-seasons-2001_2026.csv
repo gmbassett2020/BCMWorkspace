@@ -6785,22 +6785,22 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2026,1,week02,2026-09-20,team1Home,37,Dallas,20,Washington
 2026,1,week02,2026-09-20,team1Home,33,Kansas City,30,Indianapolis
 2026,1,week02,2026-09-21,team1Home,28,Los Angeles Rams,6,New York Giants
-2026,2,week03,2026-09-24,team1Home,-1,Green Bay,-1,Atlanta
-2026,2,week03,2026-09-27,team1Home,-1,Cleveland,-1,Carolina
-2026,2,week03,2026-09-27,team1Home,-1,Buffalo,-1,Los Angeles Chargers
-2026,2,week03,2026-09-27,team1Home,-1,Washington,-1,Seattle
-2026,2,week03,2026-09-27,team1Home,-1,Detroit,-1,New York Jets
-2026,2,week03,2026-09-27,team1Home,-1,Miami,-1,Kansas City
-2026,2,week03,2026-09-27,team1Home,-1,Jacksonville,-1,New England
-2026,2,week03,2026-09-27,team1Home,-1,Indianapolis,-1,Houston
-2026,2,week03,2026-09-27,team1Home,-1,Pittsburgh,-1,Cincinnati
-2026,2,week03,2026-09-27,team1Home,-1,New York Giants,-1,Tennessee
-2026,2,week03,2026-09-27,team1Home,-1,San Francisco,-1,Arizona
-2026,2,week03,2026-09-27,team1Home,-1,Tampa Bay,-1,Minnesota
-2026,2,week03,2026-09-27,team1Home,-1,Dallas,-1,Baltimore
-2026,2,week03,2026-09-27,team1Home,-1,New Orleans,-1,Las Vegas
-2026,2,week03,2026-09-27,team1Home,-1,Denver,-1,Los Angeles Rams
-2026,2,week03,2026-09-28,team1Home,-1,Chicago,-1,Philadelphia
+2026,2,week03,2026-09-24,team1Home,14,Green Bay,35,Atlanta
+2026,2,week03,2026-09-27,team1Home,21,Cleveland,18,Carolina
+2026,2,week03,2026-09-27,team1Home,24,Buffalo,16,Los Angeles Chargers
+2026,2,week03,2026-09-27,team1Home,33,Washington,31,Seattle
+2026,2,week03,2026-09-27,team1Home,31,Detroit,24,New York Jets
+2026,2,week03,2026-09-27,team1Home,10,Miami,24,Kansas City
+2026,2,week03,2026-09-27,team1Home,35,Jacksonville,6,New England
+2026,2,week03,2026-09-27,team1Home,19,Indianapolis,17,Houston
+2026,2,week03,2026-09-27,team1Home,30,Pittsburgh,27,Cincinnati
+2026,2,week03,2026-09-27,team1Home,12,New York Giants,7,Tennessee
+2026,2,week03,2026-09-27,team1Home,36,San Francisco,30,Arizona
+2026,2,week03,2026-09-27,team1Home,16,Tampa Bay,23,Minnesota
+2026,2,week03,2026-09-27,team1Home,31,Dallas,34,Baltimore
+2026,2,week03,2026-09-27,team1Home,27,New Orleans,35,Las Vegas
+2026,2,week03,2026-09-27,team1Home,30,Denver,26,Los Angeles Rams
+2026,2,week03,2026-09-28,team1Home,27,Chicago,7,Philadelphia
 2026,3,week04,2026-10-01,team1Home,-1,Cleveland,-1,Pittsburgh
 2026,3,week04,2026-10-04,team1Home,-1,Washington,-1,Indianapolis
 2026,3,week04,2026-10-04,team1Home,-1,Houston,-1,Dallas

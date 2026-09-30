@@ -1,16 +1,16 @@
-2026,1,week02,2026-09-17,team1Home,41,Buffalo,31,Detroit
-2026,1,week02,2026-09-20,team1Home,3,Chicago,9,Minnesota
-2026,1,week02,2026-09-20,team1Home,3,Atlanta,34,Carolina
-2026,1,week02,2026-09-20,team1Home,17,New York Jets,20,Green Bay
-2026,1,week02,2026-09-20,team1Home,20,Tennessee,24,Philadelphia
-2026,1,week02,2026-09-20,team1Home,20,New England,3,Pittsburgh
-2026,1,week02,2026-09-20,team1Home,6,Houston,20,Cincinnati
-2026,1,week02,2026-09-20,team1Home,17,Baltimore,24,New Orleans
-2026,1,week02,2026-09-20,team1Home,19,Tampa Bay,23,Cleveland
-2026,1,week02,2026-09-20,team1Home,20,Denver,13,Jacksonville
-2026,1,week02,2026-09-20,team1Home,14,Los Angeles Chargers,26,Las Vegas
-2026,1,week02,2026-09-20,team1Home,7,Arizona,31,Seattle
-2026,1,week02,2026-09-20,team1Home,35,San Francisco,13,Miami
-2026,1,week02,2026-09-20,team1Home,37,Dallas,20,Washington
-2026,1,week02,2026-09-20,team1Home,33,Kansas City,30,Indianapolis
-2026,1,week02,2026-09-21,team1Home,28,Los Angeles Rams,6,New York Giants
+2026,2,week03,2026-09-24,team1Home,14,Green Bay,35,Atlanta
+2026,2,week03,2026-09-27,team1Home,21,Cleveland,18,Carolina
+2026,2,week03,2026-09-27,team1Home,24,Buffalo,16,Los Angeles Chargers
+2026,2,week03,2026-09-27,team1Home,33,Washington,31,Seattle
+2026,2,week03,2026-09-27,team1Home,31,Detroit,24,New York Jets
+2026,2,week03,2026-09-27,team1Home,10,Miami,24,Kansas City
+2026,2,week03,2026-09-27,team1Home,35,Jacksonville,6,New England
+2026,2,week03,2026-09-27,team1Home,19,Indianapolis,17,Houston
+2026,2,week03,2026-09-27,team1Home,30,Pittsburgh,27,Cincinnati
+2026,2,week03,2026-09-27,team1Home,12,New York Giants,7,Tennessee
+2026,2,week03,2026-09-27,team1Home,36,San Francisco,30,Arizona
+2026,2,week03,2026-09-27,team1Home,16,Tampa Bay,23,Minnesota
+2026,2,week03,2026-09-27,team1Home,31,Dallas,34,Baltimore
+2026,2,week03,2026-09-27,team1Home,27,New Orleans,35,Las Vegas
+2026,2,week03,2026-09-27,team1Home,30,Denver,26,Los Angeles Rams
+2026,2,week03,2026-09-28,team1Home,27,Chicago,7,Philadelphia
