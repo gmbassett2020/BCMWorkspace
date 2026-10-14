@@ -6817,21 +6817,21 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2026,3,week04,2026-10-04,team1Home,24,San Francisco,14,Denver
 2026,3,week04,2026-10-04,team1Home,32,Carolina,26,Detroit
 2026,3,week04,2026-10-05,team1Home,24,New Orleans,45,Atlanta
-2026,4,week05,2026-10-08,team1Home,-1,Dallas,-1,Tampa Bay
-2026,4,week05,2026-10-11,team1Home,-1,Jacksonville,-1,Philadelphia
-2026,4,week05,2026-10-11,team1Home,-1,Miami,-1,Cincinnati
-2026,4,week05,2026-10-11,team1Home,-1,New Orleans,-1,Minnesota
-2026,4,week05,2026-10-11,team1Home,-1,Washington,-1,New York Giants
-2026,4,week05,2026-10-11,team1Home,-1,New York Jets,-1,Cleveland
-2026,4,week05,2026-10-11,team1Home,-1,New England,-1,Las Vegas
-2026,4,week05,2026-10-11,team1Home,-1,Tennessee,-1,Houston
-2026,4,week05,2026-10-11,team1Home,-1,Pittsburgh,-1,Indianapolis
-2026,4,week05,2026-10-11,team1Home,-1,Los Angeles Chargers,-1,Denver
-2026,4,week05,2026-10-11,team1Home,-1,Green Bay,-1,Chicago
-2026,4,week05,2026-10-11,team1Home,-1,Arizona,-1,Detroit
-2026,4,week05,2026-10-11,team1Home,-1,Seattle,-1,San Francisco
-2026,4,week05,2026-10-11,team1Home,-1,Atlanta,-1,Baltimore
-2026,4,week05,2026-10-12,team1Home,-1,Los Angeles Rams,-1,Buffalo
+2026,4,week05,2026-10-08,team1Home,16,Dallas,24,Tampa Bay
+2026,4,week05,2026-10-11,team1Home,19,Jacksonville,17,Philadelphia
+2026,4,week05,2026-10-11,team1Home,24,Miami,31,Cincinnati
+2026,4,week05,2026-10-11,team1Home,13,New Orleans,23,Minnesota
+2026,4,week05,2026-10-11,team1Home,27,Washington,27,New York Giants
+2026,4,week05,2026-10-11,team1Home,17,New York Jets,12,Cleveland
+2026,4,week05,2026-10-11,team1Home,45,New England,17,Las Vegas
+2026,4,week05,2026-10-11,team1Home,3,Tennessee,26,Houston
+2026,4,week05,2026-10-11,team1Home,34,Pittsburgh,22,Indianapolis
+2026,4,week05,2026-10-11,team1Home,17,Los Angeles Chargers,23,Denver
+2026,4,week05,2026-10-11,team1Home,31,Green Bay,7,Chicago
+2026,4,week05,2026-10-11,team1Home,21,Arizona,45,Detroit
+2026,4,week05,2026-10-11,team1Home,29,Seattle,32,San Francisco
+2026,4,week05,2026-10-11,team1Home,23,Atlanta,30,Baltimore
+2026,4,week05,2026-10-12,team1Home,34,Los Angeles Rams,37,Buffalo
 2026,5,week06,2026-10-15,team1Home,-1,Denver,-1,Seattle
 2026,5,week06,2026-10-18,team1Home,-1,Jacksonville,-1,Houston
 2026,5,week06,2026-10-18,team1Home,-1,Indianapolis,-1,Tennessee
