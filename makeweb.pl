@@ -23,8 +23,8 @@ my $html_base = "./html";
 #FIXME
 my $year = "2026";
 my $league = "nfl";
-my $week = "week06"; # this is the current week, the result week is one less
-my $today = "13 Oct 2026";
+my $week = "week07"; # this is the current week, the result week is one less
+my $today = "20 Oct 2026";
 #my $year = "2023";
 #my $league = "col";
 #my $week = "wke3"; # this is the current week, the result week is one less, wkb#,wk##,wke#
