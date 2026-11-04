@@ -6860,20 +6860,20 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2026,6,week07,2026-10-25,team1Home,20,Detroit,17,Green Bay
 2026,6,week07,2026-10-25,team1Home,20,Seattle,3,Kansas City
 2026,6,week07,2026-10-26,team1Home,21,Philadelphia,38,Dallas
-2026,7,week08,2026-10-29,team1Home,-1,Green Bay,-1,Carolina
-2026,7,week08,2026-11-01,team1Home,-1,Detroit,-1,Minnesota
-2026,7,week08,2026-11-01,team1Home,-1,Tampa Bay,-1,Atlanta
-2026,7,week08,2026-11-01,team1Home,-1,Dallas,-1,Arizona
-2026,7,week08,2026-11-01,team1Home,-1,New York Jets,-1,Las Vegas
-2026,7,week08,2026-11-01,team1Home,-1,Jacksonville,-1,Indianapolis
-2026,7,week08,2026-11-01,team1Home,-1,Cincinnati,-1,Tennessee
-2026,7,week08,2026-11-01,team1Home,-1,Pittsburgh,-1,Cleveland
-2026,7,week08,2026-11-01,team1Home,-1,Buffalo,-1,Baltimore
-2026,7,week08,2026-11-01,team1Home,-1,Los Angeles Rams,-1,Los Angeles Chargers
-2026,7,week08,2026-11-01,team1Home,-1,Miami,-1,New England
-2026,7,week08,2026-11-01,team1Home,-1,Denver,-1,Kansas City
-2026,7,week08,2026-11-01,team1Home,-1,Washington,-1,Philadelphia
-2026,7,week08,2026-11-02,team1Home,-1,Seattle,-1,Chicago
+2026,7,week08,2026-10-29,team1Home,27,Green Bay,19,Carolina
+2026,7,week08,2026-11-01,team1Home,19,Detroit,15,Minnesota
+2026,7,week08,2026-11-01,team1Home,16,Tampa Bay,0,Atlanta
+2026,7,week08,2026-11-01,team1Home,30,Dallas,33,Arizona
+2026,7,week08,2026-11-01,team1Home,33,New York Jets,38,Las Vegas
+2026,7,week08,2026-11-01,team1Home,42,Jacksonville,7,Indianapolis
+2026,7,week08,2026-11-01,team1Home,43,Cincinnati,36,Tennessee
+2026,7,week08,2026-11-01,team1Home,27,Pittsburgh,6,Cleveland
+2026,7,week08,2026-11-01,team1Home,36,Buffalo,10,Baltimore
+2026,7,week08,2026-11-01,team1Home,24,Los Angeles Rams,9,Los Angeles Chargers
+2026,7,week08,2026-11-01,team1Home,19,Miami,24,New England
+2026,7,week08,2026-11-01,team1Home,28,Denver,24,Kansas City
+2026,7,week08,2026-11-01,team1Home,27,Washington,10,Philadelphia
+2026,7,week08,2026-11-02,team1Home,17,Seattle,34,Chicago
 2026,8,week09,2026-11-05,team1Home,-1,Baltimore,-1,Jacksonville
 2026,8,week09,2026-11-08,team1Home,-1,Atlanta,-1,Cincinnati
 2026,8,week09,2026-11-08,team1Home,-1,Washington,-1,Los Angeles Rams
