@@ -1,14 +1,15 @@
-2026,7,week08,2026-10-29,team1Home,27,Green Bay,19,Carolina
-2026,7,week08,2026-11-01,team1Home,19,Detroit,15,Minnesota
-2026,7,week08,2026-11-01,team1Home,16,Tampa Bay,0,Atlanta
-2026,7,week08,2026-11-01,team1Home,30,Dallas,33,Arizona
-2026,7,week08,2026-11-01,team1Home,33,New York Jets,38,Las Vegas
-2026,7,week08,2026-11-01,team1Home,42,Jacksonville,7,Indianapolis
-2026,7,week08,2026-11-01,team1Home,43,Cincinnati,36,Tennessee
-2026,7,week08,2026-11-01,team1Home,27,Pittsburgh,6,Cleveland
-2026,7,week08,2026-11-01,team1Home,36,Buffalo,10,Baltimore
-2026,7,week08,2026-11-01,team1Home,24,Los Angeles Rams,9,Los Angeles Chargers
-2026,7,week08,2026-11-01,team1Home,19,Miami,24,New England
-2026,7,week08,2026-11-01,team1Home,28,Denver,24,Kansas City
-2026,7,week08,2026-11-01,team1Home,27,Washington,10,Philadelphia
-2026,7,week08,2026-11-02,team1Home,17,Seattle,34,Chicago
+2026,8,week09,2026-11-05,team1Home,10,Baltimore,33,Jacksonville
+2026,8,week09,2026-11-08,team1Home,17,Atlanta,34,Cincinnati
+2026,8,week09,2026-11-08,team1Home,13,Washington,20,Los Angeles Rams
+2026,8,week09,2026-11-08,team1Home,9,Miami,19,Detroit
+2026,8,week09,2026-11-08,team1Home,11,Philadelphia,19,New York Giants
+2026,8,week09,2026-11-08,team1Home,23,Indianapolis,27,Dallas
+2026,8,week09,2026-11-08,team1Home,23,New Orleans,22,Cleveland
+2026,8,week09,2026-11-08,team1Home,35,Kansas City,12,New York Jets
+2026,8,week09,2026-11-08,team1Home,21,Carolina,26,Denver
+2026,8,week09,2026-11-08,team1Home,38,San Francisco,17,Las Vegas
+2026,8,week09,2026-11-08,team1Home,22,Los Angeles Chargers,44,Houston
+2026,8,week09,2026-11-08,team1Home,27,New England,45,Green Bay
+2026,8,week09,2026-11-08,team1Home,17,Seattle,3,Arizona
+2026,8,week09,2026-11-08,team1Home,27,Chicago,24,Tampa Bay
+2026,8,week09,2026-11-09,team1Home,6,Minnesota,23,Buffalo
