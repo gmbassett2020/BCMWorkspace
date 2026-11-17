@@ -1,124 +1,130 @@
-2026,10,week10,2026-11-03,team1Home,20,Akron,28,Ohio
-2026,10,week10,2026-11-03,team1Home,31,Miami - Ohio,34,Buffalo
-2026,10,week10,2026-11-04,team1Home,31,Massachusetts,30,Ball State
-2026,10,week10,2026-11-04,neutral,7,Eastern Michigan,35,Central Michigan
-2026,10,week10,2026-11-05,team1Home,60,Florida Atlantic,29,Texas - San Antonio
-2026,10,week10,2026-11-05,team1Home,23,Southern Mississippi,54,James Madison
-2026,10,week10,2026-11-06,team1Home,20,East Carolina,17,South Florida
-2026,10,week10,2026-11-06,team1Home,17,Georgia Tech,44,Louisville
-2026,10,week10,2026-11-06,team1Home,3,North Carolina State,41,Duke
-2026,10,week10,2026-11-06,team1Home,51,Southern Methodist,28,Virginia Tech
-2026,10,week10,2026-11-06,team1Home,13,Syracuse,18,Clemson
-2026,10,week10,2026-11-07,team1Home,29,Arizona,28,Texas Christian
-2026,10,week10,2026-11-07,team1Home,20,Arizona State,10,Colorado
-2026,10,week10,2026-11-07,team1Home,21,Army,24,Air Force
-2026,10,week10,2026-11-07,team1Home,26,Auburn,23,Arkansas
-2026,10,week10,2026-11-07,team1Home,42,Baylor,31,Iowa State
-2026,10,week10,2026-11-07,team1Home,24,Boston College,31,Florida State
-2026,10,week10,2026-11-07,team1Home,38,Colorado State,64,Boise State
-2026,10,week10,2026-11-07,team1Home,21,Connecticut,38,North Carolina
-2026,10,week10,2026-11-07,team1Home,7,Florida,23,Oklahoma
-2026,10,week10,2026-11-07,team1Home,31,Houston,24,Cincinnati
-2026,10,week10,2026-11-07,team1Home,24,Illinois,13,Nebraska
-2026,10,week10,2026-11-07,team1Home,32,Kansas,33,Central Florida
-2026,10,week10,2026-11-07,team1Home,28,Kansas State,66,Oklahoma State
-2026,10,week10,2026-11-07,team1Home,13,Louisiana State,31,Alabama
-2026,10,week10,2026-11-07,team1Home,6,Michigan,15,Michigan State
-2026,10,week10,2026-11-07,team1Home,20,Minnesota,34,California - Los Angeles
-2026,10,week10,2026-11-07,team1Home,23,Mississippi State,25,Vanderbilt
-2026,10,week10,2026-11-07,team1Home,20,Missouri,34,Texas
-2026,10,week10,2026-11-07,team1Home,42,Navy,35,Temple
-2026,10,week10,2026-11-07,team1Home,52,North Texas,23,Rice
-2026,10,week10,2026-11-07,team1Home,10,Northwestern,24,Iowa
-2026,10,week10,2026-11-07,team1Home,31,Notre Dame,24,Miami - Florida
-2026,10,week10,2026-11-07,team1Home,28,Ohio State,41,Oregon
-2026,10,week10,2026-11-07,team1Home,7,Mississippi,42,Georgia
-2026,10,week10,2026-11-07,team1Home,21,Oregon State,42,Texas State - San Marcos
-2026,10,week10,2026-11-07,team1Home,29,Purdue,34,Maryland
-2026,10,week10,2026-11-07,team1Home,17,South Carolina,9,Texas A&M
-2026,10,week10,2026-11-07,team1Home,34,Tennessee,6,Kentucky
-2026,10,week10,2026-11-07,team1Home,53,Texas Tech,48,West Virginia
-2026,10,week10,2026-11-07,team1Home,10,Tulane,60,Tulsa
-2026,10,week10,2026-11-07,team1Home,23,Alabama - Birmingham,12,North Carolina - Charlotte
-2026,10,week10,2026-11-07,team1Home,28,Utah,20,Brigham Young
-2026,10,week10,2026-11-07,team1Home,17,Utah State,10,Fresno State
-2026,10,week10,2026-11-07,team1Home,77,Wake Forest,0,Merrimack
-2026,10,week10,2026-11-07,team1Home,25,Washington,28,Penn State
-2026,10,week10,2026-11-07,team1Home,31,Wisconsin,10,Rutgers
-2026,10,week10,2026-11-07,team1Home,41,Butler,14,Saint Thomas - Minnesota
-2026,10,week10,2026-11-07,team1Home,31,Texas Southern,34,Alabama State
-2026,10,week10,2026-11-07,team1Home,48,Campbell,35,Stony Brook
-2026,10,week10,2026-11-07,team1Home,31,Bryant,7,Albany
-2026,10,week10,2026-11-07,team1Home,10,Charleston Southern,20,Tennessee - Martin
-2026,10,week10,2026-11-07,team1Home,14,The Citadel,24,Furman
-2026,10,week10,2026-11-07,team1Home,38,Alcorn State,20,Florida A&M
-2026,10,week10,2026-11-07,team1Home,33,Lehigh,7,Colgate
-2026,10,week10,2026-11-07,team1Home,31,Dayton,20,Valparaiso
-2026,10,week10,2026-11-07,team1Home,24,California - Davis,17,Utah Tech
-2026,10,week10,2026-11-07,team1Home,17,Drake,40,San Diego
-2026,10,week10,2026-11-07,team1Home,10,Duquesne,13,Robert Morris
-2026,10,week10,2026-11-07,team1Home,35,East Tennessee State,37,Samford
-2026,10,week10,2026-11-07,team1Home,55,Austin Peay,31,Eastern Kentucky
-2026,10,week10,2026-11-07,team1Home,62,Idaho,31,Eastern Washington
-2026,10,week10,2026-11-07,team1Home,24,Elon,6,Hampton
-2026,10,week10,2026-11-07,team1Home,13,Bucknell,38,Fordham
-2026,10,week10,2026-11-07,team1Home,23,Appalachian State,39,Georgia State
-2026,10,week10,2026-11-07,team1Home,24,Georgetown,27,Holy Cross
-2026,10,week10,2026-11-07,team1Home,32,Grambling,35,Arkansas - Pine Bluff
-2026,10,week10,2026-11-07,team1Home,37,Harvard,0,Columbia
-2026,10,week10,2026-11-07,team1Home,14,Texas - El Paso,17,Hawaii
-2026,10,week10,2026-11-07,team1Home,17,Arkansas State,19,Northeast Louisiana
-2026,10,week10,2026-11-07,team1Home,0,Houston Christian,10,McNeese State
-2026,10,week10,2026-11-07,team1Home,26,Idaho State,28,Montana State
-2026,10,week10,2026-11-07,team1Home,49,North Dakota,21,Illinois State
-2026,10,week10,2026-11-07,team1Home,16,Southeast Louisiana,35,Incarnate Word
-2026,10,week10,2026-11-07,team1Home,20,Indiana State,37,Southern Illinois
-2026,10,week10,2026-11-07,team1Home,38,Jackson State,7,Mississippi Valley State
-2026,10,week10,2026-11-07,team1Home,14,William & Mary,19,Lafayette
-2026,10,week10,2026-11-07,team1Home,45,Lamar,28,Stephen F. Austin
-2026,10,week10,2026-11-07,team1Home,17,Troy State,41,Louisiana Tech
-2026,10,week10,2026-11-07,team1Home,14,Marist,13,Morehead State
-2026,10,week10,2026-11-07,team1Home,21,Monmouth,17,North Carolina A&T
-2026,10,week10,2026-11-07,team1Home,24,Delaware State,14,Morgan State
-2026,10,week10,2026-11-07,team1Home,3,Nevada - Reno,31,New Mexico
-2026,10,week10,2026-11-07,team1Home,35,Nevada - Las Vegas,41,Wyoming
-2026,10,week10,2026-11-07,team1Home,17,New Haven,10,Long Island
-2026,10,week10,2026-11-07,team1Home,28,Norfolk State,29,North Carolina Central
-2026,10,week10,2026-11-07,team1Home,10,California Poly,38,Northern Arizona
-2026,10,week10,2026-11-07,team1Home,30,San Jose State,19,Northern Illinois
-2026,10,week10,2026-11-07,team1Home,7,Northwestern State,52,Texas - Rio Grande Valley
-2026,10,week10,2026-11-07,team1Home,57,Montana,24,Portland State
-2026,10,week10,2026-11-07,team1Home,31,Prairie View,10,Alabama A&M
-2026,10,week10,2026-11-07,team1Home,24,New Hampshire,21,Rhode Island
-2026,10,week10,2026-11-07,team1Home,45,Southern,17,Bethune - Cookman
-2026,10,week10,2026-11-07,team1Home,28,Louisiana - Lafayette,26,South Alabama
-2026,10,week10,2026-11-07,team1Home,28,Howard,35,South Carolina State
-2026,10,week10,2026-11-07,team1Home,14,Tennessee State,33,Southeast Missouri State
-2026,10,week10,2026-11-07,team1Home,31,Southern Utah,24,Northern Colorado
-2026,10,week10,2026-11-07,team1Home,33,Davidson,14,Stetson
-2026,10,week10,2026-11-07,team1Home,7,Stonehill,31,Central Connecticut
-2026,10,week10,2026-11-07,team1Home,7,Tennessee - Chattanooga,14,Mercer
-2026,10,week10,2026-11-07,team1Home,32,Nicholls State,31,East Texas A&M
-2026,10,week10,2026-11-07,team1Home,40,Sacred Heart,43,Towson
-2026,10,week10,2026-11-07,team1Home,30,Villanova,0,Richmond
-2026,10,week10,2026-11-07,team1Home,66,Tennessee Tech,14,Virginia Military
-2026,10,week10,2026-11-07,team1Home,28,Mercyhurst,33,Wagner
-2026,10,week10,2026-11-07,team1Home,26,Western Carolina,10,Wofford
-2026,10,week10,2026-11-07,team1Home,23,Eastern Illinois,44,Western Illinois
-2026,10,week10,2026-11-07,team1Home,35,Murray State,62,Youngstown State
-2026,10,week10,2026-11-07,team1Home,17,Sacramento State,20,Toledo
-2026,10,week10,2026-11-07,team1Home,35,Central Arkansas,14,West Georgia
-2026,10,week10,2026-11-07,team1Home,8,Coastal Carolina,21,Old Dominion
-2026,10,week10,2026-11-07,team1Home,14,New Mexico State,30,Liberty
-2026,10,week10,2026-11-07,team1Home,28,North Alabama,21,West Florida
-2026,10,week10,2026-11-07,team1Home,49,Georgia Southern,13,Marshall
-2026,10,week10,2026-11-07,team1Home,20,Yale,24,Brown
-2026,10,week10,2026-11-07,team1Home,13,Cornell,14,Pennsylvania
-2026,10,week10,2026-11-07,team1Home,21,Princeton,14,Dartmouth
-2026,10,week10,2026-11-07,team1Home,40,Tarleton State,27,Abilene Christian
-2026,10,week10,2026-11-07,team1Home,21,Gardner - Webb,34,Lindenwood
-2026,10,week10,2026-11-07,team1Home,42,Kennesaw State,40,Delaware
-2026,10,week10,2026-11-07,team1Home,23,Florida International,20,Missouri State
-2026,10,week10,2026-11-07,team1Home,47,Jacksonville State,14,Sam Houston State
-2026,10,week10,2026-11-07,team1Home,51,Middle Tennessee State,42,Western Kentucky
-2026,10,week10,2026-11-07,team1Home,15,Northern Iowa,41,South Dakota State
+2026,11,week11,2026-11-10,team1Home,33,Bowling Green,28,Kent State
+2026,11,week11,2026-11-10,team1Home,14,Akron,42,Western Michigan
+2026,11,week11,2026-11-10,team1Home,34,Miami - Ohio,17,Ohio
+2026,11,week11,2026-11-11,team1Home,7,Ball State,28,Buffalo
+2026,11,week11,2026-11-11,team1Home,28,Central Michigan,7,Sacramento State
+2026,11,week11,2026-11-11,team1Home,24,Toledo,0,Massachusetts
+2026,11,week11,2026-11-12,team1Home,41,South Florida,52,Memphis
+2026,11,week11,2026-11-12,team1Home,21,Northeast Louisiana,42,Louisiana - Lafayette
+2026,11,week11,2026-11-13,team1Home,10,Pittsburgh,16,Florida State
+2026,11,week11,2026-11-13,team1Home,21,Portland State,23,Southern Utah
+2026,11,week11,2026-11-14,team1Home,39,Arizona,40,Utah
+2026,11,week11,2026-11-14,team1Home,34,Arkansas,6,South Carolina
+2026,11,week11,2026-11-14,team1Home,46,Boise State,41,Oregon State
+2026,11,week11,2026-11-14,team1Home,28,Brigham Young,7,Baylor
+2026,11,week11,2026-11-14,team1Home,16,North Carolina - Charlotte,17,East Carolina
+2026,11,week11,2026-11-14,team1Home,6,Clemson,20,Georgia Tech
+2026,11,week11,2026-11-14,team1Home,42,Colorado,32,Houston
+2026,11,week11,2026-11-14,team1Home,46,Connecticut,22,James Madison
+2026,11,week11,2026-11-14,team1Home,48,Georgia,21,Missouri
+2026,11,week11,2026-11-14,team1Home,27,Indiana,13,Southern California
+2026,11,week11,2026-11-14,team1Home,28,Iowa,7,Purdue
+2026,11,week11,2026-11-14,team1Home,41,Iowa State,13,Cincinnati
+2026,11,week11,2026-11-14,team1Home,14,Kentucky,21,Florida
+2026,11,week11,2026-11-14,team1Home,21,Louisiana State,22,Texas
+2026,11,week11,2026-11-14,team1Home,24,Maryland,21,Wisconsin
+2026,11,week11,2026-11-14,team1Home,36,Miami - Florida,25,Duke
+2026,11,week11,2026-11-14,team1Home,14,Michigan State,21,Washington
+2026,11,week11,2026-11-14,team1Home,9,Mississippi State,41,Auburn
+2026,11,week11,2026-11-14,team1Home,14,North Carolina,16,Louisville
+2026,11,week11,2026-11-14,team1Home,31,North Carolina State,34,Syracuse
+2026,11,week11,2026-11-14,team1Home,41,Notre Dame,7,Boston College
+2026,11,week11,2026-11-14,team1Home,28,Ohio State,19,Northwestern
+2026,11,week11,2026-11-14,team1Home,24,Oklahoma,17,Mississippi
+2026,11,week11,2026-11-14,team1Home,27,Oklahoma State,52,Texas Tech
+2026,11,week11,2026-11-14,team1Home,31,Oregon,7,Michigan
+2026,11,week11,2026-11-14,team1Home,42,Penn State,14,Minnesota
+2026,11,week11,2026-11-14,team1Home,17,Rice,20,Tulane
+2026,11,week11,2026-11-14,team1Home,0,Rutgers,31,Nebraska
+2026,11,week11,2026-11-14,team1Home,30,San Diego State,13,Utah State
+2026,11,week11,2026-11-14,team1Home,7,Southern Methodist,49,Wake Forest
+2026,11,week11,2026-11-14,team1Home,20,Texas Christian,10,Kansas State
+2026,11,week11,2026-11-14,team1Home,10,Temple,36,Alabama - Birmingham
+2026,11,week11,2026-11-14,team1Home,7,Texas A&M,22,Tennessee
+2026,11,week11,2026-11-14,team1Home,37,Texas State - San Marcos,35,Fresno State
+2026,11,week11,2026-11-14,team1Home,38,Tulsa,21,Florida Atlantic
+2026,11,week11,2026-11-14,team1Home,13,Central Florida,26,Arizona State
+2026,11,week11,2026-11-14,team1Home,22,California - Los Angeles,14,Illinois
+2026,11,week11,2026-11-14,team1Home,35,Texas - San Antonio,16,North Texas
+2026,11,week11,2026-11-14,team1Home,6,Vanderbilt,21,Alabama
+2026,11,week11,2026-11-14,team1Home,36,Virginia,7,California
+2026,11,week11,2026-11-14,team1Home,22,Virginia Tech,40,Stanford
+2026,11,week11,2026-11-14,team1Home,73,Washington State,7,Colorado State
+2026,11,week11,2026-11-14,team1Home,14,West Virginia,37,Kansas
+2026,11,week11,2026-11-14,team1Home,0,Marist,28,Butler
+2026,11,week11,2026-11-14,team1Home,20,Alabama State,13,Jackson State
+2026,11,week11,2026-11-14,team1Home,28,Elon,24,Campbell
+2026,11,week11,2026-11-14,team1Home,37,Albany,3,Maine
+2026,11,week11,2026-11-14,team1Home,41,Southern,28,Alcorn State
+2026,11,week11,2026-11-14,team1Home,19,Colgate,7,Lafayette
+2026,11,week11,2026-11-14,team1Home,34,Dayton,3,Davidson
+2026,11,week11,2026-11-14,team1Home,28,Utah Tech,31,Eastern Washington
+2026,11,week11,2026-11-14,team1Home,55,Saint Thomas - Minnesota,35,Drake
+2026,11,week11,2026-11-14,team1Home,20,Duquesne,10,Mercyhurst
+2026,11,week11,2026-11-14,team1Home,17,Wofford,20,East Tennessee State
+2026,11,week11,2026-11-14,team1Home,13,Tennessee State,12,Eastern Illinois
+2026,11,week11,2026-11-14,team1Home,35,Eastern Kentucky,38,Central Arkansas
+2026,11,week11,2026-11-14,team1Home,16,Florida A&M,13,Mississippi Valley State
+2026,11,week11,2026-11-14,team1Home,24,Delaware,16,Florida International
+2026,11,week11,2026-11-14,team1Home,37,Fordham,15,Georgetown
+2026,11,week11,2026-11-14,team1Home,16,Marshall,20,Appalachian State
+2026,11,week11,2026-11-14,team1Home,10,Furman,17,Tennessee - Chattanooga
+2026,11,week11,2026-11-14,team1Home,17,Georgia State,34,Georgia Southern
+2026,11,week11,2026-11-14,team1Home,21,Bethune - Cookman,32,Grambling
+2026,11,week11,2026-11-14,team1Home,14,Hampton,41,North Carolina A&T
+2026,11,week11,2026-11-14,team1Home,24,Pennsylvania,38,Harvard
+2026,11,week11,2026-11-14,team1Home,13,Hawaii,21,North Dakota State
+2026,11,week11,2026-11-14,team1Home,30,Holy Cross,27,Villanova
+2026,11,week11,2026-11-14,team1Home,28,Coastal Carolina,21,Arkansas State
+2026,11,week11,2026-11-14,team1Home,21,Northwestern State,28,Houston Christian
+2026,11,week11,2026-11-14,team1Home,38,Montana,30,Idaho State
+2026,11,week11,2026-11-14,team1Home,10,Arkansas - Pine Bluff,13,Prairie View
+2026,11,week11,2026-11-14,team1Home,33,Youngstown State,34,Illinois State
+2026,11,week11,2026-11-14,team1Home,42,Incarnate Word,24,Nicholls State
+2026,11,week11,2026-11-14,team1Home,14,Indiana State,44,Murray State
+2026,11,week11,2026-11-14,team1Home,34,Western Kentucky,24,Jacksonville State
+2026,11,week11,2026-11-14,team1Home,7,Sam Houston State,26,Kennesaw State
+2026,11,week11,2026-11-14,team1Home,45,Lamar,26,East Texas A&M
+2026,11,week11,2026-11-14,team1Home,63,Louisiana Tech,31,Southern Mississippi
+2026,11,week11,2026-11-14,team1Home,31,Austin Peay,34,Abilene Christian
+2026,11,week11,2026-11-14,team1Home,21,Southeast Louisiana,17,McNeese State
+2026,11,week11,2026-11-14,team1Home,27,Missouri State,21,New Mexico State
+2026,11,week11,2026-11-14,team1Home,28,Monmouth,29,Merrimack
+2026,11,week11,2026-11-14,team1Home,28,Morehead State,25,Presbyterian
+2026,11,week11,2026-11-14,team1Home,17,Morgan State,7,Norfolk State
+2026,11,week11,2026-11-14,team1Home,7,Northern Illinois,28,Nevada - Reno
+2026,11,week11,2026-11-14,team1Home,17,New Mexico,21,Nevada - Las Vegas
+2026,11,week11,2026-11-14,team1Home,14,Wagner,10,New Haven
+2026,11,week11,2026-11-14,team1Home,7,West Georgia,28,North Alabama
+2026,11,week11,2026-11-14,team1Home,38,South Carolina State,24,North Carolina Central
+2026,11,week11,2026-11-14,team1Home,16,Rhode Island,19,Towson
+2026,11,week11,2026-11-14,team1Home,14,Robert Morris,3,Stonehill
+2026,11,week11,2026-11-14,team1Home,12,Samford,17,Western Carolina
+2026,11,week11,2026-11-14,team1Home,27,South Alabama,14,Troy State
+2026,11,week11,2026-11-14,team1Home,41,South Dakota,30,Northern Iowa
+2026,11,week11,2026-11-14,team1Home,17,Charleston Southern,43,Southeast Missouri State
+2026,11,week11,2026-11-14,team1Home,20,New Hampshire,17,Stony Brook
+2026,11,week11,2026-11-14,team1Home,15,Texas - El Paso,27,Wyoming
+2026,11,week11,2026-11-14,team1Home,24,Idaho,28,California - Davis
+2026,11,week11,2026-11-14,team1Home,31,Stetson,34,Valparaiso
+2026,11,week11,2026-11-14,team1Home,45,Western Illinois,7,Gardner - Webb
+2026,11,week11,2026-11-14,team1Home,41,William & Mary,24,Bucknell
+2026,11,week11,2026-11-14,team1Home,23,Sacred Heart,31,Bryant
+2026,11,week11,2026-11-14,team1Home,24,Air Force,3,San Jose State
+2026,11,week11,2026-11-14,team1Home,30,Howard,24,Delaware State
+2026,11,week11,2026-11-14,team1Home,17,West Florida,31,Tarleton State
+2026,11,week11,2026-11-14,team1Home,28,Brown,20,Columbia
+2026,11,week11,2026-11-14,team1Home,20,Cornell,14,Dartmouth
+2026,11,week11,2026-11-14,team1Home,16,Southern Illinois,52,South Dakota State
+2026,11,week11,2026-11-14,team1Home,20,Long Island,14,Central Connecticut
+2026,11,week11,2026-11-14,team1Home,14,Richmond,21,Lehigh
+2026,11,week11,2026-11-14,team1Home,21,Northern Colorado,31,Montana State
+2026,11,week11,2026-11-14,team1Home,21,Northern Arizona,25,Weber State
+2026,11,week11,2026-11-14,team1Home,0,Texas - Rio Grande Valley,48,Stephen F. Austin
+2026,11,week11,2026-11-14,team1Home,35,Alabama A&M,6,Texas Southern
+2026,11,week11,2026-11-14,team1Home,31,Tennessee Tech,38,Mercer
+2026,11,week11,2026-11-14,team1Home,21,Virginia Military,24,The Citadel
+2026,11,week11,2026-11-14,team1Home,38,Tennessee - Martin,31,Lindenwood
+2026,11,week11,2026-11-14,team1Home,28,Liberty,23,Middle Tennessee State
+2026,11,week11,2026-11-14,team1Home,28,Yale,0,Princeton
+2026,11,week11,2026-11-14,team1Home,45,Chicago State,0,Houston Christian

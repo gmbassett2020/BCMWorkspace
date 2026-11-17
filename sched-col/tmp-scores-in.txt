@@ -1,124 +1,130 @@
-2026-11-03  Ohio                     28 @Akron                    20            
-2026-11-03  Buffalo                  34 @Miami OH                 31 O1         
-2026-11-04 @Massachusetts            31  Ball St                  30 O1         
-2026-11-04  C Michigan               35  E Michigan                7           Detroit MI 
-2026-11-04  Toledo                   20 @CS Sacramento            17            
-2026-11-05 @FL Atlantic              60  UT San Antonio           29            
-2026-11-05  James Madison            54 @Southern Miss            23            
-2026-11-06 @East Carolina            20  South Florida            17            
-2026-11-06 @SMU                      51  Virginia Tech            28            
-2026-11-06 @Arizona                  29  TCU                      28            
-2026-11-06 @Illinois                 24  Nebraska                 13            
-2026-11-06  New Mexico               31 @Nevada                    3            
-2026-11-07  Louisville               44 @Georgia Tech             17            
-2026-11-07  Duke                     41 @NC State                  3            
-2026-11-07  Clemson                  18 @Syracuse                 13            
-2026-11-07 @Arizona St               20  Colorado                 10            
-2026-11-07  Air Force                24 @Army                     21            
-2026-11-07 @Auburn                   26  Arkansas                 23            
-2026-11-07 @Baylor                   42  Iowa St                  31            
-2026-11-07  Florida St               31 @Boston College           24            
-2026-11-07  Boise St                 64 @Colorado St              38            
-2026-11-07  North Carolina           38 @Connecticut              21            
-2026-11-07  Oklahoma                 23 @Florida                   7            
-2026-11-07 @Houston                  31  Cincinnati               24            
-2026-11-07  UCF                      33 @Kansas                   32            
-2026-11-07  Oklahoma St              66 @Kansas St                28            
-2026-11-07  Alabama                  31 @LSU                      13            
-2026-11-07  Michigan St              15 @Michigan                  6            
-2026-11-07  UCLA                     34 @Minnesota                20            
-2026-11-07  Vanderbilt               25 @Mississippi St           23            
-2026-11-07  Texas                    34 @Missouri                 20            
-2026-11-07 @Navy                     42  Temple                   35            
-2026-11-07 @North Texas              52  Rice                     23            
-2026-11-07  Iowa                     24 @Northwestern             10            
-2026-11-07 @Notre Dame               31  Miami FL                 24            
-2026-11-07  Oregon                   41 @Ohio St                  28            
-2026-11-07  Georgia                  42 @Mississippi               7            
-2026-11-07  Texas St                 42 @Oregon St                21            
-2026-11-07  Maryland                 34 @Purdue                   29            
-2026-11-07 @South Carolina           17  Texas A&M                 9            
-2026-11-07 @Tennessee                34  Kentucky                  6            
-2026-11-07 @Texas Tech               53  West Virginia            48            
-2026-11-07  Tulsa                    60 @Tulane                   10            
-2026-11-07 @UAB                      23  Charlotte                12            
-2026-11-07 @Utah                     28  BYU                      20            
-2026-11-07 @Utah St                  17  Fresno St                10            
-2026-11-07 @Wake Forest              77  Merrimack                 0            
-2026-11-07  Penn St                  28 @Washington               25            
-2026-11-07 @Wisconsin                31  Rutgers                  10            
-2026-11-07 @Butler                   41  St Thomas MN             14            
-2026-11-07  Alabama St               34 @TX Southern              31            
-2026-11-07 @Campbell                 48  Stony Brook              35            
-2026-11-07 @Bryant                   31  SUNY Albany               7            
-2026-11-07  TN Martin                20 @Charleston So            10            
-2026-11-07  Furman                   24 @Citadel                  14            
-2026-11-07 @Alcorn St                38  Florida A&M              20            
-2026-11-07 @Lehigh                   33  Colgate                   7            
-2026-11-07 @Dayton                   31  Valparaiso               20            
-2026-11-07 @UC Davis                 24  Utah Tech                17            
-2026-11-07  San Diego                40 @Drake                    17            
-2026-11-07  Robert Morris            13 @Duquesne                 10            
-2026-11-07  Samford                  37 @ETSU                     35            
-2026-11-07 @Austin Peay              55  E Kentucky               31            
-2026-11-07 @Idaho                    62  E Washington             31            
-2026-11-07 @Elon                     24  Hampton                   6            
-2026-11-07  Fordham                  38 @Bucknell                 13            
-2026-11-07  Georgia St               39 @Appalachian St           23            
-2026-11-07  Holy Cross               27 @Georgetown               24            
-2026-11-07  Ark Pine Bluff           35 @Grambling                32            
-2026-11-07 @Harvard                  37  Columbia                  0            
-2026-11-07  Hawaii                   17 @UTEP                     14            
-2026-11-07  ULM                      19 @Arkansas St              17            
-2026-11-07  McNeese St               10 @Houston Chr               0            
-2026-11-07  Montana St               28 @Idaho St                 26            
-2026-11-07 @North Dakota             49  Illinois St              21            
-2026-11-07  Incarnate Word           35 @SE Louisiana             16            
-2026-11-07  S Illinois               37 @Indiana St               20            
-2026-11-07 @Jackson St               38  MS Valley St              7            
-2026-11-07  Lafayette                19 @William & Mary           14            
-2026-11-07 @Lamar                    45  SF Austin                28            
-2026-11-07  Louisiana Tech           41 @Troy                     17            
-2026-11-07 @Marist                   14  Morehead St              13            
-2026-11-07 @Monmouth NJ              21  NC A&T                   17            
-2026-11-07 @Delaware St              24  Morgan St                14            
-2026-11-07  Wyoming                  41 @UNLV                     35            
-2026-11-07 @New Haven                17  LIU Post                 10            
-2026-11-07  NC Central               29 @Norfolk St               28            
-2026-11-07  Northern Arizona         38 @Cal Poly                 10            
-2026-11-07 @San Jose St              30  N Illinois               19            
-2026-11-07  UTRGV                    52 @Northwestern LA           7            
-2026-11-07 @Montana                  57  Portland St              24            
-2026-11-07 @Prairie View             31  Alabama A&M              10            
-2026-11-07 @New Hampshire            24  Rhode Island             21            
-2026-11-07 @Southern Univ            45  Bethune-Cookman          17            
-2026-11-07 @Louisiana                28  South Alabama            26            
-2026-11-07  S Carolina St            35 @Howard                   28            
-2026-11-07  SE Missouri St           33 @Tennessee St             14            
-2026-11-07 @Southern Utah            31  N Colorado               24            
-2026-11-07 @Davidson                 33  Stetson                  14            
-2026-11-07  Central Conn             31 @Stonehill                 7            
-2026-11-07  Mercer                   14 @Chattanooga               7 O1         
-2026-11-07 @Nicholls St              32  East Texas A&M           31            
-2026-11-07  Towson                   43 @Sacred Heart             40 O2         
-2026-11-07 @Villanova                30  Richmond                  0            
-2026-11-07 @Tennessee Tech           66  VMI                      14            
-2026-11-07  Wagner                   33 @Mercyhurst               28            
-2026-11-07 @W Carolina               26  Wofford                  10            
-2026-11-07  W Illinois               44 @E Illinois               23            
-2026-11-07  Youngstown St            62 @Murray St                35            
-2026-11-07 @Cent Arkansas            35  West Georgia             14            
-2026-11-07  Old Dominion             21 @Coastal Car               8            
-2026-11-07  Liberty                  30 @New Mexico St            14            
-2026-11-07 @North Alabama            28  West Florida             21            
-2026-11-07 @Ga Southern              49  Marshall                 13            
-2026-11-07  Brown                    24 @Yale                     20            
-2026-11-07  Penn                     14 @Cornell                  13            
-2026-11-07 @Princeton                21  Dartmouth                14            
-2026-11-07 @Tarleton St              40  Abilene Chr              27            
-2026-11-07  Lindenwood               34 @Gardner Webb             21            
-2026-11-07 @Kennesaw                 42  Delaware                 40            
-2026-11-07 @Florida Intl             23  Missouri St              20            
-2026-11-07 @Jacksonville St          47  Sam Houston St           14            
-2026-11-07 @MTSU                     51  WKU                      42            
-2026-11-07  S Dakota St              41 @Northern Iowa            15            
+2026-11-10 @Bowling Green            33  Kent                     28            
+2026-11-10  W Michigan               42 @Akron                    14            
+2026-11-10 @Miami OH                 34  Ohio                     17            
+2026-11-11  Buffalo                  28 @Ball St                   7            
+2026-11-11 @C Michigan               28  CS Sacramento             7            
+2026-11-11 @Toledo                   24  Massachusetts             0            
+2026-11-12  Memphis                  52 @South Florida            41            
+2026-11-12  Louisiana                42 @ULM                      21            
+2026-11-13  Florida St               16 @Pittsburgh               10            
+2026-11-13 @Colorado                 42  Houston                  32            
+2026-11-13 @UCLA                     22  Illinois                 14            
+2026-11-13  Southern Utah            23 @Portland St              21            
+2026-11-14  Utah                     40 @Arizona                  39            
+2026-11-14 @Arkansas                 34  South Carolina            6            
+2026-11-14 @Boise St                 46  Oregon St                41            
+2026-11-14 @BYU                      28  Baylor                    7            
+2026-11-14  East Carolina            17 @Charlotte                16            
+2026-11-14  Georgia Tech             20 @Clemson                   6            
+2026-11-14 @Connecticut              46  James Madison            22            
+2026-11-14 @Georgia                  48  Missouri                 21            
+2026-11-14 @Indiana                  27  USC                      13            
+2026-11-14 @Iowa                     28  Purdue                    7            
+2026-11-14 @Iowa St                  41  Cincinnati               13            
+2026-11-14  Florida                  21 @Kentucky                 14            
+2026-11-14  Texas                    22 @LSU                      21            
+2026-11-14 @Maryland                 24  Wisconsin                21            
+2026-11-14 @Miami FL                 36  Duke                     25            
+2026-11-14  Washington               21 @Michigan St              14            
+2026-11-14  Auburn                   41 @Mississippi St            9            
+2026-11-14  Louisville               16 @North Carolina           14            
+2026-11-14  Syracuse                 34 @NC State                 31            
+2026-11-14 @Notre Dame               41  Boston College            7            
+2026-11-14 @Ohio St                  28  Northwestern             19            
+2026-11-14  Texas Tech               52 @Oklahoma St              27            
+2026-11-14 @Oregon                   31  Michigan                  7            
+2026-11-14 @Penn St                  42  Minnesota                14            
+2026-11-14  Tulane                   20 @Rice                     17            
+2026-11-14  Nebraska                 31 @Rutgers                   0            
+2026-11-14 @San Diego St             30  Utah St                  13            
+2026-11-14  Wake Forest              49 @SMU                       7            
+2026-11-14 @TCU                      20  Kansas St                10            
+2026-11-14  UAB                      36 @Temple                   10            
+2026-11-14  Tennessee                22 @Texas A&M                 7            
+2026-11-14 @Texas St                 37  Fresno St                35            
+2026-11-14 @Tulsa                    38  FL Atlantic              21            
+2026-11-14  Arizona St               26 @UCF                      13            
+2026-11-14 @UT San Antonio           35  North Texas              16            
+2026-11-14  Alabama                  21 @Vanderbilt                6            
+2026-11-14 @Virginia                 36  California                7            
+2026-11-14  Stanford                 40 @Virginia Tech            22            
+2026-11-14 @Washington St            73  Colorado St               7            
+2026-11-14  Kansas                   37 @West Virginia            14            
+2026-11-14  Butler                   28 @Marist                    0            
+2026-11-14 @Alabama St               20  Jackson St               13            
+2026-11-14 @Elon                     28  Campbell                 24            
+2026-11-14 @SUNY Albany              37  Maine                     3            
+2026-11-14 @Southern Univ            41  Alcorn St                28            
+2026-11-14 @Colgate                  19  Lafayette                 7            
+2026-11-14 @Dayton                   34  Davidson                  3            
+2026-11-14  E Washington             31 @Utah Tech                28            
+2026-11-14 @St Thomas MN             55  Drake                    35            
+2026-11-14 @Duquesne                 20  Mercyhurst               10            
+2026-11-14  ETSU                     20 @Wofford                  17            
+2026-11-14 @Tennessee St             13  E Illinois               12            
+2026-11-14  Cent Arkansas            38 @E Kentucky               35            
+2026-11-14 @Florida A&M              16  MS Valley St             13            
+2026-11-14 @Delaware                 24  Florida Intl             16            
+2026-11-14 @Fordham                  37  Georgetown               15            
+2026-11-14  Appalachian St           20 @Marshall                 16            
+2026-11-14  Chattanooga              17 @Furman                   10            
+2026-11-14  Ga Southern              34 @Georgia St               17            
+2026-11-14  Grambling                32 @Bethune-Cookman          21            
+2026-11-14  NC A&T                   41 @Hampton                  14            
+2026-11-14  Harvard                  38 @Penn                     24            
+2026-11-14  N Dakota St              21 @Hawaii                   13            
+2026-11-14 @Holy Cross               30  Villanova                27 O1         
+2026-11-14 @Coastal Car              28  Arkansas St              21            
+2026-11-14  Houston Chr              28 @Northwestern LA          21            
+2026-11-14 @Montana                  38  Idaho St                 30            
+2026-11-14  Prairie View             13 @Ark Pine Bluff           10            
+2026-11-14  Illinois St              34 @Youngstown St            33            
+2026-11-14 @Incarnate Word           42  Nicholls St              24            
+2026-11-14  Murray St                44 @Indiana St               14            
+2026-11-14 @WKU                      34  Jacksonville St          24            
+2026-11-14  Kennesaw                 26 @Sam Houston St            7            
+2026-11-14 @Lamar                    45  East Texas A&M           26            
+2026-11-14 @Louisiana Tech           63  Southern Miss            31            
+2026-11-14  Abilene Chr              34 @Austin Peay              31            
+2026-11-14 @SE Louisiana             21  McNeese St               17            
+2026-11-14 @Missouri St              27  New Mexico St            21 O1         
+2026-11-14  Merrimack                29 @Monmouth NJ              28            
+2026-11-14 @Morehead St              28  Presbyterian             25            
+2026-11-14 @Morgan St                17  Norfolk St                7            
+2026-11-14  Nevada                   28 @N Illinois                7            
+2026-11-14  UNLV                     21 @New Mexico               17            
+2026-11-14 @Wagner                   14  New Haven                10            
+2026-11-14  North Alabama            28 @West Georgia              7            
+2026-11-14 @S Carolina St            38  NC Central               24            
+2026-11-14  Towson                   19 @Rhode Island             16 O1         
+2026-11-14 @Robert Morris            14  Stonehill                 3            
+2026-11-14  W Carolina               17 @Samford                  12            
+2026-11-14 @South Alabama            27  Troy                     14            
+2026-11-14 @South Dakota             41  Northern Iowa            30            
+2026-11-14  SE Missouri St           43 @Charleston So            17            
+2026-11-14 @New Hampshire            20  Stony Brook              17            
+2026-11-14  Wyoming                  27 @UTEP                     15            
+2026-11-14  UC Davis                 28 @Idaho                    24            
+2026-11-14  Valparaiso               34 @Stetson                  31            
+2026-11-14 @W Illinois               45  Gardner Webb              7            
+2026-11-14 @William & Mary           41  Bucknell                 24            
+2026-11-14  Bryant                   31 @Sacred Heart             23            
+2026-11-14 @Air Force                24  San Jose St               3            
+2026-11-14 @Howard                   30  Delaware St              24            
+2026-11-14  Tarleton St              31 @West Florida             17            
+2026-11-14 @Brown                    28  Columbia                 20            
+2026-11-14 @Cornell                  20  Dartmouth                14            
+2026-11-14  S Dakota St              52 @S Illinois               16            
+2026-11-14 @LIU Post                 20  Central Conn             14            
+2026-11-14  Lehigh                   21 @Richmond                 14            
+2026-11-14  Montana St               31 @N Colorado               21            
+2026-11-14  Weber St                 25 @Northern Arizona         21            
+2026-11-14  SF Austin                48 @UTRGV                     0            
+2026-11-14 @Alabama A&M              35  TX Southern               6            
+2026-11-14  Mercer                   38 @Tennessee Tech           31            
+2026-11-14  Citadel                  24 @VMI                      21 O2         
+2026-11-14 @TN Martin                38  Lindenwood               31            
+2026-11-14 @Liberty                  28  MTSU                     23            
+2026-11-14 @Yale                     28  Princeton                 0            
+2026-11-14 @Chicago St               45  VA-Lynchburg              0            
+2026-11-15 @Oklahoma                 24  Mississippi              17            
