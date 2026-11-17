@@ -6889,20 +6889,20 @@ Season,RoundNumber,RoundName,Date,HomeFlag,Score1,Team1,Score2,Team2
 2026,8,week09,2026-11-08,team1Home,17,Seattle,3,Arizona
 2026,8,week09,2026-11-08,team1Home,27,Chicago,24,Tampa Bay
 2026,8,week09,2026-11-09,team1Home,6,Minnesota,23,Buffalo
-2026,9,week10,2026-11-12,team1Home,-1,New York Giants,-1,Washington
-2026,9,week10,2026-11-15,team1Home,-1,Detroit,-1,New England
-2026,9,week10,2026-11-15,team1Home,-1,Green Bay,-1,Minnesota
-2026,9,week10,2026-11-15,team1Home,-1,New Orleans,-1,Carolina
-2026,9,week10,2026-11-15,team1Home,-1,Tennessee,-1,Jacksonville
-2026,9,week10,2026-11-15,team1Home,-1,Cleveland,-1,Houston
-2026,9,week10,2026-11-15,team1Home,-1,Atlanta,-1,Kansas City
-2026,9,week10,2026-11-15,team1Home,-1,New York Jets,-1,Buffalo
-2026,9,week10,2026-11-15,team1Home,-1,Indianapolis,-1,Miami
-2026,9,week10,2026-11-15,team1Home,-1,Las Vegas,-1,Seattle
-2026,9,week10,2026-11-15,team1Home,-1,Arizona,-1,Los Angeles Rams
-2026,9,week10,2026-11-15,team1Home,-1,Dallas,-1,San Francisco
-2026,9,week10,2026-11-15,team1Home,-1,Cincinnati,-1,Pittsburgh
-2026,9,week10,2026-11-16,team1Home,-1,Baltimore,-1,Los Angeles Chargers
+2026,9,week10,2026-11-12,team1Home,21,New York Giants,24,Washington
+2026,9,week10,2026-11-15,team1Home,35,Detroit,10,New England
+2026,9,week10,2026-11-15,team1Home,10,Green Bay,30,Minnesota
+2026,9,week10,2026-11-15,team1Home,17,New Orleans,20,Carolina
+2026,9,week10,2026-11-15,team1Home,23,Tennessee,40,Jacksonville
+2026,9,week10,2026-11-15,team1Home,27,Cleveland,24,Houston
+2026,9,week10,2026-11-15,team1Home,13,Atlanta,35,Kansas City
+2026,9,week10,2026-11-15,team1Home,12,New York Jets,31,Buffalo
+2026,9,week10,2026-11-15,team1Home,24,Indianapolis,22,Miami
+2026,9,week10,2026-11-15,team1Home,13,Las Vegas,21,Seattle
+2026,9,week10,2026-11-15,team1Home,6,Arizona,34,Los Angeles Rams
+2026,9,week10,2026-11-15,team1Home,40,Dallas,46,San Francisco
+2026,9,week10,2026-11-15,team1Home,38,Cincinnati,18,Pittsburgh
+2026,9,week10,2026-11-16,team1Home,20,Baltimore,23,Los Angeles Chargers
 2026,10,week11,2026-11-19,team1Home,-1,Houston,-1,Indianapolis
 2026,10,week11,2026-11-22,team1Home,-1,Chicago,-1,New Orleans
 2026,10,week11,2026-11-22,team1Home,-1,Buffalo,-1,Miami
